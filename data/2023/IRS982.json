@@ -1,0 +1,126 @@
+{
+  "form_id": "IRS982",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "DepreciablePropUsedOrHeldAmt",
+      "path": "DepreciablePropUsedOrHeldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DischargeOfQlfyFarmIndbtInd",
+      "path": "DischargeOfQlfyFarmIndbtInd",
+      "type": "bool"
+    },
+    {
+      "name": "DischargeOfQualifiedPrinResInd",
+      "path": "DischargeOfQualifiedPrinResInd",
+      "type": "bool"
+    },
+    {
+      "name": "DschrgIndbtExtentInsolventInd",
+      "path": "DschrgIndbtExtentInsolventInd",
+      "type": "bool"
+    },
+    {
+      "name": "DschrgOfIndbtInATitle11CaseInd",
+      "path": "DschrgOfIndbtInATitle11CaseInd",
+      "type": "bool"
+    },
+    {
+      "name": "DschrgQlfyRealPropBusIndbtInd",
+      "path": "DschrgQlfyRealPropBusIndbtInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExcldForDschrgQlfyRealPropAmt",
+      "path": "ExcldForDschrgQlfyRealPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludedToReduceBasisOfPropAmt",
+      "path": "ExcludedToReduceBasisOfPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludedToReduceGenBusCrAmt",
+      "path": "ExcludedToReduceGenBusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludedToReduceMinimumTxCrAmt",
+      "path": "ExcludedToReduceMinimumTxCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludedToReduceNOLAmt",
+      "path": "ExcludedToReduceNOLAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludedToReduceNetCapLossAmt",
+      "path": "ExcludedToReduceNetCapLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludedToReducePrinResAmt",
+      "path": "ExcludedToReducePrinResAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludedUnderSectPtIII1081BAmt",
+      "path": "ExcludedUnderSectPtIII1081BAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludedUnderSection108b5Amt",
+      "path": "ExcludedUnderSection108b5Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignCreditCarryoverAmt",
+      "path": "ForeignCreditCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncorporationStateCd",
+      "path": "IncorporationStateCd",
+      "type": "enum"
+    },
+    {
+      "name": "LandUsedOrHeldAmt",
+      "path": "LandUsedOrHeldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherPropertyUsedOrHeldAmt",
+      "path": "OtherPropertyUsedOrHeldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveActyLossAndCrCyovAmt",
+      "path": "PassiveActyLossAndCrCyovAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalDischargedIndebtednessAmt",
+      "path": "TotalDischargedIndebtednessAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TreatAllAsDeprecPropBoxInd",
+      "path": "TreatAllAsDeprecPropBoxInd",
+      "type": "bool"
+    }
+  ]
+}

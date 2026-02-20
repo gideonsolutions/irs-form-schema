@@ -1,0 +1,321 @@
+{
+  "form_id": "IRS4562",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "@extnsUnderAnnouncementCd",
+      "path": "@extnsUnderAnnouncementCd",
+      "type": "enum"
+    },
+    {
+      "name": "@section179ExpnsDedSummaryCd",
+      "path": "@section179ExpnsDedSummaryCd",
+      "type": "enum"
+    },
+    {
+      "name": "AlternativeDepreciationSystem",
+      "path": "AlternativeDepreciationSystem",
+      "type": "unknown"
+    },
+    {
+      "name": "ADS12YearProperty",
+      "path": "AlternativeDepreciationSystem/ADS12YearProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "ADS30YearProperty",
+      "path": "AlternativeDepreciationSystem/ADS30YearProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "ADS40YearProperty",
+      "path": "AlternativeDepreciationSystem/ADS40YearProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "ADSClassLifeProperty",
+      "path": "AlternativeDepreciationSystem/ADSClassLifeProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "AmortizationCostsBeforeTYAmt",
+      "path": "AmortizationCostsBeforeTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmortizationInfo",
+      "path": "AmortizationInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "AmortizationInfoTable",
+      "path": "AmortizationInfo/AmortizationInfoTable",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessIncomeLimitationAmt",
+      "path": "BusinessIncomeLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessOrActivityTxt",
+      "path": "BusinessOrActivityTxt",
+      "type": "string"
+    },
+    {
+      "name": "DisallowedDeductionCyovAmt",
+      "path": "DisallowedDeductionCyovAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DollarLimitationForTaxYearAmt",
+      "path": "DollarLimitationForTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ElectedProperty",
+      "path": "ElectedProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "EvidenceToSupportDeductionInd",
+      "path": "EvidenceToSupportDeductionInd",
+      "type": "bool"
+    },
+    {
+      "name": "EvidenceWrittenInd",
+      "path": "EvidenceWrittenInd",
+      "type": "bool"
+    },
+    {
+      "name": "GeneralAssetAccountElectionInd",
+      "path": "GeneralAssetAccountElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "GeneralDepreciationSystem",
+      "path": "GeneralDepreciationSystem",
+      "type": "unknown"
+    },
+    {
+      "name": "GDS10YearProperty",
+      "path": "GeneralDepreciationSystem/GDS10YearProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "GDS15YearProperty",
+      "path": "GeneralDepreciationSystem/GDS15YearProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "GDS20YearProperty",
+      "path": "GeneralDepreciationSystem/GDS20YearProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "GDS25YearProperty",
+      "path": "GeneralDepreciationSystem/GDS25YearProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "GDS3YearProperty",
+      "path": "GeneralDepreciationSystem/GDS3YearProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "GDS5YearProperty",
+      "path": "GeneralDepreciationSystem/GDS5YearProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "GDS7YearProperty",
+      "path": "GeneralDepreciationSystem/GDS7YearProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "GDSNonRsdntlRealProp",
+      "path": "GeneralDepreciationSystem/GDSNonRsdntlRealProp",
+      "type": "unknown"
+    },
+    {
+      "name": "GDSNonRsdntlRealPropSpecify",
+      "path": "GeneralDepreciationSystem/GDSNonRsdntlRealPropSpecify",
+      "type": "unknown"
+    },
+    {
+      "name": "GDSResidentialRentalProperty",
+      "path": "GeneralDepreciationSystem/GDSResidentialRentalProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "LessThanHalfBusinessUseProp",
+      "path": "LessThanHalfBusinessUseProp",
+      "type": "unknown"
+    },
+    {
+      "name": "MACRSDedForAstInSrvcBfrPYAmt",
+      "path": "MACRSDedForAstInSrvcBfrPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaximumDollarLimitationAmt",
+      "path": "MaximumDollarLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MeetRqrForAutoDemoUseInd",
+      "path": "MeetRqrForAutoDemoUseInd",
+      "type": "bool"
+    },
+    {
+      "name": "MoreThanHalfBusinessUseProp",
+      "path": "MoreThanHalfBusinessUseProp",
+      "type": "unknown"
+    },
+    {
+      "name": "NextYearCarryoverAmt",
+      "path": "NextYearCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDepreciationAmt",
+      "path": "OtherDepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PolicyNoPrsnlExcCmmtngUseInd",
+      "path": "PolicyNoPrsnlExcCmmtngUseInd",
+      "type": "bool"
+    },
+    {
+      "name": "PolicyNoPrsnlOrCmmtngUseInd",
+      "path": "PolicyNoPrsnlOrCmmtngUseInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProvideOverNumVehAndHaveRecInd",
+      "path": "ProvideOverNumVehAndHaveRecInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReductionInLimitationAmt",
+      "path": "ReductionInLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section168f1ElectedPropertyAmt",
+      "path": "Section168f1ElectedPropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179ExpenseDeductionAmt",
+      "path": "Section179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section179ExpnsDedSummaryCd",
+      "path": "Section179ExpenseDeductionAmt/@section179ExpnsDedSummaryCd",
+      "type": "enum"
+    },
+    {
+      "name": "Section263ACurrentYearCostAmt",
+      "path": "Section263ACurrentYearCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialAllowanceAmt",
+      "path": "SpecialAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeDeductionAmt",
+      "path": "TentativeDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThresholdCostOfSect179PropAmt",
+      "path": "ThresholdCostOfSect179PropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmortizationAmt",
+      "path": "TotalAmortizationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostOfSection179PropAmt",
+      "path": "TotalCostOfSection179PropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDepreciationAmt",
+      "path": "TotalDepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalElectedCostSect179PropAmt",
+      "path": "TotalElectedCostSect179PropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalListedDepreciationAmt",
+      "path": "TotalListedDepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSection179ExpenseAmt",
+      "path": "TotalSection179ExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSpecialDeprecAllwncAmt",
+      "path": "TotalSpecialDeprecAllwncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TreatAllVehUseAsPrsnlUseInd",
+      "path": "TreatAllVehUseAsPrsnlUseInd",
+      "type": "bool"
+    },
+    {
+      "name": "VehicleUsage",
+      "path": "VehicleUsage",
+      "type": "unknown"
+    },
+    {
+      "name": "AnotherVehicleForPrsnlUseInd",
+      "path": "VehicleUsage/AnotherVehicleForPrsnlUseInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessMilesCnt",
+      "path": "VehicleUsage/BusinessMilesCnt",
+      "type": "int"
+    },
+    {
+      "name": "CommutingMilesCnt",
+      "path": "VehicleUsage/CommutingMilesCnt",
+      "type": "int"
+    },
+    {
+      "name": "OtherPersonalMilesCnt",
+      "path": "VehicleUsage/OtherPersonalMilesCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalMilesCnt",
+      "path": "VehicleUsage/TotalMilesCnt",
+      "type": "int"
+    },
+    {
+      "name": "UsedPrimarilyByOwnerInd",
+      "path": "VehicleUsage/UsedPrimarilyByOwnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "VehicleAvailableOffDutyHrsInd",
+      "path": "VehicleUsage/VehicleAvailableOffDutyHrsInd",
+      "type": "bool"
+    }
+  ]
+}

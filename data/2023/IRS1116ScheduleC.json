@@ -1,0 +1,76 @@
+{
+  "form_id": "IRS1116ScheduleC",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AnnualRptgContestedTaxesGrp",
+      "path": "AnnualRptgContestedTaxesGrp",
+      "type": "group"
+    },
+    {
+      "name": "ChangeFrgnTxsPdAccruedGrp",
+      "path": "ChangeFrgnTxsPdAccruedGrp",
+      "type": "group"
+    },
+    {
+      "name": "ChgUSTxLiabilityGrp",
+      "path": "ChgUSTxLiabilityGrp",
+      "type": "group"
+    },
+    {
+      "name": "DecrAmtFrgnTaxesPdAccruedDtl",
+      "path": "DecrAmtFrgnTaxesPdAccruedDtl",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignBranchIncomeInd",
+      "path": "ForeignBranchIncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncGeneralCategoryInd",
+      "path": "ForeignIncGeneralCategoryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncLumpSumDistribInd",
+      "path": "ForeignIncLumpSumDistribInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncPassiveCategoryInd",
+      "path": "ForeignIncPassiveCategoryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncResourcedTreatyInd",
+      "path": "ForeignIncResourcedTreatyInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncSection901jInd",
+      "path": "ForeignIncSection901jInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncmSection951AInd",
+      "path": "ForeignIncmSection951AInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncrAmtFrgnTaxesAccruedDtl",
+      "path": "IncrAmtFrgnTaxesAccruedDtl",
+      "type": "unknown"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TreatyCountryCd",
+      "path": "TreatyCountryCd",
+      "type": "enum"
+    }
+  ]
+}

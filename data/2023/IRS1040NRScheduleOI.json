@@ -1,0 +1,156 @@
+{
+  "form_id": "IRS1040NRScheduleOI",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "*",
+      "path": "*",
+      "type": "unknown"
+    },
+    {
+      "name": "AltBasisCompensationSourceInd",
+      "path": "AltBasisCompensationSourceInd",
+      "type": "bool"
+    },
+    {
+      "name": "AppLawfulPermanentResidentInd",
+      "path": "AppLawfulPermanentResidentInd",
+      "type": "bool"
+    },
+    {
+      "name": "CanadaResidentWorkInUSInd",
+      "path": "CanadaResidentWorkInUSInd",
+      "type": "bool"
+    },
+    {
+      "name": "CitizenCountryCd",
+      "path": "CitizenCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "CompetentAuthorityDetermInd",
+      "path": "CompetentAuthorityDetermInd",
+      "type": "bool"
+    },
+    {
+      "name": "EnteredDepartedUSGrp",
+      "path": "EnteredDepartedUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "FilingReturnForTrustInd",
+      "path": "FilingReturnForTrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignTaxResidenceCountryCd",
+      "path": "ForeignTaxResidenceCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "FormTypeCd",
+      "path": "FormTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "GrantorTrDistriLoanOrContriInd",
+      "path": "GrantorTrDistriLoanOrContriInd",
+      "type": "bool"
+    },
+    {
+      "name": "ImmigrantVisaTypeCd",
+      "path": "ImmigrantVisaTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "LawfulPermanentResidentInd",
+      "path": "LawfulPermanentResidentInd",
+      "type": "bool"
+    },
+    {
+      "name": "MexicoResidentWorkInUSInd",
+      "path": "MexicoResidentWorkInUSInd",
+      "type": "bool"
+    },
+    {
+      "name": "NonImmigrantVisaTypeCd",
+      "path": "NonImmigrantVisaTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "PYSection871dElectionNotRvkInd",
+      "path": "PYSection871dElectionNotRvkInd",
+      "type": "bool"
+    },
+    {
+      "name": "PhysicallyPresUSPYDayCnt",
+      "path": "PhysicallyPresUSPYDayCnt",
+      "type": "int"
+    },
+    {
+      "name": "PhysicallyPresUSPYLess1DayCnt",
+      "path": "PhysicallyPresUSPYLess1DayCnt",
+      "type": "int"
+    },
+    {
+      "name": "PhysicallyPresUSPYLess2DayCnt",
+      "path": "PhysicallyPresUSPYLess2DayCnt",
+      "type": "int"
+    },
+    {
+      "name": "ReturnFiledYr",
+      "path": "ReturnFiledYr",
+      "type": "unknown"
+    },
+    {
+      "name": "Section871dElectionInd",
+      "path": "Section871dElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalComp250KOrMoreInd",
+      "path": "TotalComp250KOrMoreInd",
+      "type": "bool"
+    },
+    {
+      "name": "TreatyTaxExemptUSIncomeAmt",
+      "path": "TreatyTaxExemptUSIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxFrgnCntryExemptIncmCurrTYInd",
+      "path": "TxFrgnCntryExemptIncmCurrTYInd",
+      "type": "bool"
+    },
+    {
+      "name": "USCitizenInd",
+      "path": "USCitizenInd",
+      "type": "bool"
+    },
+    {
+      "name": "USImmigrationStatVisaTypChgInd",
+      "path": "USImmigrationStatVisaTypChgInd",
+      "type": "bool"
+    },
+    {
+      "name": "USImmigrationStatusDesc",
+      "path": "USImmigrationStatusDesc",
+      "type": "string"
+    },
+    {
+      "name": "USTaxRetFiledForAnyPYInd",
+      "path": "USTaxRetFiledForAnyPYInd",
+      "type": "bool"
+    },
+    {
+      "name": "VisaChangeDesc",
+      "path": "VisaChangeDesc",
+      "type": "string"
+    },
+    {
+      "name": "VisaChangeDt",
+      "path": "VisaChangeDt",
+      "type": "date"
+    }
+  ]
+}

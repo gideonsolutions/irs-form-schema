@@ -1,0 +1,196 @@
+{
+  "form_id": "IRS8933",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CaptureQualifiedCarbonOxideInd",
+      "path": "CaptureQualifiedCarbonOxideInd",
+      "type": "bool"
+    },
+    {
+      "name": "DstsfyPrvlWgNotUsedAftSectAInd",
+      "path": "CrbnOxdNotUsedAftr22SectAGrp/DstsfyPrvlWgNotUsedAftSectAInd",
+      "type": "bool"
+    },
+    {
+      "name": "@dstsfyPrvlNotUsedAftrSectAAmt",
+      "path": "CrbnOxdNotUsedAftr22SectAGrp/DstsfyPrvlWgNotUsedAftSectAInd/@dstsfyPrvlNotUsedAftrSectAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@dstsfyPrvlNotUsedAftrSectAQty",
+      "path": "CrbnOxdNotUsedAftr22SectAGrp/DstsfyPrvlWgNotUsedAftSectAInd/@dstsfyPrvlNotUsedAftrSectAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "StsfyPrvlWgNotUsedAftrSectAInd",
+      "path": "CrbnOxdNotUsedAftr22SectAGrp/StsfyPrvlWgNotUsedAftrSectAInd",
+      "type": "bool"
+    },
+    {
+      "name": "@stsfyPrvlWgNotUsedAftrSectAAmt",
+      "path": "CrbnOxdNotUsedAftr22SectAGrp/StsfyPrvlWgNotUsedAftrSectAInd/@stsfyPrvlWgNotUsedAftrSectAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@stsfyPrvlWgNotUsedAftrSectAQty",
+      "path": "CrbnOxdNotUsedAftr22SectAGrp/StsfyPrvlWgNotUsedAftrSectAInd/@stsfyPrvlWgNotUsedAftrSectAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ElectTPClmCrbnOxdSqstrtnCrInd",
+      "path": "ElectTPClmCrbnOxdSqstrtnCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityConstructionStartDt",
+      "path": "FacilityConstructionStartDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityEPAeGGRTIdNum",
+      "path": "FacilityEPAeGGRTIdNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "LCAInd",
+      "path": "LCAInd",
+      "type": "bool"
+    },
+    {
+      "name": "CreditElectedAmt",
+      "path": "LargestCOSCElectClmGrp/CreditElectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditRateAmt",
+      "path": "LargestCOSCElectClmGrp/CreditRateAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "LargestCOSCElectClmGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "MetricTonsCapturedQty",
+      "path": "LargestCOSCElectClmGrp/MetricTonsCapturedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "PhysclDisposCptrQlfyCrbnOxdInd",
+      "path": "PhysclDisposCptrQlfyCrbnOxdInd",
+      "type": "bool"
+    },
+    {
+      "name": "InfltnAdjNotUsedUtlzRtSectAAmt",
+      "path": "QlfyCrbnOxdNotUsedUtlzSectAGrp/InfltnAdjNotUsedUtlzRtSectAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MtrcTonNotUsedUtlzCptrSectAQty",
+      "path": "QlfyCrbnOxdNotUsedUtlzSectAGrp/MtrcTonNotUsedUtlzCptrSectAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonNotUsedUtlzCrSectAAmt",
+      "path": "QlfyCrbnOxdNotUsedUtlzSectAGrp/MtrcTonNotUsedUtlzCrSectAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@desc",
+      "path": "QlfyCrbnOxdNotUsedUtlzSectAGrp/MtrcTonNotUsedUtlzCrSectAAmt/@desc",
+      "type": "unknown"
+    },
+    {
+      "name": "InfltnAdjUsedCrRtSectAAmt",
+      "path": "QlfyCrbnOxdUsedSectAGrp/InfltnAdjUsedCrRtSectAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MtrcTonUsedCptrSectAQty",
+      "path": "QlfyCrbnOxdUsedSectAGrp/MtrcTonUsedCptrSectAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonUsedCrSectAAmt",
+      "path": "QlfyCrbnOxdUsedSectAGrp/MtrcTonUsedCrSectAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@desc",
+      "path": "QlfyCrbnOxdUsedSectAGrp/MtrcTonUsedCrSectAAmt/@desc",
+      "type": "unknown"
+    },
+    {
+      "name": "InfltnAdjUtlzCrRtSectAAmt",
+      "path": "QlfyCrbnOxdUtlzSectAGrp/InfltnAdjUtlzCrRtSectAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MtrcTonCptrUtlzSectAQty",
+      "path": "QlfyCrbnOxdUtlzSectAGrp/MtrcTonCptrUtlzSectAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonUtlzCrSectAAmt",
+      "path": "QlfyCrbnOxdUtlzSectAGrp/MtrcTonUtlzCrSectAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@desc",
+      "path": "QlfyCrbnOxdUtlzSectAGrp/MtrcTonUtlzCrSectAAmt/@desc",
+      "type": "unknown"
+    },
+    {
+      "name": "Section45Qb3ElectionInd",
+      "path": "Section45Qb3ElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section45Qb6ElectionInd",
+      "path": "Section45Qb6ElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TPElectClmCrbnOxdSqstrtnCrInd",
+      "path": "TPElectClmCrbnOxdSqstrtnCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalMetricTonsCrbnOxdCptrQty",
+      "path": "TotalMetricTonsCrbnOxdCptrQty",
+      "type": "unknown"
+    }
+  ]
+}

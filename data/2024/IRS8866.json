@@ -1,0 +1,131 @@
+{
+  "form_id": "IRS8866",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CorporationInd",
+      "path": "CorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstateOrTrustInd",
+      "path": "EstateOrTrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdjTaxableIncomeLookBackAmt",
+      "path": "IncomeForcastMethodPriorYrGrp/AdjTaxableIncomeLookBackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxLiabilityAmt",
+      "path": "IncomeForcastMethodPriorYrGrp/FederalIncomeTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAdjustmentAmt",
+      "path": "IncomeForcastMethodPriorYrGrp/IncomeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncreaseOrDecreaseInTxForPYAmt",
+      "path": "IncomeForcastMethodPriorYrGrp/IncreaseOrDecreaseInTxForPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestDueOnIncreaseAmt",
+      "path": "IncomeForcastMethodPriorYrGrp/InterestDueOnIncreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestToBeRefundedOnDecrAmt",
+      "path": "IncomeForcastMethodPriorYrGrp/InterestToBeRefundedOnDecrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "IncomeForcastMethodPriorYrGrp/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeOrLossAmt",
+      "path": "IncomeForcastMethodPriorYrGrp/TaxableIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjTaxableIncomeLookBackAmt",
+      "path": "IncomeForcastMethodRcmptYrGrp/AdjTaxableIncomeLookBackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAdjustmentAmt",
+      "path": "IncomeForcastMethodRcmptYrGrp/IncomeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "IncomeForcastMethodRcmptYrGrp/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeOrLossAmt",
+      "path": "IncomeForcastMethodRcmptYrGrp/TaxableIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "YearEndedDt",
+      "path": "IncomeForcastMethodRcmptYrGrp/YearEndedDt",
+      "type": "date"
+    },
+    {
+      "name": "IndividualInd",
+      "path": "IndividualInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetAmtOfInterestOwedAmt",
+      "path": "NetAmtOfInterestOwedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipInd",
+      "path": "PartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "PassThroughEntityInfo",
+      "path": "PassThroughEntityInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "SCorporationInd",
+      "path": "SCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalAdjustmentToIncomeAmt",
+      "path": "TotalAdjustmentToIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestDueOnIncreaseAmt",
+      "path": "TotalInterestDueOnIncreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestToBeRefundedAmt",
+      "path": "TotalInterestToBeRefundedAmt",
+      "type": "usd"
+    }
+  ]
+}

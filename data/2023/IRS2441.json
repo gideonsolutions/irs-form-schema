@@ -1,0 +1,206 @@
+{
+  "form_id": "IRS2441",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjustedDepdCareBenefitsAmt",
+      "path": "AdjustedDepdCareBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowedCaredForAmt",
+      "path": "AllowedCaredForAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CPYECreditAmt",
+      "path": "CPYECreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalculatedTentativeExpenseAmt",
+      "path": "CalculatedTentativeExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CareExpensesDecimalAmt",
+      "path": "CareExpensesDecimalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CareProviderGrp",
+      "path": "CareProviderGrp",
+      "type": "group"
+    },
+    {
+      "name": "HouseholdEmployeeInd",
+      "path": "CareProviderGrp/HouseholdEmployeeInd",
+      "type": "bool"
+    },
+    {
+      "name": "CarryoverAmt",
+      "path": "CarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditForChildAndDepdCareAmt",
+      "path": "CreditForChildAndDepdCareAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleBenefitsAmt",
+      "path": "DeductibleBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DependentCareBenefitsAmt",
+      "path": "DependentCareBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnedIncomeAmt",
+      "path": "EarnedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EligibilityRequirementMetInd",
+      "path": "EligibilityRequirementMetInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExcludedBenefitsAmt",
+      "path": "ExcludedBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForfeitedAmt",
+      "path": "ForfeitedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form1040AFiledInd",
+      "path": "Form1040AFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "MoreThanThreeCareProvidersInd",
+      "path": "MoreThanThreeCareProvidersInd",
+      "type": "bool"
+    },
+    {
+      "name": "MoreThanThreeQlfyPersonsInd",
+      "path": "MoreThanThreeQlfyPersonsInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetAllowableAmt",
+      "path": "NetAllowableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrimaryEarnedIncomeAmt",
+      "path": "PrimaryEarnedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropshpPrtshpLessAdjBnftAmt",
+      "path": "PropshpPrtshpLessAdjBnftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedExpensesAmt",
+      "path": "QualifiedExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifyingPersonGrp",
+      "path": "QualifyingPersonGrp",
+      "type": "group"
+    },
+    {
+      "name": "PrsnOverSpcfdAgeAndDisabledInd",
+      "path": "QualifyingPersonGrp/PrsnOverSpcfdAgeAndDisabledInd",
+      "type": "bool"
+    },
+    {
+      "name": "SmallerOfAdjOrQualifiedAmt",
+      "path": "SmallerOfAdjOrQualifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerOfExpensesOrIncomeAmt",
+      "path": "SmallerOfExpensesOrIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerOfTotalQlfyExpensesAmt",
+      "path": "SmallerOfTotalQlfyExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SolePropshpPrtshpAmt",
+      "path": "SolePropshpPrtshpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecifiedAmt",
+      "path": "SpecifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpouseEarnedIncomeAmt",
+      "path": "SpouseEarnedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpouseIncomeAmt",
+      "path": "SpouseIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StudentOrDisabledInd",
+      "path": "StudentOrDisabledInd",
+      "type": "bool"
+    },
+    {
+      "name": "SumOfDedAndExcludedBenefitsAmt",
+      "path": "SumOfDedAndExcludedBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabLmtFromCrLmtWrkshtAmt",
+      "path": "TaxLiabLmtFromCrLmtWrkshtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableBenefitsAmt",
+      "path": "TaxableBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeExclusionAmt",
+      "path": "TentativeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEligCDCCAmt",
+      "path": "TotalEligCDCCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQlfdExpensesOrLimitAmt",
+      "path": "TotalQlfdExpensesOrLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQualifiedExpensesAmt",
+      "path": "TotalQualifiedExpensesAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "form_id": "IRS7004",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "ACHDebitAgreementInd",
+      "path": "ACHDebitAgreementInd",
+      "type": "bool"
+    },
+    {
+      "name": "AccountingPeriodChangeInd",
+      "path": "AccountingPeriodChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "AffiliatedGroupInfo",
+      "path": "AffiliatedGroupInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConsolidatedRetToBeFiledInd",
+      "path": "ConsolidatedRetToBeFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstTaxPymtAndRfdblCreditAmt",
+      "path": "EstTaxPymtAndRfdblCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@backupWithholdingAmt",
+      "path": "EstTaxPymtAndRfdblCreditAmt/@backupWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@backupWithholdingTypeCd",
+      "path": "EstTaxPymtAndRfdblCreditAmt/@backupWithholdingTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExtensionReturnCd",
+      "path": "ExtensionReturnCd",
+      "type": "enum"
+    },
+    {
+      "name": "FilingUnderRegsSect160815Ind",
+      "path": "FilingUnderRegsSect160815Ind",
+      "type": "bool"
+    },
+    {
+      "name": "FinalReturnInd",
+      "path": "FinalReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "InitialReturnInd",
+      "path": "InitialReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrgConsolidatedRetToBeFiledInd",
+      "path": "OrgConsolidatedRetToBeFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrgHasNoOfficeInUSInd",
+      "path": "OrgHasNoOfficeInUSInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "TentativeTaxAmt",
+      "path": "TentativeTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "form_id": "IRS5713ScheduleA",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "BoycottInfoForEachCountry",
+      "path": "BoycottInfoForEachCountry",
+      "type": "unknown"
+    },
+    {
+      "name": "InternationalBoycottFactorRt",
+      "path": "InternationalBoycottFactorRt",
+      "type": "decimal"
+    },
+    {
+      "name": "IsraelBoycottedInd",
+      "path": "IsraelBoycottedInd",
+      "type": "bool"
+    },
+    {
+      "name": "NumeratorBoycottFactorAmt",
+      "path": "NumeratorBoycottFactorAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@countryCd",
+      "path": "OtherInd/@countryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalBoycottPayrollAmt",
+      "path": "TotalBoycottPayrollAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBoycottPurchasesAmt",
+      "path": "TotalBoycottPurchasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBoycottSalesAmt",
+      "path": "TotalBoycottSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDenominatorBoycottFctrAmt",
+      "path": "TotalDenominatorBoycottFctrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPayrollPaidOtherThanUSAmt",
+      "path": "TotalPayrollPaidOtherThanUSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPurchasesOtherThanUSAmt",
+      "path": "TotalPurchasesOtherThanUSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSalesOtherThanUSAmt",
+      "path": "TotalSalesOtherThanUSAmt",
+      "type": "usd"
+    }
+  ]
+}

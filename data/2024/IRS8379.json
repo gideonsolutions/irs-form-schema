@@ -1,0 +1,271 @@
+{
+  "form_id": "IRS8379",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AlternateAddressInd",
+      "path": "AlternateAddressInd",
+      "type": "bool"
+    },
+    {
+      "name": "CommunityPropertyStateCd",
+      "path": "CommunityPropertyStateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CommunityPropertyStateInd",
+      "path": "CommunityPropertyStateInd",
+      "type": "bool"
+    },
+    {
+      "name": "EICOrAdditionalChildTaxCrInd",
+      "path": "EICOrAdditionalChildTaxCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "EarnedIncomeInd",
+      "path": "EarnedIncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "EstimatedTaxPaymentAmt",
+      "path": "InjuredSpouseAllocatedAmtGrp/EstimatedTaxPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "InjuredSpouseAllocatedAmtGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAdjustmentAmt",
+      "path": "InjuredSpouseAllocatedAmtGrp/IncomeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonrefundableCreditsAmt",
+      "path": "InjuredSpouseAllocatedAmtGrp/NonrefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "InjuredSpouseAllocatedAmtGrp/OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundableCreditsAmt",
+      "path": "InjuredSpouseAllocatedAmtGrp/RefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StandardOrItemizedDeductionAmt",
+      "path": "InjuredSpouseAllocatedAmtGrp/StandardOrItemizedDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherIncomeAmt",
+      "path": "InjuredSpouseAllocatedAmtGrp/TotalOtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "InjuredSpouseAllocatedAmtGrp/WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InjuredSpouseClaimTaxYr",
+      "path": "InjuredSpouseClaimTaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "InjuredSpouseInd",
+      "path": "InjuredSpouseInformationGrp/InjuredSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonNm",
+      "path": "InjuredSpouseInformationGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "InjuredSpouseInformationGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "JointPayPastDueDebtsInd",
+      "path": "JointPayPastDueDebtsInd",
+      "type": "bool"
+    },
+    {
+      "name": "JointRefundInd",
+      "path": "JointRefundInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstimatedTaxPaymentAmt",
+      "path": "JointReturnAmtGrp/EstimatedTaxPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "JointReturnAmtGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAdjustmentAmt",
+      "path": "JointReturnAmtGrp/IncomeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonrefundableCreditsAmt",
+      "path": "JointReturnAmtGrp/NonrefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "JointReturnAmtGrp/OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundableCreditsAmt",
+      "path": "JointReturnAmtGrp/RefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StandardOrItemizedDeductionAmt",
+      "path": "JointReturnAmtGrp/StandardOrItemizedDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherIncomeAmt",
+      "path": "JointReturnAmtGrp/TotalOtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "JointReturnAmtGrp/WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "JointReturnInd",
+      "path": "JointReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "ObligatedToPayPastDueDebtsInd",
+      "path": "ObligatedToPayPastDueDebtsInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstimatedTaxPaymentAmt",
+      "path": "OtherSpouseAllocatedAmtGrp/EstimatedTaxPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "OtherSpouseAllocatedAmtGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAdjustmentAmt",
+      "path": "OtherSpouseAllocatedAmtGrp/IncomeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonrefundableCreditsAmt",
+      "path": "OtherSpouseAllocatedAmtGrp/NonrefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "OtherSpouseAllocatedAmtGrp/OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundableCreditsAmt",
+      "path": "OtherSpouseAllocatedAmtGrp/RefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StandardOrItemizedDeductionAmt",
+      "path": "OtherSpouseAllocatedAmtGrp/StandardOrItemizedDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherIncomeAmt",
+      "path": "OtherSpouseAllocatedAmtGrp/TotalOtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "OtherSpouseAllocatedAmtGrp/WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentsMadeAndReportedInd",
+      "path": "PaymentsMadeAndReportedInd",
+      "type": "bool"
+    },
+    {
+      "name": "RefundableTaxCreditClaimInd",
+      "path": "RefundableTaxCreditClaimInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "USAddress/ZIPCd",
+      "type": "enum"
+    }
+  ]
+}

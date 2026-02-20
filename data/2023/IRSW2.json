@@ -1,0 +1,181 @@
+{
+  "form_id": "IRSW2",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AllocatedTipsAmt",
+      "path": "AllocatedTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ControlNum",
+      "path": "ControlNum",
+      "type": "string"
+    },
+    {
+      "name": "CorrectedW2Ind",
+      "path": "CorrectedW2Ind",
+      "type": "bool"
+    },
+    {
+      "name": "DependentCareBenefitsAmt",
+      "path": "DependentCareBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeForeignAddress",
+      "path": "EmployeeForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployeeNm",
+      "path": "EmployeeNm",
+      "type": "string"
+    },
+    {
+      "name": "EmployeeSSN",
+      "path": "EmployeeSSN",
+      "type": "tin"
+    },
+    {
+      "name": "EmployeeUSAddress",
+      "path": "EmployeeUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "EmployeeUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "EmployeeUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerEIN",
+      "path": "EmployerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "EmployerForeignAddress",
+      "path": "EmployerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "EmployerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "EmployerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerNameControlTxt",
+      "path": "EmployerNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerUSAddress",
+      "path": "EmployerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "EmployerUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "EmployerUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EmployersUseGrp",
+      "path": "EmployersUseGrp",
+      "type": "group"
+    },
+    {
+      "name": "MedicareTaxWithheldAmt",
+      "path": "MedicareTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicareWagesAndTipsAmt",
+      "path": "MedicareWagesAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonqualifiedPlansAmt",
+      "path": "NonqualifiedPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsBenefitsGrp",
+      "path": "OtherDeductionsBenefitsGrp",
+      "type": "group"
+    },
+    {
+      "name": "RetirementPlanInd",
+      "path": "RetirementPlanInd",
+      "type": "bool"
+    },
+    {
+      "name": "SocialSecurityTaxAmt",
+      "path": "SocialSecurityTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTipsAmt",
+      "path": "SocialSecurityTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityWagesAmt",
+      "path": "SocialSecurityWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StandardOrNonStandardCd",
+      "path": "StandardOrNonStandardCd",
+      "type": "enum"
+    },
+    {
+      "name": "StatutoryEmployeeInd",
+      "path": "StatutoryEmployeeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ThirdPartySickPayInd",
+      "path": "ThirdPartySickPayInd",
+      "type": "bool"
+    },
+    {
+      "name": "W2StateLocalTaxGrp",
+      "path": "W2StateLocalTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "W2StateTaxGrp",
+      "path": "W2StateLocalTaxGrp/W2StateTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "W2LocalTaxGrp",
+      "path": "W2StateLocalTaxGrp/W2StateTaxGrp/W2LocalTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingAmt",
+      "path": "WithholdingAmt",
+      "type": "usd"
+    }
+  ]
+}

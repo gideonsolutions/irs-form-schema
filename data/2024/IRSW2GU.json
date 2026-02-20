@@ -1,0 +1,141 @@
+{
+  "form_id": "IRSW2GU",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "ControlNum",
+      "path": "ControlNum",
+      "type": "string"
+    },
+    {
+      "name": "CorrectedW2GUInd",
+      "path": "CorrectedW2GUInd",
+      "type": "bool"
+    },
+    {
+      "name": "EmployeeForeignAddress",
+      "path": "EmployeeForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployeeNm",
+      "path": "EmployeeNm",
+      "type": "string"
+    },
+    {
+      "name": "EmployeeSSN",
+      "path": "EmployeeSSN",
+      "type": "tin"
+    },
+    {
+      "name": "EmployeeUSAddress",
+      "path": "EmployeeUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployerEIN",
+      "path": "EmployerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "EmployerForeignAddress",
+      "path": "EmployerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "EmployerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "EmployerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerNameControlTxt",
+      "path": "EmployerNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerUSAddress",
+      "path": "EmployerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "GuamWithholdingAmt",
+      "path": "GuamWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicareTaxWithheldAmt",
+      "path": "MedicareTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicareWagesAndTipsAmt",
+      "path": "MedicareWagesAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonUSEmployersUseGrp",
+      "path": "NonUSEmployersUseGrp",
+      "type": "group"
+    },
+    {
+      "name": "NonqualifiedPlansAmt",
+      "path": "NonqualifiedPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsBenefitsGrp",
+      "path": "OtherDeductionsBenefitsGrp",
+      "type": "group"
+    },
+    {
+      "name": "RetirementPlanInd",
+      "path": "RetirementPlanInd",
+      "type": "bool"
+    },
+    {
+      "name": "SocialSecurityTaxAmt",
+      "path": "SocialSecurityTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTipsAmt",
+      "path": "SocialSecurityTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityWagesAmt",
+      "path": "SocialSecurityWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StandardOrNonStandardCd",
+      "path": "StandardOrNonStandardCd",
+      "type": "enum"
+    },
+    {
+      "name": "StatutoryEmployeeInd",
+      "path": "StatutoryEmployeeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ThirdPartySickPayInd",
+      "path": "ThirdPartySickPayInd",
+      "type": "bool"
+    },
+    {
+      "name": "VoidInd",
+      "path": "VoidInd",
+      "type": "bool"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "WagesAmt",
+      "type": "usd"
+    }
+  ]
+}

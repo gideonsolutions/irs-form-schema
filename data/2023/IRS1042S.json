@@ -1,0 +1,481 @@
+{
+  "form_id": "IRS1042S",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AmendedInd",
+      "path": "AmendedInd",
+      "type": "bool"
+    },
+    {
+      "name": "AmendmentNum",
+      "path": "AmendmentNum",
+      "type": "string"
+    },
+    {
+      "name": "ExemptionCd",
+      "path": "Chapter3Grp/ExemptionCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxRt",
+      "path": "Chapter3Grp/TaxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ExemptionCd",
+      "path": "Chapter4Grp/ExemptionCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxRt",
+      "path": "Chapter4Grp/TaxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ChapterTypeCd",
+      "path": "ChapterTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FormId",
+      "path": "FormId",
+      "type": "unknown"
+    },
+    {
+      "name": "GrossIncomeAmt",
+      "path": "GrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTypeCd",
+      "path": "IncomeTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "IntermediaryOrFlowThruEntGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "IntermediaryOrFlowThruEntGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "Chapter3StatusCd",
+      "path": "IntermediaryOrFlowThruEntGrp/Chapter3StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "Chapter4StatusCd",
+      "path": "IntermediaryOrFlowThruEntGrp/Chapter4StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "CountryCd",
+      "path": "IntermediaryOrFlowThruEntGrp/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "EIN",
+      "path": "IntermediaryOrFlowThruEntGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FTIN",
+      "path": "IntermediaryOrFlowThruEntGrp/FTIN",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "IntermediaryOrFlowThruEntGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "IntermediaryOrFlowThruEntGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "IntermediaryOrFlowThruEntGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "IntermediaryOrFlowThruEntGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "IntermediaryOrFlowThruEntGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "IntermediaryOrFlowThruEntGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "GIIN",
+      "path": "IntermediaryOrFlowThruEntGrp/GIIN",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonNm",
+      "path": "IntermediaryOrFlowThruEntGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "TIN",
+      "path": "IntermediaryOrFlowThruEntGrp/TIN",
+      "type": "unknown"
+    },
+    {
+      "name": "USAddress",
+      "path": "IntermediaryOrFlowThruEntGrp/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "IntermediaryOrFlowThruEntGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "IntermediaryOrFlowThruEntGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "NetIncomeAmt",
+      "path": "NetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAgentsTaxWithheldAmt",
+      "path": "OtherAgentsTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PayerGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PayerGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "Chapter3StatusCd",
+      "path": "PayerGrp/Chapter3StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "Chapter4StatusCd",
+      "path": "PayerGrp/Chapter4StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "EIN",
+      "path": "PayerGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "GIIN",
+      "path": "PayerGrp/GIIN",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PayerGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "TIN",
+      "path": "PayerGrp/TIN",
+      "type": "unknown"
+    },
+    {
+      "name": "PayerStateIdNum",
+      "path": "PayerStateIdNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PrimaryWithholdingAgentGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PrimaryWithholdingAgentGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "PrimaryWithholdingAgentGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PrimaryWithholdingAgentGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "TIN",
+      "path": "PrimaryWithholdingAgentGrp/TIN",
+      "type": "unknown"
+    },
+    {
+      "name": "ProRataBasisInd",
+      "path": "ProRataBasisInd",
+      "type": "bool"
+    },
+    {
+      "name": "AccountNum",
+      "path": "RecipientGrp/AccountNum",
+      "type": "string"
+    },
+    {
+      "name": "BirthDt",
+      "path": "RecipientGrp/BirthDt",
+      "type": "date"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "RecipientGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "RecipientGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "Chapter3StatusCd",
+      "path": "RecipientGrp/Chapter3StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "Chapter4StatusCd",
+      "path": "RecipientGrp/Chapter4StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "CountryCd",
+      "path": "RecipientGrp/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "EIN",
+      "path": "RecipientGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "RecipientGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "RecipientGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "RecipientGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "RecipientGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "GIIN",
+      "path": "RecipientGrp/GIIN",
+      "type": "unknown"
+    },
+    {
+      "name": "LOBCd",
+      "path": "RecipientGrp/LOBCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonNm",
+      "path": "RecipientGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "TIN",
+      "path": "RecipientGrp/TIN",
+      "type": "unknown"
+    },
+    {
+      "name": "USAddress",
+      "path": "RecipientGrp/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "RecipientRepaidAmt",
+      "path": "RecipientRepaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StateCd",
+      "path": "StateCd",
+      "type": "enum"
+    },
+    {
+      "name": "StateTaxWithheldAmt",
+      "path": "StateTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubsqYrWithholdingPrtshpIntInd",
+      "path": "SubsqYrWithholdingPrtshpIntInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxNotDepositPerEscrowProcInd",
+      "path": "TaxNotDepositPerEscrowProcInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalTaxWithholdingCreditAmt",
+      "path": "TotalTaxWithholdingCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "WithholdingAgentGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "WithholdingAgentGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "Chapter3StatusCd",
+      "path": "WithholdingAgentGrp/Chapter3StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "Chapter4StatusCd",
+      "path": "WithholdingAgentGrp/Chapter4StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "CountryCd",
+      "path": "WithholdingAgentGrp/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "EIN",
+      "path": "WithholdingAgentGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FTIN",
+      "path": "WithholdingAgentGrp/FTIN",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "WithholdingAgentGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "WithholdingAgentGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "WithholdingAgentGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "WithholdingAgentGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "WithholdingAgentGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "WithholdingAgentGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "GIIN",
+      "path": "WithholdingAgentGrp/GIIN",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonNm",
+      "path": "WithholdingAgentGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "TIN",
+      "path": "WithholdingAgentGrp/TIN",
+      "type": "unknown"
+    },
+    {
+      "name": "USAddress",
+      "path": "WithholdingAgentGrp/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "WithholdingAgentGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "WithholdingAgentGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "WithholdingAgentTaxPaidAmt",
+      "path": "WithholdingAgentTaxPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingAllowancesAmt",
+      "path": "WithholdingAllowancesAmt",
+      "type": "usd"
+    }
+  ]
+}

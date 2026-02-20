@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS4626ScheduleA",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "ProRataShrAdjNetIncmLossCFCGrp",
+      "path": "ProRataShrAdjNetIncmLossCFCGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotCFCNetIncomeOrLossAdjAmt",
+      "path": "TotCFCNetIncomeOrLossAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCFCNetIncomeOrLossAmt",
+      "path": "TotCFCNetIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrIncmCFCUSShrAmt",
+      "path": "TotProRataShrIncmCFCUSShrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotSection56Ac3AdjustmentsAmt",
+      "path": "TotSection56Ac3AdjustmentsAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "form_id": "IRS1041ScheduleI",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AMTForeignTaxCreditAmt",
+      "path": "AMTForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjAltMinTaxableIncLessGainAmt",
+      "path": "AdjAltMinTaxableIncLessGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjAlternativeMinTaxableIncAmt",
+      "path": "AdjAlternativeMinTaxableIncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedRegularTaxAmt",
+      "path": "AdjustedRegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedTaxExemptInterestAmt",
+      "path": "AdjustedTaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedTotalIncomeAmt",
+      "path": "AdjustedTotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltTaxNetOperatingLossDedAmt",
+      "path": "AltTaxNetOperatingLossDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeMinTaxableIncomeAmt",
+      "path": "AlternativeMinTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@residualInterestInREMICCd",
+      "path": "AlternativeMinTaxableIncomeAmt/@residualInterestInREMICCd",
+      "type": "enum"
+    },
+    {
+      "name": "AlternativeMinimumTaxAmt",
+      "path": "AlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplcblCapGainsOrSchDWrkshtAmt",
+      "path": "ApplcblCapGainsOrSchDWrkshtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapGainsCmptMinimumTaxBasisAmt",
+      "path": "CapGainsCmptMinimumTaxBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapLossCmptMinimumTaxBasisAmt",
+      "path": "CapLossCmptMinimumTaxBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainCorpusCharityAmt",
+      "path": "CapitalGainCorpusCharityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainPdForChrtblPrpsAmt",
+      "path": "CapitalGainPdForChrtblPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainsWorksheetAmt",
+      "path": "CapitalGainsWorksheetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CirculationCostAmt",
+      "path": "CirculationCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletionAmt",
+      "path": "DepletionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributableNetAMTIncomeAmt",
+      "path": "DistributableNetAMTIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateOrTrustShrLessExemptAmt",
+      "path": "EstateOrTrustShrLessExemptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateTaxDeductionAmt",
+      "path": "EstateTaxDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesAndTrustsAmt",
+      "path": "EstatesAndTrustsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessOfSumAmt",
+      "path": "ExcessOfSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessOfSumTimesPctAmt",
+      "path": "ExcessOfSumTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptPrivateActivityBondsAmt",
+      "path": "ExemptPrivateActivityBondsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FSAmtLessIncAboveThresholdAmt",
+      "path": "FSAmtLessIncAboveThresholdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstTierDistributionAmt",
+      "path": "FirstTierDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FlngThrshldLessThesholdSumAmt",
+      "path": "FlngThrshldLessThesholdSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncentiveStockOptionsAmt",
+      "path": "IncentiveStockOptionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAboveThresholdWorkshtAmt",
+      "path": "IncomeAboveThresholdWorkshtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAndEstateDeductionAmt",
+      "path": "IncomeAndEstateDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeDistributionDeductionAmt",
+      "path": "IncomeDistributionDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentSaleIncomeAmt",
+      "path": "InstallmentSaleIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntangibleDrillingCostAmt",
+      "path": "IntangibleDrillingCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestAmt",
+      "path": "InterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LongTermContractAmt",
+      "path": "LongTermContractAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LossLimitationAmt",
+      "path": "LossLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaximumCapitalGainsOrNetAmt",
+      "path": "MaximumCapitalGainsOrNetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MiningCostsAmt",
+      "path": "MiningCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAltMinTxblIncmAmt",
+      "path": "ModifiedAltMinTxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAdjAltMinTxblIncTimesPctAmt",
+      "path": "NetAdjAltMinTxblIncTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAltMinTaxableIncTimesPctAmt",
+      "path": "NetAltMinTaxableIncTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAltMinTxblIncTimesFSPctAmt",
+      "path": "NetAltMinTxblIncTimesFSPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetExemptionAmt",
+      "path": "NetExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossDeductionAmt",
+      "path": "NetOperatingLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSchDOrAdjNetGainTimesPctAmt",
+      "path": "NetSchDOrAdjNetGainTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetShareAltMinTaxbleIncomeAmt",
+      "path": "NetShareAltMinTaxbleIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetShareAltMinTxblIncmXPctAmt",
+      "path": "NetShareAltMinTxblIncmXPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSmallerSchDOrAdjNetGainAmt",
+      "path": "NetSmallerSchDOrAdjNetGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveActivityAmt",
+      "path": "PassiveActivityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDispositionAmt",
+      "path": "PropertyDispositionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RelatedAdjustmentAmt",
+      "path": "RelatedAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ResearchExperimentalCostAmt",
+      "path": "ResearchExperimentalCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondTierDistributionAmt",
+      "path": "SecondTierDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1202ExclusionAmt",
+      "path": "Section1202ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerOfAltMinTxblIncOrSumAmt",
+      "path": "SmallerOfAltMinTxblIncOrSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrAbvThrshldOrAltMinGainAmt",
+      "path": "SmllrAbvThrshldOrAltMinGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrAdjNetGainOrTxblIncAmt",
+      "path": "SmllrAdjNetGainOrTxblIncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrNetAdjAltMinOrNetGainAmt",
+      "path": "SmllrNetAdjAltMinOrNetGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrOfAdjustedAltMinOrSchDAmt",
+      "path": "SmllrOfAdjustedAltMinOrSchDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumOfAltMinTaxPercentagesAmt",
+      "path": "SumOfAltMinTaxPercentagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumOfSmllrAmt",
+      "path": "SumOfSmllrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumPlusUnrecapturedSect1250Amt",
+      "path": "SumPlusUnrecapturedSect1250Amt",
+      "type": "usd"
+    },
+    {
+      "name": "SumThresholdApplcblWrkshtAmt",
+      "path": "SumThresholdApplcblWrkshtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptIncomeAmt",
+      "path": "TaxExemptIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnAlternativeMinimumGainAmt",
+      "path": "TaxOnAlternativeMinimumGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesAmt",
+      "path": "TaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeAlternativeMinTaxAmt",
+      "path": "TentativeAlternativeMinTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeIncmDistriDedAmt",
+      "path": "TentativeIncmDistriDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeIncmDistriIntDedAmt",
+      "path": "TentativeIncmDistriIntDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDistributionAmt",
+      "path": "TotalDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetAmt",
+      "path": "TotalNetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetGainOrLossAmt",
+      "path": "TotalNetGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRefundReceivedAmt",
+      "path": "TotalRefundReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrecapturedSection1250GainAmt",
+      "path": "UnrecapturedSection1250GainAmt",
+      "type": "usd"
+    }
+  ]
+}

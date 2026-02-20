@@ -1,0 +1,96 @@
+{
+  "form_id": "IRS8880",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": " TaxReturnAGIAmt",
+      "path": " TaxReturnAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddPrimRothIRAToCYContriAmt",
+      "path": "AddPrimRothIRAToCYContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddSpRothIRAToCYContriAmt",
+      "path": "AddSpRothIRAToCYContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalculatePrimDistribFromTotAmt",
+      "path": "CalculatePrimDistribFromTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalculateSpsDistribFromTotAmt",
+      "path": "CalculateSpsDistribFromTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalculatedAmtByDecimalAmt",
+      "path": "CalculatedAmtByDecimalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalculatedCreditsFromTaxAmt",
+      "path": "CalculatedCreditsFromTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrQualifiedRetirementSavAmt",
+      "path": "CrQualifiedRetirementSavAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrimSmallerOfCalculationAmt",
+      "path": "PrimSmallerOfCalculationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrimTaxableDistributionsAmt",
+      "path": "PrimTaxableDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrimaryContributionsAmt",
+      "path": "PrimaryContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrimaryRothIRAForCurrentYrAmt",
+      "path": "PrimaryRothIRAForCurrentYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyRetirementSavDecimalAmt",
+      "path": "QlfyRetirementSavDecimalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpouseContributionsAmt",
+      "path": "SpouseContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpouseRothIRAForCurrentYrAmt",
+      "path": "SpouseRothIRAForCurrentYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpsSmallerOfCalculationAmt",
+      "path": "SpsSmallerOfCalculationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpsTaxableDistributionsAmt",
+      "path": "SpsTaxableDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCalculatedAmt",
+      "path": "TotalCalculatedAmt",
+      "type": "usd"
+    }
+  ]
+}

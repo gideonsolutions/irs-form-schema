@@ -1,0 +1,46 @@
+{
+  "form_id": "IRS8845",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AllocatedToBeneficiariesAmt",
+      "path": "AllocatedToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CY93TotQlfyWagesEmplHlthInsAmt",
+      "path": "CY93TotQlfyWagesEmplHlthInsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYIndianEmploymentCreditAmt",
+      "path": "CYIndianEmploymentCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearCreditAmt",
+      "path": "CurrentYearCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsAndCoopsCreditAmt",
+      "path": "EstatesTrustsAndCoopsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncrementalIncreaseAmt",
+      "path": "IncrementalIncreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndianEmploymentCreditAmt",
+      "path": "IndianEmploymentCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyWagesEmplHlthInsAmt",
+      "path": "TotQlfyWagesEmplHlthInsAmt",
+      "type": "usd"
+    }
+  ]
+}

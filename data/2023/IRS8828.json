@@ -1,0 +1,151 @@
+{
+  "form_id": "IRS8828",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "MortgSbsdyAdjustedBasisInHmAmt",
+      "path": "MortgSbsdyAdjustedBasisInHmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyAdjustedQlfyIncmAmt",
+      "path": "MortgSbsdyAdjustedQlfyIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyCertIssuerAgencyNm",
+      "path": "MortgSbsdyCertIssuerAgencyNm",
+      "type": "string"
+    },
+    {
+      "name": "MortgSbsdyCertIssuerStateCd",
+      "path": "MortgSbsdyCertIssuerStateCd",
+      "type": "enum"
+    },
+    {
+      "name": "MortgSbsdyCertIssuerSubdivNm",
+      "path": "MortgSbsdyCertIssuerSubdivNm",
+      "type": "string"
+    },
+    {
+      "name": "MortgSbsdyExpnssFromHmSaleAmt",
+      "path": "MortgSbsdyExpnssFromHmSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyFedSbsdzdAdjAmt",
+      "path": "MortgSbsdyFedSbsdzdAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyFederallySbsdzdAmt",
+      "path": "MortgSbsdyFederallySbsdzdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyGainLossAdjHmSaleAmt",
+      "path": "MortgSbsdyGainLossAdjHmSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyGainOrLossHmSaleAmt",
+      "path": "MortgSbsdyGainOrLossHmSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@qlfySubordMortgageLoanCd",
+      "path": "MortgSbsdyGainOrLossHmSaleAmt/@qlfySubordMortgageLoanCd",
+      "type": "enum"
+    },
+    {
+      "name": "MortgSbsdyHoldingPeriodRt",
+      "path": "MortgSbsdyHoldingPeriodRt",
+      "type": "decimal"
+    },
+    {
+      "name": "MortgSbsdyIncomeBasisAmt",
+      "path": "MortgSbsdyIncomeBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyIncomePercentageRt",
+      "path": "MortgSbsdyIncomePercentageRt",
+      "type": "decimal"
+    },
+    {
+      "name": "MortgSbsdyModifiedAGIAmt",
+      "path": "MortgSbsdyModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyMortgageCrCertInd",
+      "path": "MortgSbsdyMortgageCrCertInd",
+      "type": "bool"
+    },
+    {
+      "name": "MortgSbsdyOrigClsElapsMnthCnt",
+      "path": "MortgSbsdyOrigClsElapsMnthCnt",
+      "type": "int"
+    },
+    {
+      "name": "MortgSbsdyOrigClsElapsYearCnt",
+      "path": "MortgSbsdyOrigClsElapsYearCnt",
+      "type": "int"
+    },
+    {
+      "name": "MortgSbsdyOrigLendingInstnAddr",
+      "path": "MortgSbsdyOrigLendingInstnAddr",
+      "type": "unknown"
+    },
+    {
+      "name": "MortgSbsdyOrigLendingInstnNm",
+      "path": "MortgSbsdyOrigLendingInstnNm",
+      "type": "string"
+    },
+    {
+      "name": "MortgSbsdyOrigLoanPaymentDt",
+      "path": "MortgSbsdyOrigLoanPaymentDt",
+      "type": "date"
+    },
+    {
+      "name": "MortgSbsdyOriginalLoanClsDt",
+      "path": "MortgSbsdyOriginalLoanClsDt",
+      "type": "date"
+    },
+    {
+      "name": "MortgSbsdyPropertyAddress",
+      "path": "MortgSbsdyPropertyAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "MortgSbsdyRecaptureAmt",
+      "path": "MortgSbsdyRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyRecaptureTaxAmt",
+      "path": "MortgSbsdyRecaptureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdySaleOfHmRealizedAmt",
+      "path": "MortgSbsdySaleOfHmRealizedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdySaleOrDisposClsDt",
+      "path": "MortgSbsdySaleOrDisposClsDt",
+      "type": "date"
+    },
+    {
+      "name": "MortgSbsdySalesPriceIntHomeAmt",
+      "path": "MortgSbsdySalesPriceIntHomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyTaxExemptBondInd",
+      "path": "MortgSbsdyTaxExemptBondInd",
+      "type": "bool"
+    }
+  ]
+}

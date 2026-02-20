@@ -1,0 +1,96 @@
+{
+  "form_id": "IRS1125A",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdditionalSection263ACostsAmt",
+      "path": "AdditionalSection263ACostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningOfYearInventoryAmt",
+      "path": "BeginningOfYearInventoryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfLaborAmt",
+      "path": "CostOfLaborAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndOfYearInventoryAmt",
+      "path": "EndOfYearInventoryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryDeterminationChgInd",
+      "path": "InventoryDeterminationChgInd",
+      "type": "bool"
+    },
+    {
+      "name": "LIFOAdoptedInd",
+      "path": "LIFOAdoptedInd",
+      "type": "bool"
+    },
+    {
+      "name": "LIFOClosingInventoryAmt",
+      "path": "LIFOClosingInventoryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LIFOClosingInventoryPercent",
+      "path": "LIFOClosingInventoryPercent",
+      "type": "unknown"
+    },
+    {
+      "name": "LowerCostOrMarketInd",
+      "path": "LowerCostOrMarketInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherCostsAmt",
+      "path": "OtherCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherMethodUsedInd",
+      "path": "OtherMethodUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "@otherMethodUsedDesc",
+      "path": "OtherMethodUsedInd/@otherMethodUsedDesc",
+      "type": "string"
+    },
+    {
+      "name": "PurchasesAmt",
+      "path": "PurchasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section14713CostInd",
+      "path": "Section14713CostInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section263ARulesApplyInd",
+      "path": "Section263ARulesApplyInd",
+      "type": "bool"
+    },
+    {
+      "name": "SubnormalGoodsInd",
+      "path": "SubnormalGoodsInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalCostsAmt",
+      "path": "TotalCostsAmt",
+      "type": "usd"
+    }
+  ]
+}

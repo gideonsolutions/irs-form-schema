@@ -1,0 +1,261 @@
+{
+  "form_id": "IRS6252",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AcquiredDt",
+      "path": "AcquiredDt",
+      "type": "date"
+    },
+    {
+      "name": "AdjustedBasisAmt",
+      "path": "AdjustedBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsOtherExpnsOfSaleAmt",
+      "path": "CommissionsOtherExpnsOfSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContractPriceAmt",
+      "path": "ContractPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOrOtherBasisPropSoldAmt",
+      "path": "CostOrOtherBasisPropSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAllowedAmt",
+      "path": "DepreciationAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DispositionDt",
+      "path": "DispositionDt",
+      "type": "date"
+    },
+    {
+      "name": "ExcludedGainAmt",
+      "path": "ExcludedGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstDisposSaleExchangeStkInd",
+      "path": "FirstDisposSaleExchangeStkInd",
+      "type": "bool"
+    },
+    {
+      "name": "FirstYearContractPriceAmt",
+      "path": "FirstYearContractPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossProfitAmt",
+      "path": "GrossProfitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossProfitRatioPct",
+      "path": "GrossProfitRatioPct",
+      "type": "decimal"
+    },
+    {
+      "name": "InstalSaleLessOrdnryIncmAmt",
+      "path": "InstalSaleLessOrdnryIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentSaleIncomeAmt",
+      "path": "InstallmentSaleIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentSalePropertyTypeCd",
+      "path": "InstallmentSalePropertyTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "MortgageIndebtednessAmt",
+      "path": "MortgageIndebtednessAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAdjBasisCommIncmRcptrAmt",
+      "path": "NetAdjBasisCommIncmRcptrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NotToAvoidTaxInd",
+      "path": "NotToAvoidTaxInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrdinaryIncmUndRecaptureRlsAmt",
+      "path": "OrdinaryIncmUndRecaptureRlsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryIncomePartAmt",
+      "path": "OrdinaryIncomePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentPriceLessOrdnryIncmAmt",
+      "path": "PaymentPriceLessOrdnryIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentsReceivedCurrentYearAmt",
+      "path": "PaymentsReceivedCurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentsReceivedPriorYearsAmt",
+      "path": "PaymentsReceivedPriorYearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropSoldRltdPartyMrktblSecInd",
+      "path": "PropSoldRltdPartyMrktblSecInd",
+      "type": "bool"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "PropertySoldToRelatedPartyInd",
+      "path": "PropertySoldToRelatedPartyInd",
+      "type": "bool"
+    },
+    {
+      "name": "RealizedAmt",
+      "path": "RealizedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RelatedPartyEIN",
+      "path": "RelatedPartyEIN",
+      "type": "ein"
+    },
+    {
+      "name": "RelatedPartyForeignAddress",
+      "path": "RelatedPartyForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "RelatedPartyName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "RelatedPartyName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "RelatedPartySSN",
+      "path": "RelatedPartySSN",
+      "type": "tin"
+    },
+    {
+      "name": "RelatedPartyUSAddress",
+      "path": "RelatedPartyUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "SecondDisposAfterDeathSellrInd",
+      "path": "SecondDisposAfterDeathSellrInd",
+      "type": "bool"
+    },
+    {
+      "name": "SecondDisposInvlntryCnvrtInd",
+      "path": "SecondDisposInvlntryCnvrtInd",
+      "type": "bool"
+    },
+    {
+      "name": "SecondDispositionInd",
+      "path": "SecondDispositionInd",
+      "type": "bool"
+    },
+    {
+      "name": "SellingPriceIncludingMortgAmt ",
+      "path": "SellingPriceIncludingMortgAmt ",
+      "type": "unknown"
+    },
+    {
+      "name": "SellingPriceLessMortgIndbtAmt",
+      "path": "SellingPriceLessMortgIndbtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrRealizedOrContractPrcAmt",
+      "path": "SmllrRealizedOrContractPrcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SndDisposMore2YrsAftrFirstInd",
+      "path": "SndDisposMore2YrsAftrFirstInd",
+      "type": "bool"
+    },
+    {
+      "name": "SoldDt",
+      "path": "SoldDt",
+      "type": "date"
+    },
+    {
+      "name": "SumLessAdjBssCommIncmRcptrAmt",
+      "path": "SumLessAdjBssCommIncmRcptrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumOfAdjBssCommIncmRcptrAmt",
+      "path": "SumOfAdjBssCommIncmRcptrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumYearOfSaleAndPymtsRcvdAmt",
+      "path": "SumYearOfSaleAndPymtsRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPymtPrcTimesGroPrftPctAmt",
+      "path": "TotPymtPrcTimesGroPrftPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotSellPrcTYSaleOrOthDisposInd",
+      "path": "TotSellPrcTYSaleOrOthDisposInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalPaymentsRcvdLessPrcAmt",
+      "path": "TotalPaymentsRcvdLessPrcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsReceivedAmt",
+      "path": "TotalPaymentsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSectionPropertyAmt",
+      "path": "TotalSectionPropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "YearOfSaleAmt",
+      "path": "YearOfSaleAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "form_id": "IRS965ScheduleF",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "DeferredForeignIncomeCorpGrp",
+      "path": "DeferredForeignIncomeCorpGrp",
+      "type": "group"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotPTESect965aInclusionAmt",
+      "path": "TotPTESect965aInclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPTETaxesDeemedPaidAmt",
+      "path": "TotPTETaxesDeemedPaidAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "form_id": "IRS8697",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CorporationInd",
+      "path": "CorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "EstateOrTrustInd",
+      "path": "EstateOrTrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "IndividualInd",
+      "path": "IndividualInd",
+      "type": "bool"
+    },
+    {
+      "name": "MissingEINEntityReasonCd",
+      "path": "MissingEINEntityReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PartnershipInd",
+      "path": "PartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "PassThroughEntityEIN",
+      "path": "PassThroughEntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PassThroughEntityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PassThroughEntityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "AdjTaxableIncomeLookBackAmt",
+      "path": "RegularMethodFilingYrGrp/AdjTaxableIncomeLookBackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAdjustmentAmt",
+      "path": "RegularMethodFilingYrGrp/IncomeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "RegularMethodFilingYrGrp/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeOrLossAmt",
+      "path": "RegularMethodFilingYrGrp/TaxableIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "YearEndedDt",
+      "path": "RegularMethodFilingYrGrp/YearEndedDt",
+      "type": "date"
+    },
+    {
+      "name": "AdjTaxableIncomeLookBackAmt",
+      "path": "RegularMethodRedetermYrGrp/AdjTaxableIncomeLookBackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxLiabilityAmt",
+      "path": "RegularMethodRedetermYrGrp/FederalIncomeTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAdjustmentAmt",
+      "path": "RegularMethodRedetermYrGrp/IncomeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncreaseOrDecreaseInTxForPYAmt",
+      "path": "RegularMethodRedetermYrGrp/IncreaseOrDecreaseInTxForPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestDueOnIncreaseAmt",
+      "path": "RegularMethodRedetermYrGrp/InterestDueOnIncreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestToBeRefundedOnDecrAmt",
+      "path": "RegularMethodRedetermYrGrp/InterestToBeRefundedOnDecrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "RegularMethodRedetermYrGrp/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeOrLossAmt",
+      "path": "RegularMethodRedetermYrGrp/TaxableIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "YearEndedDt",
+      "path": "RegularMethodRedetermYrGrp/YearEndedDt",
+      "type": "date"
+    },
+    {
+      "name": "SCorporationInd",
+      "path": "SCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SimplifiedMethodComputation",
+      "path": "SimplifiedMethodComputation",
+      "type": "unknown"
+    },
+    {
+      "name": "AdjustmentToTaxableIncomeAmt",
+      "path": "SimplifiedMethodComputation/AdjustmentToTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltMinTaxableIncomeAdjAmt",
+      "path": "SimplifiedMethodComputation/AltMinTaxableIncomeAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncreaseOrDecreaseInTxForPYAmt",
+      "path": "SimplifiedMethodComputation/IncreaseOrDecreaseInTxForPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestDueOnIncreaseAmt",
+      "path": "SimplifiedMethodComputation/InterestDueOnIncreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestToBeRefundedOnDecrAmt",
+      "path": "SimplifiedMethodComputation/InterestToBeRefundedOnDecrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentCeilingAmt",
+      "path": "SimplifiedMethodComputation/OverpaymentCeilingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAMTIncrOrDecrAmt",
+      "path": "SimplifiedMethodComputation/PriorYearAMTIncrOrDecrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearRegTaxIncrOrDecrAmt",
+      "path": "SimplifiedMethodComputation/PriorYearRegTaxIncrOrDecrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularTaxableIncomeAdjAmt",
+      "path": "SimplifiedMethodComputation/RegularTaxableIncomeAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "YearEndedDt",
+      "path": "SimplifiedMethodComputation/YearEndedDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxableIncomeOrLossAmt",
+      "path": "TaxableIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAmtOfInterestOwedAmt",
+      "path": "TotLookBackRegularMethodGrp/NetAmtOfInterestOwedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentToIncomeAmt",
+      "path": "TotLookBackRegularMethodGrp/TotalAdjustmentToIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestDueOnIncreaseAmt",
+      "path": "TotLookBackRegularMethodGrp/TotalInterestDueOnIncreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestToBeRefundedAmt",
+      "path": "TotLookBackRegularMethodGrp/TotalInterestToBeRefundedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestDueOnIncreaseAmt",
+      "path": "TotLookBackSmplfdMthGrp/TotalInterestDueOnIncreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAmtOfInterestOwedAmt",
+      "path": "TotLookBackSmplfdMthdGrp/NetAmtOfInterestOwedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestDueOnIncreaseAmt",
+      "path": "TotLookBackSmplfdMthdGrp/TotalInterestDueOnIncreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestToBeRefundedAmt",
+      "path": "TotLookBackSmplfdMthdGrp/TotalInterestToBeRefundedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "USAddress/ZIPCd",
+      "type": "enum"
+    }
+  ]
+}

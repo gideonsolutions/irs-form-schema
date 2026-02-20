@@ -1,0 +1,201 @@
+{
+  "form_id": "IRS5471ScheduleH",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CapitalGainOrLossNetAddnAmt",
+      "path": "CapitalGainOrLossNetAddnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainOrLossNetSbtrctnAmt",
+      "path": "CapitalGainOrLossNetSbtrctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChrgsStryReservesNetAddnAmt",
+      "path": "ChrgsStryReservesNetAddnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChrgsStryReservesNetSbtrctnAmt",
+      "path": "ChrgsStryReservesNetSbtrctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrEarnAndPrftInUSDollarsAmt",
+      "path": "CurrEarnAndPrftInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentEarningsAndProfitsAmt",
+      "path": "CurrentEarningsAndProfitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DASTMGainOrLossAmt",
+      "path": "DASTMGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletionNetAddnAmt",
+      "path": "DepletionNetAddnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletionNetSbtrctnAmt",
+      "path": "DepletionNetSbtrctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeprecAndAmortzNetAddnAmt",
+      "path": "DeprecAndAmortzNetAddnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeprecAndAmortzNetSbtrctnAmt",
+      "path": "DeprecAndAmortzNetSbtrctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "EPDASTMGeneralCatIncmAmt",
+      "path": "EPDASTMGeneralCatIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPDASTMPassiveCatIncmAmt",
+      "path": "EPDASTMPassiveCatIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPDASTMSection901jCatIncmAmt",
+      "path": "EPDASTMSection901jCatIncmGrp/EPDASTMSection901jCatIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "EPDASTMSection901jCatIncmGrp/SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "EarningAndPrftPlusDASTMGainAmt",
+      "path": "EarningAndPrftPlusDASTMGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExchangeRt",
+      "path": "ExchangeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ForeignCYNetIncomePerBooksAmt",
+      "path": "ForeignCYNetIncomePerBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignCorpMissingEINReasonCd",
+      "path": "ForeignCorpMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignCorporationEIN",
+      "path": "ForeignCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "FrgnCurrencyGainLossAddnAmt",
+      "path": "FrgnCurrencyGainLossAddnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnCurrencyGainLossSbtrctnAmt",
+      "path": "FrgnCurrencyGainLossSbtrctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryAdjNetAddnAmt",
+      "path": "InventoryAdjNetAddnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryAdjNetSbtrctnAmt",
+      "path": "InventoryAdjNetSbtrctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvstIncntvAllwncNetAddnAmt",
+      "path": "InvstIncntvAllwncNetAddnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvstIncntvAllwncNetSbtrctnAmt",
+      "path": "InvstIncntvAllwncNetSbtrctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherAdjustmentsNetAddnAmt",
+      "path": "OtherAdjustmentsNetAddnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsNetSbtrctnAmt",
+      "path": "OtherAdjustmentsNetSbtrctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TaxesNetAddnAmt",
+      "path": "TaxesNetAddnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesNetSbtrctnAmt",
+      "path": "TaxesNetSbtrctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetAdditionsAmt",
+      "path": "TotalNetAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetSubtractionsAmt",
+      "path": "TotalNetSubtractionsAmt",
+      "type": "usd"
+    }
+  ]
+}

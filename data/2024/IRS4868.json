@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS4868",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonresWithNoWagesSubjToWhInd",
+      "path": "NonresWithNoWagesSubjToWhInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxpayerAbroadInd",
+      "path": "TaxpayerAbroadInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxpayerIsPayingAmt",
+      "path": "TaxpayerIsPayingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLiabilityAmt",
+      "path": "TotalTaxLiabilityAmt",
+      "type": "usd"
+    }
+  ]
+}

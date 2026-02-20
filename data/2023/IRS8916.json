@@ -1,0 +1,141 @@
+{
+  "form_id": "IRS8916",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CarryforwardAndDeductionAmt",
+      "path": "CarryforwardAndDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "LifeCapitalLossCfwdUsedAmt",
+      "path": "LifeCapitalLossCfwdUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LifeCapitalLossLimitationAmt",
+      "path": "LifeCapitalLossLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LifeCharitableDedCfwdUsedAmt",
+      "path": "LifeCharitableDedCfwdUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LifeCharitableDeductionLmtAmt",
+      "path": "LifeCharitableDeductionLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LifeDividendsReceivedDedAmt",
+      "path": "LifeDividendsReceivedDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LifeDualConsolidatedLossAmt",
+      "path": "LifeDualConsolidatedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LifeNOLDed1120LAmt",
+      "path": "LifeNOLDed1120LAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LifeNonLifeLossLimitationAmt",
+      "path": "LifeNonLifeLossLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NonLifeCapitalLossCfwdUsedAmt",
+      "path": "NonLifeCapitalLossCfwdUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonLifeCapitalLossLmtAmt",
+      "path": "NonLifeCapitalLossLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonLifeCharitableDedLmtAmt",
+      "path": "NonLifeCharitableDedLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonLifeChrtblDedCfwdUsedAmt",
+      "path": "NonLifeChrtblDedCfwdUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonLifeDividendsReceivedDedAmt",
+      "path": "NonLifeDividendsReceivedDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonLifeDualConsolidatedLossAmt",
+      "path": "NonLifeDualConsolidatedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonLifeNOLDed1120Amt",
+      "path": "NonLifeNOLDed1120Amt",
+      "type": "usd"
+    },
+    {
+      "name": "NonLifeNOLDed1120PCAmt",
+      "path": "NonLifeNOLDed1120PCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsToReconcileAmt",
+      "path": "OtherAdjustmentsToReconcileAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PhasedInclsnPlcyhldrSurplusAmt",
+      "path": "PhasedInclsnPlcyhldrSurplusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SchM3PlusLmtLessCfwdAndDedAmt",
+      "path": "SchM3PlusLmtLessCfwdAndDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScheduleM3TaxRecnclPlusLmtAmt",
+      "path": "ScheduleM3TaxRecnclPlusLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScheduleM3TaxReconciliationAmt",
+      "path": "ScheduleM3TaxReconciliationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "TotalAmt",
+      "type": "usd"
+    }
+  ]
+}

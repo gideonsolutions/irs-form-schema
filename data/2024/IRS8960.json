@@ -1,0 +1,181 @@
+{
+  "form_id": "IRS8960",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AGILessTrustEstHighestTaxAmt",
+      "path": "AGILessTrustEstHighestTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalModificationAmt",
+      "path": "AdditionalModificationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjFromDisposOfStockAmt",
+      "path": "AdjFromDisposOfStockAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjNetIncmOrLossNonSect1411Amt",
+      "path": "AdjNetIncmOrLossNonSect1411Amt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnuitesFromNonQlfPlansAmt",
+      "path": "AnnuitesFromNonQlfPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CFCAndPFICInvstIncmChangesAmt",
+      "path": "CFCAndPFICInvstIncmChangesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstTrustNetInvstIncomeTaxAmt",
+      "path": "EstTrustNetInvstIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingThresholdAmt",
+      "path": "FilingThresholdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainOrLossFromDisposAmt",
+      "path": "GainOrLossFromDisposAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeDistributionDeductionAmt",
+      "path": "IncomeDistributionDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndivNetInvstIncomeTaxAmt",
+      "path": "IndivNetInvstIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentExpenseAmt",
+      "path": "InvestmentExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentInterestAmt",
+      "path": "InvestmentInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MAGILessThresholdAmt",
+      "path": "MAGILessThresholdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MiscInvestmentExpenseAmt",
+      "path": "MiscInvestmentExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIAmt",
+      "path": "ModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetInvestmentIncomeAmt",
+      "path": "NetInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalIncomeOrLossAmt",
+      "path": "NetRentalIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonNIITPropDisposGainOrLossAmt",
+      "path": "NonNIITPropDisposGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryDividendsAmt",
+      "path": "OrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInvestmentIncomeOrLossAmt",
+      "path": "OtherInvestmentIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDisposGainOrLossAmt",
+      "path": "PropertyDisposGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegSection1141110gInd",
+      "path": "RegSection1141110gInd",
+      "type": "bool"
+    },
+    {
+      "name": "RentalREAndAdjNetIncmOrLossAmt",
+      "path": "RentalREAndAdjNetIncmOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section6013gInd",
+      "path": "Section6013gInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section6013hInd",
+      "path": "Section6013hInd",
+      "type": "bool"
+    },
+    {
+      "name": "SmllrIncmOrMAGILessThrshldAmt",
+      "path": "SmllrIncmOrMAGILessThrshldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrUndistrIncmAGILessTaxAmt",
+      "path": "SmllrUndistrIncmAGILessTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StateLocalForeignIncomeTaxAmt",
+      "path": "StateLocalForeignIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionModificationAmt",
+      "path": "TotalDeductionModificationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrustEstHighestTaxBracketAmt",
+      "path": "TrustEstHighestTaxBracketAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UndistributedNetIncomeAmt",
+      "path": "UndistributedNetIncomeAmt",
+      "type": "usd"
+    }
+  ]
+}

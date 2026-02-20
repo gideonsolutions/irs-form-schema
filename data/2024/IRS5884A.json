@@ -1,0 +1,56 @@
+{
+  "form_id": "IRS5884A",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CurrentYearHousingCreditAmt",
+      "path": "CurrentYearHousingCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form1041PortionCd",
+      "path": "CurrentYearHousingCreditAmt/@form1041PortionCd",
+      "type": "enum"
+    },
+    {
+      "name": "CurrentYearRetentionCreditAmt",
+      "path": "CurrentYearRetentionCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form1041PortionCd",
+      "path": "CurrentYearRetentionCreditAmt/@form1041PortionCd",
+      "type": "enum"
+    },
+    {
+      "name": "EmployeeRetentionCreditAmt",
+      "path": "EmployeeRetentionCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeSalariesAndWageAdjAmt",
+      "path": "EmployeeSalariesAndWageAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployerSalariesAndWageAdjAmt",
+      "path": "EmployerSalariesAndWageAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpEstTrHousingCreditAmt",
+      "path": "PrtshpEstTrHousingCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyWgsPdIncurdAftrDsstrAmt",
+      "path": "QlfyWgsPdIncurdAftrDsstrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedLodgingAmt",
+      "path": "QualifiedLodgingAmt",
+      "type": "usd"
+    }
+  ]
+}

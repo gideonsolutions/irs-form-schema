@@ -1,0 +1,76 @@
+{
+  "form_id": "IRS8975ScheduleA",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AssetsAmt",
+      "path": "AssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CBCAdditionalInfoGrp",
+      "path": "CBCAdditionalInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "CapitalAmt",
+      "path": "CapitalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConstituentEntityInfoGrp",
+      "path": "ConstituentEntityInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "EarningsAmt",
+      "path": "EarningsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeCnt",
+      "path": "EmployeeCnt",
+      "type": "int"
+    },
+    {
+      "name": "ProfitOrLossAmt",
+      "path": "ProfitOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RelatedRevenueAmt",
+      "path": "RelatedRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StatelessCd",
+      "path": "StatelessCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxJurisdictionCountryCd",
+      "path": "TaxJurisdictionCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxesAccruedAmt",
+      "path": "TaxesAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRevenueAmt",
+      "path": "TotalRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxesPaidAmt",
+      "path": "TotalTaxesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedRevenueAmt",
+      "path": "UnrelatedRevenueAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "form_id": "IRS8995AScheduleA",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "ApplicablePct",
+      "path": "NonPTPSSTBGrp/ApplicablePct",
+      "type": "decimal"
+    },
+    {
+      "name": "FilingStatusPhaseInRangeCd",
+      "path": "NonPTPSSTBGrp/FilingStatusPhaseInRangeCd",
+      "type": "enum"
+    },
+    {
+      "name": "FilingStatusThresholdCd",
+      "path": "NonPTPSSTBGrp/FilingStatusThresholdCd",
+      "type": "enum"
+    },
+    {
+      "name": "NonPTPSSTBDtlGrp",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp",
+      "type": "group"
+    },
+    {
+      "name": "AllocableShareUBIAQlfyPropAmt",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/AllocableShareUBIAQlfyPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocableShareW2WagesAmt",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/AllocableShareW2WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicablePctQBIAmt",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/ApplicablePctQBIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicablePctUBIAQlfyPropAmt",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/ApplicablePctUBIAQlfyPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicablePctW2WagesAmt",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/ApplicablePctW2WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonNm",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "QualifedBusinessIncomeAmt",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/QualifedBusinessIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/TradeOrBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "NonPTPSSTBGrp/NonPTPSSTBDtlGrp/TradeOrBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PhaseInPct",
+      "path": "NonPTPSSTBGrp/PhaseInPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TXIBfrQBIDedLessThresholdAmt",
+      "path": "NonPTPSSTBGrp/TXIBfrQBIDedLessThresholdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeBeforeQBIDedAmt",
+      "path": "NonPTPSSTBGrp/TaxableIncomeBeforeQBIDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicablePct",
+      "path": "PTPSSTBGrp/ApplicablePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ApplicablePctQlfyIncomeLossAmt",
+      "path": "PTPSSTBGrp/ApplicablePctQlfyIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingStatusPhaseInRangeCd",
+      "path": "PTPSSTBGrp/FilingStatusPhaseInRangeCd",
+      "type": "enum"
+    },
+    {
+      "name": "FilingStatusThresholdCd",
+      "path": "PTPSSTBGrp/FilingStatusThresholdCd",
+      "type": "enum"
+    },
+    {
+      "name": "PTPSSTBDtlGrp",
+      "path": "PTPSSTBGrp/PTPSSTBDtlGrp",
+      "type": "group"
+    },
+    {
+      "name": "EIN",
+      "path": "PTPSSTBGrp/PTPSSTBDtlGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "PTPSSTBGrp/PTPSSTBDtlGrp/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PTPSSTBGrp/PTPSSTBDtlGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "QualifiedIncomeOrLossAmt",
+      "path": "PTPSSTBGrp/PTPSSTBDtlGrp/QualifiedIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "PTPSSTBGrp/PTPSSTBDtlGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PTPSSTBGrp/PTPSSTBDtlGrp/TradeOrBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PTPSSTBGrp/PTPSSTBDtlGrp/TradeOrBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PhaseInPct",
+      "path": "PTPSSTBGrp/PhaseInPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TXIBfrQBIDedLessThresholdAmt",
+      "path": "PTPSSTBGrp/TXIBfrQBIDedLessThresholdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeBeforeQBIDedAmt",
+      "path": "PTPSSTBGrp/TaxableIncomeBeforeQBIDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQualifiedIncomeOrLossAmt",
+      "path": "PTPSSTBGrp/TotalQualifiedIncomeOrLossAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "form_id": "IRS9000",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AlternativeMediaCd",
+      "path": "AlternativeMediaCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    }
+  ]
+}

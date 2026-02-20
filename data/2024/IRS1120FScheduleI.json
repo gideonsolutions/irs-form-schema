@@ -1,0 +1,446 @@
+{
+  "form_id": "IRS1120FScheduleI",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "ActualRatioMethodInd",
+      "path": "ActualRatioMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdjPrtshpAndDisregardedEntAmt",
+      "path": "AdjPrtshpAndDisregardedEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedTotalAssetsPerBooksAmt",
+      "path": "AdjustedTotalAssetsPerBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedUSBookedLiabMthdInd",
+      "path": "AdjustedUSBookedLiabMthdInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdjustmentsDrtIntExpnsAllocAmt",
+      "path": "AdjustmentsDrtIntExpnsAllocAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableRt",
+      "path": "ApplicableRt",
+      "type": "decimal"
+    },
+    {
+      "name": "AverageWorldwideAssetsAmt",
+      "path": "AverageWorldwideAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AverageWorldwideLiabilitiesAmt",
+      "path": "AverageWorldwideLiabilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BooksGiveRiseUSBookedLiabAmt",
+      "path": "BooksGiveRiseUSBookedLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BorrowingRt",
+      "path": "BorrowingRt",
+      "type": "decimal"
+    },
+    {
+      "name": "BusIntExpnsDsallwPYSect163jAmt",
+      "path": "BusIntExpnsDsallwPYSect163jAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalizedSection263AAmount",
+      "path": "CapitalizedSection263AAmount",
+      "type": "unknown"
+    },
+    {
+      "name": "DefrdIntExpensePriorYrDedAmt",
+      "path": "DefrdIntExpensePriorYrDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DefrdIntExpnsSect163Or267Amt",
+      "path": "DefrdIntExpnsSect163Or267Amt",
+      "type": "usd"
+    },
+    {
+      "name": "DisallowedSection265Amt",
+      "path": "DisallowedSection265Amt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwBusIntExpnsSect163jAmt",
+      "path": "DsallwBusIntExpnsSect163jAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ElectionUsePublishedRtInd",
+      "path": "ElectionUsePublishedRtInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExcessInterestAmt",
+      "path": "ExcessInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessUSConnectedLiabAmt",
+      "path": "ExcessUSConnectedLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FixedRatioMethodInd",
+      "path": "FixedRatioMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "FixedRt",
+      "path": "FixedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ForeignBankDefSect18825c4Ind",
+      "path": "ForeignBankDefSect18825c4Ind",
+      "type": "bool"
+    },
+    {
+      "name": "FromOthLnApplicableRt",
+      "path": "FromOthLnApplicableRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ApplicableRt",
+      "path": "HomeCountryCurrencyGrp/ApplicableRt",
+      "type": "decimal"
+    },
+    {
+      "name": "BorrowingRt",
+      "path": "HomeCountryCurrencyGrp/BorrowingRt",
+      "type": "decimal"
+    },
+    {
+      "name": "CurrencyTxt",
+      "path": "HomeCountryCurrencyGrp/CurrencyTxt",
+      "type": "string"
+    },
+    {
+      "name": "InterestExpenseAllocationAmt",
+      "path": "HomeCountryCurrencyGrp/InterestExpenseAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseFuncCurAmt",
+      "path": "HomeCountryCurrencyGrp/InterestExpenseFuncCurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LiabilitiesFunctionalCurAmt",
+      "path": "HomeCountryCurrencyGrp/LiabilitiesFunctionalCurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Step3USConnectedLiabilitiesAmt",
+      "path": "HomeCountryCurrencyGrp/Step3USConnectedLiabilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USAssetsAmt",
+      "path": "HomeCountryCurrencyGrp/USAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntExpnsAdjUSBookedLiabMthdAmt",
+      "path": "IntExpnsAdjUSBookedLiabMthdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntExpnsSect18825dOr5eAmt",
+      "path": "IntExpnsSect18825dOr5eAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntExpnsSepCurPoolsMthdAmt",
+      "path": "IntExpnsSepCurPoolsMthdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestDividedByLiabilitiesRt",
+      "path": "InterestDividedByLiabilitiesRt",
+      "type": "decimal"
+    },
+    {
+      "name": "InterestExpense1Amt",
+      "path": "InterestExpense1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpense2Amt",
+      "path": "InterestExpense2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseAllocableECIAmt",
+      "path": "InterestExpenseAllocableECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseAllocationAmt",
+      "path": "InterestExpenseAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseBooksAmt",
+      "path": "InterestExpenseBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseFuncCurAmt",
+      "path": "InterestExpenseFuncCurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpensePrtshpIntAmt",
+      "path": "InterestExpensePrtshpIntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpnsSect18825a1iiAmt",
+      "path": "InterestExpnsSect18825a1iiAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestPaidUSDollarLiabAmt",
+      "path": "InterestPaidUSDollarLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LessThan3PctCurrencyElectInd",
+      "path": "LessThan3PctCurrencyElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "LiabilitiesDividedByAssetsRt",
+      "path": "LiabilitiesDividedByAssetsRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LiabilitiesFunctionalCurAmt",
+      "path": "LiabilitiesFunctionalCurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsAverageAstAmt",
+      "path": "OtherAdjustmentsAverageAstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableRt",
+      "path": "OtherCurrencyColumnCGrp/ApplicableRt",
+      "type": "decimal"
+    },
+    {
+      "name": "BorrowingRt",
+      "path": "OtherCurrencyColumnCGrp/BorrowingRt",
+      "type": "decimal"
+    },
+    {
+      "name": "CurrencyTxt",
+      "path": "OtherCurrencyColumnCGrp/CurrencyTxt",
+      "type": "string"
+    },
+    {
+      "name": "InterestExpenseAllocationAmt",
+      "path": "OtherCurrencyColumnCGrp/InterestExpenseAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseFuncCurAmt",
+      "path": "OtherCurrencyColumnCGrp/InterestExpenseFuncCurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LiabilitiesFunctionalCurAmt",
+      "path": "OtherCurrencyColumnCGrp/LiabilitiesFunctionalCurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Step3USConnectedLiabilitiesAmt",
+      "path": "OtherCurrencyColumnCGrp/Step3USConnectedLiabilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USAssetsAmt",
+      "path": "OtherCurrencyColumnCGrp/USAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableRt",
+      "path": "OtherCurrencyColumnDGrp/ApplicableRt",
+      "type": "decimal"
+    },
+    {
+      "name": "BorrowingRt",
+      "path": "OtherCurrencyColumnDGrp/BorrowingRt",
+      "type": "decimal"
+    },
+    {
+      "name": "CurrencyTxt",
+      "path": "OtherCurrencyColumnDGrp/CurrencyTxt",
+      "type": "string"
+    },
+    {
+      "name": "InterestExpenseAllocationAmt",
+      "path": "OtherCurrencyColumnDGrp/InterestExpenseAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseFuncCurAmt",
+      "path": "OtherCurrencyColumnDGrp/InterestExpenseFuncCurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LiabilitiesFunctionalCurAmt",
+      "path": "OtherCurrencyColumnDGrp/LiabilitiesFunctionalCurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Step3USConnectedLiabilitiesAmt",
+      "path": "OtherCurrencyColumnDGrp/Step3USConnectedLiabilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USAssetsAmt",
+      "path": "OtherCurrencyColumnDGrp/USAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipInterestsAmt",
+      "path": "PartnershipInterestsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipInterestsLiabAmt",
+      "path": "PartnershipInterestsLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PublishedRt",
+      "path": "PublishedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ScalingRt",
+      "path": "ScalingRt",
+      "type": "decimal"
+    },
+    {
+      "name": "SeparateCurrencyPoolsMethodInd",
+      "path": "SeparateCurrencyPoolsMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "Step3USConnectedLiabilitiesAmt",
+      "path": "Step3USConnectedLiabilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsAmt",
+      "path": "TotalAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAssetsPerBooksAmt",
+      "path": "TotalAssetsPerBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAverageUSBookedLiabAmt",
+      "path": "TotalAverageUSBookedLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIntExpDefrdIntAndCapAmt",
+      "path": "TotalIntExpDefrdIntAndCapAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterbranchAssetsAmt",
+      "path": "TotalInterbranchAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestExpenseDedAmt",
+      "path": "TotalInterestExpenseDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestExpenseLiabAmt",
+      "path": "TotalInterestExpenseLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonECIAssetsSect864c4DAmt",
+      "path": "TotalNonECIAssetsSect864c4DAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherNonECIAssetsAmt",
+      "path": "TotalOtherNonECIAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalValueUSAssetsAmt",
+      "path": "TotalValueUSAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "U",
+      "path": "U",
+      "type": "unknown"
+    },
+    {
+      "name": "USAssetsAmt",
+      "path": "USAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USConnectedLiabSect18841e3Amt",
+      "path": "USConnectedLiabSect18841e3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "USConnectedLiabilitiesAmt",
+      "path": "USConnectedLiabilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USDollarDenominatedLiabAmt",
+      "path": "USDollarDenominatedLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USLiabilityRedSect18841e3Amt",
+      "path": "USLiabilityRedSect18841e3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "UseRt",
+      "path": "UseRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ValueOtherBooksAmt",
+      "path": "ValueOtherBooksAmt",
+      "type": "usd"
+    }
+  ]
+}

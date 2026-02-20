@@ -1,0 +1,231 @@
+{
+  "form_id": "IRS1040ScheduleSE",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AllowableSEAmt",
+      "path": "AllowableSEAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CombinedSEAmt",
+      "path": "CombinedSEAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CombinedSEAndChurchWagesAmt",
+      "path": "CombinedSEAndChurchWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConservationReserveProgPymtAmt",
+      "path": "ConservationReserveProgPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleSelfEmploymentTaxAmt",
+      "path": "DeductibleSelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptForm4361Ind",
+      "path": "ExemptForm4361Ind",
+      "type": "bool"
+    },
+    {
+      "name": "MinAllowableChurchWagesAmt",
+      "path": "MinAllowableChurchWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinimumProfitForSETaxAmt",
+      "path": "MinimumProfitForSETaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFarmProfitLossAmt",
+      "path": "NetFarmProfitLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetNonFarmProfitLossAmt",
+      "path": "NetNonFarmProfitLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OptionalMethodAmt",
+      "path": "OptionalMethodAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SEBaseAmt",
+      "path": "SEBaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SETaxFarmOptionalMethodAmt",
+      "path": "SETaxFarmOptionalMethodAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SETaxNonFarmOptionalBaseAmt",
+      "path": "SETaxNonFarmOptionalBaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SETaxNonFarmOptionalMethodAmt",
+      "path": "SETaxNonFarmOptionalMethodAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SETotalNetEarningsOrLossAmt",
+      "path": "SETotalNetEarningsOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@additionalIncomeOrLossAmt",
+      "path": "SETotalNetEarningsOrLossAmt/@additionalIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@additionalIncomeOrLossCd",
+      "path": "SETotalNetEarningsOrLossAmt/@additionalIncomeOrLossCd",
+      "type": "enum"
+    },
+    {
+      "name": "@chap11BankruptcyIncomeAmt",
+      "path": "SETotalNetEarningsOrLossAmt/@chap11BankruptcyIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@chap11BankruptcyIncomeCd",
+      "path": "SETotalNetEarningsOrLossAmt/@chap11BankruptcyIncomeCd",
+      "type": "enum"
+    },
+    {
+      "name": "@communityIncmTaxedToSpouseAmt",
+      "path": "SETotalNetEarningsOrLossAmt/@communityIncmTaxedToSpouseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@communityIncmTaxedToSpouseCd",
+      "path": "SETotalNetEarningsOrLossAmt/@communityIncmTaxedToSpouseCd",
+      "type": "enum"
+    },
+    {
+      "name": "@exemptCommunityIncomeAmt",
+      "path": "SETotalNetEarningsOrLossAmt/@exemptCommunityIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@exemptCommunityIncomeCd",
+      "path": "SETotalNetEarningsOrLossAmt/@exemptCommunityIncomeCd",
+      "type": "enum"
+    },
+    {
+      "name": "@selfEmploymentTaxExemptAmt",
+      "path": "SETotalNetEarningsOrLossAmt/@selfEmploymentTaxExemptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@selfEmploymentTaxExemptCd",
+      "path": "SETotalNetEarningsOrLossAmt/@selfEmploymentTaxExemptCd",
+      "type": "enum"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SSTWagesRRTCompAmt",
+      "path": "SSTWagesRRTCompAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmploymentTaxAmt",
+      "path": "SelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@additionalIncomeOrLossAmt",
+      "path": "ShortScheduleSE/SETotalNetEarningsOrLossAmt/@additionalIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@additionalIncomeOrLossCd",
+      "path": "ShortScheduleSE/SETotalNetEarningsOrLossAmt/@additionalIncomeOrLossCd",
+      "type": "enum"
+    },
+    {
+      "name": "@chap11BankruptcyIncomeAmt",
+      "path": "ShortScheduleSE/SETotalNetEarningsOrLossAmt/@chap11BankruptcyIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@chap11BankruptcyIncomeCd",
+      "path": "ShortScheduleSE/SETotalNetEarningsOrLossAmt/@chap11BankruptcyIncomeCd",
+      "type": "enum"
+    },
+    {
+      "name": "@communityIncmTaxedToSpouseAmt",
+      "path": "ShortScheduleSE/SETotalNetEarningsOrLossAmt/@communityIncmTaxedToSpouseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@communityIncmTaxedToSpouseCd",
+      "path": "ShortScheduleSE/SETotalNetEarningsOrLossAmt/@communityIncmTaxedToSpouseCd",
+      "type": "enum"
+    },
+    {
+      "name": "@exemptCommunityIncomeAmt",
+      "path": "ShortScheduleSE/SETotalNetEarningsOrLossAmt/@exemptCommunityIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@exemptCommunityIncomeCd",
+      "path": "ShortScheduleSE/SETotalNetEarningsOrLossAmt/@exemptCommunityIncomeCd",
+      "type": "enum"
+    },
+    {
+      "name": "@selfEmploymentTaxExemptAmt",
+      "path": "ShortScheduleSE/SETotalNetEarningsOrLossAmt/@selfEmploymentTaxExemptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@selfEmploymentTaxExemptCd",
+      "path": "ShortScheduleSE/SETotalNetEarningsOrLossAmt/@selfEmploymentTaxExemptCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxBaseAmt",
+      "path": "TaxBaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalWagesAndUnreportedTipsAmt",
+      "path": "TotalWagesAndUnreportedTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnreportedTipsAmt",
+      "path": "UnreportedTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "W2WagesFromChurchesAmt",
+      "path": "W2WagesFromChurchesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesSubjectToSSTAmt",
+      "path": "WagesSubjectToSSTAmt",
+      "type": "usd"
+    }
+  ]
+}

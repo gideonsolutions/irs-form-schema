@@ -1,0 +1,276 @@
+{
+  "form_id": "IRS8824",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "@gainInMultiAssetExchStmtInd",
+      "path": "@gainInMultiAssetExchStmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdjBssOfLikeKindPropGvnUpAmt",
+      "path": "AdjBssOfLikeKindPropGvnUpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBasisOfOthPropGvnUpAmt",
+      "path": "AdjustedBasisOfOthPropGvnUpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BasisOfLikeKindPropertyRcvdAmt",
+      "path": "BasisOfLikeKindPropertyRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssLikeKindIntngblPropRcvdAmt",
+      "path": "BssLikeKindIntngblPropRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssLikeKindSect1245PropRcvdAmt",
+      "path": "BssLikeKindSect1245PropRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssLikeKindSect1250PropRcvdAmt",
+      "path": "BssLikeKindSect1250PropRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CashFMVNetLiabRedByExpnssAmt",
+      "path": "CashFMVNetLiabRedByExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferralOfGainAmt",
+      "path": "DeferralOfGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferralOfGainBssOfRplcPropAmt",
+      "path": "DeferralOfGainBssOfRplcPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferralOfGainCertOfDvsttrNum",
+      "path": "DeferralOfGainCertOfDvsttrNum",
+      "type": "string"
+    },
+    {
+      "name": "DeferralOfGainDescOfRplcProp",
+      "path": "DeferralOfGainDescOfRplcProp",
+      "type": "unknown"
+    },
+    {
+      "name": "DeferralOfGainDvstdPropBssAmt",
+      "path": "DeferralOfGainDvstdPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferralOfGainDvstdPropSaleAmt",
+      "path": "DeferralOfGainDvstdPropSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferralOfGainDvstdPropSoldDt",
+      "path": "DeferralOfGainDvstdPropSoldDt",
+      "type": "date"
+    },
+    {
+      "name": "DeferralOfGainDvstdProperty",
+      "path": "DeferralOfGainDvstdProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "DeferralOfGainRcgnzGainAmt",
+      "path": "DeferralOfGainRcgnzGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferralOfGainRcgnzLessLossAmt",
+      "path": "DeferralOfGainRcgnzLessLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferralOfGainRealizedGainAmt",
+      "path": "DeferralOfGainRealizedGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferralOfGainRplcCostAftrAmt",
+      "path": "DeferralOfGainRplcCostAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferredGainOrLossAmt",
+      "path": "DeferredGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DisposWasAftrDthRltdPartysInd",
+      "path": "DisposWasAftrDthRltdPartysInd",
+      "type": "bool"
+    },
+    {
+      "name": "DispositionWasInvlntryCnvrtInd",
+      "path": "DispositionWasInvlntryCnvrtInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ExchDisposNotTaxAvoidanceInd",
+      "path": "ExchDisposNotTaxAvoidanceInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExchangeMadeWithRelatedPrtyInd",
+      "path": "ExchangeMadeWithRelatedPrtyInd",
+      "type": "bool"
+    },
+    {
+      "name": "FMVOfLikeKindPropertyRcvdAmt",
+      "path": "FMVOfLikeKindPropertyRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FMVOfOtherPropertyGivenUpAmt",
+      "path": "FMVOfOtherPropertyGivenUpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "GainLossOnOtherPropGvnUpAmt",
+      "path": "GainLossOnOtherPropGvnUpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainOrLossAmt",
+      "path": "GainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LikeKindPropertyGivenUpDsc",
+      "path": "LikeKindPropertyGivenUpDsc",
+      "type": "unknown"
+    },
+    {
+      "name": "LikeKindPropertyReceivedDsc",
+      "path": "LikeKindPropertyReceivedDsc",
+      "type": "unknown"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "OrdinaryIncmUndRecaptureRlsAmt",
+      "path": "OrdinaryIncmUndRecaptureRlsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherPropertyGivenUpDesc",
+      "path": "OtherPropertyGivenUpDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherPropertyReceivedDesc",
+      "path": "OtherPropertyReceivedDesc",
+      "type": "string"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PropertyActuallyReceivedDt",
+      "path": "PropertyActuallyReceivedDt",
+      "type": "date"
+    },
+    {
+      "name": "PropertyGivenUpAcquiredDt",
+      "path": "PropertyGivenUpAcquiredDt",
+      "type": "date"
+    },
+    {
+      "name": "PropertyTransferredDt",
+      "path": "PropertyTransferredDt",
+      "type": "date"
+    },
+    {
+      "name": "RealizedAmt",
+      "path": "RealizedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealizedGainOrLossAmt",
+      "path": "RealizedGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecognizedGainAmt",
+      "path": "RecognizedGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RelatedPartySoldPropRcvdInd",
+      "path": "RelatedPartySoldPropRcvdInd",
+      "type": "bool"
+    },
+    {
+      "name": "RelationshipDescriptionTxt",
+      "path": "RelationshipDescriptionTxt",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SmallerGainOrLossAmt",
+      "path": "SmallerGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrGainLossLessOrdnryIncmAmt",
+      "path": "SmllrGainLossLessOrdnryIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USAddress",
+      "path": "USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "WrittenNoticeOfPropertyRcvdDt",
+      "path": "WrittenNoticeOfPropertyRcvdDt",
+      "type": "date"
+    },
+    {
+      "name": "YouSoldPropertyReceivedInd",
+      "path": "YouSoldPropertyReceivedInd",
+      "type": "bool"
+    }
+  ]
+}

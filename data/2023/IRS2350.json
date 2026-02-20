@@ -1,0 +1,81 @@
+{
+  "form_id": "IRS2350",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdnlTimeToAllocateMoveExpnsInd",
+      "path": "AdnlTimeToAllocateMoveExpnsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExpectedUSReturnDt",
+      "path": "ExpectedUSReturnDt",
+      "type": "date"
+    },
+    {
+      "name": "ExtsnRequestIncomeTaxPaidAmt",
+      "path": "ExtsnRequestIncomeTaxPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingExtensionPrevGrantedInd",
+      "path": "FilingExtensionPrevGrantedInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ForeignCountryFirstArrivalDt",
+      "path": "ForeignCountryFirstArrivalDt",
+      "type": "date"
+    },
+    {
+      "name": "QualifyingResidentPeriodBegDt",
+      "path": "QualifyingResidentPeriodBegDt",
+      "type": "date"
+    },
+    {
+      "name": "QualifyingResidentPeriodEndDt",
+      "path": "QualifyingResidentPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "RequestedFilingExtensionDt",
+      "path": "RequestedFilingExtensionDt",
+      "type": "date"
+    },
+    {
+      "name": "RequestedOtherTaxYrExtensionDt",
+      "path": "RequestedOtherTaxYrExtensionDt",
+      "type": "date"
+    }
+  ]
+}

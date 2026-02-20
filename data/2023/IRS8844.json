@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS8844",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AllocatedToBeneficiariesAmt",
+      "path": "AllocatedToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearCreditAmt",
+      "path": "CurrentYearCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsAndCoopsCreditAmt",
+      "path": "EstatesTrustsAndCoopsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FlowthroughEntityCreditAmt",
+      "path": "FlowthroughEntityCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentYearEZRCECreditAmt",
+      "path": "TotalCurrentYearEZRCECreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQualifiedEmpwrZoneWgsAmt",
+      "path": "TotalQualifiedEmpwrZoneWgsAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "form_id": "IRS8834",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CertainAllowableCreditsAmt",
+      "path": "CertainAllowableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecMotorVehCrAmt",
+      "path": "QlfyElecMotorVehCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecVehAdjRegularTaxAmt",
+      "path": "QlfyElecVehAdjRegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecVehNetRegularTaxAmt",
+      "path": "QlfyElecVehNetRegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecVehPssvActyCrAllwAmt",
+      "path": "QlfyElecVehPssvActyCrAllwAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecVehRegularTxBfrCrAmt",
+      "path": "QlfyElecVehRegularTxBfrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecVehTentativeMinTaxAmt",
+      "path": "QlfyElecVehTentativeMinTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotTaxCrBfrQlfyElecVehCrAmt",
+      "path": "TotTaxCrBfrQlfyElecVehCrAmt",
+      "type": "usd"
+    }
+  ]
+}

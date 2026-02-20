@@ -1,0 +1,191 @@
+{
+  "form_id": "IRS8903",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "@filedPursuantToSect30191002Cd",
+      "path": "@filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "AllocatedCostOfGoodsSoldAmt",
+      "path": "AllActivitiesGrp/AllocatedCostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DirectDedExpensesLossesAmt",
+      "path": "AllActivitiesGrp/DirectDedExpensesLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticProductionGroRcptsAmt",
+      "path": "AllActivitiesGrp/DomesticProductionGroRcptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateOrTrustAllocatedBenefAmt",
+      "path": "AllActivitiesGrp/EstateOrTrustAllocatedBenefAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndirectDedExpnssLossesAmt",
+      "path": "AllActivitiesGrp/IndirectDedExpnssLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetDomesticProdGrossRcptsAmt",
+      "path": "AllActivitiesGrp/NetDomesticProdGrossRcptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProductionActivitiesIncomeAmt",
+      "path": "AllActivitiesGrp/ProductionActivitiesIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyProductionActivitiesAmt",
+      "path": "AllActivitiesGrp/QlfyProductionActivitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyProductionActyIncomeAmt",
+      "path": "AllActivitiesGrp/QlfyProductionActyIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCostGdsSoldDedExpnssLossAmt",
+      "path": "AllActivitiesGrp/TotCostGdsSoldDedExpnssLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocatedCostOfGoodsSoldAmt",
+      "path": "AllProductionGrp/AllocatedCostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DirectDedExpensesLossesAmt",
+      "path": "AllProductionGrp/DirectDedExpensesLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticProductionGroRcptsAmt",
+      "path": "AllProductionGrp/DomesticProductionGroRcptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateOrTrustAllocatedBenefAmt",
+      "path": "AllProductionGrp/EstateOrTrustAllocatedBenefAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndirectDedExpnssLossesAmt",
+      "path": "AllProductionGrp/IndirectDedExpnssLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetDomesticProdGrossRcptsAmt",
+      "path": "AllProductionGrp/NetDomesticProdGrossRcptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OilRelQlfyProdActivitiesIncAmt",
+      "path": "AllProductionGrp/OilRelQlfyProdActivitiesIncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProductionActivitiesIncomeAmt",
+      "path": "AllProductionGrp/ProductionActivitiesIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyProductionActivitiesAmt",
+      "path": "AllProductionGrp/QlfyProductionActivitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCostGdsSoldDedExpnssLossAmt",
+      "path": "AllProductionGrp/TotCostGdsSoldDedExpnssLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CoopeartivesDomesticProdDedAmt",
+      "path": "CoopeartivesDomesticProdDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticProdActivityRedAmt",
+      "path": "DomesticProdActivityRedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticProductionActDedAmt",
+      "path": "DomesticProductionActDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateOrTrustAllocatedBenefAmt",
+      "path": "EstateOrTrustAllocatedBenefAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesAndTrustsAmt",
+      "path": "EstatesAndTrustsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpandedGroupAllocationAmt",
+      "path": "ExpandedGroupAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLimitationAmt",
+      "path": "IncomeLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomePctOrW2WageLimitationAmt",
+      "path": "IncomePctOrW2WageLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassThroughW2WagesAmt",
+      "path": "PassThroughW2WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PercentOfIncomeAmt",
+      "path": "PercentOfIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyIncOrOilRelOrIncLimitsAmt",
+      "path": "QlfyIncOrOilRelOrIncLimitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyIncOrOilRelOrIncPercentAmt",
+      "path": "QlfyIncOrOilRelOrIncPercentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedIncomeOrIncomeLmtAmt",
+      "path": "QualifiedIncomeOrIncomeLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalW2WagesAmt",
+      "path": "TotalW2WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "W2WageLimitationAmt",
+      "path": "W2WageLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "W2WagesAmt",
+      "path": "W2WagesAmt",
+      "type": "usd"
+    }
+  ]
+}

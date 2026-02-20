@@ -1,0 +1,291 @@
+{
+  "form_id": "IRS8886",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AbsenceOfAdjustmentsToBasisInd",
+      "path": "AbsenceOfAdjustmentsToBasisInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdjustmentsToBasisInd",
+      "path": "AdjustmentsToBasisInd",
+      "type": "bool"
+    },
+    {
+      "name": "AttachedToAmendedReturnInd",
+      "path": "AttachedToAmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "CapitalLossInd",
+      "path": "CapitalLossInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClmTotTaxBnftAnticipatedYrCnt",
+      "path": "ClmTotTaxBnftAnticipatedYrCnt",
+      "type": "int"
+    },
+    {
+      "name": "ConfidentialInd",
+      "path": "ConfidentialInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContractualProtectionInd",
+      "path": "ContractualProtectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeductionsInd",
+      "path": "DeductionsInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeferralInd",
+      "path": "DeferralInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExclusionsFromGrossIncomeInd",
+      "path": "ExclusionsFromGrossIncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExpectedTaxBenefitsExplnTxt",
+      "path": "ExpectedTaxBenefitsExplnTxt",
+      "type": "string"
+    },
+    {
+      "name": "IdentifyAllInvolvedInTr",
+      "path": "IdentifyAllInvolvedInTr",
+      "type": "unknown"
+    },
+    {
+      "name": "InitialYearFilerInd",
+      "path": "InitialYearFilerInd",
+      "type": "bool"
+    },
+    {
+      "name": "ListedInd",
+      "path": "ListedInd",
+      "type": "bool"
+    },
+    {
+      "name": "LossInd",
+      "path": "LossInd",
+      "type": "bool"
+    },
+    {
+      "name": "NonrecognitionOfGainInd",
+      "path": "NonrecognitionOfGainInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrdinaryLossInd",
+      "path": "OrdinaryLossInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@otherTaxBenefitDesc",
+      "path": "OtherInd/@otherTaxBenefitDesc",
+      "type": "string"
+    },
+    {
+      "name": "PersonsYouPaidAFeeInfo",
+      "path": "PersonsYouPaidAFeeInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PersonsYouPaidAFeeInfo/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PersonsYouPaidAFeeInfo/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PersonsYouPaidAFeeInfo/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PersonsYouPaidAFeeInfo/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "PersonsYouPaidAFeeInfo/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "PersonsYouPaidAFeeInfo/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonsYouPaidAFeeInfo/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PersonsYouPaidAFeeInfo/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PersonsYouPaidAFeeInfo/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PersonsYouPaidAFeeInfo/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "PersonsYouPaidAFeeInfo/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "PersonsYouPaidAFeeInfo/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProtectiveDisclosureInd",
+      "path": "ProtectiveDisclosureInd",
+      "type": "bool"
+    },
+    {
+      "name": "PublishedGuidanceNumberTxt",
+      "path": "PublishedGuidanceNumberTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportableTransactionInfo",
+      "path": "ReportableTransactionInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "ReportableTransactionDesc",
+      "path": "ReportableTransactionInfo/ReportableTransactionDesc",
+      "type": "string"
+    },
+    {
+      "name": "@bookTaxDifferenceIndicator",
+      "path": "ReportableTransactionInfo/ReportableTransactionDesc/@bookTaxDifferenceIndicator",
+      "type": "unknown"
+    },
+    {
+      "name": "SameOrSimilarTransactionCnt",
+      "path": "SameOrSimilarTransactionCnt",
+      "type": "int"
+    },
+    {
+      "name": "StatementCnt",
+      "path": "StatementCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxCreditsInd",
+      "path": "TaxCreditsInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxReturnFormNumberDsc",
+      "path": "TaxReturnFormNumberDsc",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxYearDt",
+      "path": "TaxYearDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalInvestmentOrBasisAmt",
+      "path": "TotalInvestmentOrBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalStatementCnt",
+      "path": "TotalStatementCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalTaxBenefitAmt",
+      "path": "TotalTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TransactionOfInterestInd",
+      "path": "TransactionOfInterestInd",
+      "type": "bool"
+    },
+    {
+      "name": "*",
+      "path": "TypeOfEntityInformation/*",
+      "type": "unknown"
+    },
+    {
+      "name": "EntityEIN",
+      "path": "TypeOfEntityInformation/EntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TypeOfEntityInformation/EntityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TypeOfEntityInformation/EntityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignInd",
+      "path": "TypeOfEntityInformation/ForeignInd",
+      "type": "bool"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "TypeOfEntityInformation/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NoScheduleK1ReceivedCd",
+      "path": "TypeOfEntityInformation/NoScheduleK1ReceivedCd",
+      "type": "enum"
+    },
+    {
+      "name": "PartnershipInd",
+      "path": "TypeOfEntityInformation/PartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "SCorporationInd",
+      "path": "TypeOfEntityInformation/SCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "ScheduleK1ReceivedDt",
+      "path": "TypeOfEntityInformation/ScheduleK1ReceivedDt",
+      "type": "date"
+    },
+    {
+      "name": "TrustInd",
+      "path": "TypeOfEntityInformation/TrustInd",
+      "type": "bool"
+    }
+  ]
+}

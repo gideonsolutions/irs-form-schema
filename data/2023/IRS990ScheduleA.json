@@ -1,0 +1,1496 @@
+{
+  "form_id": "IRS990ScheduleA",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CurrentYearAmt",
+      "path": "AdjustedNetIncomeGrp/AdjustedGrossIncomeGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "AdjustedNetIncomeGrp/AdjustedGrossIncomeGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AdjustedNetIncomeGrp/DepreciationDepletionGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "AdjustedNetIncomeGrp/DepreciationDepletionGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AdjustedNetIncomeGrp/NetSTCapitalGainAdjNetIncmGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "AdjustedNetIncomeGrp/NetSTCapitalGainAdjNetIncmGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AdjustedNetIncomeGrp/OtherExpensesGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "AdjustedNetIncomeGrp/OtherExpensesGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AdjustedNetIncomeGrp/OtherGrossIncomeGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "AdjustedNetIncomeGrp/OtherGrossIncomeGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AdjustedNetIncomeGrp/ProductionIncomeGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "AdjustedNetIncomeGrp/ProductionIncomeGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AdjustedNetIncomeGrp/RecoveriesPYDistributionsGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "AdjustedNetIncomeGrp/RecoveriesPYDistributionsGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AdjustedNetIncomeGrp/TotalAdjustedNetIncomeGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "AdjustedNetIncomeGrp/TotalAdjustedNetIncomeGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgriculturalNameAndAddressGrp",
+      "path": "AgriculturalNameAndAddressGrp",
+      "type": "group"
+    },
+    {
+      "name": "AgriculturalResearchOrgInd",
+      "path": "AgriculturalResearchOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "AmountsRcvdDsqlfyPersonGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "AmountsRcvdDsqlfyPersonGrp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "AmountsRcvdDsqlfyPersonGrp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "AmountsRcvdDsqlfyPersonGrp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "AmountsRcvdDsqlfyPersonGrp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "AmountsRcvdDsqlfyPersonGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChurchInd",
+      "path": "ChurchInd",
+      "type": "bool"
+    },
+    {
+      "name": "CollegeOrganizationInd",
+      "path": "CollegeOrganizationInd",
+      "type": "bool"
+    },
+    {
+      "name": "CommunityTrustInd",
+      "path": "CommunityTrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "           FirstYearType3NonFuncInd",
+      "path": "DistributableAmountGrp/           FirstYearType3NonFuncInd",
+      "type": "bool"
+    },
+    {
+      "name": "CYAdjNetIncomeDistributableAmt",
+      "path": "DistributableAmountGrp/CYAdjNetIncomeDistributableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYDistributableAsAdjustedAmt",
+      "path": "DistributableAmountGrp/CYDistributableAsAdjustedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYGreaterAdjustedMinimumAmt",
+      "path": "DistributableAmountGrp/CYGreaterAdjustedMinimumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYIncomeTaxImposedPYAmt",
+      "path": "DistributableAmountGrp/CYIncomeTaxImposedPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYPct85AdjustedNetIncomeAmt",
+      "path": "DistributableAmountGrp/CYPct85AdjustedNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYTotalMinAstDistributableAmt",
+      "path": "DistributableAmountGrp/CYTotalMinAstDistributableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             CYTotalAnnualDistributionsAmt",
+      "path": "DistributionAllocationsGrp/             CYTotalAnnualDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             ExcessDistributionCyovYr1Amt",
+      "path": "DistributionAllocationsGrp/             ExcessDistributionCyovYr1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "             ExcessDistributionCyovYr2Amt",
+      "path": "DistributionAllocationsGrp/             ExcessDistributionCyovYr2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "             ExcessDistributionCyovYr3Amt",
+      "path": "DistributionAllocationsGrp/             ExcessDistributionCyovYr3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "             ExcessDistributionCyovYr4Amt",
+      "path": "DistributionAllocationsGrp/             ExcessDistributionCyovYr4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "             ExcessDistributionCyovYr5Amt",
+      "path": "DistributionAllocationsGrp/             ExcessDistributionCyovYr5Amt",
+      "type": "usd"
+    },
+    {
+      "name": "             ExcessFromYear1Amt",
+      "path": "DistributionAllocationsGrp/             ExcessFromYear1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "             ExcessFromYear2Amt",
+      "path": "DistributionAllocationsGrp/             ExcessFromYear2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "             ExcessFromYear3Amt",
+      "path": "DistributionAllocationsGrp/             ExcessFromYear3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "             ExcessFromYear4Amt",
+      "path": "DistributionAllocationsGrp/             ExcessFromYear4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "             ExcessFromYear5Amt",
+      "path": "DistributionAllocationsGrp/             ExcessFromYear5Amt",
+      "type": "usd"
+    },
+    {
+      "name": "            CYDistriAppDistributableAmt",
+      "path": "DistributionAllocationsGrp/            CYDistriAppDistributableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            CYDistribAppUnderdistriPYAmt",
+      "path": "DistributionAllocationsGrp/            CYDistribAppUnderdistriPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            CYDistributableAsAdjustedAmt",
+      "path": "DistributionAllocationsGrp/            CYDistributableAsAdjustedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            CarryoverPYNotAppliedAmt",
+      "path": "DistributionAllocationsGrp/            CarryoverPYNotAppliedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            CyovAppliedUnderdistrCPYAmt",
+      "path": "DistributionAllocationsGrp/            CyovAppliedUnderdistrCPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ExcessDistriCyovToNextYrAmt",
+      "path": "DistributionAllocationsGrp/            ExcessDistriCyovToNextYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ExcessDistributionCyovAmt",
+      "path": "DistributionAllocationsGrp/            ExcessDistributionCyovAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            RemainingUnderdistriCYAmt",
+      "path": "DistributionAllocationsGrp/            RemainingUnderdistriCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            RemainingUnderdistriPYAmt",
+      "path": "DistributionAllocationsGrp/            RemainingUnderdistriPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CyovAppliedUnderdistriPYAmt",
+      "path": "DistributionAllocationsGrp/CyovAppliedUnderdistriPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessDistributionAmt",
+      "path": "DistributionAllocationsGrp/ExcessDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExcessDistributionCyovAmt",
+      "path": "DistributionAllocationsGrp/TotalExcessDistributionCyovAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnderdistributionsAmt",
+      "path": "DistributionAllocationsGrp/UnderdistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYAdministrativeExpensePaidAmt",
+      "path": "DistributionsGrp/CYAdministrativeExpensePaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYDistriAttentiveSuprtOrgAmt",
+      "path": "DistributionsGrp/CYDistriAttentiveSuprtOrgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYDistributableAsAdjustedAmt",
+      "path": "DistributionsGrp/CYDistributableAsAdjustedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYDistributionYrRt",
+      "path": "DistributionsGrp/CYDistributionYrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "CYOtherDistributionsAmt",
+      "path": "DistributionsGrp/CYOtherDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYPaidAccomplishExemptPrpsAmt",
+      "path": "DistributionsGrp/CYPaidAccomplishExemptPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYPdInExcessIncomeActivityAmt",
+      "path": "DistributionsGrp/CYPdInExcessIncomeActivityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYTotalAnnualDistributionsAmt",
+      "path": "DistributionsGrp/CYTotalAnnualDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptUseAssetsAcquisPaidAmt",
+      "path": "DistributionsGrp/ExemptUseAssetsAcquisPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedSetAsideAmt",
+      "path": "DistributionsGrp/QualifiedSetAsideAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FactsAndCircumstancesTestTxt",
+      "path": "FactsAndCircumstancesTestTxt",
+      "type": "string"
+    },
+    {
+      "name": "First5Years170Ind",
+      "path": "First5Years170Ind",
+      "type": "bool"
+    },
+    {
+      "name": "First5Years509Ind",
+      "path": "First5Years509Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Contribution35ControlledInd",
+      "path": "Form990SchASupportingOrgGrp/Contribution35ControlledInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContributionControllerInd",
+      "path": "Form990SchASupportingOrgGrp/ContributionControllerInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContributionFamilyInd",
+      "path": "Form990SchASupportingOrgGrp/ContributionFamilyInd",
+      "type": "bool"
+    },
+    {
+      "name": "ControlDecidingGrntFrgnOrgInd",
+      "path": "Form990SchASupportingOrgGrp/ControlDecidingGrntFrgnOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "ControlledDisqualifiedPrsnInd",
+      "path": "Form990SchASupportingOrgGrp/ControlledDisqualifiedPrsnInd",
+      "type": "bool"
+    },
+    {
+      "name": "DisqualifiedPrsnControllIntInd",
+      "path": "Form990SchASupportingOrgGrp/DisqualifiedPrsnControllIntInd",
+      "type": "bool"
+    },
+    {
+      "name": "DisqualifiedPrsnOwnrIntInd",
+      "path": "Form990SchASupportingOrgGrp/DisqualifiedPrsnOwnrIntInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExcessBusinessHoldingsInd",
+      "path": "Form990SchASupportingOrgGrp/ExcessBusinessHoldingsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExcessBusinessHoldingsRulesInd",
+      "path": "Form990SchASupportingOrgGrp/ExcessBusinessHoldingsRulesInd",
+      "type": "bool"
+    },
+    {
+      "name": "ListedByNameGoverningDocInd",
+      "path": "Form990SchASupportingOrgGrp/ListedByNameGoverningDocInd",
+      "type": "bool"
+    },
+    {
+      "name": "LoanDisqualifiedPersonInd",
+      "path": "Form990SchASupportingOrgGrp/LoanDisqualifiedPersonInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrganizationChangeSuprtOrgInd",
+      "path": "Form990SchASupportingOrgGrp/OrganizationChangeSuprtOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "PaymentSubstantialContribtrInd",
+      "path": "Form990SchASupportingOrgGrp/PaymentSubstantialContribtrInd",
+      "type": "bool"
+    },
+    {
+      "name": "SubstitutionBeyondOrgCntlInd",
+      "path": "Form990SchASupportingOrgGrp/SubstitutionBeyondOrgCntlInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupportForeignOrgNoDetermInd",
+      "path": "Form990SchASupportingOrgGrp/SupportForeignOrgNoDetermInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupportNonSupportedOrgInd",
+      "path": "Form990SchASupportingOrgGrp/SupportNonSupportedOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupportedOrgClassDesignatedInd",
+      "path": "Form990SchASupportingOrgGrp/SupportedOrgClassDesignatedInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupportedOrgNotOrganizedUSInd",
+      "path": "Form990SchASupportingOrgGrp/SupportedOrgNotOrganizedUSInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupportedOrgQualifiedInd",
+      "path": "Form990SchASupportingOrgGrp/SupportedOrgQualifiedInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupportedOrgSectionC456Ind",
+      "path": "Form990SchASupportingOrgGrp/SupportedOrgSectionC456Ind",
+      "type": "bool"
+    },
+    {
+      "name": "SuprtExclusivelySec170c2BInd",
+      "path": "Form990SchASupportingOrgGrp/SuprtExclusivelySec170c2BInd",
+      "type": "bool"
+    },
+    {
+      "name": "SuprtOrgNoIRSDeterminationInd",
+      "path": "Form990SchASupportingOrgGrp/SuprtOrgNoIRSDeterminationInd",
+      "type": "bool"
+    },
+    {
+      "name": "OperateBenefitNonSuprtOrgInd",
+      "path": "Form990SchAType1SuprtOrgGrp/OperateBenefitNonSuprtOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "PowerAppointMajorityDirTrstInd",
+      "path": "Form990SchAType1SuprtOrgGrp/PowerAppointMajorityDirTrstInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesEngagedOrgInvlmntInd",
+      "path": "Form990SchAType3FuncIntGrp/ActivitiesEngagedOrgInvlmntInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesFurtherExemptPrpsInd",
+      "path": "Form990SchAType3FuncIntGrp/ActivitiesFurtherExemptPrpsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesTestInd",
+      "path": "Form990SchAType3FuncIntGrp/ActivitiesTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "AppointElectMajorityOfficerInd",
+      "path": "Form990SchAType3FuncIntGrp/AppointElectMajorityOfficerInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExerciseDirectionPoliciesInd",
+      "path": "Form990SchAType3FuncIntGrp/ExerciseDirectionPoliciesInd",
+      "type": "bool"
+    },
+    {
+      "name": "GovernmentalEntityInd",
+      "path": "Form990SchAType3FuncIntGrp/GovernmentalEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "ParentSupportedOrgInd",
+      "path": "Form990SchAType3FuncIntGrp/ParentSupportedOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "OfficersCloseRelationshipInd",
+      "path": "Form990SchAType3SprtOrgAllGrp/OfficersCloseRelationshipInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupportedOrgVoiceInvestmentInd",
+      "path": "Form990SchAType3SprtOrgAllGrp/SupportedOrgVoiceInvestmentInd",
+      "type": "bool"
+    },
+    {
+      "name": "TimelyProvidedDocumentsInd",
+      "path": "Form990SchAType3SprtOrgAllGrp/TimelyProvidedDocumentsInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form990ScheduleAPartVIGrp",
+      "path": "Form990ScheduleAPartVIGrp",
+      "type": "group"
+    },
+    {
+      "name": "          CurrentTaxYearAmt",
+      "path": "GiftsGrantsContriRcvd170Grp/          CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "          CurrentTaxYearMinus1YearAmt",
+      "path": "GiftsGrantsContriRcvd170Grp/          CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "          CurrentTaxYearMinus2YearsAmt",
+      "path": "GiftsGrantsContriRcvd170Grp/          CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "          CurrentTaxYearMinus3YearsAmt",
+      "path": "GiftsGrantsContriRcvd170Grp/          CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "          CurrentTaxYearMinus4YearsAmt",
+      "path": "GiftsGrantsContriRcvd170Grp/          CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "GiftsGrantsContriRcvd170Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "GiftsGrantsContrisRcvd509Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "GiftsGrantsContrisRcvd509Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "GiftsGrantsContrisRcvd509Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "GiftsGrantsContrisRcvd509Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "GiftsGrantsContrisRcvd509Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "GiftsGrantsContrisRcvd509Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GovernmentalUnitInd",
+      "path": "GovernmentalUnitInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "GovtFurnSrvcFcltsVl170Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "GovtFurnSrvcFcltsVl170Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "GovtFurnSrvcFcltsVl170Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "GovtFurnSrvcFcltsVl170Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "GovtFurnSrvcFcltsVl170Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "GovtFurnSrvcFcltsVl170Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "GovtFurnSrvcFcltsVl509Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "GovtFurnSrvcFcltsVl509Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "GovtFurnSrvcFcltsVl509Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "GovtFurnSrvcFcltsVl509Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "GovtFurnSrvcFcltsVl509Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "GovtFurnSrvcFcltsVl509Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "GrossInvestmentIncome170Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "GrossInvestmentIncome170Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "GrossInvestmentIncome170Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "GrossInvestmentIncome170Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "GrossInvestmentIncome170Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "GrossInvestmentIncome170Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "GrossInvestmentIncome509Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "GrossInvestmentIncome509Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "GrossInvestmentIncome509Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "GrossInvestmentIncome509Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "GrossInvestmentIncome509Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "GrossInvestmentIncome509Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "GrossReceiptsAdmissionsGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "GrossReceiptsAdmissionsGrp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "GrossReceiptsAdmissionsGrp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "GrossReceiptsAdmissionsGrp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "GrossReceiptsAdmissionsGrp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "GrossReceiptsAdmissionsGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "GrossReceiptsNonUnrltBusGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "GrossReceiptsNonUnrltBusGrp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "GrossReceiptsNonUnrltBusGrp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "GrossReceiptsNonUnrltBusGrp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "GrossReceiptsNonUnrltBusGrp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "GrossReceiptsNonUnrltBusGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsRltdActivitiesAmt",
+      "path": "GrossReceiptsRltdActivitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HospitalInd",
+      "path": "HospitalInd",
+      "type": "bool"
+    },
+    {
+      "name": "HospitalNameAndAddressGrp",
+      "path": "HospitalNameAndAddressGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRSWrittenDeterminationInd",
+      "path": "IRSWrittenDeterminationInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "InvestmentIncomeAndUBTIGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "InvestmentIncomeAndUBTIGrp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "InvestmentIncomeAndUBTIGrp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "InvestmentIncomeAndUBTIGrp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "InvestmentIncomeAndUBTIGrp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "InvestmentIncomeAndUBTIGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentIncomeCYPct",
+      "path": "InvestmentIncomeCYPct",
+      "type": "decimal"
+    },
+    {
+      "name": "InvestmentIncomePYPct",
+      "path": "InvestmentIncomePYPct",
+      "type": "decimal"
+    },
+    {
+      "name": "MajorityDirTrstSupportedOrgInd",
+      "path": "MajorityDirTrstSupportedOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "MedicalResearchOrganizationInd",
+      "path": "MedicalResearchOrganizationInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/AcquisitionIndebtednessGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/AcquisitionIndebtednessGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/AdjustedFMVLessIndebtednessGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/AdjustedFMVLessIndebtednessGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/AverageMonthlyCashBalancesGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/AverageMonthlyCashBalancesGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/AverageMonthlyFMVOfSecGrp//PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/AverageMonthlyFMVOfSecGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/CashDeemedCharitableGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/CashDeemedCharitableGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DiscountClaimedAmt",
+      "path": "MinimumAssetAmountGrp/DiscountClaimedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/FMVOtherNonExemptUseAssetGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/FMVOtherNonExemptUseAssetGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/NetVlNonExemptUseAssetsGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/NetVlNonExemptUseAssetsGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/PctOfNetVlNonExemptUseAstGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/PctOfNetVlNonExemptUseAstGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/RecoveriesPYDistriMinAssetGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/RecoveriesPYDistriMinAssetGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/TotalFMVOfNonExemptUseAssetGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/TotalFMVOfNonExemptUseAssetGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "MinimumAssetAmountGrp/TotalMinimumAssetGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearAmt",
+      "path": "MinimumAssetAmountGrp/TotalMinimumAssetGrp/PriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "NetIncomeFromOtherUBIGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "NetIncomeFromOtherUBIGrp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "NetIncomeFromOtherUBIGrp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "NetIncomeFromOtherUBIGrp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "NetIncomeFromOtherUBIGrp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "NetIncomeFromOtherUBIGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "OtherIncome170Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "OtherIncome170Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "OtherIncome170Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "OtherIncome170Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "OtherIncome170Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "OtherIncome170Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "OtherIncome509Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "OtherIncome509Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "OtherIncome509Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "OtherIncome509Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "OtherIncome509Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "OtherIncome509Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherSupportSumAmt",
+      "path": "OtherSupportSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "Post1975UBTIGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "Post1975UBTIGrp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "Post1975UBTIGrp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "Post1975UBTIGrp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "Post1975UBTIGrp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "Post1975UBTIGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrivateFoundation170Ind",
+      "path": "PrivateFoundation170Ind",
+      "type": "bool"
+    },
+    {
+      "name": "PrivateFoundation509Ind",
+      "path": "PrivateFoundation509Ind",
+      "type": "bool"
+    },
+    {
+      "name": "PublicOrganization170Ind",
+      "path": "PublicOrganization170Ind",
+      "type": "bool"
+    },
+    {
+      "name": "PublicSupportCY170Pct",
+      "path": "PublicSupportCY170Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "PublicSupportCY509Pct",
+      "path": "PublicSupportCY509Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "PublicSupportPY170Pct",
+      "path": "PublicSupportPY170Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "PublicSupportPY509Pct",
+      "path": "PublicSupportPY509Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "PublicSupportTotal170Amt",
+      "path": "PublicSupportTotal170Amt",
+      "type": "usd"
+    },
+    {
+      "name": "PublicSupportTotal509Amt",
+      "path": "PublicSupportTotal509Amt",
+      "type": "usd"
+    },
+    {
+      "name": "PubliclySupportedOrg509a2Ind",
+      "path": "PubliclySupportedOrg509a2Ind",
+      "type": "bool"
+    },
+    {
+      "name": "RelationshipSchedule",
+      "path": "RelationshipSchedule",
+      "type": "unknown"
+    },
+    {
+      "name": "SchoolInd",
+      "path": "SchoolInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "SubstAndDsqlfyPrsnsTotGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "SubstAndDsqlfyPrsnsTotGrp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "SubstAndDsqlfyPrsnsTotGrp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "SubstAndDsqlfyPrsnsTotGrp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "SubstAndDsqlfyPrsnsTotGrp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SubstAndDsqlfyPrsnsTotGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "SubstantialContributorsAmtGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "SubstantialContributorsAmtGrp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "SubstantialContributorsAmtGrp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "SubstantialContributorsAmtGrp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "SubstantialContributorsAmtGrp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SubstantialContributorsAmtGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubstantialContributorsTotAmt",
+      "path": "SubstantialContributorsTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SupportSumAmt",
+      "path": "SupportSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SupportedOrgInformationGrp",
+      "path": "SupportedOrgInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "SupportedOrganizationsCnt",
+      "path": "SupportedOrganizationsCnt",
+      "type": "int"
+    },
+    {
+      "name": "SupportedOrganizationsTotalCnt",
+      "path": "SupportedOrganizationsTotalCnt",
+      "type": "int"
+    },
+    {
+      "name": "SupportingOrgType1Ind",
+      "path": "SupportingOrgType1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "SupportingOrgType2Ind",
+      "path": "SupportingOrgType2Ind",
+      "type": "bool"
+    },
+    {
+      "name": "SupportingOrgType3FuncIntInd",
+      "path": "SupportingOrgType3FuncIntInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupportingOrgType3NonFuncInd",
+      "path": "SupportingOrgType3NonFuncInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupportingOrganization509a3Ind",
+      "path": "SupportingOrganization509a3Ind",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft170Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft170Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft170Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft170Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft170Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft170Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft509Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft509Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft509Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft509Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft509Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "TaxRevLeviedOrgnztnlBnft509Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TenPctFactsCrcmstncsTestCYInd",
+      "path": "TenPctFactsCrcmstncsTestCYInd",
+      "type": "bool"
+    },
+    {
+      "name": "TenPctFactsCrcmstncsTestPYInd",
+      "path": "TenPctFactsCrcmstncsTestPYInd",
+      "type": "bool"
+    },
+    {
+      "name": "TestPublicSafetyInd",
+      "path": "TestPublicSafetyInd",
+      "type": "bool"
+    },
+    {
+      "name": "ThirtyThrPctSuprtTestsCY170Ind",
+      "path": "ThirtyThrPctSuprtTestsCY170Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ThirtyThrPctSuprtTestsCY509Ind",
+      "path": "ThirtyThrPctSuprtTestsCY509Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ThirtyThrPctSuprtTestsPY170Ind",
+      "path": "ThirtyThrPctSuprtTestsPY170Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ThirtyThrPctSuprtTestsPY509Ind",
+      "path": "ThirtyThrPctSuprtTestsPY509Ind",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "Total509Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "Total509Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "Total509Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "Total509Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "Total509Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "Total509Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "          CurrentTaxYearMinus4YearsAmt",
+      "path": "TotalCalendarYear170Grp/          CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "TotalCalendarYear170Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "TotalCalendarYear170Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "TotalCalendarYear170Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "TotalCalendarYear170Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "TotalCalendarYear170Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "TotalCalendarYear170Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSupportAmt",
+      "path": "TotalSupportAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "TotalSupportCalendarYearGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "TotalSupportCalendarYearGrp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "TotalSupportCalendarYearGrp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "TotalSupportCalendarYearGrp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "TotalSupportCalendarYearGrp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "TotalSupportCalendarYearGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TransferSchedule",
+      "path": "TransferSchedule",
+      "type": "unknown"
+    },
+    {
+      "name": "TrustIntegralPartTestInd",
+      "path": "TrustIntegralPartTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "UnrelatedBusinessNetIncm170Grp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus1YearAmt",
+      "path": "UnrelatedBusinessNetIncm170Grp/CurrentTaxYearMinus1YearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus2YearsAmt",
+      "path": "UnrelatedBusinessNetIncm170Grp/CurrentTaxYearMinus2YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus3YearsAmt",
+      "path": "UnrelatedBusinessNetIncm170Grp/CurrentTaxYearMinus3YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearMinus4YearsAmt",
+      "path": "UnrelatedBusinessNetIncm170Grp/CurrentTaxYearMinus4YearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "UnrelatedBusinessNetIncm170Grp/TotalAmt",
+      "type": "usd"
+    }
+  ]
+}

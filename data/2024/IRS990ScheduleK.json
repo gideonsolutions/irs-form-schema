@@ -1,0 +1,271 @@
+{
+  "form_id": "IRS990ScheduleK",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "ProceduresCorrectiveActionGrp",
+      "path": "ProceduresCorrectiveActionGrp",
+      "type": "group"
+    },
+    {
+      "name": "ProceduresCorrectiveActionInd",
+      "path": "ProceduresCorrectiveActionGrp/ProceduresCorrectiveActionInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupplementalInformationDetail",
+      "path": "SupplementalInformationDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "ExceptionToRebateInd",
+      "path": "TaxExemptBondsArbitrageGrp/ExceptionToRebateInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form8038TFiledInd",
+      "path": "TaxExemptBondsArbitrageGrp/Form8038TFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TaxExemptBondsArbitrageGrp/GICProviderName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TaxExemptBondsArbitrageGrp/GICProviderName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "GrossProceedsInvestedInGICInd",
+      "path": "TaxExemptBondsArbitrageGrp/GrossProceedsInvestedInGICInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossProceedsInvestedInd",
+      "path": "TaxExemptBondsArbitrageGrp/GrossProceedsInvestedInd",
+      "type": "bool"
+    },
+    {
+      "name": "HedgeIdentifiedInBksAndRecInd",
+      "path": "TaxExemptBondsArbitrageGrp/HedgeIdentifiedInBksAndRecInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TaxExemptBondsArbitrageGrp/HedgeProviderName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TaxExemptBondsArbitrageGrp/HedgeProviderName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "HedgeTerminatedInd",
+      "path": "TaxExemptBondsArbitrageGrp/HedgeTerminatedInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoRebateDueInd",
+      "path": "TaxExemptBondsArbitrageGrp/NoRebateDueInd",
+      "type": "bool"
+    },
+    {
+      "name": "RebateNotDueYetInd",
+      "path": "TaxExemptBondsArbitrageGrp/RebateNotDueYetInd",
+      "type": "bool"
+    },
+    {
+      "name": "RegulatorySafeHarborStsfdInd",
+      "path": "TaxExemptBondsArbitrageGrp/RegulatorySafeHarborStsfdInd",
+      "type": "bool"
+    },
+    {
+      "name": "SuperintegratedHedgeInd",
+      "path": "TaxExemptBondsArbitrageGrp/SuperintegratedHedgeInd",
+      "type": "bool"
+    },
+    {
+      "name": "TermOfGICPct",
+      "path": "TaxExemptBondsArbitrageGrp/TermOfGICPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TermOfHedgePct",
+      "path": "TaxExemptBondsArbitrageGrp/TermOfHedgePct",
+      "type": "decimal"
+    },
+    {
+      "name": "VariableRateIssueInd",
+      "path": "TaxExemptBondsArbitrageGrp/VariableRateIssueInd",
+      "type": "bool"
+    },
+    {
+      "name": "WrittenProcToMonitorReqsInd",
+      "path": "TaxExemptBondsArbitrageGrp/WrittenProcToMonitorReqsInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxExemptBondsIssuesGrp",
+      "path": "TaxExemptBondsIssuesGrp",
+      "type": "group"
+    },
+    {
+      "name": "AnyLeaseArrangementsInd",
+      "path": "TaxExemptBondsPrivateBusUseGrp/AnyLeaseArrangementsInd",
+      "type": "bool"
+    },
+    {
+      "name": "AnyResearchAgreementsInd",
+      "path": "TaxExemptBondsPrivateBusUseGrp/AnyResearchAgreementsInd",
+      "type": "bool"
+    },
+    {
+      "name": "BondIssMeetPrvtSecPymtTestInd",
+      "path": "TaxExemptBondsPrivateBusUseGrp/BondIssMeetPrvtSecPymtTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangeInUseBondFinancedPropInd",
+      "path": "TaxExemptBondsPrivateBusUseGrp/ChangeInUseBondFinancedPropInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangeInUseBondFinancedPropPct",
+      "path": "TaxExemptBondsPrivateBusUseGrp/ChangeInUseBondFinancedPropPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EngageBondCounselContractsInd",
+      "path": "TaxExemptBondsPrivateBusUseGrp/EngageBondCounselContractsInd",
+      "type": "bool"
+    },
+    {
+      "name": "EngageBondCounselResearchInd",
+      "path": "TaxExemptBondsPrivateBusUseGrp/EngageBondCounselResearchInd",
+      "type": "bool"
+    },
+    {
+      "name": "MgmtContractBondFincdPropInd",
+      "path": "TaxExemptBondsPrivateBusUseGrp/MgmtContractBondFincdPropInd",
+      "type": "bool"
+    },
+    {
+      "name": "OwningBondFinancedPropertyInd",
+      "path": "TaxExemptBondsPrivateBusUseGrp/OwningBondFinancedPropertyInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrivateBusConcerningUBIPct",
+      "path": "TaxExemptBondsPrivateBusUseGrp/PrivateBusConcerningUBIPct",
+      "type": "decimal"
+    },
+    {
+      "name": "PrivateBusUseByOthersPct",
+      "path": "TaxExemptBondsPrivateBusUseGrp/PrivateBusUseByOthersPct",
+      "type": "decimal"
+    },
+    {
+      "name": "ProcsNonqualifiedBondRemdtdInd",
+      "path": "TaxExemptBondsPrivateBusUseGrp/ProcsNonqualifiedBondRemdtdInd",
+      "type": "bool"
+    },
+    {
+      "name": "RemedialActionTakenInd",
+      "path": "TaxExemptBondsPrivateBusUseGrp/RemedialActionTakenInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalPrivateBusinessUsePct",
+      "path": "TaxExemptBondsPrivateBusUseGrp/TotalPrivateBusinessUsePct",
+      "type": "decimal"
+    },
+    {
+      "name": "AdequateBooksAndRecMaintInd",
+      "path": "TaxExemptBondsProceedsGrp/AdequateBooksAndRecMaintInd",
+      "type": "bool"
+    },
+    {
+      "name": "BondDefeasedAmt",
+      "path": "TaxExemptBondsProceedsGrp/BondDefeasedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalExpendituresAmt",
+      "path": "TaxExemptBondsProceedsGrp/CapitalExpendituresAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalizedInterestAmt",
+      "path": "TaxExemptBondsProceedsGrp/CapitalizedInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditEnhancementAmt",
+      "path": "TaxExemptBondsProceedsGrp/CreditEnhancementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalAllocationMadeInd",
+      "path": "TaxExemptBondsProceedsGrp/FinalAllocationMadeInd",
+      "type": "bool"
+    },
+    {
+      "name": "InReserveFundAmt",
+      "path": "TaxExemptBondsProceedsGrp/InReserveFundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IssuanceCostsFromProceedsAmt",
+      "path": "TaxExemptBondsProceedsGrp/IssuanceCostsFromProceedsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherSpentProceedsAmt",
+      "path": "TaxExemptBondsProceedsGrp/OtherSpentProceedsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundingEscrowAmt",
+      "path": "TaxExemptBondsProceedsGrp/RefundingEscrowAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundingTaxExemptBondsInd",
+      "path": "TaxExemptBondsProceedsGrp/RefundingTaxExemptBondsInd",
+      "type": "bool"
+    },
+    {
+      "name": "RefundingTaxableBondsInd",
+      "path": "TaxExemptBondsProceedsGrp/RefundingTaxableBondsInd",
+      "type": "bool"
+    },
+    {
+      "name": "RetiredAmt",
+      "path": "TaxExemptBondsProceedsGrp/RetiredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubstantialCompletionYr",
+      "path": "TaxExemptBondsProceedsGrp/SubstantialCompletionYr",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalProceedsAmt",
+      "path": "TaxExemptBondsProceedsGrp/TotalProceedsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnspentAmt",
+      "path": "TaxExemptBondsProceedsGrp/UnspentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WorkingCapitalExpendituresAmt",
+      "path": "TaxExemptBondsProceedsGrp/WorkingCapitalExpendituresAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "form_id": "IRS8916A",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/Amortization/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/Amortization/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/Amortization/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/Amortization/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/CompWithSect162mLimitation/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/CompWithSect162mLimitation/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/CompWithSect162mLimitation/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/CompWithSect162mLimitation/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/CorpOwnedLifeInsurancePremiums/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/CorpOwnedLifeInsurancePremiums/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/CorpOwnedLifeInsurancePremiums/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/CorpOwnedLifeInsurancePremiums/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/DeferredCompensation/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/DeferredCompensation/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/DeferredCompensation/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/DeferredCompensation/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/DepletionGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/DepletionGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/DepletionGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/DepletionGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/DepreciationGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/DepreciationGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/DepreciationGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/DepreciationGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/MealsAndEntertainmentGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/MealsAndEntertainmentGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/MealsAndEntertainmentGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/MealsAndEntertainmentGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/OtherEquityBasedCompensation/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/OtherEquityBasedCompensation/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/OtherEquityBasedCompensation/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/OtherEquityBasedCompensation/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/OtherPostRetirementBenefits/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/OtherPostRetirementBenefits/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/OtherPostRetirementBenefits/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/OtherPostRetirementBenefits/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/OtherSection263ACostsGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/OtherSection263ACostsGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/OtherSection263ACostsGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/OtherSection263ACostsGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/ParachutePayments/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/ParachutePayments/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/ParachutePayments/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/ParachutePayments/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/PensionAndProfitSharing/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/PensionAndProfitSharing/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/PensionAndProfitSharing/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/PensionAndProfitSharing/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmountsAttributableGrp/StockOptionExpense/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmountsAttributableGrp/StockOptionExpense/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmountsAttributableGrp/StockOptionExpense/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmountsAttributableGrp/StockOptionExpense/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "AmtAttrblCostFlowAssumptionGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "AmtAttrblCostFlowAssumptionGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "AmtAttrblCostFlowAssumptionGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "AmtAttrblCostFlowAssumptionGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "CostOfGoodsSoldGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "CostOfGoodsSoldGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "CostOfGoodsSoldGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "CostOfGoodsSoldGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExInvntryObsolescenceReserves/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExInvntryObsolescenceReserves/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExInvntryObsolescenceReserves/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExInvntryObsolescenceReserves/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "HybridSecuritiesIntExpenseGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "HybridSecuritiesIntExpenseGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "HybridSecuritiesIntExpenseGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "HybridSecuritiesIntExpenseGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "HybridSecuritiesIntIncomeGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "HybridSecuritiesIntIncomeGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "HybridSecuritiesIntIncomeGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "HybridSecuritiesIntIncomeGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "IntercompanyIntExpAffiliatdGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "IntercompanyIntExpAffiliatdGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IntercompanyIntExpAffiliatdGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IntercompanyIntExpAffiliatdGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "IntercompanyIntExpnsOutsideGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "IntercompanyIntExpnsOutsideGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IntercompanyIntExpnsOutsideGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IntercompanyIntExpnsOutsideGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IntercompanyIntIncAffldGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IntercompanyIntIncAffldGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IntercompanyIntIncAffldGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IntercompanyIntIncAffldGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IntercompanyIntIncOutsideGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IntercompanyIntIncOutsideGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IntercompanyIntIncOutsideGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IntercompanyIntIncOutsideGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "InventoryShrinkageAccrualsGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "InventoryShrinkageAccrualsGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "InventoryShrinkageAccrualsGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "InventoryShrinkageAccrualsGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "LeasePurchaseInterestExpnsGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "LeasePurchaseInterestExpnsGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "LeasePurchaseInterestExpnsGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "LeasePurchaseInterestExpnsGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "LowerCostOrMarketWritedownsGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "LowerCostOrMarketWritedownsGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "LowerCostOrMarketWritedownsGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "LowerCostOrMarketWritedownsGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "OtherInterestExpenseInfoGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "OtherInterestExpenseInfoGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "OtherInterestExpenseInfoGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "OtherInterestExpenseInfoGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "OtherInterestIncomeGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "OtherInterestIncomeGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "OtherInterestIncomeGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "OtherInterestIncomeGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "OtherItemsNoDifferences/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "OtherItemsNoDifferences/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherItemsWithDifferencesGrp",
+      "path": "OtherItemsWithDifferencesGrp",
+      "type": "group"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "OtherItemsWithDifferencesGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "OtherItemsWithDifferencesGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "OtherItemsWithDifferencesGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "OtherItemsWithDifferencesGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "SaleLeaseInterestIncomeGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "SaleLeaseInterestIncomeGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "SaleLeaseInterestIncomeGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "SaleLeaseInterestIncomeGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "SubsidiaryBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "SubsidiaryBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "TaxExemptInterestIncomeGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "TaxExemptInterestIncomeGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "TaxExemptInterestIncomeGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "TotalInterestExpenseInfoGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "TotalInterestExpenseInfoGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "TotalInterestExpenseInfoGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "TotalInterestExpenseInfoGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "TotalInterestIncomeGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "TotalInterestIncomeGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt ",
+      "path": "TotalInterestIncomeGrp/PermanentDifferenceAmt ",
+      "type": "unknown"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "TotalInterestIncomeGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    }
+  ]
+}

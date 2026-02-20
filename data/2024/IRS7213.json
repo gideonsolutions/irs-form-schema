@@ -1,0 +1,271 @@
+{
+  "form_id": "IRS7213",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdvncNuclearPwrFcltyProdCrAmt",
+      "path": "AdvncNuclearPwrFcltyProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocNameplateEnergyCapKWQty",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/AllocNameplateEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EligibleProjectPartnerInd",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/EligibleProjectPartnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityConstructionStartDt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityConstructionStartDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt ",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityOwnerBusinessName/BusinessNameLine1Txt ",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerInd",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityOwnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSAcceptanceLtrDt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/IRSAcceptanceLtrDt",
+      "type": "date"
+    },
+    {
+      "name": "NameplateEnergyCapKWQty",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/NameplateEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AllocToBeneficiariesAmt",
+      "path": "AllocToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcFcltyQlfyElecSoldKWHQty",
+      "path": "CalcFcltyQlfyElecSoldKWHQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcNMCLAllocAcptncPct",
+      "path": "CalcNMCLAllocAcptncPct",
+      "type": "decimal"
+    },
+    {
+      "name": "CalcTentCrNMCLAllocAcptnc2Amt",
+      "path": "CalcTentCrNMCLAllocAcptnc2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcTentCrNMCLAllocAcptnc2Qty",
+      "path": "CalcTentCrNMCLAllocAcptnc2Qty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcTentCrQlfyElecSoldAmt",
+      "path": "CalcTentCrQlfyElecSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityOwnedSect761aElectInd",
+      "path": "FacilityOwnedSect761aElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "FcltyQlfyElecSoldKWHQty",
+      "path": "FcltyQlfyElecSoldKWHQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NMCLPortionAllocatedQty",
+      "path": "NMCLPortionAllocatedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NameplateEnergyCapKWQty",
+      "path": "NameplateEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SmallerTentCrSoldOrAllocAmt",
+      "path": "SmallerTentCrSoldOrAllocAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAdvncNclrPwrFcltyProdCrAmt",
+      "path": "TotAdvncNclrPwrFcltyProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotLessAllocToBeneficiariesAmt",
+      "path": "TotLessAllocToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocToBeneficiariesAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/AllocToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcFcltyQlfyElecSoldKWHAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/CalcFcltyQlfyElecSoldKWHAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcGrossRcptsElecProdSoldAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/CalcGrossRcptsElecProdSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcGrossRcptsElecReductionAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/CalcGrossRcptsElecReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt ",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityOwnerBusinessName/BusinessNameLine1Txt ",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FcltyQlfyElecSoldKWHQty",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FcltyQlfyElecSoldKWHQty",
+      "type": "unknown"
+    },
+    {
+      "name": "GroRcptsElecLessCalcElecAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/GroRcptsElecLessCalcElecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRcptsElecProdSoldAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/GrossRcptsElecProdSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsElecReductionAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/GrossReceiptsElecReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NRCPermitOrLicenseNum",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/NRCPermitOrLicenseNum",
+      "type": "string"
+    },
+    {
+      "name": "QualifiedFacilitiesIncrCrAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/QualifiedFacilitiesIncrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotLessAllocToBeneficiariesAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/TotLessAllocToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotZeroEmissionCrCalcAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/TotZeroEmissionCrCalcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotZeroEmsnNuclearPowerCrAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/TotZeroEmsnNuclearPowerCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ZeroEmissionCrAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/ZeroEmissionCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ZeroEmissionNuclearPowerCrAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/ZeroEmissionNuclearPowerCrAmt",
+      "type": "usd"
+    }
+  ]
+}

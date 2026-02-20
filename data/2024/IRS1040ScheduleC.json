@@ -1,0 +1,416 @@
+{
+  "form_id": "IRS1040ScheduleC",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdditionalVehicleInfoGrp",
+      "path": "AdditionalVehicleInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "AdvertisingAmt",
+      "path": "AdvertisingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllInvestmentIsAtRiskInd",
+      "path": "AllInvestmentIsAtRiskInd",
+      "type": "bool"
+    },
+    {
+      "name": "BeginningOfYearInventoryAmt",
+      "path": "BeginningOfYearInventoryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "BusinessForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "BusinessForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "BusinessForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "BusinessForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "BusinessForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "BusinessForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "BusinessUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "BusinessUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "BusinessUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "BusinessUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "BusinessUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarAndTruckExpensesAmt",
+      "path": "CarAndTruckExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChangeInValuationsInd",
+      "path": "ChangeInValuationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClosingInventoryCostMethodInd",
+      "path": "ClosingInventoryCostMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "CommissionsAndFeesAmt",
+      "path": "CommissionsAndFeesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContractLaborAmt",
+      "path": "ContractLaborAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfLaborAmt",
+      "path": "CostOfLaborAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletionAmt",
+      "path": "DepletionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeprecAndSect179ExpnsDedAmt",
+      "path": "DeprecAndSect179ExpnsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "EmployeeBenefitProgramAmt",
+      "path": "EmployeeBenefitProgramAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndOfYearInventoryAmt",
+      "path": "EndOfYearInventoryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EnergyEffcntCmrclBldgDedAmt",
+      "path": "EnergyEffcntCmrclBldgDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeAmt",
+      "path": "GrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossProfitAmt",
+      "path": "GrossProfitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HomeBusinessExpenseAmt",
+      "path": "HomeBusinessExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HomeBusinessUseSquareFeetCnt",
+      "path": "HomeBusinessUseSquareFeetCnt",
+      "type": "int"
+    },
+    {
+      "name": "InsuranceAmt",
+      "path": "InsuranceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LegalAndProfessionalServiceAmt",
+      "path": "LegalAndProfessionalServiceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowerOfCostOrMarketMethodInd",
+      "path": "LowerOfCostOrMarketMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "MachineryAndEquipmentRentAmt",
+      "path": "MachineryAndEquipmentRentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaterialParticipationInCYInd",
+      "path": "MaterialParticipationInCYInd",
+      "type": "bool"
+    },
+    {
+      "name": "MaterialsAndSuppliesAmt",
+      "path": "MaterialsAndSuppliesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MealsAndEntertainmentAmt",
+      "path": "MealsAndEntertainmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MethodOfAccountingAccrualInd",
+      "path": "MethodOfAccountingAccrualInd",
+      "type": "bool"
+    },
+    {
+      "name": "MethodOfAccountingCashInd",
+      "path": "MethodOfAccountingCashInd",
+      "type": "bool"
+    },
+    {
+      "name": "MethodOfAccountingOtherInd",
+      "path": "MethodOfAccountingOtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@methodOfAccountingOtherDesc",
+      "path": "MethodOfAccountingOtherInd/@methodOfAccountingOtherDesc",
+      "type": "string"
+    },
+    {
+      "name": "MortgageInterestPaidBanksAmt",
+      "path": "MortgageInterestPaidBanksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageInterestPaidOtherAmt",
+      "path": "MortgageInterestPaidOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetGrossReceiptsAmt",
+      "path": "NetGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetProfitOrLossAmt",
+      "path": "NetProfitOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@passiveActivityLossAmt",
+      "path": "NetProfitOrLossAmt/@passiveActivityLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@passiveActivityLossLiteralCd",
+      "path": "NetProfitOrLossAmt/@passiveActivityLossLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "NewBusinessInCurrentYearInd",
+      "path": "NewBusinessInCurrentYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "OfficeExpensesAmt",
+      "path": "OfficeExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherBusinessPropertyRentAmt",
+      "path": "OtherBusinessPropertyRentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherClosingInventoryMethodInd",
+      "path": "OtherClosingInventoryMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherCostsAmt",
+      "path": "OtherCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpenseDetail",
+      "path": "OtherExpenseDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentRqrFilingForm1099Ind",
+      "path": "PaymentRqrFilingForm1099Ind",
+      "type": "bool"
+    },
+    {
+      "name": "PensionProfitSharingPlansAmt",
+      "path": "PensionProfitSharingPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityDesc",
+      "path": "PrincipalBusinessActivityDesc",
+      "type": "string"
+    },
+    {
+      "name": "ProprietorNm",
+      "path": "ProprietorNm",
+      "type": "string"
+    },
+    {
+      "name": "PurchasesLessPersonalItemsAmt",
+      "path": "PurchasesLessPersonalItemsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepairsAndMaintenanceAmt",
+      "path": "RepairsAndMaintenanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredForm1099FiledInd",
+      "path": "RequiredForm1099FiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReturnsAndAllowancesAmt",
+      "path": "ReturnsAndAllowancesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SomeInvestmentIsNotAtRiskInd",
+      "path": "SomeInvestmentIsNotAtRiskInd",
+      "type": "bool"
+    },
+    {
+      "name": "StatutoryEmployeeFromW2Ind",
+      "path": "StatutoryEmployeeFromW2Ind",
+      "type": "bool"
+    },
+    {
+      "name": "SuppliesAmt",
+      "path": "SuppliesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesAndLicensesAmt",
+      "path": "TaxesAndLicensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeProfitOrLossAmt",
+      "path": "TentativeProfitOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAreaOfHomeCnt",
+      "path": "TotalAreaOfHomeCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCostsAmt",
+      "path": "TotalCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesAmt",
+      "path": "TotalExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossReceiptsAmt",
+      "path": "TotalGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherExpensesAmt",
+      "path": "TotalOtherExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@otherExpenseCd",
+      "path": "TotalOtherExpensesAmt/@otherExpenseCd",
+      "type": "enum"
+    },
+    {
+      "name": "TravelAmt",
+      "path": "TravelAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnclassifiedEstablishmentCd",
+      "path": "UnclassifiedEstablishmentCd",
+      "type": "enum"
+    },
+    {
+      "name": "UtilitiesAmt",
+      "path": "UtilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesLessEmploymentCreditsAmt",
+      "path": "WagesLessEmploymentCreditsAmt",
+      "type": "usd"
+    }
+  ]
+}

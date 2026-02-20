@@ -1,0 +1,161 @@
+{
+  "form_id": "IRS7210",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CalcTaxExemptBondsPct",
+      "path": "CalcTaxExemptBondsPct",
+      "type": "decimal"
+    },
+    {
+      "name": "CalcQlfyClnHydrogenProducedAmt",
+      "path": "ClnHydrgnPrdcd15ToLssThan25Grp/CalcQlfyClnHydrogenProducedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KgProducedQty",
+      "path": "ClnHydrgnPrdcd15ToLssThan25Grp/KgProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcQlfyClnHydrogenProducedAmt",
+      "path": "ClnHydrgnPrdcd25NotGrtr4Grp/CalcQlfyClnHydrogenProducedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KgProducedQty",
+      "path": "ClnHydrgnPrdcd25NotGrtr4Grp/KgProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcQlfyClnHydrogenProducedAmt",
+      "path": "ClnHydrgnPrdcd45ToLssThan15Grp/CalcQlfyClnHydrogenProducedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KgProducedQty",
+      "path": "ClnHydrgnPrdcd45ToLssThan15Grp/KgProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcQlfyClnHydrogenProducedAmt",
+      "path": "ClnHydrgnPrdcdLssThan45Grp/CalcQlfyClnHydrogenProducedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KgProducedQty",
+      "path": "ClnHydrgnPrdcdLssThan45Grp/KgProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ClnHydrgnProdCrAmt",
+      "path": "ClnHydrgnProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBeforeReductionAmt",
+      "path": "CreditBeforeReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBeforeReductionFncAmt",
+      "path": "CreditBeforeReductionFncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBeforeReductionPctAmt",
+      "path": "CreditBeforeReductionPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DOEControlNum",
+      "path": "DOEControlNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityConstructionStartDt",
+      "path": "FacilityConstructionStartDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityEligIncreasedCrAmtInd",
+      "path": "FacilityEligIncreasedCrAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityEmissionsValueOrRt",
+      "path": "FacilityEmissionsValueOrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt ",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine1Txt ",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "IncrCrQlfyClnHydrgnFcltsAmt",
+      "path": "IncrCrQlfyClnHydrgnFcltsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpSCorpClnHydrgnCrAmt",
+      "path": "PrtshpSCorpClnHydrgnCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrCrBfrReductionFncPctAmt",
+      "path": "SmllrCrBfrReductionFncPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptBondsCrReductionAmt",
+      "path": "TaxExemptBondsCrReductionAmt",
+      "type": "usd"
+    }
+  ]
+}

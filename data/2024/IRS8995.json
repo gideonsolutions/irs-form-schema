@@ -1,0 +1,91 @@
+{
+  "form_id": "IRS8995",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdjustedTaxableIncomeAmt",
+      "path": "AdjustedTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLimitationAmt",
+      "path": "IncomeLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalGainAmt",
+      "path": "NetCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYQlfyBusinessNetLossCfwdAmt",
+      "path": "PYQlfyBusinessNetLossCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYQlfyREITDivPTPLossCfwdAmt",
+      "path": "PYQlfyREITDivPTPLossCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QBIComponentAmt",
+      "path": "QBIComponentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QBIDedBfrIncomeLimitationAmt",
+      "path": "QBIDedBfrIncomeLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyREITDivPTPIncomeLossAmt",
+      "path": "QlfyREITDivPTPIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedAmt",
+      "path": "QualifiedBusinessIncomeDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedGrp",
+      "path": "QualifiedBusinessIncomeDedGrp",
+      "type": "group"
+    },
+    {
+      "name": "REITPTPComponentAmt",
+      "path": "REITPTPComponentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeBeforeQBIDedAmt",
+      "path": "TaxableIncomeBeforeQBIDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyBusLossCarryforwardAmt",
+      "path": "TotQlfyBusLossCarryforwardAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyBusinessIncomeOrLossAmt",
+      "path": "TotQlfyBusinessIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyREITDivPTPIncomeAmt",
+      "path": "TotQlfyREITDivPTPIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyREITDivPTPLossCfwdAmt",
+      "path": "TotQlfyREITDivPTPLossCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQualifiedBusinessIncomeAmt",
+      "path": "TotQualifiedBusinessIncomeAmt",
+      "type": "usd"
+    }
+  ]
+}

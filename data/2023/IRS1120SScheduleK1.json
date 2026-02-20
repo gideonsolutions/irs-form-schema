@@ -1,0 +1,281 @@
+{
+  "form_id": "IRS1120SScheduleK1",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "@section1377a2Cd",
+      "path": "@section1377a2Cd",
+      "type": "enum"
+    },
+    {
+      "name": "AmendedK1Ind",
+      "path": "AmendedK1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "BeginTaxYearSharesCnt",
+      "path": "BeginTaxYearSharesCnt",
+      "type": "int"
+    },
+    {
+      "name": "CollectiblesGainLossAmt",
+      "path": "CollectiblesGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorpTotBeginTaxYearSharesCnt",
+      "path": "CorpTotBeginTaxYearSharesCnt",
+      "type": "int"
+    },
+    {
+      "name": "CorpTotEndTaxYearSharesCnt",
+      "path": "CorpTotEndTaxYearSharesCnt",
+      "type": "int"
+    },
+    {
+      "name": "CorporationEIN",
+      "path": "CorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "CorporationForeignAddress",
+      "path": "CorporationForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "CorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "CorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CorporationUSAddress",
+      "path": "CorporationUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "CurrentYrAllocationPct",
+      "path": "CurrentYrAllocationPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EndTaxYearSharesCnt",
+      "path": "EndTaxYearSharesCnt",
+      "type": "int"
+    },
+    {
+      "name": "FinalK1Ind",
+      "path": "FinalK1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "IRS1120SSchK1AMTItemsGrp",
+      "path": "IRS1120SSchK1AMTItemsGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1120SSchK1AMTItemsCd",
+      "path": "IRS1120SSchK1AMTItemsGrp/IRS1120SSchK1AMTItemsCd",
+      "type": "enum"
+    },
+    {
+      "name": "IRS1120SSchK1AffectngShrBssGrp",
+      "path": "IRS1120SSchK1AffectngShrBssGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1120SSchK1AffectngShrBssCd",
+      "path": "IRS1120SSchK1AffectngShrBssGrp/IRS1120SSchK1AffectngShrBssCd",
+      "type": "enum"
+    },
+    {
+      "name": "IRS1120SSchK1CreditsGrp",
+      "path": "IRS1120SSchK1CreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1120SSchK1CreditsCd",
+      "path": "IRS1120SSchK1CreditsGrp/IRS1120SSchK1CreditsCd",
+      "type": "enum"
+    },
+    {
+      "name": "IRS1120SSchK1FrgnTransGrp",
+      "path": "IRS1120SSchK1FrgnTransGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1120SSchK1OtherDedGrp",
+      "path": "IRS1120SSchK1OtherDedGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1120SSchK1OtherDedCd",
+      "path": "IRS1120SSchK1OtherDedGrp/IRS1120SSchK1OtherDedCd",
+      "type": "enum"
+    },
+    {
+      "name": "IRS1120SSchK1OtherIncmLossGrp",
+      "path": "IRS1120SSchK1OtherIncmLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1120SSchK1OtherIncmLossCd",
+      "path": "IRS1120SSchK1OtherIncmLossGrp/IRS1120SSchK1OtherIncmLossCd",
+      "type": "enum"
+    },
+    {
+      "name": "IRS1120SSchK1OtherInfoGrp",
+      "path": "IRS1120SSchK1OtherInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1120SSchK1OtherInfoCd",
+      "path": "IRS1120SSchK1OtherInfoGrp/IRS1120SSchK1OtherInfoCd",
+      "type": "enum"
+    },
+    {
+      "name": "InterestIncomeAmt",
+      "path": "InterestIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoansFromShareholderBOYAmt",
+      "path": "LoansFromShareholderBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoansFromShareholderEOYAmt",
+      "path": "LoansFromShareholderEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "MissingSSNEINReasonCd",
+      "path": "MissingSSNEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetLTCapitalGainOrLossAmt",
+      "path": "NetLTCapitalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSTCapitalGainOrLossAmt",
+      "path": "NetSTCapitalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection1231GainLossAmt",
+      "path": "NetSection1231GainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryDividendsAmt",
+      "path": "OrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryIncomeLossAmt",
+      "path": "OrdinaryIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherRentalIncomeAmt",
+      "path": "OtherRentalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PortfolioIncomeLossRyltsAmt",
+      "path": "PortfolioIncomeLossRyltsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedDividendsAmt",
+      "path": "QualifiedDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealEstateNetIncomeLossAmt",
+      "path": "RealEstateNetIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScheduleK-3attachedInd",
+      "path": "ScheduleK-3attachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ScheduleK3AttachedInd",
+      "path": "ScheduleK3AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sect465AtRiskAggregatedActyInd",
+      "path": "Sect465AtRiskAggregatedActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sect469PALGroupedActyInd",
+      "path": "Sect469PALGroupedActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section179ExpenseDeductionAmt",
+      "path": "Section179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ServiceCenterWhereRetFiledCd",
+      "path": "ServiceCenterWhereRetFiledCd",
+      "type": "enum"
+    },
+    {
+      "name": "ShareholderEIN",
+      "path": "ShareholderEIN",
+      "type": "ein"
+    },
+    {
+      "name": "ShareholderForeignAddress",
+      "path": "ShareholderForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ShareholderName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ShareholderName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderNameControlTxt",
+      "path": "ShareholderNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderSSN",
+      "path": "ShareholderSSN",
+      "type": "tin"
+    },
+    {
+      "name": "ShareholderUSAddress",
+      "path": "ShareholderUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "UnrecapturedSection1250GainAmt",
+      "path": "UnrecapturedSection1250GainAmt",
+      "type": "usd"
+    }
+  ]
+}

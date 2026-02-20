@@ -1,0 +1,366 @@
+{
+  "form_id": "IRS6197",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine10TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine10TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine10TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine10TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine10TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine10TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine11TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine11TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine11TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine11TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine11TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine11TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine12TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine12TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine12TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine12TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine12TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine12TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine1TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine1TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine1TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine1TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine2TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine2TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine2TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine2TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine2TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine2TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine3TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine3TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine3TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine3TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine3TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine3TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine4TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine4TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine4TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine4TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine4TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine4TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine5TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine5TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine5TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine5TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine5TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine5TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine6TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine6TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine6TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine6TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine6TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine6TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine7TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine7TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine7TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine7TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine7TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine7TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine8TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine8TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine8TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine8TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine8TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine8TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelEconomyMPGMaxCd",
+      "path": "GasGuzzlerLine9TaxCmptGrp/FuelEconomyMPGMaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGMinCd",
+      "path": "GasGuzzlerLine9TaxCmptGrp/FuelEconomyMPGMinCd",
+      "type": "enum"
+    },
+    {
+      "name": "FuelEconomyMPGTaxRateCd",
+      "path": "GasGuzzlerLine9TaxCmptGrp/FuelEconomyMPGTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarsSoldCnt",
+      "path": "GasGuzzlerLine9TaxCmptGrp/GasGuzzlerCmptColumnsGrp/CarsSoldCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "GasGuzzlerLine9TaxCmptGrp/GasGuzzlerCmptColumnsGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LineNum",
+      "path": "GasGuzzlerLine9TaxCmptGrp/LineNum",
+      "type": "string"
+    },
+    {
+      "name": "TotalTaxDueForQuarterAmt",
+      "path": "TotalTaxDueForQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehModelsSubjToGasGuzzlerTxGrp",
+      "path": "VehModelsSubjToGasGuzzlerTxGrp",
+      "type": "group"
+    }
+  ]
+}

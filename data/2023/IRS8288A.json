@@ -1,0 +1,181 @@
+{
+  "form_id": "IRS8288A",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignPersonSubjectToWthldGrp//SeparateMailingAddress//AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignPersonSubjectToWthldGrp//SeparateMailingAddress//AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "ForeignPersonSubjectToWthldGrp//SeparateMailingAddress/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignPersonSubjectToWthldGrp//SeparateMailingAddress/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "USAddress",
+      "path": "ForeignPersonSubjectToWthldGrp//SeparateMailingAddress/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignPersonSubjectToWthldGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignPersonSubjectToWthldGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CorporationInd",
+      "path": "ForeignPersonSubjectToWthldGrp/CorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "ForeignPersonSubjectToWthldGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "ForeignPersonSubjectToWthldGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainRecognizedOnTransferAmt",
+      "path": "ForeignPersonSubjectToWthldGrp/GainRecognizedOnTransferAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InCareOfNm",
+      "path": "ForeignPersonSubjectToWthldGrp/InCareOfNm",
+      "type": "string"
+    },
+    {
+      "name": "IndividualInd",
+      "path": "ForeignPersonSubjectToWthldGrp/IndividualInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherWithholdingTypeCd",
+      "path": "ForeignPersonSubjectToWthldGrp/OtherWithholdingTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "PartnershipInd",
+      "path": "ForeignPersonSubjectToWthldGrp/PartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "ForeignPersonSubjectToWthldGrp/PersonFullName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "ForeignPersonSubjectToWthldGrp/PersonFullName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "RealizedAmt",
+      "path": "ForeignPersonSubjectToWthldGrp/RealizedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "ForeignPersonSubjectToWthldGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "Section1445WithholdingInd",
+      "path": "ForeignPersonSubjectToWthldGrp/Section1445WithholdingInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section1446fWithholdingInd",
+      "path": "ForeignPersonSubjectToWthldGrp/Section1446fWithholdingInd",
+      "type": "bool"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignPersonSubjectToWthldGrp/SellerForeignAddressGrp/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "ForeignPersonSubjectToWthldGrp/SellerForeignAddressGrp/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignPersonSubjectToWthldGrp/SellerForeignAddressGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignPersonSubjectToWthldGrp/SellerForeignAddressGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignPersonSubjectToWthldGrp/SellerForeignAddressGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignPersonSubjectToWthldGrp/SellerSeparateMailingAddrGrp/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TransferDt",
+      "path": "ForeignPersonSubjectToWthldGrp/TransferDt",
+      "type": "date"
+    },
+    {
+      "name": "TransfereeEIN",
+      "path": "TransfereeEIN",
+      "type": "ein"
+    },
+    {
+      "name": "TransfereeForeignAddress",
+      "path": "TransfereeForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransfereeName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransfereeName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TransfereePersonNm",
+      "path": "TransfereePersonNm",
+      "type": "string"
+    },
+    {
+      "name": "TransfereeSSN",
+      "path": "TransfereeSSN",
+      "type": "tin"
+    },
+    {
+      "name": "TransfereeUSAddress",
+      "path": "TransfereeUSAddress",
+      "type": "unknown"
+    }
+  ]
+}

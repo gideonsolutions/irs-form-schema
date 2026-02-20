@@ -1,0 +1,126 @@
+{
+  "form_id": "IRS8978",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AARFilingInd",
+      "path": "AARFilingInd",
+      "type": "bool"
+    },
+    {
+      "name": "BBAAuditInd",
+      "path": "BBAAuditInd",
+      "type": "bool"
+    },
+    {
+      "name": "AlternativeMinimumTaxAmt",
+      "path": "TYAuditLiabilityCmptGrp/AlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxAmt",
+      "path": "TYAuditLiabilityCmptGrp/IncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestAmt",
+      "path": "TYAuditLiabilityCmptGrp/InterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PenaltyAmt",
+      "path": "TYAuditLiabilityCmptGrp/PenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxIncreaseDecreaseAmt",
+      "path": "TYAuditLiabilityCmptGrp/TaxIncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TYAuditLiabilityCmptGrp/TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxableIncomeCorrectAmt",
+      "path": "TYAuditLiabilityCmptGrp/TaxableIncomeCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsToCreditAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalAdjustmentsToCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsToIncomeAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalAdjustmentsToIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCorrIncmTaxLiabAfterCrAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalCorrIncmTaxLiabAfterCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditOriginallyRptAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalCreditOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditsCorrectAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalCreditsCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionCorrectAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalDeductionCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionNetChangeAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalDeductionNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionOriginallyRptAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalDeductionOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeCorrectAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalIncomeCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeOriginallyRptAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalIncomeOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxCorrectAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalTaxCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxOriginallyRptAmt",
+      "path": "TYAuditLiabilityCmptGrp/TotalTaxOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotRptgYrTxIncreaseDecreaseAmt",
+      "path": "TotRptgYrTxIncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestAmt",
+      "path": "TotalInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPenaltyAmt",
+      "path": "TotalPenaltyAmt",
+      "type": "usd"
+    }
+  ]
+}

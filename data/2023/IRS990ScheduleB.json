@@ -1,0 +1,316 @@
+{
+  "form_id": "IRS990ScheduleB",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CharitableContributionsDetail",
+      "path": "CharitableContributionsDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "ContributorNum",
+      "path": "CharitableContributionsDetail/ContributorNum",
+      "type": "string"
+    },
+    {
+      "name": "GiftPurposeTxt",
+      "path": "CharitableContributionsDetail/GiftPurposeTxt",
+      "type": "string"
+    },
+    {
+      "name": "GiftUseTxt",
+      "path": "CharitableContributionsDetail/GiftUseTxt",
+      "type": "string"
+    },
+    {
+      "name": "HowGiftIsHeldDesc",
+      "path": "CharitableContributionsDetail/HowGiftIsHeldDesc",
+      "type": "string"
+    },
+    {
+      "name": "RlnOfTransferorToTransfereeTxt",
+      "path": "CharitableContributionsDetail/RlnOfTransferorToTransfereeTxt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "CharitableContributionsDetail/TransfereeForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "CharitableContributionsDetail/TransfereeForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "CharitableContributionsDetail/TransfereeForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "CharitableContributionsDetail/TransfereeForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "CharitableContributionsDetail/TransfereeForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "CharitableContributionsDetail/TransfereeForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "CharitableContributionsDetail/TransfereeNameBusiness/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "CharitableContributionsDetail/TransfereeNameBusiness/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TransfereeNameIndividual",
+      "path": "CharitableContributionsDetail/TransfereeNameIndividual",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "CharitableContributionsDetail/TransfereeUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "CharitableContributionsDetail/TransfereeUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "CharitableContributionsDetail/TransfereeUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "CharitableContributionsDetail/TransfereeUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "CharitableContributionsDetail/TransfereeUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "ContributorInformationGrp",
+      "path": "ContributorInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "AddressNotApplicableCd",
+      "path": "ContributorInformationGrp/AddressNotApplicableCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ContributorInformationGrp/ContributorBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ContributorInformationGrp/ContributorBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ContributorInformationGrp/ContributorForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ContributorInformationGrp/ContributorForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ContributorInformationGrp/ContributorForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ContributorInformationGrp/ContributorForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "ContributorInformationGrp/ContributorForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ContributorInformationGrp/ContributorForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ContributorNum",
+      "path": "ContributorInformationGrp/ContributorNum",
+      "type": "string"
+    },
+    {
+      "name": "ContributorPersonNm",
+      "path": "ContributorInformationGrp/ContributorPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ContributorInformationGrp/ContributorUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ContributorInformationGrp/ContributorUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ContributorInformationGrp/ContributorUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "ContributorInformationGrp/ContributorUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "ContributorInformationGrp/ContributorUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "NameNotApplicableCd",
+      "path": "ContributorInformationGrp/NameNotApplicableCd",
+      "type": "enum"
+    },
+    {
+      "name": "NoncashContributionInd",
+      "path": "ContributorInformationGrp/NoncashContributionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Paid527j1Ind",
+      "path": "ContributorInformationGrp/Paid527j1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "PayrollContributionInd",
+      "path": "ContributorInformationGrp/PayrollContributionInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonContributionInd",
+      "path": "ContributorInformationGrp/PersonContributionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalContributionsAmt",
+      "path": "ContributorInformationGrp/TotalContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralRuleInd",
+      "path": "GeneralRuleInd",
+      "type": "bool"
+    },
+    {
+      "name": "NonCashPropertyContributionGrp",
+      "path": "NonCashPropertyContributionGrp",
+      "type": "group"
+    },
+    {
+      "name": "           NoncashPropertyDesc",
+      "path": "NonCashPropertyContributionGrp/           NoncashPropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "ContributorNum",
+      "path": "NonCashPropertyContributionGrp/ContributorNum",
+      "type": "string"
+    },
+    {
+      "name": "FairMarketValueAmt",
+      "path": "NonCashPropertyContributionGrp/FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NoncashPropertyDesc",
+      "path": "NonCashPropertyContributionGrp/NoncashPropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "ReceivedDt",
+      "path": "NonCashPropertyContributionGrp/ReceivedDt",
+      "type": "date"
+    },
+    {
+      "name": "Organization4947a1NotPFInd",
+      "path": "Organization4947a1NotPFInd",
+      "type": "bool"
+    },
+    {
+      "name": "Organization4947a1TrtdPFInd",
+      "path": "Organization4947a1TrtdPFInd",
+      "type": "bool"
+    },
+    {
+      "name": "Organization501c3ExemptPFInd",
+      "path": "Organization501c3ExemptPFInd",
+      "type": "bool"
+    },
+    {
+      "name": "Organization501c3TaxablePFInd",
+      "path": "Organization501c3TaxablePFInd",
+      "type": "bool"
+    },
+    {
+      "name": "Organization501cInd",
+      "path": "Organization501cInd",
+      "type": "bool"
+    },
+    {
+      "name": "@organization501cTypeTxt",
+      "path": "Organization501cInd/@organization501cTypeTxt",
+      "type": "string"
+    },
+    {
+      "name": "Organization527Ind",
+      "path": "Organization527Ind",
+      "type": "bool"
+    },
+    {
+      "name": "SpclRuleMetOne3rdSuprtTestInd",
+      "path": "SpclRuleMetOne3rdSuprtTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotContriRcvdMore1000Ind",
+      "path": "TotContriRcvdMore1000Ind",
+      "type": "bool"
+    },
+    {
+      "name": "TotContriRcvdUpTo1000Ind",
+      "path": "TotContriRcvdUpTo1000Ind",
+      "type": "bool"
+    },
+    {
+      "name": "@totalContributionsAmt",
+      "path": "TotContriRcvdUpTo1000Ind/@totalContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUnder1000ContributionsAmt",
+      "path": "TotalUnder1000ContributionsAmt",
+      "type": "usd"
+    }
+  ]
+}

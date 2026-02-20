@@ -1,0 +1,1636 @@
+{
+  "form_id": "IRS5471ScheduleP",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCGeneralSection959c1PTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCReclassifiedSect245AdPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCReclassifiedSect951APTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCReclassifiedSect965aPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCReclassifiedSect965bPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCSection245AdPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCSection245AdPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCSection245AdPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCSection245AdPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCSection245AdPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCSection245AdPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCSection245AdPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCSection245AdPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCSection245AdPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCSection245AdPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCSection245AdPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCSection245AdPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCSection245AdPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCSection245AdPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCSection951APTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCSection951APTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCSection951APTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCSection951APTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCSection951APTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCSection951APTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCSection951APTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCSection951APTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCSection951APTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCSection951APTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCSection951APTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCSection951APTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCSection951APTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCSection951APTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCSection951a1APTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCSection951a1APTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCSection951a1APTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCSection951a1APTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCSection951a1APTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCSection951a1APTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCSection951a1APTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCSection951a1APTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCSection951a1APTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCSection951a1APTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCSection951a1APTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCSection951a1APTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCSection951a1APTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCSection951a1APTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCSection965aPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCSection965aPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCSection965aPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCSection965aPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCSection965aPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCSection965aPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCSection965aPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCSection965aPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCSection965aPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCSection965aPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCSection965aPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCSection965aPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCSection965aPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCSection965aPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCSection965bPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCSection965bPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCSection965bPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCSection965bPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCSection965bPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCSection965bPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCSection965bPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCSection965bPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCSection965bPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCSection965bPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCSection965bPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCSection965bPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCSection965bPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCSection965bPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "FCTotalPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "FCTotalPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "FCTotalPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "FCTotalPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "FCTotalPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "FCTotalPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "FCTotalPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "FCTotalPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "FCTotalPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "FCTotalPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "FCTotalPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "FCTotalPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "FCTotalPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "FCTotalPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignCorporationEIN",
+      "path": "ForeignCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ShareholderBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ShareholderBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderEIN",
+      "path": "ShareholderEIN",
+      "type": "ein"
+    },
+    {
+      "name": "ShareholderMissingEINReasonCd",
+      "path": "ShareholderMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ShareholderPersonNm",
+      "path": "ShareholderPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderSSN",
+      "path": "ShareholderSSN",
+      "type": "tin"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USGeneralSection959c1PTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USGeneralSection959c1PTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USGeneralSection959c1PTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USGeneralSection959c1PTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USGeneralSection959c1PTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USGeneralSection959c1PTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USGeneralSection959c1PTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USGeneralSection959c1PTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USGeneralSection959c1PTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USGeneralSection959c1PTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USGeneralSection959c1PTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USGeneralSection959c1PTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USGeneralSection959c1PTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USGeneralSection959c1PTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USReclassifiedSect245AdPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USReclassifiedSect951APTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USReclassifiedSect951APTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USReclassifiedSect951APTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USReclassifiedSect951APTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USReclassifiedSect951APTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USReclassifiedSect951APTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USReclassifiedSect951APTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USReclassifiedSect951APTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USReclassifiedSect951APTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USReclassifiedSect951APTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USReclassifiedSect951APTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USReclassifiedSect951APTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USReclassifiedSect951APTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USReclassifiedSect951APTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USReclassifiedSect965aPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USReclassifiedSect965bPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USSection245AdPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USSection245AdPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USSection245AdPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USSection245AdPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USSection245AdPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USSection245AdPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USSection245AdPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USSection245AdPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USSection245AdPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USSection245AdPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USSection245AdPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USSection245AdPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USSection245AdPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USSection245AdPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USSection951APTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USSection951APTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USSection951APTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USSection951APTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USSection951APTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USSection951APTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USSection951APTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USSection951APTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USSection951APTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USSection951APTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USSection951APTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USSection951APTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USSection951APTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USSection951APTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USSection951a1APTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USSection951a1APTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USSection951a1APTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USSection951a1APTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USSection951a1APTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USSection951a1APTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USSection951a1APTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USSection951a1APTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USSection951a1APTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USSection951a1APTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USSection951a1APTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USSection951a1APTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USSection951a1APTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USSection951a1APTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USSection965aPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USSection965aPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USSection965aPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USSection965aPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USSection965aPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USSection965aPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USSection965aPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USSection965aPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USSection965aPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USSection965aPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USSection965aPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USSection965aPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USSection965aPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USSection965aPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USSection965bPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USSection965bPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USSection965bPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USSection965bPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USSection965bPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USSection965bPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USSection965bPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USSection965bPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USSection965bPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USSection965bPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USSection965bPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USSection965bPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USSection965bPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USSection965bPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "USTotalPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "USTotalPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttrblDistriPrevTaxedEPAmt",
+      "path": "USTotalPTEPGrp/AttrblDistriPrevTaxedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "USTotalPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "USTotalPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "USTotalPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "USTotalPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "USTotalPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "USTotalPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c1EPAmt",
+      "path": "USTotalPTEPGrp/ReclassifiedSect959c1EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReclassifiedSect959c2EPAmt",
+      "path": "USTotalPTEPGrp/ReclassifiedSect959c2EPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "USTotalPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "USTotalPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPreviouslyTaxedEPAmt",
+      "path": "USTotalPTEPGrp/TotalPreviouslyTaxedEPAmt",
+      "type": "usd"
+    }
+  ]
+}

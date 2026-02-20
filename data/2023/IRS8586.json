@@ -1,0 +1,61 @@
+{
+  "form_id": "IRS8586",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AllocToBeneficiariesAmt",
+      "path": "AllocToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BldgIdOfBldgWithDecreasedBasis",
+      "path": "BldgIdOfBldgWithDecreasedBasis",
+      "type": "unknown"
+    },
+    {
+      "name": "BIN",
+      "path": "BldgIdOfBldgWithDecreasedBasis/BIN",
+      "type": "unknown"
+    },
+    {
+      "name": "CurrentYearCreditAftr2007Amt",
+      "path": "CurrentYearCreditAftr2007Amt",
+      "type": "usd"
+    },
+    {
+      "name": "DecrInQlfyBasisOfBldgsAF2007",
+      "path": "DecrInQlfyBasisOfBldgsAF2007",
+      "type": "unknown"
+    },
+    {
+      "name": "BIN",
+      "path": "DecrInQlfyBasisOfBldgsAF2007/BIN",
+      "type": "unknown"
+    },
+    {
+      "name": "DecrQlfyBssOfBldgsAF2007Ind",
+      "path": "DecrQlfyBssOfBldgsAF2007Ind",
+      "type": "bool"
+    },
+    {
+      "name": "EstatesAndTrustsResultAmt",
+      "path": "EstatesAndTrustsResultAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Forms8609AAttachedAftr2007Cnt",
+      "path": "Forms8609AAttachedAftr2007Cnt",
+      "type": "int"
+    },
+    {
+      "name": "LowIncmHsnCrPlusCurYrCrAF07Amt",
+      "path": "LowIncmHsnCrPlusCurYrCrAF07Amt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncomeHousingCrAF2007Amt",
+      "path": "LowIncomeHousingCrAF2007Amt",
+      "type": "usd"
+    }
+  ]
+}

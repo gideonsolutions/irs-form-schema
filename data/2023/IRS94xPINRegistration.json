@@ -1,0 +1,46 @@
+{
+  "form_id": "IRS94xPINRegistration",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "EmailAddressTxt",
+      "path": "PINRegAuthorizedSignerGrp/EmailAddressTxt",
+      "type": "string"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PINRegAuthorizedSignerGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonTitleTxt",
+      "path": "PINRegAuthorizedSignerGrp/PersonTitleTxt",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "PINRegAuthorizedSignerGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "PINRegContactGrp/ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PINRegContactGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonTitleTxt",
+      "path": "PINRegContactGrp/PersonTitleTxt",
+      "type": "string"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PINRegContactGrp/PhoneNum",
+      "type": "string"
+    }
+  ]
+}

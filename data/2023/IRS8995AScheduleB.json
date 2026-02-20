@@ -1,0 +1,21 @@
+{
+  "form_id": "IRS8995AScheduleB",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BusOperationAggregationGrp",
+      "path": "BusOperationAggregationGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotCYSCorpExcessBusIntIncmAmt",
+      "path": "TotCYSCorpExcessBusIntIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCYSCorpShrExcessTxblIncmAmt",
+      "path": "TotCYSCorpShrExcessTxblIncmAmt",
+      "type": "usd"
+    }
+  ]
+}

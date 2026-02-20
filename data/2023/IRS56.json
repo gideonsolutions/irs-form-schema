@@ -1,0 +1,426 @@
+{
+  "form_id": "IRS56",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AMPMCourtTs",
+      "path": "AMPMCourtTs",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressTypeCd",
+      "path": "AddressTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "BankruptcyOrAssignmentInd",
+      "path": "BankruptcyOrAssignmentInd",
+      "type": "bool"
+    },
+    {
+      "name": "CertDissolutionOrTermInd",
+      "path": "CertDissolutionOrTermInd",
+      "type": "bool"
+    },
+    {
+      "name": "CourtAddress",
+      "path": "CourtAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "CourtAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "CourtAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AgencyNm",
+      "path": "CourtAgencyGrp/AgencyNm",
+      "type": "string"
+    },
+    {
+      "name": "OtherProceedingTypeDesc",
+      "path": "CourtAgencyGrp/OtherProceedingTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "CourtDt",
+      "path": "CourtDt",
+      "type": "date"
+    },
+    {
+      "name": "CourtNm",
+      "path": "CourtNm",
+      "type": "string"
+    },
+    {
+      "name": "CourtOrderRevocationInd",
+      "path": "CourtOrderRevocationInd",
+      "type": "bool"
+    },
+    {
+      "name": "DecedentDeathDt",
+      "path": "DecedentDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "DocketNum",
+      "path": "DocketNum",
+      "type": "string"
+    },
+    {
+      "name": "EmploymentInd",
+      "path": "EmploymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstateInd",
+      "path": "EstateInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExciseInd",
+      "path": "ExciseInd",
+      "type": "bool"
+    },
+    {
+      "name": "AuthDoesNotCoverAllTaxYearInd",
+      "path": "FidcryAuthDoesNotCoverAllYrGrp/AuthDoesNotCoverAllTaxYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxYearOrTaxPeriodGrp",
+      "path": "FidcryAuthDoesNotCoverAllYrGrp/TaxYearOrTaxPeriodGrp",
+      "type": "group"
+    },
+    {
+      "name": "FiduciaryAuthorityDt",
+      "path": "FiduciaryAuthorityDt",
+      "type": "date"
+    },
+    {
+      "name": "FiduciaryBusinessFrgnAddress",
+      "path": "FiduciaryBusinessFrgnAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "FiduciaryBusinessFrgnAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "FiduciaryBusinessFrgnAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "FiduciaryBusinessFrgnAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "FiduciaryBusinessNm",
+      "path": "FiduciaryBusinessNm",
+      "type": "string"
+    },
+    {
+      "name": "FiduciaryBusinessNmControlTxt",
+      "path": "FiduciaryBusinessNmControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "FiduciaryBusinessUSAddress",
+      "path": "FiduciaryBusinessUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "FiduciaryBusinessUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "FiduciaryBusinessUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FiduciaryForeignAddress",
+      "path": "FiduciaryForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "FiduciaryForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "FiduciaryForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "FiduciaryForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "FiduciaryForeignPhoneNum",
+      "path": "FiduciaryForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "FiduciaryIntestateEstateInd",
+      "path": "FiduciaryIntestateEstateInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "FiduciaryPersonName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "FiduciaryPersonName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "FiduciaryPersonNameControlTxt",
+      "path": "FiduciaryPersonNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "TaxYearOrTaxPeriodGrp",
+      "path": "FiduciaryRcvCopyOfCommunGrp/TaxYearOrTaxPeriodGrp",
+      "type": "group"
+    },
+    {
+      "name": "FiduciaryUSAddress",
+      "path": "FiduciaryUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "FiduciaryUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "FiduciaryUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FiduciaryUSPhoneNum",
+      "path": "FiduciaryUSPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "Form1040Or1040SRInd",
+      "path": "Form1040Or1040SRInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form1041Ind",
+      "path": "Form1041Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form1120Ind",
+      "path": "Form1120Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form706SeriesInd",
+      "path": "Form706SeriesInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form709Ind",
+      "path": "Form709Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form940Ind",
+      "path": "Form940Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form941Or943Or944Ind",
+      "path": "Form941Or943Or944Ind",
+      "type": "bool"
+    },
+    {
+      "name": "GenerationSkippingTransferInd",
+      "path": "GenerationSkippingTransferInd",
+      "type": "bool"
+    },
+    {
+      "name": "GiftInd",
+      "path": "GiftInd",
+      "type": "bool"
+    },
+    {
+      "name": "GranteeDt",
+      "path": "GranteeDt",
+      "type": "date"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "GranteeForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "GranteeForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "GranteeForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "GranteeForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "GranteeForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "GranteeForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "GranteeNm",
+      "path": "GranteeNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "GranteeUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "GranteeUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "GranteeUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "GranteeUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "GranteeUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "GuardianOrConservatorInd",
+      "path": "GuardianOrConservatorInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncomeInd",
+      "path": "IncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "IntestateInd",
+      "path": "IntestateInd",
+      "type": "bool"
+    },
+    {
+      "name": "NewOrSubstituteFiduciaryGrp",
+      "path": "NewOrSubstituteFiduciaryGrp",
+      "type": "group"
+    },
+    {
+      "name": "NewOrSubstituteFiduciaryInd",
+      "path": "NewOrSubstituteFiduciaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherAuthorityExplanationDesc",
+      "path": "OtherFiduciaryAuthorityGrp/OtherAuthorityExplanationDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherAuthorityInd",
+      "path": "OtherFiduciaryAuthorityGrp/OtherAuthorityInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherFormTypeInd",
+      "path": "OtherFormTypeInd",
+      "type": "bool"
+    },
+    {
+      "name": "@otherDesc",
+      "path": "OtherFormTypeInd/@otherDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@otherTaxDesc",
+      "path": "OtherInd/@otherTaxDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherProceedingPlaceNm",
+      "path": "OtherProceedingPlaceNm",
+      "type": "string"
+    },
+    {
+      "name": "OtherRevocationDesc",
+      "path": "OtherRevocationDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherRevocationInd",
+      "path": "OtherRevocationInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartialRevocationInd",
+      "path": "PartialRevocationInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProceedingsInitiatedDt",
+      "path": "ProceedingsInitiatedDt",
+      "type": "date"
+    },
+    {
+      "name": "TestateInd",
+      "path": "TestateInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalRevocationInd",
+      "path": "TotalRevocationInd",
+      "type": "bool"
+    },
+    {
+      "name": "ValidTrustOrAmendmentInd",
+      "path": "ValidTrustOrAmendmentInd",
+      "type": "bool"
+    }
+  ]
+}

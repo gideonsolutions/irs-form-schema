@@ -1,0 +1,131 @@
+{
+  "form_id": "IRS5405",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjustedBasisForRepymtCrAmt",
+      "path": "AdjustedBasisForRepymtCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBasisOfHomeSoldAmt",
+      "path": "AdjustedBasisOfHomeSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChangeOfMainHomeDt",
+      "path": "DispositionChangeMainHome/ChangeOfMainHomeDt",
+      "type": "date"
+    },
+    {
+      "name": "HomeBuyerCrTaxpayerDeceasedInd",
+      "path": "DispositionChangeMainHome/HomeBuyerCrTaxpayerDeceasedInd",
+      "type": "bool"
+    },
+    {
+      "name": "HomeConvertedToBusinessUseInd",
+      "path": "DispositionChangeMainHome/HomeConvertedToBusinessUseInd",
+      "type": "bool"
+    },
+    {
+      "name": "HomeDestrCondemnNewHomeInd",
+      "path": "DispositionChangeMainHome/HomeDestrCondemnNewHomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "HomeDestrCondemnNoNewHomeInd",
+      "path": "DispositionChangeMainHome/HomeDestrCondemnNoNewHomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "HomeSoldMilitaryExtDutyInd",
+      "path": "DispositionChangeMainHome/HomeSoldMilitaryExtDutyInd",
+      "type": "bool"
+    },
+    {
+      "name": "HomeSoldToRelatedPersonInd",
+      "path": "DispositionChangeMainHome/HomeSoldToRelatedPersonInd",
+      "type": "bool"
+    },
+    {
+      "name": "HomeSoldToUnrltPrsnNoGainInd",
+      "path": "DispositionChangeMainHome/HomeSoldToUnrltPrsnNoGainInd",
+      "type": "bool"
+    },
+    {
+      "name": "HomeSoldToUnrltPrsnWithGainInd",
+      "path": "DispositionChangeMainHome/HomeSoldToUnrltPrsnWithGainInd",
+      "type": "bool"
+    },
+    {
+      "name": "HomeTransferredToSpouseOrExInd",
+      "path": "DispositionChangeMainHome/HomeTransferredToSpouseGrp/HomeTransferredToSpouseOrExInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpouseOrExNm",
+      "path": "DispositionChangeMainHome/HomeTransferredToSpouseGrp/SpouseOrExNm",
+      "type": "string"
+    },
+    {
+      "name": "FirstTimeHmByrCrClaimedAmt",
+      "path": "FirstTimeHmByrCrClaimedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstTimeHmByrCrRepaidPYRetAmt",
+      "path": "FirstTimeHmByrCrRepaidPYRetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstTimeHmByrNetCrClaimedAmt",
+      "path": "FirstTimeHmByrNetCrClaimedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstTimeHmByrNetCrRpdPYRetAmt",
+      "path": "FirstTimeHmByrNetCrRpdPYRetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstTimeHmByrRepaymentAmt",
+      "path": "FirstTimeHmByrRepaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainOnSaleOfMainHomeAmt",
+      "path": "GainOnSaleOfMainHomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainOrLossFromWorksheetAmt",
+      "path": "GainOrLossFromWorksheetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdySaleOfHmRealizedAmt",
+      "path": "MortgSbsdySaleOfHmRealizedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SellingOfHomeExpensesAmt",
+      "path": "SellingOfHomeExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SellingPriceOfHomeProcAwardAmt",
+      "path": "SellingPriceOfHomeProcAwardAmt",
+      "type": "usd"
+    }
+  ]
+}

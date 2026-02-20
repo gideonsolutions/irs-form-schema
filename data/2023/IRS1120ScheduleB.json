@@ -1,0 +1,86 @@
+{
+  "form_id": "IRS1120ScheduleB",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AllocationReflectCorpPrtshpInd",
+      "path": "AllocationReflectCorpPrtshpInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangeInAccountingPrincipleInd",
+      "path": "ChangeInAccountingPrincipleInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangeInMethodOfAccountingInd",
+      "path": "ChangeInMethodOfAccountingInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorpAcqIntrestIntngblAssetInd",
+      "path": "CorpAcqIntrestIntngblAssetInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorpEnterCostSharingAgrmtInd",
+      "path": "CorpEnterCostSharingAgrmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorpPartcpCostSharingAgrmtInd",
+      "path": "CorpPartcpCostSharingAgrmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorpSectTakeContriNonShrInd ",
+      "path": "CorpSectTakeContriNonShrInd ",
+      "type": "unknown"
+    },
+    {
+      "name": "CorpSellIntIntngblAstToPrsnInd",
+      "path": "CorpSellIntIntngblAstToPrsnInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorpUseVariedAllocnMthdCostInd",
+      "path": "CorpUseVariedAllocnMthdCostInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "FilerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "FilerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignCountryCode",
+      "path": "ForeignCountryCode",
+      "type": "unknown"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "TreatIndrCostAsMxdSrvcCostInd",
+      "path": "TreatIndrCostAsMxdSrvcCostInd",
+      "type": "bool"
+    },
+    {
+      "name": "VoluntaryEmplBenefAssocTrInd",
+      "path": "VoluntaryEmplBenefAssocTrInd",
+      "type": "bool"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "form_id": "IRS1040ScheduleE",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BusTotalNonpassiveIncomeAmt",
+      "path": "BusTotalNonpassiveIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateAndTrustGroup",
+      "path": "EstateAndTrustGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "EstateAndTrustTotPssvIncmAmt",
+      "path": "EstateAndTrustTotPssvIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FarmingAndFishingIncomeAmt",
+      "path": "FarmingAndFishingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAmt",
+      "path": "IncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LossesAmt",
+      "path": "LossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFarmRentalIncomeOrLossAmt",
+      "path": "NetFarmRentalIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetPrtshpSCorpIncomeOrLossAmt",
+      "path": "NetPrtshpSCorpIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipOrSCorpGroup",
+      "path": "PartnershipOrSCorpGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "PaymentRqrFilingForm1099Ind",
+      "path": "PaymentRqrFilingForm1099Ind",
+      "type": "bool"
+    },
+    {
+      "name": "PriorYearsLossesInd",
+      "path": "PriorYearsLossesInd",
+      "type": "bool"
+    },
+    {
+      "name": "PropertyRealEstAndRoyaltyGroup",
+      "path": "PropertyRealEstAndRoyaltyGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "AdvertisingAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/AdvertisingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AutoAndTravelAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/AutoAndTravelAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CleaningAndMaintenanceAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/CleaningAndMaintenanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/CommissionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DedRentalRealEstateLossAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/DedRentalRealEstateLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeprecExpenseOrDepletionAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/DeprecExpenseOrDepletionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/InsuranceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LegalAndOtherProfFeesAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/LegalAndOtherProfFeesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ManagementFeesAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/ManagementFeesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageInterestPaidBanksAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/MortgageInterestPaidBanksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageInterestPaidOtherAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/MortgageInterestPaidOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalIncomeOrLossAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/NetRentalIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form6198Cd",
+      "path": "PropertyRealEstAndRoyaltyGroup/NetRentalIncomeOrLossAmt/@form6198Cd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherExpenseDetail",
+      "path": "PropertyRealEstAndRoyaltyGroup/OtherExpenseDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "PropertyRealEstAndRoyaltyGroup/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "RentsReceivedAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/RentsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepairsAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/RepairsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SuppliesAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/SuppliesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/TaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/TotalExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRoyaltiesReceivedAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/TotalRoyaltiesReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UtilitiesAmt",
+      "path": "PropertyRealEstAndRoyaltyGroup/UtilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "REMICGroup",
+      "path": "REMICGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "RecnclForREProfessionalsAmt",
+      "path": "RecnclForREProfessionalsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredForms1099FiledInd",
+      "path": "RequiredForms1099FiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotAllPaymentsAllRentalPropAmt",
+      "path": "TotAllPaymentsAllRentalPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAllPaymentsAllRyltyPropAmt",
+      "path": "TotAllPaymentsAllRyltyPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotEstateAndTrustIncOrLossAmt",
+      "path": "TotEstateAndTrustIncOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@schK1ESPaymentsAmt",
+      "path": "TotEstateAndTrustIncOrLossAmt/@schK1ESPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@schK1ESPaymentsLiteralCd",
+      "path": "TotEstateAndTrustIncOrLossAmt/@schK1ESPaymentsLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotPassiveDedOrLossAllowedAmt",
+      "path": "TotPassiveDedOrLossAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotSect179ExpenseDeductionAmt",
+      "path": "TotSect179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllPropTotalExpensesAmt",
+      "path": "TotalAllPropTotalExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionOrLossAmt",
+      "path": "TotalDeductionOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDepreciationAmt",
+      "path": "TotalDepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEstateOrTrustIncomeAmt",
+      "path": "TotalEstateOrTrustIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEstateOrTrustLossAmt",
+      "path": "TotalEstateOrTrustLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeOrLossAmt",
+      "path": "TotalIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@nonpassiveActivityAmt",
+      "path": "TotalIncomeOrLossAmt/@nonpassiveActivityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@nonpassiveActivityLiteralCd",
+      "path": "TotalIncomeOrLossAmt/@nonpassiveActivityLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalMortgageInterestPaidAmt",
+      "path": "TotalMortgageInterestPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonpassiveLossAmt",
+      "path": "TotalNonpassiveLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherIncomeAmt",
+      "path": "TotalOtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPassiveIncomeAmt",
+      "path": "TotalPassiveIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPassiveLossAllowedAmt",
+      "path": "TotalPassiveLossAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPrtshpSCorpIncomeAmt",
+      "path": "TotalPrtshpSCorpIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPrtshpSCorpLossAmt",
+      "path": "TotalPrtshpSCorpLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalREMICIncomeAmt",
+      "path": "TotalREMICIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSuppIncomeOrLossAmt",
+      "path": "TotalSuppIncomeOrLossAmt",
+      "type": "usd"
+    }
+  ]
+}

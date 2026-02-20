@@ -1,0 +1,191 @@
+{
+  "form_id": "IRS1120FScheduleV",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": " VesselAircraftInformation/OperatorBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": " VesselAircraftInformation/RegisteredOwnerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "VesselOrAircraftIDNum",
+      "path": " VesselAircraftInformation/VesselOrAircraftIDNum",
+      "type": "string"
+    },
+    {
+      "name": "GrossTransIncmMnsTrtyAmt",
+      "path": "GrossTransIncmMnsTrtyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUSSourceGrossTransIncmAmt",
+      "path": "TotalUSSourceGrossTransIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TransportationIncmExmptTrtyAmt",
+      "path": "TransportationIncmExmptTrtyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VesselAircraftInformation",
+      "path": "VesselAircraftInformation",
+      "type": "unknown"
+    },
+    {
+      "name": "          RegisteredOwnerEIN",
+      "path": "VesselAircraftInformation/          RegisteredOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "  UnknownRegisteredOwnerCd",
+      "path": "VesselAircraftInformation/  UnknownRegisteredOwnerCd",
+      "type": "enum"
+    },
+    {
+      "name": " EINMissingReasonCd",
+      "path": "VesselAircraftInformation/ EINMissingReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": " MissingEINReasonCd",
+      "path": "VesselAircraftInformation/ MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "VesselAircraftInformation/ OperatorBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": " RegisteredOwnerEIN",
+      "path": "VesselAircraftInformation/ RegisteredOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": " RegisteredOwnerSSN",
+      "path": "VesselAircraftInformation/ RegisteredOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": " UnknownOperatorCd",
+      "path": "VesselAircraftInformation/ UnknownOperatorCd",
+      "type": "enum"
+    },
+    {
+      "name": " VesselOrAircraftCharteredInInd",
+      "path": "VesselAircraftInformation/ VesselOrAircraftCharteredInInd",
+      "type": "bool"
+    },
+    {
+      "name": " VesselOrArcrftCharteredOutInd",
+      "path": "VesselAircraftInformation/ VesselOrArcrftCharteredOutInd",
+      "type": "bool"
+    },
+    {
+      "name": "EINMissingReasonCd",
+      "path": "VesselAircraftInformation/EINMissingReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "VesselAircraftInformation/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "VesselAircraftInformation/OperatorBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "VesselAircraftInformation/OperatorBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "OperatorEIN",
+      "path": "VesselAircraftInformation/OperatorEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "VesselAircraftInformation/OperatorName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "OperatorPersonNm",
+      "path": "VesselAircraftInformation/OperatorPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "OperatorSSN",
+      "path": "VesselAircraftInformation/OperatorSSN",
+      "type": "tin"
+    },
+    {
+      "name": "RegisteredOwnerEIN",
+      "path": "VesselAircraftInformation/RegisteredOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "VesselAircraftInformation/RegisteredOwnerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "VesselAircraftInformation/RegisteredOwnerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "RegisteredOwnerSSN",
+      "path": "VesselAircraftInformation/RegisteredOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "USSourceGrossTransIncmAmt",
+      "path": "VesselAircraftInformation/USSourceGrossTransIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnknownOperatorCd",
+      "path": "VesselAircraftInformation/UnknownOperatorCd",
+      "type": "enum"
+    },
+    {
+      "name": "UnknownOperatorNameCd",
+      "path": "VesselAircraftInformation/UnknownOperatorNameCd",
+      "type": "enum"
+    },
+    {
+      "name": "UnknownRegisteredOwnerCd",
+      "path": "VesselAircraftInformation/UnknownRegisteredOwnerCd",
+      "type": "enum"
+    },
+    {
+      "name": "VesselOrAircraftCharteredInInd",
+      "path": "VesselAircraftInformation/VesselOrAircraftCharteredInInd",
+      "type": "bool"
+    },
+    {
+      "name": "VesselOrAircraftIDNum",
+      "path": "VesselAircraftInformation/VesselOrAircraftIDNum",
+      "type": "string"
+    },
+    {
+      "name": "VesselOrAircraftNm",
+      "path": "VesselAircraftInformation/VesselOrAircraftNm",
+      "type": "string"
+    },
+    {
+      "name": "VesselOrArcrftCharteredOutInd",
+      "path": "VesselAircraftInformation/VesselOrArcrftCharteredOutInd",
+      "type": "bool"
+    }
+  ]
+}

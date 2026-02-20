@@ -1,0 +1,86 @@
+{
+  "form_id": "IRSSSA1042S",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "ClaimNum",
+      "path": "ClaimNum",
+      "type": "string"
+    },
+    {
+      "name": "CorrectedInd",
+      "path": "CorrectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "DuplicateInd",
+      "path": "DuplicateInd",
+      "type": "bool"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "NetSocSecBnftAmt",
+      "path": "NetSocSecBnftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTaxWithheldAmt",
+      "path": "NetTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SocSecBnftAmt",
+      "path": "SocSecBnftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocSecBnftDesc",
+      "path": "SocSecBnftDesc",
+      "type": "string"
+    },
+    {
+      "name": "SocSecBnftRepaidSSAAmt",
+      "path": "SocSecBnftRepaidSSAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocSecBnftRepaidSSADesc",
+      "path": "SocSecBnftRepaidSSADesc",
+      "type": "string"
+    },
+    {
+      "name": "TaxRt",
+      "path": "TaxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "USAddress",
+      "path": "USAddress",
+      "type": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "form_id": "IRS8993",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AllocableDeductionAmt",
+      "path": "AllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApportionedShareDeductionAmt",
+      "path": "ApportionedShareDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CFCDividendsReceivedAmt",
+      "path": "CFCDividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionEligibleIncomeAmt",
+      "path": "DeductionEligibleIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeemedIntangibleIncomeAmt",
+      "path": "DeemedIntangibleIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeemedTangibleIncomeReturnAmt",
+      "path": "DeemedTangibleIncomeReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomOilGasExtractionIncomeAmt",
+      "path": "DomOilGasExtractionIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExFDIIAndGILTIOverTxblIncmAmt",
+      "path": "ExFDIIAndGILTIOverTxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDDEIAmt",
+      "path": "FDDEIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIIAmt",
+      "path": "FDIIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIIDeductionAmt",
+      "path": "FDIIDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIIReductionAmt",
+      "path": "FDIIReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinancialServicesIncomeAmt",
+      "path": "FinancialServicesIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignDerivedRt",
+      "path": "ForeignDerivedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "AllocableDeductionAmt",
+      "path": "FrgnDerivedIncmGenPropGrp/AllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "FrgnDerivedIncmGenPropGrp/CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossFDDEIAmt",
+      "path": "FrgnDerivedIncmGenPropGrp/GrossFDDEIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsAmt",
+      "path": "FrgnDerivedIncmGenPropGrp/GrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipCostOfGoodsSoldAmt",
+      "path": "FrgnDerivedIncmGenPropGrp/PartnershipCostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipGrossReceiptsAmt",
+      "path": "FrgnDerivedIncmGenPropGrp/PartnershipGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpAllocableDeductionAmt",
+      "path": "FrgnDerivedIncmGenPropGrp/PrtshpAllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostGoodsSoldAmt",
+      "path": "FrgnDerivedIncmGenPropGrp/TotalCostGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossReceiptsAmt",
+      "path": "FrgnDerivedIncmGenPropGrp/TotalGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocableDeductionAmt",
+      "path": "FrgnDerivedIncmIntngblPropGrp/AllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "FrgnDerivedIncmIntngblPropGrp/CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossFDDEIAmt",
+      "path": "FrgnDerivedIncmIntngblPropGrp/GrossFDDEIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsAmt",
+      "path": "FrgnDerivedIncmIntngblPropGrp/GrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipCostOfGoodsSoldAmt",
+      "path": "FrgnDerivedIncmIntngblPropGrp/PartnershipCostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipGrossReceiptsAmt",
+      "path": "FrgnDerivedIncmIntngblPropGrp/PartnershipGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpAllocableDeductionAmt",
+      "path": "FrgnDerivedIncmIntngblPropGrp/PrtshpAllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostGoodsSoldAmt",
+      "path": "FrgnDerivedIncmIntngblPropGrp/TotalCostGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossReceiptsAmt",
+      "path": "FrgnDerivedIncmIntngblPropGrp/TotalGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocableDeductionAmt",
+      "path": "FrgnDerivedIncmSrvcGrp/AllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "FrgnDerivedIncmSrvcGrp/CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossFDDEIAmt",
+      "path": "FrgnDerivedIncmSrvcGrp/GrossFDDEIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsAmt",
+      "path": "FrgnDerivedIncmSrvcGrp/GrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipCostOfGoodsSoldAmt",
+      "path": "FrgnDerivedIncmSrvcGrp/PartnershipCostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipGrossReceiptsAmt",
+      "path": "FrgnDerivedIncmSrvcGrp/PartnershipGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpAllocableDeductionAmt",
+      "path": "FrgnDerivedIncmSrvcGrp/PrtshpAllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostGoodsSoldAmt",
+      "path": "FrgnDerivedIncmSrvcGrp/TotalCostGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossReceiptsAmt",
+      "path": "FrgnDerivedIncmSrvcGrp/TotalGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GILTIDeductionAmt",
+      "path": "GILTIDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GILTIInclusionAmt",
+      "path": "GILTIInclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GILTIReceivedAmt",
+      "path": "GILTIReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GILTIReductionAmt",
+      "path": "GILTIReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeAmt",
+      "path": "GrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeLessTotIncmExclAmt",
+      "path": "GrossIncomeLessTotIncmExclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestDeductionAmt",
+      "path": "InterestDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipDTIRAmt",
+      "path": "PartnershipDTIRAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpApprtnShareDeductionAmt",
+      "path": "PrtshpApprtnShareDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ResearchExperimentalDedAmt",
+      "path": "ResearchExperimentalDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951a1IncomeAmt",
+      "path": "Section951a1IncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocableDeductionAmt",
+      "path": "TotFrgnDerivedIncmPropSrvcGrp/AllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "TotFrgnDerivedIncmPropSrvcGrp/CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossFDDEIAmt",
+      "path": "TotFrgnDerivedIncmPropSrvcGrp/GrossFDDEIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsAmt",
+      "path": "TotFrgnDerivedIncmPropSrvcGrp/GrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipCostOfGoodsSoldAmt",
+      "path": "TotFrgnDerivedIncmPropSrvcGrp/PartnershipCostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipGrossReceiptsAmt",
+      "path": "TotFrgnDerivedIncmPropSrvcGrp/PartnershipGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpAllocableDeductionAmt",
+      "path": "TotFrgnDerivedIncmPropSrvcGrp/PrtshpAllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostGoodsSoldAmt",
+      "path": "TotFrgnDerivedIncmPropSrvcGrp/TotalCostGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossReceiptsAmt",
+      "path": "TotFrgnDerivedIncmPropSrvcGrp/TotalGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDTIRAmt",
+      "path": "TotalDTIRAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionsAmt",
+      "path": "TotalDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFDIIAndGILTIAmt",
+      "path": "TotalFDIIAndGILTIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeExclusionAmt",
+      "path": "TotalIncomeExclusionAmt",
+      "type": "usd"
+    }
+  ]
+}

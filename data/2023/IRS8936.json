@@ -1,0 +1,186 @@
+{
+  "form_id": "IRS8936",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BusinessInvestmentUseRatioAmt",
+      "path": "BusinessInvestmentUseRatioAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvstUsePartOfCrAmt",
+      "path": "BusinessInvstUsePartOfCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetBusinessInvestmentUseAmt",
+      "path": "NetBusinessInvestmentUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalUsePartOfCreditAmt",
+      "path": "PersonalUsePartOfCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecVehAdjPrsnlCreditAmt",
+      "path": "QlfyElecVehAdjPrsnlCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecVehCrPrtshpSCorpAmt",
+      "path": "QlfyElecVehCrPrtshpSCorpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecVehOtherFormCreditsAmt",
+      "path": "QlfyElecVehOtherFormCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyPlugInElecDriveMtrVehCrGrp",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "MaxCreditPerVehiclePersonalAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp /MaxCreditPerVehiclePersonalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerMaxCrOrPrsnlRatioAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp /SmallerMaxCrOrPrsnlRatioAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCrPersonalUseRatioAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp /TentativeCrPersonalUseRatioAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCreditForPrsnlUseAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp /TentativeCreditForPrsnlUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleMakeNameTxt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp /VehicleDescriptionGrp/VehicleMakeNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "VehicleModelNameTxt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp /VehicleDescriptionGrp/VehicleModelNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "VehicleModelYr",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp /VehicleDescriptionGrp/VehicleModelYr",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessInvestmentUseAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/BusinessInvestmentUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvestmentUsePct",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/BusinessInvestmentUsePct",
+      "type": "decimal"
+    },
+    {
+      "name": "BusinessInvestmentUseRatioAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/BusinessInvestmentUseRatioAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaxCreditPerVehiclePersonalAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/MaxCreditPerVehiclePersonalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetBusinessInvestmentUseAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/NetBusinessInvestmentUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PhaseoutPct",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/PhaseoutPct",
+      "type": "decimal"
+    },
+    {
+      "name": "Section179ExpenseDeductionAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/Section179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerMaxCrOrPrsnlRatioAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/SmallerMaxCrOrPrsnlRatioAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerMaxCreditOrBusRatioAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/SmallerMaxCreditOrBusRatioAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCrPersonalUseRatioAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/TentativeCrPersonalUseRatioAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCreditForPrsnlUseAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/TentativeCreditForPrsnlUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VIN",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/VIN",
+      "type": "unknown"
+    },
+    {
+      "name": "VehicleCostAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/VehicleCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleDescriptionGrp",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/VehicleDescriptionGrp",
+      "type": "group"
+    },
+    {
+      "name": "VehiclePlacedInServiceDt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/VehiclePlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "VehicleTentativeCreditAmt",
+      "path": "QlfyPlugInElecDriveMtrVehCrGrp/VehicleTentativeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179ExpenseDeductionAmt",
+      "path": "Section179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerMaxCreditOrBusRatioAmt",
+      "path": "SmallerMaxCreditOrBusRatioAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBusinessInvestmentUseAmt",
+      "path": "TotalBusinessInvestmentUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxBeforeCrAndOthTaxesAmt",
+      "path": "TotalTaxBeforeCrAndOthTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTentativeCrForPrsnlUseAmt",
+      "path": "TotalTentativeCrForPrsnlUseAmt",
+      "type": "usd"
+    }
+  ]
+}

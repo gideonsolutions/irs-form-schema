@@ -1,0 +1,281 @@
+{
+  "form_id": "IRS8038CP",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "BankAccountTypeCd",
+      "path": "BankAccountTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "BuildAmericaBondCreditAmt",
+      "path": "BuildAmericaBondCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditPaymentRequestedAmt",
+      "path": "CreditPaymentRequestedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtServiceScheduleChangeInd",
+      "path": "DebtServiceScheduleChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "DebtServiceScheduleDesc",
+      "path": "DebtServiceScheduleExplnGrp/DebtServiceScheduleDesc",
+      "type": "string"
+    },
+    {
+      "name": "DebtServiceScheduleExplnCd",
+      "path": "DebtServiceScheduleExplnGrp/DebtServiceScheduleExplnCd",
+      "type": "enum"
+    },
+    {
+      "name": "DebtServiceScheduleExplnCdTxt",
+      "path": "DebtServiceScheduleExplnGrp/DebtServiceScheduleExplnCdTxt",
+      "type": "string"
+    },
+    {
+      "name": "DebtServiceScheduleShortDesc",
+      "path": "DebtServiceScheduleExplnGrp/DebtServiceScheduleShortDesc",
+      "type": "string"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "EntityReceivingPaymentGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "EntityReceivingPaymentGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ContactPersonNm",
+      "path": "EntityReceivingPaymentGrp/ContactPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "ContactPersonPhoneNum",
+      "path": "EntityReceivingPaymentGrp/ContactPersonPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "ContactPersonTitleTxt",
+      "path": "EntityReceivingPaymentGrp/ContactPersonTitleTxt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "EntityReceivingPaymentGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "USAddress",
+      "path": "EntityReceivingPaymentGrp/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "EntityReceivingPaymentGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "EntityReceivingPaymentGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FinalInterestPaymentDtInd",
+      "path": "FinalInterestPaymentDtInd",
+      "type": "bool"
+    },
+    {
+      "name": "IntNotPaidBfrPymtDtDesc",
+      "path": "IntNotPaidBfrPymtDtExplnGrp/IntNotPaidBfrPymtDtDesc",
+      "type": "string"
+    },
+    {
+      "name": "IntNotPaidBfrPymtDtExplnCd",
+      "path": "IntNotPaidBfrPymtDtExplnGrp/IntNotPaidBfrPymtDtExplnCd",
+      "type": "enum"
+    },
+    {
+      "name": "IntNotPaidBfrPymtDtExplnCdTxt",
+      "path": "IntNotPaidBfrPymtDtExplnGrp/IntNotPaidBfrPymtDtExplnCdTxt",
+      "type": "string"
+    },
+    {
+      "name": "IntNotPaidBfrPymtDtShortDesc",
+      "path": "IntNotPaidBfrPymtDtExplnGrp/IntNotPaidBfrPymtDtShortDesc",
+      "type": "string"
+    },
+    {
+      "name": "InterestPaidBeforePaymentDtInd",
+      "path": "InterestPaidBeforePaymentDtInd",
+      "type": "bool"
+    },
+    {
+      "name": "InterestPayableAmt",
+      "path": "InterestPayableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestPaymentDt",
+      "path": "InterestPaymentDt",
+      "type": "date"
+    },
+    {
+      "name": "NetDecreasePreviousPaymentAmt",
+      "path": "NetIncreaseDecreaseGrp/NetDecreasePreviousPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncreaseDecreaseDesc",
+      "path": "NetIncreaseDecreaseGrp/NetIncreaseDecreaseDesc",
+      "type": "string"
+    },
+    {
+      "name": "NetIncreaseDecreaseExplnCd",
+      "path": "NetIncreaseDecreaseGrp/NetIncreaseDecreaseExplnCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetIncreaseDecreaseExplnCdTxt",
+      "path": "NetIncreaseDecreaseGrp/NetIncreaseDecreaseExplnCdTxt",
+      "type": "string"
+    },
+    {
+      "name": "NetIncreaseDecreaseShortDesc",
+      "path": "NetIncreaseDecreaseGrp/NetIncreaseDecreaseShortDesc",
+      "type": "string"
+    },
+    {
+      "name": "NetIncreasePreviousPaymentAmt",
+      "path": "NetIncreaseDecreaseGrp/NetIncreasePreviousPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NewCleanRenewableEgyBondCrAmt",
+      "path": "NewCleanRenewableEgyBondCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedEnergyCnsrvBondCrAmt",
+      "path": "QualifiedEnergyCnsrvBondCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedSchoolConstrBondCrAmt",
+      "path": "QualifiedSchoolConstrBondCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedZoneAcademyBondCrAmt",
+      "path": "QualifiedZoneAcademyBondCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcvryZoneEconomicDevBondCrAmt",
+      "path": "RcvryZoneEconomicDevBondCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BondIssueDt",
+      "path": "ReportingAuthorityGrp/BondIssueDt",
+      "type": "date"
+    },
+    {
+      "name": "BondIssueNm",
+      "path": "ReportingAuthorityGrp/BondIssueNm",
+      "type": "string"
+    },
+    {
+      "name": "BondTypeCd",
+      "path": "ReportingAuthorityGrp/BondTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "CUSIPNum",
+      "path": "ReportingAuthorityGrp/CUSIPNum",
+      "type": "string"
+    },
+    {
+      "name": "ContactPersonNm",
+      "path": "ReportingAuthorityGrp/ContactPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "ContactPersonPhoneNum",
+      "path": "ReportingAuthorityGrp/ContactPersonPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "ContactPersonTitleTxt",
+      "path": "ReportingAuthorityGrp/ContactPersonTitleTxt",
+      "type": "string"
+    },
+    {
+      "name": "FixedRateBondInd",
+      "path": "ReportingAuthorityGrp/FixedRateBondInd",
+      "type": "bool"
+    },
+    {
+      "name": "IssuePriceAmt",
+      "path": "ReportingAuthorityGrp/IssuePriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingCUSIPReasonCd",
+      "path": "ReportingAuthorityGrp/MissingCUSIPReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ReceiverAndIssuerSameEntityCd",
+      "path": "ReportingAuthorityGrp/ReceiverAndIssuerSameEntityCd",
+      "type": "enum"
+    },
+    {
+      "name": "ReportNum",
+      "path": "ReportingAuthorityGrp/ReportNum",
+      "type": "string"
+    },
+    {
+      "name": "VariableRateBondInd",
+      "path": "ReportingAuthorityGrp/VariableRateBondInd",
+      "type": "bool"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "Section54Ab3CreditRt",
+      "path": "Section54Ab3CreditRt",
+      "type": "decimal"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "TotalEligibleInterestCmptAmt",
+      "path": "TotalEligibleInterestCmptAmt",
+      "type": "usd"
+    }
+  ]
+}

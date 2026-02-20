@@ -1,0 +1,31 @@
+{
+  "form_id": "IRSPayment2",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "BankAccountNum",
+      "path": "BankAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "PaymentAmt",
+      "path": "PaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequestedPaymentDt",
+      "path": "RequestedPaymentDt",
+      "type": "date"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxpayerDaytimePhoneNum",
+      "path": "TaxpayerDaytimePhoneNum",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "form_id": "IRS1125E",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CompensationClaimedFrm1125AAmt",
+      "path": "CompensationClaimedFrm1125AAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OfficerTyp",
+      "path": "OfficerTyp",
+      "type": "unknown"
+    },
+    {
+      "name": "OfficerNm",
+      "path": "OfficerTyp/OfficerNm",
+      "type": "string"
+    },
+    {
+      "name": "OfficersNetCompensationAmt",
+      "path": "OfficersNetCompensationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OfficersTotalCompensationAmt",
+      "path": "OfficersTotalCompensationAmt",
+      "type": "usd"
+    }
+  ]
+}

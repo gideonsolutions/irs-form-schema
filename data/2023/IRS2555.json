@@ -1,0 +1,501 @@
+{
+  "form_id": "IRS2555",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "@claimFrgnEarnIncWaiverCd",
+      "path": "@claimFrgnEarnIncWaiverCd",
+      "type": "enum"
+    },
+    {
+      "name": "@claimWaiverReliefCd",
+      "path": "@claimWaiverReliefCd",
+      "type": "enum"
+    },
+    {
+      "name": "CitizenCountryNm",
+      "path": "CitizenCountryNm",
+      "type": "string"
+    },
+    {
+      "name": "ClaimingHousingExclOrDedInd",
+      "path": "ClaimingHousingExclOrDedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CostOfLivingAndOverseasDiffAmt",
+      "path": "CostOfLivingAndOverseasDiffAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CountryCd",
+      "path": "CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "DeductionAllocToExcludedIncAmt",
+      "path": "DeductionAllocToExcludedIncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducationAllowanceAmt",
+      "path": "EducationAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployerForeignAddress",
+      "path": "EmployerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployerForeignEntityInd",
+      "path": "EmployerForeignEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "EmployerFurnishedQuartersInd",
+      "path": "EmployerFurnishedQuartersInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "EmployerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "EmployerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerProvHousingExclPct",
+      "path": "EmployerProvHousingExclPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EmployerProvidedHousingAmt",
+      "path": "EmployerProvidedHousingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployerUSAddress",
+      "path": "EmployerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployerUnitedStatesCompanyInd",
+      "path": "EmployerUnitedStatesCompanyInd",
+      "type": "bool"
+    },
+    {
+      "name": "EmploymentContractTermsDesc",
+      "path": "EmploymentContractTermsDesc",
+      "type": "string"
+    },
+    {
+      "name": "FamilyAllowanceAmt",
+      "path": "FamilyAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FamilyLivedAbroadInd",
+      "path": "FamilyLivedAbroadInd",
+      "type": "bool"
+    },
+    {
+      "name": "FamilyLivingWithTaxpayerAbroad",
+      "path": "FamilyLivingWithTaxpayerAbroad",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignAffiliateEmployerInd",
+      "path": "ForeignAffiliateEmployerInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignBusinessIncomeShareAmt",
+      "path": "ForeignBusinessIncomeShareAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignEarnIncExclRevokeGrp",
+      "path": "ForeignEarnIncExclRevokeGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEarnIncExclRevokedInd",
+      "path": "ForeignEarnIncExclRevokedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignEarnIncmExclQlfyDaysCnt",
+      "path": "ForeignEarnIncmExclQlfyDaysCnt",
+      "type": "int"
+    },
+    {
+      "name": "ForeignEarnedIncExclusionAmt",
+      "path": "ForeignEarnedIncExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignEarnedIncExclusionPct",
+      "path": "ForeignEarnedIncExclusionPct",
+      "type": "decimal"
+    },
+    {
+      "name": "ForeignEarnedIncomeAmt",
+      "path": "ForeignEarnedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignEarnedTotalWagesIncAmt",
+      "path": "ForeignEarnedTotalWagesIncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignIncLessHousingExclAmt",
+      "path": "ForeignIncLessHousingExclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignPartnershipIncShareAmt",
+      "path": "ForeignPartnershipIncShareAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HomeLeaveAllowanceAmt",
+      "path": "HomeLeaveAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingDeductionAmt",
+      "path": "HousingDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingDeductionCarryoverAmt",
+      "path": "HousingDeductionCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingDeductionExclusionAmt",
+      "path": "HousingDeductionExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingDeductionExpenseAmt",
+      "path": "HousingDeductionExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingDeductionTentativeAmt",
+      "path": "HousingDeductionTentativeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingExclusionAmt",
+      "path": "HousingExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingExpenseLimitAmt",
+      "path": "HousingExpenseLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingExpenseLocationDesc",
+      "path": "HousingExpenseLocationDesc",
+      "type": "string"
+    },
+    {
+      "name": "HousingExpensesOverMaxAmt",
+      "path": "HousingExpensesOverMaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingMaximumAllowedAmt",
+      "path": "HousingMaximumAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingQualifiedDaysCnt",
+      "path": "HousingQualifiedDaysCnt",
+      "type": "int"
+    },
+    {
+      "name": "HousingQualifiedExpenseAmt",
+      "path": "HousingQualifiedExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LastFrgnEarnIncExclClaimedYr",
+      "path": "LastFrgnEarnIncExclClaimedYr",
+      "type": "unknown"
+    },
+    {
+      "name": "MaintainedHouseInUSInd",
+      "path": "MaintainedHouseInUSInd",
+      "type": "bool"
+    },
+    {
+      "name": "NameLine1Txt",
+      "path": "NameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "NoFrgnEarnIncExclPrevFiledInd",
+      "path": "NoFrgnEarnIncExclPrevFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoTravelExplanationCd",
+      "path": "NoTravelExplanationCd",
+      "type": "enum"
+    },
+    {
+      "name": "NonCashCarIncomeAmt",
+      "path": "NonCashCarIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonCashLodgingIncomeAmt",
+      "path": "NonCashLodgingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonCashMealIncomeAmt",
+      "path": "NonCashMealIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OccupationTxt",
+      "path": "OccupationTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherEmployerDesc",
+      "path": "OtherEmployerTypeGroup/OtherEmployerDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherEmployerInd",
+      "path": "OtherEmployerTypeGroup/OtherEmployerInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherForeignIncomeGrp",
+      "path": "OtherForeignIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "Amt",
+      "path": "OtherForeignIncomeGrp/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Desc",
+      "path": "OtherForeignIncomeGrp/Desc",
+      "type": "string"
+    },
+    {
+      "name": "OtherPurposeAllowanceGrp",
+      "path": "OtherPurposeAllowanceGrp",
+      "type": "group"
+    },
+    {
+      "name": "PhysicalPresenceCountryGroup",
+      "path": "PhysicalPresenceCountryGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "ArrivalDt",
+      "path": "PhysicalPresenceCountryGroup/ArrivalDt",
+      "type": "date"
+    },
+    {
+      "name": "BusinessDaysInUSCnt",
+      "path": "PhysicalPresenceCountryGroup/BusinessDaysInUSCnt",
+      "type": "int"
+    },
+    {
+      "name": "CountryNm",
+      "path": "PhysicalPresenceCountryGroup/CountryNm",
+      "type": "string"
+    },
+    {
+      "name": "DaysPresentInCountryCnt",
+      "path": "PhysicalPresenceCountryGroup/DaysPresentInCountryCnt",
+      "type": "int"
+    },
+    {
+      "name": "DepartureDt",
+      "path": "PhysicalPresenceCountryGroup/DepartureDt",
+      "type": "date"
+    },
+    {
+      "name": "USBusinessIncomeAmt",
+      "path": "PhysicalPresenceCountryGroup/USBusinessIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PresenceInTheUSGroup",
+      "path": "PresenceInTheUSGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "PrincipalEmploymentCountryNm",
+      "path": "PrincipalEmploymentCountryNm",
+      "type": "string"
+    },
+    {
+      "name": "PurchasedHouseInd",
+      "path": "PurchasedHouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "QuartersAllowanceAmt",
+      "path": "QuartersAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentedHouseInd",
+      "path": "RentedHouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "RentedRoomInd",
+      "path": "RentedRoomInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequiredToPayIncomeTaxInd",
+      "path": "RequiredToPayIncomeTaxInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SelfEmploymentInd",
+      "path": "SelfEmploymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "SeparateForeignResLocationTxt",
+      "path": "SeparateForeignResLocationTxt",
+      "type": "string"
+    },
+    {
+      "name": "SeparateForeignResidenceDayCnt",
+      "path": "SeparateForeignResidenceDayCnt",
+      "type": "int"
+    },
+    {
+      "name": "SeparateForeignResidenceInd",
+      "path": "SeparateForeignResidenceInd",
+      "type": "bool"
+    },
+    {
+      "name": "SmallerQualifiedOrLimitAmt",
+      "path": "SmallerQualifiedOrLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubmittedNonResidentStmtInd",
+      "path": "SubmittedNonResidentStmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxHomeGroup",
+      "path": "TaxHomeGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxpayerBonaFideResGrp",
+      "path": "TaxpayerBonaFideResGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxpayerPhysicalPresenceGrp",
+      "path": "TaxpayerPhysicalPresenceGrp",
+      "type": "group"
+    },
+    {
+      "name": "TentForeignEarnedIncomeExclAmt",
+      "path": "TentForeignEarnedIncomeExclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeIncomeExclusionAmt",
+      "path": "TentativeIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllowancesPaidOnBehalfAmt",
+      "path": "TotalAllowancesPaidOnBehalfAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalForeignEarnedIncmExclAmt",
+      "path": "TotalForeignEarnedIncmExclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalForeignEarnedIncomeAmt",
+      "path": "TotalForeignEarnedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeExclusionAmt",
+      "path": "TotalIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@foreignEarnedIncPYExclusionAmt",
+      "path": "TotalIncomeExclusionAmt/@foreignEarnedIncPYExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@foreignEarnedIncPYExclusionCd",
+      "path": "TotalIncomeExclusionAmt/@foreignEarnedIncPYExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalNonCashOtherPropertyAmt",
+      "path": "TotalNonCashOtherPropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherForeignIncomeAmt",
+      "path": "TotalOtherForeignIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherPurposeAllowanceAmt",
+      "path": "TotalOtherPurposeAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USHomeWhileLivingAbroad",
+      "path": "USHomeWhileLivingAbroad",
+      "type": "unknown"
+    },
+    {
+      "name": "VisaLimitStayOrEmploymentInd",
+      "path": "VisaLimitStayOrEmploymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "VisaTypeDesc",
+      "path": "VisaTypeDesc",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "form_id": "IRS7205",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BuildingOwnerInd",
+      "path": "BuildingOwnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "EEPDesignerInd",
+      "path": "EEPDesignerInd",
+      "type": "bool"
+    },
+    {
+      "name": "EnergyBuildingDeductionGrp",
+      "path": "EnergyBuildingDeductionGrp",
+      "type": "group"
+    },
+    {
+      "name": "DesignerAllocationInfoPropGrp",
+      "path": "EnergyBuildingDeductionGrp/DesignerAllocationInfoPropGrp",
+      "type": "group"
+    },
+    {
+      "name": "EnergyEffcntCmrclBldgDedAmt",
+      "path": "EnergyEffcntCmrclBldgDedAmt",
+      "type": "usd"
+    }
+  ]
+}

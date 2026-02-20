@@ -1,0 +1,81 @@
+{
+  "form_id": "IRS8958",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CapitalGainLossAllocnGrp",
+      "path": "CapitalGainLossAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "DedSelfEmploymentTaxAllocnGrp",
+      "path": "DedSelfEmploymentTaxAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "OrdinaryDividendsAllocnGrp",
+      "path": "OrdinaryDividendsAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherItemAllocnGrp",
+      "path": "OtherItemAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "RentalRealEstateAllocnGrp",
+      "path": "RentalRealEstateAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "SelfEmploymentIncomeAllocnGrp",
+      "path": "SelfEmploymentIncomeAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "SelfEmploymentTaxAllocnGrp",
+      "path": "SelfEmploymentTaxAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "SpouseOrPartnerFirstNm",
+      "path": "SpouseOrPartnerFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "SpouseOrPartnerLastNm",
+      "path": "SpouseOrPartnerLastNm",
+      "type": "string"
+    },
+    {
+      "name": "SpouseOrPartnerSSN",
+      "path": "SpouseOrPartnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "StLocalIncomeTxRefundAllocnGrp",
+      "path": "StLocalIncomeTxRefundAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxableInterestAllocnGrp",
+      "path": "TaxableInterestAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxablePensionsAllocnGrp",
+      "path": "TaxablePensionsAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "WagesAllocnGrp",
+      "path": "WagesAllocnGrp",
+      "type": "group"
+    },
+    {
+      "name": "WithholdingTaxAllocnGrp",
+      "path": "WithholdingTaxAllocnGrp",
+      "type": "group"
+    }
+  ]
+}

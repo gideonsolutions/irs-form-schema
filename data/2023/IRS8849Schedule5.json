@@ -1,0 +1,116 @@
+{
+  "form_id": "IRS8849Schedule5",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "ClaimantRegistrationNum",
+      "path": "ClaimantRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "EmployerIdentificationNumber",
+      "path": "EmployerIdentificationNumber",
+      "type": "unknown"
+    },
+    {
+      "name": "MissingEINReason",
+      "path": "MissingEINReason",
+      "type": "unknown"
+    },
+    {
+      "name": "Amt",
+      "path": "RefClaimSecondTxAvnGasoline/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "RefClaimSecondTxAvnGasoline/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "Amt",
+      "path": "RefClaimSecondTxAvnKrsn/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "RefClaimSecondTxAvnKrsn/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "Amt",
+      "path": "RefClaimSecondTxCmrclAvnKrsn/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "RefClaimSecondTxCmrclAvnKrsn/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "Amt",
+      "path": "RefClaimSecondTxDieselFuel/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "RefClaimSecondTxDieselFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "Amt",
+      "path": "RefClaimSecondTxDieselWtrFuel/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "RefClaimSecondTxDieselWtrFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "Amt",
+      "path": "RefClaimSecondTxExmptRemovals/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "RefClaimSecondTxExmptRemovals/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "Amt",
+      "path": "RefClaimSecondTxGasoline/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "RefClaimSecondTxGasoline/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "Amt",
+      "path": "RefClaimSecondTxKerosene/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "RefClaimSecondTxKerosene/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "RefClaimSecondTxSupportingInfo",
+      "path": "RefClaimSecondTxSupportingInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "RefClaimSecondTxFuelInfo",
+      "path": "RefClaimSecondTxSupportingInfo/RefClaimSecondTxFuelInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalRefundAmt",
+      "path": "TotalRefundAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "form_id": "IRS7208",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdditionalStockToEmployeesAmt",
+      "path": "AdditionalStockToEmployeesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContriEmplrSponsRetirePlansGrp",
+      "path": "ContriEmplrSponsRetirePlansGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxPeriodBeginDt",
+      "path": "FiscalYearDateGrp/TaxPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxPeriodEndDt",
+      "path": "FiscalYearDateGrp/TaxPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ForeignEntityRepurchasesInd",
+      "path": "ForeignEntityRepurchasesInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherExceptionsAmt",
+      "path": "OtherExceptionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockRepurchasesDealerSecAmt",
+      "path": "StockRepurchasesDealerSecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockRepurchasesDividendsAmt",
+      "path": "StockRepurchasesDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockRepurchasesExciseTaxAmt",
+      "path": "StockRepurchasesExciseTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockRepurchasesNoGainLossAmt",
+      "path": "StockRepurchasesNoGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockRepurchasesRICOrREITAmt",
+      "path": "StockRepurchasesRICOrREITAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockToEmplSpcfdAffiliateAmt",
+      "path": "StockToEmplSpcfdAffiliateAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockToEmployeesAmt",
+      "path": "StockToEmployeesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYr",
+      "path": "TaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "TotTaxableStockRepurchasesAmt",
+      "path": "TotTaxableStockRepurchasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAggregateContriValueAmt",
+      "path": "TotalAggregateContriValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExceptionsAmt",
+      "path": "TotalExceptionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFairMarketValueAmt",
+      "path": "TotalFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalStockIssuancesAmt",
+      "path": "TotalStockIssuancesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalStockRepurchasesGrp",
+      "path": "TotalStockRepurchasesGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalTradeOrBusinessLossAmt",
+      "path": "TotalTradeOrBusinessLossAmt",
+      "type": "usd"
+    }
+  ]
+}

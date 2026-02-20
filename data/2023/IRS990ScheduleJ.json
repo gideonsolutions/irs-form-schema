@@ -1,0 +1,146 @@
+{
+  "form_id": "IRS990ScheduleJ",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AnyNonFixedPaymentsInd",
+      "path": "AnyNonFixedPaymentsInd",
+      "type": "bool"
+    },
+    {
+      "name": "BoardOrCommitteeApprovalInd",
+      "path": "BoardOrCommitteeApprovalInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClubDuesOrFeesInd",
+      "path": "ClubDuesOrFeesInd",
+      "type": "bool"
+    },
+    {
+      "name": "CompBasedOnRevenueOfFlngOrgInd",
+      "path": "CompBasedOnRevenueOfFlngOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "CompBsdNetEarnsFlngOrgInd",
+      "path": "CompBsdNetEarnsFlngOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "CompBsdNetEarnsRltdOrgsInd",
+      "path": "CompBsdNetEarnsRltdOrgsInd",
+      "type": "bool"
+    },
+    {
+      "name": "CompBsdOnRevRelatedOrgsInd",
+      "path": "CompBsdOnRevRelatedOrgsInd",
+      "type": "bool"
+    },
+    {
+      "name": "CompensationCommitteeInd",
+      "path": "CompensationCommitteeInd",
+      "type": "bool"
+    },
+    {
+      "name": "CompensationSurveyInd",
+      "path": "CompensationSurveyInd",
+      "type": "bool"
+    },
+    {
+      "name": "DiscretionarySpendingAcctInd",
+      "path": "DiscretionarySpendingAcctInd",
+      "type": "bool"
+    },
+    {
+      "name": "EquityBasedCompArrngmInd",
+      "path": "EquityBasedCompArrngmInd",
+      "type": "bool"
+    },
+    {
+      "name": "FirstClassOrCharterTravelInd",
+      "path": "FirstClassOrCharterTravelInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form990OfOtherOrganizationsInd",
+      "path": "Form990OfOtherOrganizationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "HousingAllowanceOrResidenceInd",
+      "path": "HousingAllowanceOrResidenceInd",
+      "type": "bool"
+    },
+    {
+      "name": "IdemnificationGrossUpPmtsInd",
+      "path": "IdemnificationGrossUpPmtsInd",
+      "type": "bool"
+    },
+    {
+      "name": "IndependentConsultantInd",
+      "path": "IndependentConsultantInd",
+      "type": "bool"
+    },
+    {
+      "name": "InitialContractExceptionInd",
+      "path": "InitialContractExceptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "PaymentsForUseOfResidenceInd",
+      "path": "PaymentsForUseOfResidenceInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonalServicesInd",
+      "path": "PersonalServicesInd",
+      "type": "bool"
+    },
+    {
+      "name": "RebuttablePresumptionProcInd",
+      "path": "RebuttablePresumptionProcInd",
+      "type": "bool"
+    },
+    {
+      "name": "RltdOrgOfficerTrstKeyEmplGrp",
+      "path": "RltdOrgOfficerTrstKeyEmplGrp",
+      "type": "group"
+    },
+    {
+      "name": "SeverancePaymentInd",
+      "path": "SeverancePaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "SubstantiationRequiredInd",
+      "path": "SubstantiationRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupplementalInformationDetail",
+      "path": "SupplementalInformationDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "SupplementalNonqualRtrPlanInd",
+      "path": "SupplementalNonqualRtrPlanInd",
+      "type": "bool"
+    },
+    {
+      "name": "TravelForCompanionsInd",
+      "path": "TravelForCompanionsInd",
+      "type": "bool"
+    },
+    {
+      "name": "WrittenEmploymentContractInd",
+      "path": "WrittenEmploymentContractInd",
+      "type": "bool"
+    },
+    {
+      "name": "WrittenPolicyRefTAndEExpnssInd",
+      "path": "WrittenPolicyRefTAndEExpnssInd",
+      "type": "bool"
+    }
+  ]
+}

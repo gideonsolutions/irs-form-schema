@@ -1,0 +1,296 @@
+{
+  "form_id": "IRS8915F",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CalendarYrDisasterCd",
+      "path": "CalendarYrDisasterCd",
+      "type": "enum"
+    },
+    {
+      "name": "CoronavirusInd",
+      "path": "CoronavirusInd",
+      "type": "bool"
+    },
+    {
+      "name": "FEMADisasterDeclarationNum",
+      "path": "FEMADisasterDeclarationNum",
+      "type": "string"
+    },
+    {
+      "name": "DistributionsCostAmt",
+      "path": "MainHomeQlfyDistributionsGrp/DistributionsCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FEMADisasterGrp",
+      "path": "MainHomeQlfyDistributionsGrp/FEMADisasterGrp",
+      "type": "group"
+    },
+    {
+      "name": "MainHomeQlfyTxblDsstrDistriAmt",
+      "path": "MainHomeQlfyDistributionsGrp/MainHomeQlfyTxblDsstrDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyCYDistriRcvdMainHomeAmt",
+      "path": "MainHomeQlfyDistributionsGrp/QlfyCYDistriRcvdMainHomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyDistriMinusDistriCostAmt",
+      "path": "MainHomeQlfyDistributionsGrp/QlfyDistriMinusDistriCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyDistriRequiredRptF8606Ind",
+      "path": "MainHomeQlfyDistributionsGrp/QlfyDistriRequiredRptF8606Ind",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedDistributionDt",
+      "path": "MainHomeQlfyDistributionsGrp/QualifiedDistributionDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalRepaymentAmt",
+      "path": "MainHomeQlfyDistributionsGrp/TotalRepaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCalendarYrDisasterInd",
+      "path": "OtherCalendarYrDisasterInd",
+      "type": "bool"
+    },
+    {
+      "name": "@otherCalendarYrCd",
+      "path": "OtherCalendarYrDisasterInd/@otherCalendarYrCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherTaxYearFilingFormInd",
+      "path": "OtherTaxYearFilingFormInd",
+      "type": "bool"
+    },
+    {
+      "name": "@otherTaxYrCd",
+      "path": "OtherTaxYearFilingFormInd/@otherTaxYrCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "CYQlfySelectedDistriAmt",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/CYQlfySelectedDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYTaxableDistributionsAmt",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/CYTaxableDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRAQlfyDisasterDistriAmt",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/NondedIRAQlfyDisasterDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OptOutSpreadThreeYrsInd",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/OptOutSpreadThreeYrsInd",
+      "type": "bool"
+    },
+    {
+      "name": "PriorYrSelectedDistriAmt",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/PriorYrSelectedDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyDistriOrAllocationAmt",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/QlfyDistriOrAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyDistriRequiredRptF8606Ind",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/QlfyDistriRequiredRptF8606Ind",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyDistriTrdnSEPSIMPLERothInd",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/QlfyDistriTrdnSEPSIMPLERothInd",
+      "type": "bool"
+    },
+    {
+      "name": "RothIRAQlfyDisasterDistriAmt",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/RothIRAQlfyDisasterDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumForm8606AndDistriAllocnAmt",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/SumForm8606AndDistriAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumPriorYrAndCYSelDistriAmt",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/SumPriorYrAndCYSelDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRepymtIRARetirePlanAmt",
+      "path": "QlfyDistriTrdnSEPSIMPLERothGrp/TotalRepymtIRARetirePlanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYQlfySelectedDistriAmt",
+      "path": "QlfyDsstrDistriNotIRAPlansGrp/CYQlfySelectedDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYTaxableDistributionsAmt",
+      "path": "QlfyDsstrDistriNotIRAPlansGrp/CYTaxableDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributionsCostAmt",
+      "path": "QlfyDsstrDistriNotIRAPlansGrp/DistributionsCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OptOutSpreadThreeYrsInd",
+      "path": "QlfyDsstrDistriNotIRAPlansGrp/OptOutSpreadThreeYrsInd",
+      "type": "bool"
+    },
+    {
+      "name": "PriorYrSelectedDistriAmt",
+      "path": "QlfyDsstrDistriNotIRAPlansGrp/PriorYrSelectedDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyDistriMinusDistriCostAmt",
+      "path": "QlfyDsstrDistriNotIRAPlansGrp/QlfyDistriMinusDistriCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyDistriOrAllocationAmt",
+      "path": "QlfyDsstrDistriNotIRAPlansGrp/QlfyDistriOrAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyDsstrDistriNotIRAPlansInd",
+      "path": "QlfyDsstrDistriNotIRAPlansGrp/QlfyDsstrDistriNotIRAPlansInd",
+      "type": "bool"
+    },
+    {
+      "name": "SumPriorYrAndCYSelDistriAmt",
+      "path": "QlfyDsstrDistriNotIRAPlansGrp/SumPriorYrAndCYSelDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRepymtOtherThanIRAAmt",
+      "path": "QlfyDsstrDistriNotIRAPlansGrp/TotalRepymtOtherThanIRAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TaxYearFilingFormCd",
+      "path": "TaxYearFilingFormCd",
+      "type": "enum"
+    },
+    {
+      "name": "CYTotalDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/DistriFromNotIRARetirePlanGrp/CYTotalDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/DistriFromNotIRARetirePlanGrp/QualifiedDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYTotalDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/DistriFromTrdnSEPSIMPLEIRAGrp/CYTotalDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/DistriFromTrdnSEPSIMPLEIRAGrp/QualifiedDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributionDt",
+      "path": "TotalDistriAllRetirePlansGrp/DistributionDt",
+      "type": "date"
+    },
+    {
+      "name": "CYTotalDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/DistributionsFromRothIRAGrp/CYTotalDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/DistributionsFromRothIRAGrp/QualifiedDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FEMADisasterDeclarationGrp",
+      "path": "TotalDistriAllRetirePlansGrp/FEMADisasterDeclarationGrp",
+      "type": "group"
+    },
+    {
+      "name": "LimitationDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/LimitationDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MultipleFEMADisastersInd",
+      "path": "TotalDistriAllRetirePlansGrp/MultipleFEMADisastersInd",
+      "type": "bool"
+    },
+    {
+      "name": "PriorYrNotRptDistributionAmt",
+      "path": "TotalDistriAllRetirePlansGrp/PriorYrNotRptDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYrRptDistriAllocationAmt",
+      "path": "TotalDistriAllRetirePlansGrp/PriorYrRptDistriAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYrRptQlfyDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/PriorYrRptQlfyDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedDisasterLimitAmt",
+      "path": "TotalDistriAllRetirePlansGrp/QualifiedDisasterLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableExcessAllocationAmt",
+      "path": "TotalDistriAllRetirePlansGrp/TaxableExcessAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCYAvailDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/TotalCYAvailDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYTotalDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/TotalDistriAmtFromAllPlansGrp/CYTotalDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedDistributionsAmt",
+      "path": "TotalDistriAllRetirePlansGrp/TotalDistriAmtFromAllPlansGrp/QualifiedDistributionsAmt",
+      "type": "usd"
+    }
+  ]
+}

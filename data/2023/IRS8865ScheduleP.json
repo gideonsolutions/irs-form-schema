@@ -1,0 +1,291 @@
+{
+  "form_id": "IRS8865ScheduleP",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AcquisitionInfo",
+      "path": "AcquisitionInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "AcquisitionDt",
+      "path": "AcquisitionInfo/AcquisitionDt",
+      "type": "date"
+    },
+    {
+      "name": "AcquisitionsEIN",
+      "path": "AcquisitionInfo/AcquisitionsEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "AcquisitionInfo/AcquisitionsForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "AcquisitionInfo/AcquisitionsForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "AcquisitionInfo/AcquisitionsForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "AcquisitionInfo/AcquisitionsForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "AcquisitionInfo/AcquisitionsForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "AcquisitionInfo/AcquisitionsForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "AcquisitionInfo/AcquisitionsName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "AcquisitionInfo/AcquisitionsName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "InCareOfName",
+      "path": "AcquisitionInfo/AcquisitionsName/InCareOfName",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "AcquisitionInfo/AcquisitionsUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "AcquisitionInfo/AcquisitionsUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "AcquisitionInfo/AcquisitionsUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "AcquisitionInfo/AcquisitionsUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "AcquisitionInfo/AcquisitionsUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "BasisInInterestAcquiredAmt",
+      "path": "AcquisitionInfo/BasisInInterestAcquiredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FMVOfInterestAcquiredAmt",
+      "path": "AcquisitionInfo/FMVOfInterestAcquiredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestAfterAcquisitionPct",
+      "path": "AcquisitionInfo/InterestAfterAcquisitionPct",
+      "type": "decimal"
+    },
+    {
+      "name": "InterestBeforeAcquisitionPct",
+      "path": "AcquisitionInfo/InterestBeforeAcquisitionPct",
+      "type": "decimal"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "AcquisitionInfo/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ChangeInPropInterestInfo",
+      "path": "ChangeInPropInterestInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "BasisInInterestAmt",
+      "path": "ChangeInPropInterestInfo/BasisInInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChangeDesc",
+      "path": "ChangeInPropInterestInfo/ChangeDesc",
+      "type": "string"
+    },
+    {
+      "name": "ChangeDt",
+      "path": "ChangeInPropInterestInfo/ChangeDt",
+      "type": "date"
+    },
+    {
+      "name": "FMVOfInterestAmt",
+      "path": "ChangeInPropInterestInfo/FMVOfInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestAfterChangePct",
+      "path": "ChangeInPropInterestInfo/InterestAfterChangePct",
+      "type": "decimal"
+    },
+    {
+      "name": "InterestBeforeChangePct",
+      "path": "ChangeInPropInterestInfo/InterestBeforeChangePct",
+      "type": "decimal"
+    },
+    {
+      "name": "DispositionInfo",
+      "path": "DispositionInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "BasisInInterestDisposedAmt",
+      "path": "DispositionInfo/BasisInInterestDisposedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DispositionDt",
+      "path": "DispositionInfo/DispositionDt",
+      "type": "date"
+    },
+    {
+      "name": "DispositionsEIN",
+      "path": "DispositionInfo/DispositionsEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "DispositionInfo/DispositionsForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "DispositionInfo/DispositionsForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "DispositionInfo/DispositionsForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "DispositionInfo/DispositionsForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "DispositionInfo/DispositionsForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "DispositionInfo/DispositionsForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "DispositionInfo/DispositionsName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "DispositionInfo/DispositionsName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "InCareOfName",
+      "path": "DispositionInfo/DispositionsName/InCareOfName",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "DispositionInfo/DispositionsUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "DispositionInfo/DispositionsUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "DispositionInfo/DispositionsUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "DispositionInfo/DispositionsUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "DispositionInfo/DispositionsUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "FMVOfInterestDisposedAmt",
+      "path": "DispositionInfo/FMVOfInterestDisposedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestAfterDispositionPct",
+      "path": "DispositionInfo/InterestAfterDispositionPct",
+      "type": "decimal"
+    },
+    {
+      "name": "InterestBeforeDispositionPct",
+      "path": "DispositionInfo/InterestBeforeDispositionPct",
+      "type": "decimal"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "DispositionInfo/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignPartnershipName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignPartnershipName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "SupplementalInfo8865ScheduleP",
+      "path": "SupplementalInfo8865ScheduleP",
+      "type": "unknown"
+    }
+  ]
+}

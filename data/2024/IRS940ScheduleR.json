@@ -1,0 +1,96 @@
+{
+  "form_id": "IRS940ScheduleR",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "FUTATaxAfterAdjustmentAmt",
+      "path": "AggregateRecipientDetailGrp/FUTATaxAfterAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentToFUTATaxAmt",
+      "path": "AggregateRecipientDetailGrp/TotalAdjustmentToFUTATaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditReductionAmt",
+      "path": "AggregateRecipientDetailGrp/TotalCreditReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "AggregateRecipientDetailGrp/TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxableWagesAmt",
+      "path": "AggregateRecipientDetailGrp/TotalTaxableWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CPEOInd",
+      "path": "CPEOInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClientInfoGrp",
+      "path": "ClientInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "Section3504AgentInd",
+      "path": "Section3504AgentInd",
+      "type": "bool"
+    },
+    {
+      "name": "FUTATaxAfterAdjustmentAmt",
+      "path": "SubtotalForClientInfoGrp/FUTATaxAfterAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentToFUTATaxAmt",
+      "path": "SubtotalForClientInfoGrp/TotalAdjustmentToFUTATaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditReductionAmt",
+      "path": "SubtotalForClientInfoGrp/TotalCreditReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "SubtotalForClientInfoGrp/TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxableWagesAmt",
+      "path": "SubtotalForClientInfoGrp/TotalTaxableWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FUTATaxAfterAdjustmentAmt",
+      "path": "TotAggregateRcpntClientInfoGrp/FUTATaxAfterAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentToFUTATaxAmt",
+      "path": "TotAggregateRcpntClientInfoGrp/TotalAdjustmentToFUTATaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditReductionAmt",
+      "path": "TotAggregateRcpntClientInfoGrp/TotalCreditReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "TotAggregateRcpntClientInfoGrp/TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxableWagesAmt",
+      "path": "TotAggregateRcpntClientInfoGrp/TotalTaxableWagesAmt",
+      "type": "usd"
+    }
+  ]
+}

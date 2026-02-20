@@ -1,0 +1,291 @@
+{
+  "form_id": "IRS172",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "BusCapLossTotCapGnAmt",
+      "path": "BusCapLossTotCapGnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessCapitalGainsAmt",
+      "path": "BusinessCapitalGainsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessCapitalLossAmt",
+      "path": "BusinessCapitalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CombNetSchDLossAmt",
+      "path": "CombNetSchDLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CombNetSchDLossMns1202ExclAmt",
+      "path": "CombNetSchDLossMns1202ExclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DiffCombNetSchDLossMns1202Amt",
+      "path": "DiffCombNetSchDLossMns1202Amt",
+      "type": "usd"
+    },
+    {
+      "name": "DiffSmllrCombNetSchDLossFSAmt",
+      "path": "DiffSmllrCombNetSchDLossFSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAmt",
+      "path": "IncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MnsDiffCmbNetSchDLssMns1202Amt",
+      "path": "MnsDiffCmbNetSchDLssMns1202Amt",
+      "type": "usd"
+    },
+    {
+      "name": "NBCapGainLessLossAmt",
+      "path": "NBCapGainLessLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NBCapLossLessGainAmt",
+      "path": "NBCapLossLessGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NBCapLossLessGainBusCapLossAmt",
+      "path": "NBCapLossLessGainBusCapLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NBCapitalGainAmt",
+      "path": "NBCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NBCapitalLossAmt",
+      "path": "NBCapitalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NBDedLessTotCapGainLossIncmAmt",
+      "path": "NBDedLessTotCapGainLossIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NBDeductionsAmt",
+      "path": "NBDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NBIncomeOthThanCapGainAmt",
+      "path": "NBIncomeOthThanCapGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AGIAdjAmt",
+      "path": "NOLCarryoverPrecYrGrp/AGIAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AGIBeforeCYNOLCarrybackAmt",
+      "path": "NOLCarryoverPrecYrGrp/AGIBeforeCYNOLCarrybackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcAdjGroIncmMnsTotNetLossAmt",
+      "path": "NOLCarryoverPrecYrGrp/CalcAdjGroIncmMnsTotNetLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CasualtyTheftLossAdjAmt",
+      "path": "NOLCarryoverPrecYrGrp/CasualtyTheftLossAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateTrustExemptionAmt",
+      "path": "NOLCarryoverPrecYrGrp/EstateTrustExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ItemizedDeductionsAdjAmt",
+      "path": "NOLCarryoverPrecYrGrp/ItemizedDeductionsAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LessModifiedAGIMultiplyPctAmt",
+      "path": "NOLCarryoverPrecYrGrp/LessModifiedAGIMultiplyPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LessModifiedAGITimesPctAmt",
+      "path": "NOLCarryoverPrecYrGrp/LessModifiedAGITimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicalAndDentalExpensesAdjAmt",
+      "path": "NOLCarryoverPrecYrGrp/MedicalAndDentalExpensesAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicalAndDentalExpensesAmt",
+      "path": "NOLCarryoverPrecYrGrp/MedicalAndDentalExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIAmt",
+      "path": "NOLCarryoverPrecYrGrp/ModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIMultiplyPctAmt",
+      "path": "NOLCarryoverPrecYrGrp/ModifiedAGIMultiplyPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIPYNOLCarrybackAmt",
+      "path": "NOLCarryoverPrecYrGrp/ModifiedAGIPYNOLCarrybackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGITimesPctAmt",
+      "path": "NOLCarryoverPrecYrGrp/ModifiedAGITimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedTaxableIncomeAmt",
+      "path": "NOLCarryoverPrecYrGrp/ModifiedTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgInsurancePremiumsAdjAmt",
+      "path": "NOLCarryoverPrecYrGrp/MortgInsurancePremiumsAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageInsurancePremiumsAmt",
+      "path": "NOLCarryoverPrecYrGrp/MortgageInsurancePremiumsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NOLCarryoverAmt",
+      "path": "NOLCarryoverPrecYrGrp/NOLCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapLoss1202QBIAGIAdjAmt",
+      "path": "NOLCarryoverPrecYrGrp/NetCapLoss1202QBIAGIAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalLossDeductionAmt",
+      "path": "NOLCarryoverPrecYrGrp/NetCapitalLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossDeductionAmt",
+      "path": "NOLCarryoverPrecYrGrp/NetOperatingLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYNOLCarrybackAmt",
+      "path": "NOLCarryoverPrecYrGrp/PYNOLCarrybackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrecedingYearNum",
+      "path": "NOLCarryoverPrecYrGrp/PrecedingYearNum",
+      "type": "string"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedAmt",
+      "path": "NOLCarryoverPrecYrGrp/QualifiedBusinessIncomeDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefiguredCharitableContriAmt",
+      "path": "NOLCarryoverPrecYrGrp/RefiguredCharitableContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefiguredMortgInsPremAmt",
+      "path": "NOLCarryoverPrecYrGrp/RefiguredMortgInsPremAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1202ExclusionAmt",
+      "path": "NOLCarryoverPrecYrGrp/Section1202ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TXIBeforeCYNOLCarrybackAmt",
+      "path": "NOLCarryoverPrecYrGrp/TXIBeforeCYNOLCarrybackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "NOLCarryoverPrecYrGrp/TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalCharitableContriAdjAmt",
+      "path": "NOLCarryoverPrecYrGrp/TotalCharitableContriAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCharitableContriAmt",
+      "path": "NOLCarryoverPrecYrGrp/TotalCharitableContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLossLessTotalTheftGainAmt",
+      "path": "NOLCarryoverPrecYrGrp/TotalLossLessTotalTheftGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalMedicalAndDentalExpnssAmt",
+      "path": "NOLCarryoverPrecYrGrp/TotalMedicalAndDentalExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NOLDeductionLossOtherYearsAmt",
+      "path": "NOLDeductionLossOtherYearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossAmt",
+      "path": "NetOperatingLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1202ExclusionAmt",
+      "path": "Section1202ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrCombNetSchDLossOrFSAmt",
+      "path": "SmllrCombNetSchDLossOrFSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCapGainLossIncmLessNBDedAmt",
+      "path": "TotCapGainLossIncmLessNBDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCapGnLssIncmNBDedCapGnAmt",
+      "path": "TotCapGnLssIncmNBDedCapGnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNBCapGainLossIncmAmt",
+      "path": "TotNBCapGainLossIncmAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "form_id": "IRS1040Schedule2",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AccruedInterestDueThisRetAmt",
+      "path": "AccruedInterestDueThisRetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalTaxAmt",
+      "path": "AdditionalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeMinimumTaxAmt",
+      "path": "AlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSAAddnlDistriTaxAmt",
+      "path": "ArcherMSAAddnlDistriTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompNonqlfyDefrdCompPlanAmt",
+      "path": "CompNonqlfyDefrdCompPlanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrTrnsfrDlrSaleAmt",
+      "path": "CrTrnsfrDlrSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessParachutePaymentAmt",
+      "path": "ExcessParachutePaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableCheckboxiInd",
+      "path": "ExcessivePymtFrom4255Grp/ApplicableCheckboxiInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicableCheckboxiiInd",
+      "path": "ExcessivePymtFrom4255Grp/ApplicableCheckboxiiInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicableCheckboxiiiInd",
+      "path": "ExcessivePymtFrom4255Grp/ApplicableCheckboxiiiInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicableCheckboxivInd",
+      "path": "ExcessivePymtFrom4255Grp/ApplicableCheckboxivInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExPymt100CrAmt",
+      "path": "ExcessivePymtFrom4255Grp/ExPymt100CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstTimeHmByrRepaymentAmt",
+      "path": "FirstTimeHmByrRepaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Frm3468IVRcptrPrtnNetEPECrAmt",
+      "path": "Frm3468IVRcptrPrtnNetEPECrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HDHPCoverageAddnlTaxAmt",
+      "path": "HDHPCoverageAddnlTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSADistriAddnlPercentTaxAmt",
+      "path": "HSADistriAddnlPercentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HouseholdEmploymentTaxAmt",
+      "path": "HouseholdEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncmNonqlfyDefrdCompPlanAmt",
+      "path": "IncmNonqlfyDefrdCompPlanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeNotUSBusinessTaxAmt",
+      "path": "IncomeNotUSBusinessTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableCheckboxiInd",
+      "path": "IncreaseChapter1TaxFrom4255Grp/ApplicableCheckboxiInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicableCheckboxiiInd",
+      "path": "IncreaseChapter1TaxFrom4255Grp/ApplicableCheckboxiiInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicableCheckboxiiiInd",
+      "path": "IncreaseChapter1TaxFrom4255Grp/ApplicableCheckboxiiiInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicableCheckboxivInd",
+      "path": "IncreaseChapter1TaxFrom4255Grp/ApplicableCheckboxivInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotEx20PrvlWgAprntcshpPnltyAmt",
+      "path": "IncreaseChapter1TaxFrom4255Grp/TotEx20PrvlWgAprntcshpPnltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndivNetInvstIncomeTaxAmt",
+      "path": "IndivNetInvstIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsiderStockCompExciseTaxAmt",
+      "path": "InsiderStockCompExciseTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntDefrdTaxGainInstalSalesAmt",
+      "path": "IntDefrdTaxGainInstalSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntTaxDueInstalSaleIncmAmt",
+      "path": "IntTaxDueInstalSaleIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestOnEachNetIncrInTaxAmt",
+      "path": "InterestOnEachNetIncrInTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LookBackIntSect167gOr460bAmt",
+      "path": "LookBackIntSect167gOr460bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicareMSAAddnlDistriTaxAmt",
+      "path": "MedicareMSAAddnlDistriTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyRecaptureTaxAmt",
+      "path": "MortgSbsdyRecaptureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxAdditionsGrp",
+      "path": "OtherTaxAdditionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherTaxAmt",
+      "path": "OtherTaxAdditionsGrp/OtherTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxLitCd",
+      "path": "OtherTaxAdditionsGrp/OtherTaxLitCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherTaxTxt",
+      "path": "OtherTaxAdditionsGrp/OtherTaxTxt",
+      "type": "string"
+    },
+    {
+      "name": "PartialTaxOnAccumDistriAmt",
+      "path": "PartialTaxOnAccumDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PremiumTaxCreditTaxLiabAmt",
+      "path": "PremiumTaxCreditTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrevOwnCrTrnsfrDlrSaleAmt",
+      "path": "PrevOwnCrTrnsfrDlrSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcptrPrtnNetEPECrAmt",
+      "path": "RcptrPrtnNetEPECrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecaptureChrtblContriDedAmt",
+      "path": "RecaptureChrtblContriDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecaptureOtherCreditsGrp",
+      "path": "RecaptureOtherCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherCreditsAmt",
+      "path": "RecaptureOtherCreditsGrp/OtherCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCreditsCd",
+      "path": "RecaptureOtherCreditsGrp/OtherCreditsCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherCreditsTxt",
+      "path": "RecaptureOtherCreditsGrp/OtherCreditsTxt",
+      "type": "string"
+    },
+    {
+      "name": "RecaptureTaxAmt",
+      "path": "RecaptureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect72m5ExcessBenefitsTaxAmt",
+      "path": "Sect72m5ExcessBenefitsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section965TaxInstallmentAmt",
+      "path": "Section965TaxInstallmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmploymentTaxAmt",
+      "path": "SelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@exemptSETaxLiteralCd",
+      "path": "SelfEmploymentTaxAmt/@exemptSETaxLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "SocSecMedicareTaxUnrptdTipAmt",
+      "path": "SocSecMedicareTaxUnrptdTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnIRAsAmt",
+      "path": "TaxOnIRAsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form5329NotRequiredInd",
+      "path": "TaxOnIRAsAmt/@form5329NotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalAMRRTTaxAmt",
+      "path": "TotalAMRRTTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAnyOtherTaxesAmt",
+      "path": "TotalAnyOtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdditionalTaxesAmt",
+      "path": "TotalOtherAdditionalTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherTaxAdditionsAmt",
+      "path": "TotalOtherTaxAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherTaxesAmt",
+      "path": "TotalOtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRecaptureOtherCreditsAmt",
+      "path": "TotalRecaptureOtherCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAdditionsAmt",
+      "path": "TotalTaxAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollSSMedcrRRTAGrpInsTxAmt",
+      "path": "UncollSSMedcrRRTAGrpInsTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedSocSecMedTaxAmt",
+      "path": "UncollectedSocSecMedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrprtdSocSecAndMedcrTaxAmt",
+      "path": "UnrprtdSocSecAndMedcrTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

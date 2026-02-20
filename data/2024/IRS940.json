@@ -1,0 +1,166 @@
+{
+  "form_id": "IRS940",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReductionStateInd",
+      "path": "CreditReductionStateInd",
+      "type": "bool"
+    },
+    {
+      "name": "DependentCareInd",
+      "path": "DependentCareInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExemptWagesAmt",
+      "path": "ExemptWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FUTAAdjustmentAmt",
+      "path": "FUTAAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FUTAStateCd",
+      "path": "FUTAStateCd",
+      "type": "enum"
+    },
+    {
+      "name": "FUTATaxAfterAdjustmentAmt",
+      "path": "FUTATaxAfterAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FUTATaxBeforeAdjustmentAmt",
+      "path": "FUTATaxBeforeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstQuarterTaxLiabilityAmt",
+      "path": "FirstQuarterTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthQuarterTaxLiabilityAmt",
+      "path": "FourthQuarterTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FringeBenefitsInd",
+      "path": "FringeBenefitsInd",
+      "type": "bool"
+    },
+    {
+      "name": "FutureFilingNotRequiredInd",
+      "path": "FutureFilingNotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "GroupTermLifeInsuranceInd",
+      "path": "GroupTermLifeInsuranceInd",
+      "type": "bool"
+    },
+    {
+      "name": "MaximumCreditAmt",
+      "path": "MaximumCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MultiStateInd",
+      "path": "MultiStateInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoPaymentsToEmployeesInd",
+      "path": "NoPaymentsToEmployeesInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplyOverpaymentNextReturnInd",
+      "path": "OverpaymentGrp/ApplyOverpaymentNextReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "OverpaidAmt",
+      "path": "OverpaymentGrp/OverpaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundOverpaymentInd",
+      "path": "OverpaymentGrp/RefundOverpaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "RetirementPensionInd",
+      "path": "RetirementPensionInd",
+      "type": "bool"
+    },
+    {
+      "name": "SecondQuarterTaxLiabilityAmt",
+      "path": "SecondQuarterTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SuccessorEmployerInd",
+      "path": "SuccessorEmployerInd",
+      "type": "bool"
+    },
+    {
+      "name": "ThirdQuarterTaxLiabilityAmt",
+      "path": "ThirdQuarterTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditReductionAmt",
+      "path": "TotalCreditReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExemptWagesAmt",
+      "path": "TotalExemptWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLiabilityAmt",
+      "path": "TotalTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxableWagesAmt",
+      "path": "TotalTaxableWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesOverLimitAmt",
+      "path": "WagesOverLimitAmt",
+      "type": "usd"
+    }
+  ]
+}

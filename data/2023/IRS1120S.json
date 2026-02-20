@@ -1,0 +1,386 @@
+{
+  "form_id": "IRS1120S",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "@changeAnnualAccountingPeriodCd",
+      "path": "@changeAnnualAccountingPeriodCd",
+      "type": "enum"
+    },
+    {
+      "name": "@filedPursuantToSect30191002Cd",
+      "path": "@filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "@section501dCd",
+      "path": "@section501dCd",
+      "type": "enum"
+    },
+    {
+      "name": "@shortPeriodReasonCd",
+      "path": "@shortPeriodReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressChangeInd",
+      "path": "AddressChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdvertisingAmt",
+      "path": "AdvertisingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "BadDebtExpenseAmt",
+      "path": "BadDebtExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BuiltInGainsTaxAmt",
+      "path": "BuiltInGainsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletionAmt",
+      "path": "DepletionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Elec1141110gFlowThruEntStatement",
+      "path": "Elec1141110gFlowThruEntStatement",
+      "type": "unknown"
+    },
+    {
+      "name": "ElectionEffectiveDt",
+      "path": "ElectionEffectiveDt",
+      "type": "date"
+    },
+    {
+      "name": "ElectionTerminationInd",
+      "path": "ElectionTerminationInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectivePaymentAmt",
+      "path": "ElectivePaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeBenefitProgramAmt",
+      "path": "EmployeeBenefitProgramAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EnergyEffcntCmrclBldgDedAmt",
+      "path": "EnergyEffcntCmrclBldgDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EsPenaltyAmt",
+      "path": "EsPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessNetPassiveIncmLIFOTxAmt",
+      "path": "ExcessNetPassiveIncmLIFOTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@lIFOTaxAmt",
+      "path": "ExcessNetPassiveIncmLIFOTxAmt/@lIFOTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@lIFOTaxCd",
+      "path": "ExcessNetPassiveIncmLIFOTxAmt/@lIFOTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "FinalReturnInd",
+      "path": "FinalReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "FirstYearSCorporationInd",
+      "path": "FirstYearSCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form2220AttachedInd",
+      "path": "Form2220AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossProfitAmt",
+      "path": "GrossProfitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsOrSalesAmt",
+      "path": "GrossReceiptsOrSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InactivePrincipalBusActyCd",
+      "path": "InactivePrincipalBusActyCd",
+      "type": "enum"
+    },
+    {
+      "name": "IncorporationDt",
+      "path": "IncorporationDt",
+      "type": "date"
+    },
+    {
+      "name": "InterestDeductionAmt",
+      "path": "InterestDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NameChangeInd",
+      "path": "NameChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetGrossReceiptsOrSalesAmt",
+      "path": "NetGrossReceiptsOrSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OfficersCompensationAmt",
+      "path": "OfficersCompensationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryBusinessIncomeLossAmt",
+      "path": "OrdinaryBusinessIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeLossAmt",
+      "path": "OtherIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@otherIncomeLossDesc",
+      "path": "OtherIncomeLossAmt/@otherIncomeLossDesc",
+      "type": "string"
+    },
+    {
+      "name": "AppliedToEsTaxAmt",
+      "path": "OverpaymentSection/AppliedToEsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "OverpaymentSection/OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "OverpaymentSection/RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PensionProfitSharingPlansAmt",
+      "path": "PensionProfitSharingPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "RepairsAndMaintenanceAmt",
+      "path": "RepairsAndMaintenanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReturnsAndAllowancesAmt",
+      "path": "ReturnsAndAllowancesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SalariesAndWagesAmt",
+      "path": "SalariesAndWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScheduleM3AttachedInd",
+      "path": "ScheduleM3AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sect465AtRiskAggregatedActyInd",
+      "path": "Sect465AtRiskAggregatedActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sect469PALGroupedActyInd",
+      "path": "Sect469PALGroupedActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "ShareholderCnt",
+      "path": "ShareholderCnt",
+      "type": "int"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "SupersededReturnInd",
+      "path": "SupersededReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxPaidForm7004Amt",
+      "path": "TaxPaidForm7004Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesAndLicensesAmt",
+      "path": "TaxesAndLicensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOvpmtCrAndEstTxPaymentsAmt",
+      "path": "TotOvpmtCrAndEstTxPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAssetsAmt",
+      "path": "TotalAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionAmt",
+      "path": "TotalDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFuelTaxCreditAmt",
+      "path": "TotalFuelTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeOrLossAmt",
+      "path": "TotalIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOrdinaryGainLossAmt",
+      "path": "TotalOrdinaryGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form4684Cd",
+      "path": "TotalOrdinaryGainLossAmt/@form4684Cd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@beneficiaryTrustAmt",
+      "path": "TotalPaymentsAmt/@beneficiaryTrustAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@beneficiaryTrustCd",
+      "path": "TotalPaymentsAmt/@beneficiaryTrustCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalRentOrLeaseExpenseAmt",
+      "path": "TotalRentOrLeaseExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@bBAImputeUnderpaymentAmt",
+      "path": "TotalTaxAmt/@bBAImputeUnderpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@bBAImputeUnderpaymentCd",
+      "path": "TotalTaxAmt/@bBAImputeUnderpaymentCd",
+      "type": "enum"
+    },
+    {
+      "name": "@form8697Amt",
+      "path": "TotalTaxAmt/@form8697Amt",
+      "type": "usd"
+    },
+    {
+      "name": "@form8697Cd",
+      "path": "TotalTaxAmt/@form8697Cd",
+      "type": "enum"
+    },
+    {
+      "name": "@form8866Amt",
+      "path": "TotalTaxAmt/@form8866Amt",
+      "type": "usd"
+    },
+    {
+      "name": "@form8866Cd",
+      "path": "TotalTaxAmt/@form8866Cd",
+      "type": "enum"
+    },
+    {
+      "name": "@lIFOTaxAmt",
+      "path": "TotalTaxAmt/@lIFOTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@lIFOTaxCd",
+      "path": "TotalTaxAmt/@lIFOTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "@taxFromForm4255Amt",
+      "path": "TotalTaxAmt/@taxFromForm4255Amt",
+      "type": "usd"
+    },
+    {
+      "name": "@taxFromForm4255Cd",
+      "path": "TotalTaxAmt/@taxFromForm4255Cd",
+      "type": "enum"
+    }
+  ]
+}

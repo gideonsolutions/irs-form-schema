@@ -1,0 +1,246 @@
+{
+  "form_id": "IRSW2G",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CalendarYr",
+      "path": "CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "CorrectedW2GInd",
+      "path": "CorrectedW2GInd",
+      "type": "bool"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GamblingReportableWinningAmt",
+      "path": "GamblingReportableWinningAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GamblingWinCashierId",
+      "path": "GamblingWinCashierId",
+      "type": "unknown"
+    },
+    {
+      "name": "GamblingWinFromIdntclWagersAmt",
+      "path": "GamblingWinFromIdntclWagersAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GamblingWinWagerTypeDesc",
+      "path": "GamblingWinWagerTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "GamblingWinWindowNum",
+      "path": "GamblingWinWindowNum",
+      "type": "string"
+    },
+    {
+      "name": "GamblingWinningDt",
+      "path": "GamblingWinningDt",
+      "type": "date"
+    },
+    {
+      "name": "GamblingWinningEventDesc",
+      "path": "GamblingWinningEventDesc",
+      "type": "string"
+    },
+    {
+      "name": "GamblingWinningTransactionDesc",
+      "path": "GamblingWinningTransactionDesc",
+      "type": "string"
+    },
+    {
+      "name": "PayerEIN",
+      "path": "PayerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PayerForeignAddress",
+      "path": "PayerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PayerForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PayerForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PayerForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PayerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PayerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PayerNameControlTxt",
+      "path": "PayerNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "PayerSSN",
+      "path": "PayerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "PayerTelephoneNum",
+      "path": "PayerTelephoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PayerUSAddress",
+      "path": "PayerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PayerUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PayerUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "RecipientEIN",
+      "path": "RecipientEIN",
+      "type": "ein"
+    },
+    {
+      "name": "RecipientFirstAdditionalIdNum",
+      "path": "RecipientFirstAdditionalIdNum",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "RecipientForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "RecipientForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "RecipientForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "RecipientForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "RecipientNm",
+      "path": "RecipientNm",
+      "type": "string"
+    },
+    {
+      "name": "RecipientSSN",
+      "path": "RecipientSSN",
+      "type": "tin"
+    },
+    {
+      "name": "RecipientSecondAdditionalIdNum",
+      "path": "RecipientSecondAdditionalIdNum",
+      "type": "string"
+    },
+    {
+      "name": "RecipientUSAddress",
+      "path": "RecipientUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "StandardOrNonStandardCd",
+      "path": "StandardOrNonStandardCd",
+      "type": "enum"
+    },
+    {
+      "name": "VoidInd",
+      "path": "VoidInd",
+      "type": "bool"
+    },
+    {
+      "name": "W2GStateLocalTaxGrp",
+      "path": "W2GStateLocalTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "GamblingWinningAmt",
+      "path": "W2GStateLocalTaxGrp/GamblingWinningAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayerStateIdNum",
+      "path": "W2GStateLocalTaxGrp/PayerStateIdNum",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "W2GStateLocalTaxGrp/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "StateTaxWithheldAmt",
+      "path": "W2GStateLocalTaxGrp/StateTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GamblingWinningAmt",
+      "path": "W2GStateLocalTaxGrp/W2GLocalTaxGrp/GamblingWinningAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LocalIncomeTaxAmt",
+      "path": "W2GStateLocalTaxGrp/W2GLocalTaxGrp/LocalIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LocalityNm",
+      "path": "W2GStateLocalTaxGrp/W2GLocalTaxGrp/LocalityNm",
+      "type": "string"
+    }
+  ]
+}

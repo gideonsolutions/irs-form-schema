@@ -1,0 +1,236 @@
+{
+  "form_id": "IRS5471ScheduleQ",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BribesKickbackOtherPymtGrp",
+      "path": "BribesKickbackOtherPymtGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CFCSection901jIncomeGrp",
+      "path": "CFCSection901jIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "CFCTotalIncomeGrp",
+      "path": "CFCTotalIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "DivIntRntsRyltsAnntsGrp",
+      "path": "DivIntRntsRyltsAnntsGrp",
+      "type": "group"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FOGEIOrFORIInd",
+      "path": "FOGEIOrFORIInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignCorporationEIN",
+      "path": "ForeignCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "ForeignSourceIncomeInd",
+      "path": "ForeignSourceIncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnBaseCoSalesIncmGrp",
+      "path": "FrgnBaseCoSalesIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "FrgnBaseCompanySrvcIncmGrp",
+      "path": "FrgnBaseCompanySrvcIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "FullInclsnFrgnBaseCoIncmGrp",
+      "path": "FullInclsnFrgnBaseCoIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "IncmEquivalentToIntGrp",
+      "path": "IncmEquivalentToIntGrp",
+      "type": "group"
+    },
+    {
+      "name": "InsuranceIncomeGrp",
+      "path": "InsuranceIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "IntntlBoycottIncomeGrp",
+      "path": "IntntlBoycottIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetFrgnCurrencyGainGrp",
+      "path": "NetFrgnCurrencyGainGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetGainCertainPropTransGrp",
+      "path": "NetGainCertainPropTransGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetGainCommoditiesTranGrp",
+      "path": "NetGainCommoditiesTranGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherSubpartFIncomeGrp",
+      "path": "OtherSubpartFIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "PassiveCategoryIncomeGroupCd",
+      "path": "PassiveCategoryIncomeGroupCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "RecapturedSubpartFIncmGrp",
+      "path": "RecapturedSubpartFIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "ResidualIncomeGrp",
+      "path": "ResidualIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TestedIncomeGrp",
+      "path": "TestedIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotFrgnBaseCoSalesIncmGrp",
+      "path": "TotFrgnBaseCoSalesIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotFrgnBaseCompanySrvcIncmGrp",
+      "path": "TotFrgnBaseCompanySrvcIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotFullInclsnFrgnBaseCoIncmGrp",
+      "path": "TotFullInclsnFrgnBaseCoIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotIncmEquivalentToIntGrp",
+      "path": "TotIncmEquivalentToIntGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotNetFrgnCurrencyGainGrp",
+      "path": "TotNetFrgnCurrencyGainGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotNetGainCertainPropTransGrp",
+      "path": "TotNetGainCertainPropTransGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotNetGainCommoditiesTranGrp",
+      "path": "TotNetGainCommoditiesTranGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalDivIntRntsRyltsAnntsGrp",
+      "path": "TotalDivIntRntsRyltsAnntsGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalInsuranceIncomeGrp",
+      "path": "TotalInsuranceIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalOtherSubpartFIncomeGrp",
+      "path": "TotalOtherSubpartFIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalResidualIncomeGrp",
+      "path": "TotalResidualIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalTestedIncomeGrp",
+      "path": "TotalTestedIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "USSourceIncomeInd",
+      "path": "USSourceIncomeInd",
+      "type": "bool"
+    }
+  ]
+}

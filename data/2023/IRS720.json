@@ -1,0 +1,2966 @@
+{
+  "form_id": "IRS720",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "@section6114TreatyIndicator",
+      "path": "@section6114TreatyIndicator",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressChangeInd",
+      "path": "AddressChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepositsMadeForQuarterAmt",
+      "path": "DepositsMadeForQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalReturnInd",
+      "path": "FinalReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form720XOverpaymentAmt",
+      "path": "Form720XOverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstHalfMonthAmt",
+      "path": "IRS720ScheduleA/AlternativeMethodTaxes/AltMethodTaxFirstMonthDetail/FirstHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondHalfMonthAmt",
+      "path": "IRS720ScheduleA/AlternativeMethodTaxes/AltMethodTaxFirstMonthDetail/SecondHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstHalfMonthAmt",
+      "path": "IRS720ScheduleA/AlternativeMethodTaxes/AltMethodTaxSecondMonthDetail/FirstHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondHalfMonthAmt",
+      "path": "IRS720ScheduleA/AlternativeMethodTaxes/AltMethodTaxSecondMonthDetail/SecondHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstHalfMonthAmt",
+      "path": "IRS720ScheduleA/AlternativeMethodTaxes/AltMethodTaxThirdMonthDetail/FirstHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondHalfMonthAmt",
+      "path": "IRS720ScheduleA/AlternativeMethodTaxes/AltMethodTaxThirdMonthDetail/SecondHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialSeptemberRuleAmt",
+      "path": "IRS720ScheduleA/AlternativeMethodTaxes/SpecialSeptemberRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeMethodTaxesAmt",
+      "path": "IRS720ScheduleA/AlternativeMethodTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetLiabilityRegMethodTaxesAmt",
+      "path": "IRS720ScheduleA/NetLiabilityRegMethodTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstHalfMonthAmt",
+      "path": "IRS720ScheduleA/RegularMethodTaxes/RegMethodTaxFirstMonthDetail/FirstHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondHalfMonthAmt",
+      "path": "IRS720ScheduleA/RegularMethodTaxes/RegMethodTaxFirstMonthDetail/SecondHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstHalfMonthAmt",
+      "path": "IRS720ScheduleA/RegularMethodTaxes/RegMethodTaxSecondMonthDetail/FirstHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondHalfMonthAmt",
+      "path": "IRS720ScheduleA/RegularMethodTaxes/RegMethodTaxSecondMonthDetail/SecondHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstHalfMonthAmt",
+      "path": "IRS720ScheduleA/RegularMethodTaxes/RegMethodTaxThirdMonthDetail/FirstHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondHalfMonthAmt",
+      "path": "IRS720ScheduleA/RegularMethodTaxes/RegMethodTaxThirdMonthDetail/SecondHalfMonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialSeptemberRuleAmt",
+      "path": "IRS720ScheduleA/RegularMethodTaxes/SpecialSeptemberRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ClaimantRegistrationNum",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/ClaimantRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/CompressedGasFromBiomass/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/CompressedGasFromBiomass/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/CompressedGasFromBiomass/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/CompressedGasFromBiomass/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/CompressedNaturalGas/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/CompressedNaturalGas/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/CompressedNaturalGas/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/CompressedNaturalGas/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedGasFromBiomass/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedGasFromBiomass/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedGasFromBiomass/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedGasFromBiomass/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedNaturalGas/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedNaturalGas/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedNaturalGas/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedNaturalGas/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedPetroleumGas/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedPetroleumGas/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedPetroleumGas/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquefiedPetroleumGas/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquidFuelFromBiomass/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquidFuelFromBiomass/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquidFuelFromBiomass/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquidFuelFromBiomass/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquidFuelFromCoal/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquidFuelFromCoal/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquidFuelFromCoal/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/LiquidFuelFromCoal/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/PSeriesFuelCredit/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/PSeriesFuelCredit/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/PSeriesFuelCredit/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/AlternativeFuelAndFuelMixCr/PSeriesFuelCredit/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/AgriBiodieselMixtures/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/AgriBiodieselMixtures/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/AgriBiodieselMixtures/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/AgriBiodieselMixtures/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/BiodieselMixtures/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/BiodieselMixtures/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/BiodieselMixtures/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/BiodieselMixtures/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimantRegistrationNum",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/ClaimantRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/RenewableDieselMixtures/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/RenewableDieselMixtures/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/RenewableDieselMixtures/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/RenewableDieselMixtures/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/SustainableAviationFuel/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/SustainableAviationFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/SustainableAviationFuel/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/SustainableAviationFuel/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/CommercialAviationTaxedAt219/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/CommercialAviationTaxedAt219/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/CommercialAviationTaxedAt219/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/CommercialAviationTaxedAt219/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/CommercialAviationTaxedAt244/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/CommercialAviationTaxedAt244/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/CommercialAviationTaxedAt244/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/CommercialAviationTaxedAt244/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/LUSTTaxAviationUseForeignTrade/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/LUSTTaxAviationUseForeignTrade/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/LUSTTaxAviationUseForeignTrade/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/LUSTTaxAviationUseForeignTrade/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt219/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt219/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt219/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt219/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt219/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt244/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt244/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt244/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt244/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt244/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxCNG/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxCNG/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxCNG/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxCNG/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxCNG/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxCNG/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxCNG/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxCNG/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLNG/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLNG/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLNG/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLNG/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLNG/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLNG/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLNG/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLNG/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/CommercialAviation/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/CommercialAviation/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/CommercialAviation/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/CommercialAviation/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/LUSTTaxAviationUseForeignTrade/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/LUSTTaxAviationUseForeignTrade/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/LUSTTaxAviationUseForeignTrade/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/LUSTTaxAviationUseForeignTrade/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxableAviationGasExported",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/NontaxableAviationGasExported",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/NontaxableAviationGasExported/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/NontaxableAviationGasExported/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/NontaxableAviationGasExported/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/NontaxableAviationGasExported/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/OtherNontaxableUseAviation/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/OtherNontaxableUseAviation/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/OtherNontaxableUseAviation/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/OtherNontaxableUseAviation/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/OtherNontaxableUseAviation/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "Gasoline",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/Gasoline",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/Gasoline/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/Gasoline/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/Gasoline/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/Gasoline/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/Gasoline/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GasolineExported",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/GasolineExported",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/GasolineExported/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/GasolineExported/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/GasolineExported/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfGasoline/GasolineExported/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/AllwblNontxUseUndyedDslFuel/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/AllwblNontxUseUndyedDslFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/AllwblNontxUseUndyedDslFuel/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/AllwblNontxUseUndyedDslFuel/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/AllwblNontxUseUndyedDslFuel/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ExportedFuel",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/ExportedFuel",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/ExportedFuel/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/ExportedFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/ExportedFuel/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/ExportedFuel/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxFuelUseFarmingPurposes/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxFuelUseFarmingPurposes/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxFuelUseFarmingPurposes/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxFuelUseFarmingPurposes/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxFuelUseIntrctyAndLclBuses/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxFuelUseIntrctyAndLclBuses/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxFuelUseIntrctyAndLclBuses/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxFuelUseIntrctyAndLclBuses/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd044/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd044/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd044/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd044/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd044/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd219/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd219/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd219/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd219/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd219/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "UndyedKeroseneUseExceptionInd",
+      "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/UndyedKeroseneUseExceptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/AllwblNontxUseUndyedDslFuel/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/AllwblNontxUseUndyedDslFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/AllwblNontxUseUndyedDslFuel/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/AllwblNontxUseUndyedDslFuel/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/AllwblNontxUseUndyedDslFuel/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ExportedFuel",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/ExportedFuel",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/ExportedFuel/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/ExportedFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/ExportedFuel/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/ExportedFuel/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontaxUndyedDslFuelUseInTrains/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontaxUndyedDslFuelUseInTrains/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontaxUndyedDslFuelUseInTrains/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontaxUndyedDslFuelUseInTrains/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontxFuelUseFarmingPurposes/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontxFuelUseFarmingPurposes/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontxFuelUseFarmingPurposes/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontxFuelUseFarmingPurposes/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontxFuelUseIntrctyAndLclBuses/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontxFuelUseIntrctyAndLclBuses/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontxFuelUseIntrctyAndLclBuses/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontxFuelUseIntrctyAndLclBuses/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "UndyedDieselUseExceptionInd",
+      "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/UndyedDieselUseExceptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChemicalsOtherThanODC",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ChemicalsOtherThanODC",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ChemicalsOtherThanODC/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ChemicalsOtherThanODC/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "ExpDyedDslFuelAndExpGasoline",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ExpDyedDslFuelAndExpGasoline",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ExpDyedDslFuelAndExpGasoline/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ExpDyedDslFuelAndExpGasoline/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "ExpDyedKeroseneOthExciseClaims",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ExpDyedKeroseneOthExciseClaims",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ExpDyedKeroseneOthExciseClaims/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ExpDyedKeroseneOthExciseClaims/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "ImportedChemicalSubstances",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ImportedChemicalSubstances",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ImportedChemicalSubstances/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/ImportedChemicalSubstances/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "NontxDieselWaterFuelEmulsion",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/NontxDieselWaterFuelEmulsion",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherClaimsPub510",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/OtherClaimsPub510",
+      "type": "unknown"
+    },
+    {
+      "name": "RegisteredCreditCardIssuers",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/RegisteredCreditCardIssuers",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/Section4051dTireCredit/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/Section4051dTireCredit/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "TxblTiresBiasPlyOthSuperSingle",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresBiasPlyOthSuperSingle",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresBiasPlyOthSuperSingle/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresBiasPlyOthSuperSingle/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "TireCnt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresBiasPlyOthSuperSingle/TireCnt",
+      "type": "int"
+    },
+    {
+      "name": "TxblTiresOther",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresOther",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresOther/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresOther/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "TireCnt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresOther/TireCnt",
+      "type": "int"
+    },
+    {
+      "name": "TxblTiresSuperSingleSteering",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresSuperSingleSteering",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresSuperSingleSteering/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresSuperSingleSteering/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "TireCnt",
+      "path": "IRS720ScheduleC/OtherExciseLiabilityClaims/TxblTiresSuperSingleSteering/TireCnt",
+      "type": "int"
+    },
+    {
+      "name": "ClaimantRegistrationNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/ClaimantRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/CommercialAviationTaxedAt219/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/CommercialAviationTaxedAt219/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/CommercialAviationTaxedAt219/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/CommercialAviationTaxedAt219/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/CommercialAviationTaxedAt244/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/CommercialAviationTaxedAt244/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/CommercialAviationTaxedAt244/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/CommercialAviationTaxedAt244/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/LUSTTaxAviationUseForeignTrade/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/LUSTTaxAviationUseForeignTrade/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/LUSTTaxAviationUseForeignTrade/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/LUSTTaxAviationUseForeignTrade/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/NonexemptFuelUseCommercialAvn/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/NonexemptFuelUseCommercialAvn/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/NonexemptFuelUseCommercialAvn/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/NonexemptFuelUseCommercialAvn/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "OtherNontaxableUsesTaxedAt219",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/OtherNontaxableUsesTaxedAt219",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/OtherNontaxableUsesTaxedAt219/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/OtherNontaxableUsesTaxedAt219/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/OtherNontaxableUsesTaxedAt219/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherNontaxableUsesTaxedAt244",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/OtherNontaxableUsesTaxedAt244",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/OtherNontaxableUsesTaxedAt244/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/OtherNontaxableUsesTaxedAt244/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/OtherNontaxableUsesTaxedAt244/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "ClaimantRegistrationNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/ClaimantRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelUseNonprofitEducationalOrg",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUseNonprofitEducationalOrg",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUseNonprofitEducationalOrg/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUseNonprofitEducationalOrg/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUseNonprofitEducationalOrg/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUseNonprofitEducationalOrg/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "FuelUsedByStateLocalGovt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUsedByStateLocalGovt",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUsedByStateLocalGovt/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUsedByStateLocalGovt/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUsedByStateLocalGovt/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimantRegistrationNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/ClaimantRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelUseNonprofitEducationalOrg",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUseNonprofitEducationalOrg",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUseNonprofitEducationalOrg/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUseNonprofitEducationalOrg/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUseNonprofitEducationalOrg/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUseNonprofitEducationalOrg/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "FuelUsedByStateLocalGovt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUsedByStateLocalGovt",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUsedByStateLocalGovt/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUsedByStateLocalGovt/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUsedByStateLocalGovt/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimantRegistrationNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/ClaimantRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/FuelUseIntercityLocalBuses/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/FuelUseIntercityLocalBuses/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/FuelUseIntercityLocalBuses/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/FuelUseIntercityLocalBuses/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/FuelUsedByStateLocalGovt/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/FuelUsedByStateLocalGovt/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/FuelUsedByStateLocalGovt/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/FuelUsedByStateLocalGovt/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "SalesUndyedDieselExceptionInd",
+      "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/SalesUndyedDieselExceptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimantRegistrationNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/ClaimantRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelSalesFromBlockedPump/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelSalesFromBlockedPump/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelSalesFromBlockedPump/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelUseIntercityLocalBuses/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelUseIntercityLocalBuses/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelUseIntercityLocalBuses/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelUseIntercityLocalBuses/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelUsedByStateLocalGovt/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelUsedByStateLocalGovt/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelUsedByStateLocalGovt/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelUsedByStateLocalGovt/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "SlsUndyedKeroseneExceptionInd",
+      "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/SlsUndyedKeroseneExceptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxYearEndMonthNum",
+      "path": "IRS720ScheduleC/TaxYearEndMonthNum",
+      "type": "string"
+    },
+    {
+      "name": "TotalClaimsAmt",
+      "path": "IRS720ScheduleC/TotalClaimsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsAviationGasolineDlvrQty",
+      "path": "IRS720ScheduleT/GallonsAviationGasolineDlvrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsAviationGasolineRcvdQty",
+      "path": "IRS720ScheduleT/GallonsAviationGasolineRcvdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsDieselDeliveredQty",
+      "path": "IRS720ScheduleT/GallonsDieselDeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsDieselReceivedQty",
+      "path": "IRS720ScheduleT/GallonsDieselReceivedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsGasolineDeliveredQty",
+      "path": "IRS720ScheduleT/GallonsGasolineDeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsGasolineReceivedQty",
+      "path": "IRS720ScheduleT/GallonsGasolineReceivedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsKeroseneDeliveredQty",
+      "path": "IRS720ScheduleT/GallonsKeroseneDeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsKeroseneReceivedQty",
+      "path": "IRS720ScheduleT/GallonsKeroseneReceivedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NoTaxToReportCd",
+      "path": "NoTaxToReportCd",
+      "type": "enum"
+    },
+    {
+      "name": "ApplyOverpaymentNextReturnInd",
+      "path": "OverpaymentGrp/ApplyOverpaymentNextReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "OverpaymentGrp/OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundOverpaymentInd",
+      "path": "OverpaymentGrp/RefundOverpaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "PreviousQuarterOverpaymentAmt",
+      "path": "PreviousQuarterOverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EnvironmentalTaxes",
+      "path": "QrtlyFederalExciseTaxPartI/EnvironmentalTaxes",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum104/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum104/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum104/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum104/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum105/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum105/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum105/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum105/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum107/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum107/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum107/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum107/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum108/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum108/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TireCnt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum108/TireCnt",
+      "type": "int"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum109/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum109/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TireCnt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum109/TireCnt",
+      "type": "int"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum111/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum111/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum111/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum111/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum112/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum112/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum112/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum112/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum113/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum113/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TireCnt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum113/TireCnt",
+      "type": "int"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum118/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum118/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum118/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum118/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum119/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum119/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum119/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum119/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum120/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum120/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum120/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum120/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum121/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum121/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum121/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum121/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum122/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum122/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum122/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum122/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum123/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum123/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum123/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum123/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum124/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum124/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum124/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum124/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum136/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum14/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum14/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum14/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum14/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum16/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum16/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum17/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum17/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum18/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum18/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum19/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum19/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum21/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum21/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum22/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum22/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum29/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "PersonCnt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum29/PersonCnt",
+      "type": "int"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum29/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum29/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum30/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "PremiumsPaidAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum30/IRSNum30a/PremiumsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum30/IRSNum30a/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "PremiumsPaidAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum30/IRSNum30b/PremiumsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum30/IRSNum30b/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "PremiumsPaidAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum30/IRSNum30c/PremiumsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum30/IRSNum30c/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum30/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum31/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "PrincipalObligationAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum31/PrincipalObligationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum31/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum31/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum33/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum33/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum33/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum35/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum35/IRSNum35a/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum35/IRSNum35a/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum35/IRSNum35b/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum35/IRSNum35b/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum35/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum36/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum36/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum36/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum36/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum37/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum37/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "SalesPriceAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum37/SalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum37/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum38/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum38/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum38/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum38/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum39/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum39/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "SalesPriceAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum39/SalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum39/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartIIRSNum40",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum40",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum40/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "OneTimeFilingInd",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum40/OneTimeFilingInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum40/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum53/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum53/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum54/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum54/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/IRSNum60a/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/IRSNum60a/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/IRSNum60b/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/IRSNum60b/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/IRSNum60c/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/IRSNum60c/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum62/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum62/IRSNum62a/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum62/IRSNum62a/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum62/IRSNum62b/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum62/IRSNum62b/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum62/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum69/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum69/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum69/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum69/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum77/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum77/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum77/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum77/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartIIRSNum79",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum79",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum79/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum79/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum79/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum79/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum97/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum97/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum98/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum98/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QrtlyFederalExciseTaxPartIAmt",
+      "path": "QrtlyFederalExciseTaxPartI/QrtlyFederalExciseTaxPartIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum106/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum106/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum106/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum110/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum110/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum110/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum114/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum114/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum114/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartIIIRSNum117",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum117",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum117/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum117/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum117/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum117/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum125/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum125/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum125/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum125/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "AverageLivesCoveredCnt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133a/AverageLivesCoveredCnt",
+      "type": "int"
+    },
+    {
+      "name": "Fee",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133a/Fee",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133a/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "AverageLivesCoveredCnt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133b/AverageLivesCoveredCnt",
+      "type": "int"
+    },
+    {
+      "name": "Fee",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133b/Fee",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133b/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "AverageLivesCoveredCnt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133c/AverageLivesCoveredCnt",
+      "type": "int"
+    },
+    {
+      "name": "Fee",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133c/Fee",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133c/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "AverageLivesCoveredCnt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133d/AverageLivesCoveredCnt",
+      "type": "int"
+    },
+    {
+      "name": "Fee",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133d/Fee",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/IRSNum133d/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum133/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum140/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum140/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum140/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartIIIRSNum142",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum142",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum142/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum142/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartIIIRSNum150",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum150",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum150/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum150/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartIIIRSNum20",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum20",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum20/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum20/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum41/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum41/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum41/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum42/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum42/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum42/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum44/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum44/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum44/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartIIIRSNum51",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum51",
+      "type": "unknown"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum51/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum51/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum51/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum51/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum64/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSNum",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum64/IRSNum",
+      "type": "string"
+    },
+    {
+      "name": "Rt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum64/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum64/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QrtlyFederalExciseTaxPartIIAmt",
+      "path": "QrtlyFederalExciseTaxPartII/QrtlyFederalExciseTaxPartIIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SafeHarborRuleInd",
+      "path": "SafeHarborRuleInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "TotalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentAmt",
+      "path": "TotalPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

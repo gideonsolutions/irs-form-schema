@@ -1,0 +1,221 @@
+{
+  "form_id": "IRS7213",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CalcFcltyQlfyElecSoldKWHQty",
+      "path": " AdvncNuclearPwrFcltyProdCrGrp/CalcFcltyQlfyElecSoldKWHQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcTentCrNMCLAllocAcptnc2Qty",
+      "path": " AdvncNuclearPwrFcltyProdCrGrp/CalcTentCrNMCLAllocAcptnc2Qty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcTentCrQlfyElecSoldAmt",
+      "path": " AdvncNuclearPwrFcltyProdCrGrp/CalcTentCrQlfyElecSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdvncNuclearPwrFcltyProdCrAmt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/AdvncNuclearPwrFcltyProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocNameplateEnergyCapKWQty",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/AllocNameplateEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AllocToBeneficiariesAmt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/AllocToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcNMCLAllocAcptncPct",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/CalcNMCLAllocAcptncPct",
+      "type": "decimal"
+    },
+    {
+      "name": "CalcTentCrNMCLAllocAcptnc2Amt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/CalcTentCrNMCLAllocAcptnc2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EligibleProjectPartnerInd",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/EligibleProjectPartnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityConstructionStartDt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityConstructionStartDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerInd",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityOwnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FcltyQlfyElecSoldKWHQty",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FcltyQlfyElecSoldKWHQty",
+      "type": "unknown"
+    },
+    {
+      "name": "IRSAcceptanceLtrDt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/IRSAcceptanceLtrDt",
+      "type": "date"
+    },
+    {
+      "name": "NMCLPortionAllocatedQty",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/NMCLPortionAllocatedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NameplateEnergyCapKWQty",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/NameplateEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SmallerTentCrSoldOrAllocAmt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/SmallerTentCrSoldOrAllocAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAdvncNclrPwrFcltyProdCrAmt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/TotAdvncNclrPwrFcltyProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotLessAllocToBeneficiariesAmt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/TotLessAllocToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityOwnedSect761aElectInd",
+      "path": "FacilityOwnedSect761aElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "AllocNameplateEnergyCapKWQty",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/AllocNameplateEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AllocToBeneficiariesAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/AllocToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcFcltyQlfyElecSoldKWHAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/CalcFcltyQlfyElecSoldKWHAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcGrossRcptsElecProdSoldAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/CalcGrossRcptsElecProdSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcGrossRcptsElecReductionAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/CalcGrossRcptsElecReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FcltyQlfyElecSoldKWHQty",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FcltyQlfyElecSoldKWHQty",
+      "type": "unknown"
+    },
+    {
+      "name": "GrossRcptsElecProdSoldAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/GrossRcptsElecProdSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsElecReductionAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/GrossReceiptsElecReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NRCPermitOrLicenseNum",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/NRCPermitOrLicenseNum",
+      "type": "string"
+    },
+    {
+      "name": "NameplateEnergyCapKWQty",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/NameplateEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "QualifiedFacilitiesIncrCrAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/QualifiedFacilitiesIncrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotLessAllocToBeneficiariesAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/TotLessAllocToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotZeroEmissionCrCalcAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/TotZeroEmissionCrCalcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotZeroEmsnNuclearPowerCrAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/TotZeroEmsnNuclearPowerCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ZeroEmissionCrAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/ZeroEmissionCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ZeroEmissionNuclearPowerCrAmt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/ZeroEmissionNuclearPowerCrAmt",
+      "type": "usd"
+    }
+  ]
+}

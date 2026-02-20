@@ -1,0 +1,51 @@
+{
+  "form_id": "IRS3903",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "          EligibilityRequirementMetInd",
+      "path": "          EligibilityRequirementMetInd",
+      "type": "bool"
+    },
+    {
+      "name": "EligibilityRequirementMetInd",
+      "path": "EligibilityRequirementMetInd",
+      "type": "bool"
+    },
+    {
+      "name": "MilitaryMoveCd",
+      "path": "MilitaryMoveCd",
+      "type": "enum"
+    },
+    {
+      "name": "MovingDeductionAmt",
+      "path": "MovingDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MovingExpensesDeductibleInd",
+      "path": "MovingExpensesDeductibleInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalEmployerExpensesPaidAmt",
+      "path": "TotalEmployerExpensesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalMovingExpenseAmt",
+      "path": "TotalMovingExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TransportHouseholdGoodsAmt",
+      "path": "TransportHouseholdGoodsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TravelAndLodgingExpenseAmt",
+      "path": "TravelAndLodgingExpenseAmt",
+      "type": "usd"
+    }
+  ]
+}

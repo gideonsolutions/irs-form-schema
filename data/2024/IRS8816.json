@@ -1,0 +1,96 @@
+{
+  "form_id": "IRS8816",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "EmployerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "EmployerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "SpclLossDscntAndEstTxPymntsGrp",
+      "path": "SpclLossDscntAndEstTxPymntsGrp",
+      "type": "group"
+    },
+    {
+      "name": "AccidentYr",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/AccidentYr",
+      "type": "unknown"
+    },
+    {
+      "name": "AdditionsSection847Amt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/AdditionsSection847Amt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DiscountedUnpaidLossesAmt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/DiscountedUnpaidLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndYearBalanceAmt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/EndYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentsAppliedForYearAmt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/PaymentsAppliedForYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentsMadeForYearAmt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/PaymentsMadeForYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorSect847PymtTrnsfrToCYAmt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/PriorSect847PymtTrnsfrToCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SETPBeginningYearBalanceAmt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/SETPBeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SETPEndYearBalanceAmt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/SETPEndYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialLossDiscountLmtAmt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/SpecialLossDiscountLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubtractionsSection847Amt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/SubtractionsSection847Amt",
+      "type": "usd"
+    },
+    {
+      "name": "UndiscountedUnpaidLossesAmt",
+      "path": "SpclLossDscntAndEstTxPymntsGrp/UndiscountedUnpaidLossesAmt",
+      "type": "usd"
+    }
+  ]
+}

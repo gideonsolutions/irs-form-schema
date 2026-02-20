@@ -1,0 +1,1991 @@
+{
+  "form_id": "IRS1120PCEliminationsOrAdj",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CapitalAssetDetail",
+      "path": "/IRS1120PCScheduleG/CapitalAssetDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "EINMissingReason",
+      "path": "/IRS1120PCScheduleG/CapitalAssetDetail/EINMissingReason",
+      "type": "unknown"
+    },
+    {
+      "name": "@filedPursuantToSect30191002Cd",
+      "path": "@filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "@suprtStmtConsolidatedReturnCd",
+      "path": "@suprtStmtConsolidatedReturnCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressChangeInd",
+      "path": "AddressChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "AmendedReturn",
+      "path": "AmendedReturn",
+      "type": "unknown"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BaseErosionMinimumTaxAmt",
+      "path": "BaseErosionMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CYGenBusinessCreditAllowedAmt",
+      "path": "CYGenBusinessCreditAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConsolidatedReturnInd",
+      "path": "ConsolidatedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorpAlternativeMinimumTaxAmt",
+      "path": "CorpAlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAllowableCreditAmt",
+      "path": "CurrentYearAllowableCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinimumTaxCreditAmt",
+      "path": "CurrentYearMinimumTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ElectivePaymentAmt",
+      "path": "ElectivePaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EsPenaltyAmt",
+      "path": "EsPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPaymentsAmt",
+      "path": "EstimatedTaxPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalReturnInd",
+      "path": "FinalReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ForeignCorporationTaxOnIncmAmt",
+      "path": "ForeignCorporationTaxOnIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form2220AttachedInd",
+      "path": "Form2220AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "FutureFilingNotRequiredInd",
+      "path": "FutureFilingNotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "AgencyBalancesAndBillsRcvblAmt",
+      "path": "IRS1120PCScheduleA/AgencyBalancesAndBillsRcvblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainNetIncomeAmt",
+      "path": "IRS1120PCScheduleA/CapitalGainNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContributionsTotAmt",
+      "path": "IRS1120PCScheduleA/CharitableContributionsTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionsSubtotalAmt",
+      "path": "IRS1120PCScheduleA/DeductionsSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletionAmt",
+      "path": "IRS1120PCScheduleA/DepletionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "IRS1120PCScheduleA/DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsReceivedDeductionAmt",
+      "path": "IRS1120PCScheduleA/DividendsReceivedDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeBenefitProgramAmt",
+      "path": "IRS1120PCScheduleA/EmployeeBenefitProgramAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FireOrFloodInsuranceCoPremAmt",
+      "path": "IRS1120PCScheduleA/FireOrFloodInsuranceCoPremAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GroIntRcvdLessIntExmptRcvdAmt",
+      "path": "IRS1120PCScheduleA/GroIntRcvdLessIntExmptRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeAmt",
+      "path": "IRS1120PCScheduleA/GrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIntAmortzLessIntExmptAmt",
+      "path": "IRS1120PCScheduleA/GrossIntAmortzLessIntExmptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossInterestAmortzPremAmt",
+      "path": "IRS1120PCScheduleA/GrossInterestAmortzPremAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossInterestReceivedAmt",
+      "path": "IRS1120PCScheduleA/GrossInterestReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRentsAmt",
+      "path": "IRS1120PCScheduleA/GrossRentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRoyaltiesAmt",
+      "path": "IRS1120PCScheduleA/GrossRoyaltiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntExemptUnderSect103AmortzAmt",
+      "path": "IRS1120PCScheduleA/IntExemptUnderSect103AmortzAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntExemptUnderSect103RcvdAmt",
+      "path": "IRS1120PCScheduleA/IntExemptUnderSect103RcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestBalanceAmt",
+      "path": "IRS1120PCScheduleA/InterestBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestDeductionAmt",
+      "path": "IRS1120PCScheduleA/InterestDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LossesIncurdDedUndSect832c4Amt",
+      "path": "IRS1120PCScheduleA/LossesIncurdDedUndSect832c4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "MutualRcprclUnderwriterDecrAmt",
+      "path": "IRS1120PCScheduleA/MutualRcprclUnderwriterDecrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MutualRcprclUnderwriterIncrAmt",
+      "path": "IRS1120PCScheduleA/MutualRcprclUnderwriterIncrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossDeductionAmt",
+      "path": "IRS1120PCScheduleA/NetOperatingLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OfficersCompensationAmt",
+      "path": "IRS1120PCScheduleA/OfficersCompensationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "IRS1120PCScheduleA/OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "IRS1120PCScheduleA/OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@otherIncomeDesc",
+      "path": "IRS1120PCScheduleA/OtherIncomeAmt/@otherIncomeDesc",
+      "type": "string"
+    },
+    {
+      "name": "PensionProfitSharingPlansAmt",
+      "path": "IRS1120PCScheduleA/PensionProfitSharingPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PolicyholderDividendDistriAmt",
+      "path": "IRS1120PCScheduleA/PolicyholderDividendDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PremiumsEarnedAmt",
+      "path": "IRS1120PCScheduleA/PremiumsEarnedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProtectionAgainstLossIncmAmt",
+      "path": "IRS1120PCScheduleA/ProtectionAgainstLossIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SalariesAndWagesAmt",
+      "path": "IRS1120PCScheduleA/SalariesAndWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialDeductionSect833OrgAmt",
+      "path": "IRS1120PCScheduleA/SpecialDeductionSect833OrgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialDeductionsSubtotalAmt",
+      "path": "IRS1120PCScheduleA/SpecialDeductionsSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialIncmAndDedAcctDedAmt",
+      "path": "IRS1120PCScheduleA/SpecialIncmAndDedAcctDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialIncmAndDedAcctIncmAmt",
+      "path": "IRS1120PCScheduleA/SpecialIncmAndDedAcctIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptInterestExpenseAmt",
+      "path": "IRS1120PCScheduleA/TaxExemptInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "IRS1120PCScheduleA/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "IRS1120PCScheduleA/TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesAndLicensesAmt",
+      "path": "IRS1120PCScheduleA/TaxesAndLicensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDividendsInclusionsRcvdAmt",
+      "path": "IRS1120PCScheduleA/TotDividendsInclusionsRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionAmt",
+      "path": "IRS1120PCScheduleA/TotalDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDivReceivedAndOprLossAmt",
+      "path": "IRS1120PCScheduleA/TotalDivReceivedAndOprLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLossAmt",
+      "path": "IRS1120PCScheduleA/TotalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOrdinaryGainLossAmt",
+      "path": "IRS1120PCScheduleA/TotalOrdinaryGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRentOrLeaseExpenseAmt",
+      "path": "IRS1120PCScheduleA/TotalRentOrLeaseExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSpecialDeductionsAmt",
+      "path": "IRS1120PCScheduleA/TotalSpecialDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BankDepositsBOYAmt",
+      "path": "IRS1120PCScheduleB/BankDepositsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BankDepositsEOYAmt",
+      "path": "IRS1120PCScheduleB/BankDepositsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BondsOfDomesticCorpBOYAmt",
+      "path": "IRS1120PCScheduleB/BondsOfDomesticCorpBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BondsOfDomesticCorpEOYAmt",
+      "path": "IRS1120PCScheduleB/BondsOfDomesticCorpEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainNetIncomeAmt",
+      "path": "IRS1120PCScheduleB/CapitalGainNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CollateralLoansBOYAmt",
+      "path": "IRS1120PCScheduleB/CollateralLoansBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CollateralLoansEOYAmt",
+      "path": "IRS1120PCScheduleB/CollateralLoansEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionLimitationAmt",
+      "path": "IRS1120PCScheduleB/DeductionLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletionAmt",
+      "path": "IRS1120PCScheduleB/DepletionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "IRS1120PCScheduleB/DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsReceivedDeductionAmt",
+      "path": "IRS1120PCScheduleB/DividendsReceivedDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GroIntRcvdLessIntExmptRcvdAmt",
+      "path": "IRS1120PCScheduleB/GroIntRcvdLessIntExmptRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeFromLeasesTermAmt",
+      "path": "IRS1120PCScheduleB/GrossIncomeFromLeasesTermAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeFromTradeOrBusAmt",
+      "path": "IRS1120PCScheduleB/GrossIncomeFromTradeOrBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIntAmortzLessIntExmptAmt",
+      "path": "IRS1120PCScheduleB/GrossIntAmortzLessIntExmptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossInterestAmortzPremAmt",
+      "path": "IRS1120PCScheduleB/GrossInterestAmortzPremAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossInterestReceivedAmt",
+      "path": "IRS1120PCScheduleB/GrossInterestReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossInvestmentIncomeAmt",
+      "path": "IRS1120PCScheduleB/GrossInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@protectionAgainstLossCd",
+      "path": "IRS1120PCScheduleB/GrossInvestmentIncomeAmt/@protectionAgainstLossCd",
+      "type": "enum"
+    },
+    {
+      "name": "@protectionAgainstLossIncmAmt",
+      "path": "IRS1120PCScheduleB/GrossInvestmentIncomeAmt/@protectionAgainstLossIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossInvstIncmLessTotDedAmt",
+      "path": "IRS1120PCScheduleB/GrossInvstIncmLessTotDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRentsAmt",
+      "path": "IRS1120PCScheduleB/GrossRentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRoyaltiesAmt",
+      "path": "IRS1120PCScheduleB/GrossRoyaltiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeBaseAmt",
+      "path": "IRS1120PCScheduleB/IncomeBaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntExemptUnderSect103AmortzAmt",
+      "path": "IRS1120PCScheduleB/IntExemptUnderSect103AmortzAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntExemptUnderSect103RcvdAmt",
+      "path": "IRS1120PCScheduleB/IntExemptUnderSect103RcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestDeductionAmt",
+      "path": "IRS1120PCScheduleB/InterestDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentExpenseAmt",
+      "path": "IRS1120PCScheduleB/InvestmentExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MeanOfInvestedAssets0025PctAmt",
+      "path": "IRS1120PCScheduleB/MeanOfInvestedAssets0025PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MeanOfInvestedAssets0375PctAmt",
+      "path": "IRS1120PCScheduleB/MeanOfInvestedAssets0375PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MeanOfInvestedAssetsAmt",
+      "path": "IRS1120PCScheduleB/MeanOfInvestedAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageLoansBOYAmt",
+      "path": "IRS1120PCScheduleB/MortgageLoansBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageLoansEOYAmt",
+      "path": "IRS1120PCScheduleB/MortgageLoansEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeBaseAmt",
+      "path": "IRS1120PCScheduleB/NetIncomeBaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeBasePctAmt",
+      "path": "IRS1120PCScheduleB/NetIncomeBasePctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInterestBearingAstBOYAmt",
+      "path": "IRS1120PCScheduleB/OtherInterestBearingAstBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInterestBearingAstEOYAmt",
+      "path": "IRS1120PCScheduleB/OtherInterestBearingAstEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherRealEstateExpensesAmt",
+      "path": "IRS1120PCScheduleB/OtherRealEstateExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PolicyLoansBOYAmt",
+      "path": "IRS1120PCScheduleB/PolicyLoansBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PolicyLoansEOYAmt",
+      "path": "IRS1120PCScheduleB/PolicyLoansEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealEstateBOYAmt",
+      "path": "IRS1120PCScheduleB/RealEstateBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealEstateEOYAmt",
+      "path": "IRS1120PCScheduleB/RealEstateEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealEstateTaxesAmt",
+      "path": "IRS1120PCScheduleB/RealEstateTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockOfDomesticCorpBOYAmt",
+      "path": "IRS1120PCScheduleB/StockOfDomesticCorpBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockOfDomesticCorpEOYAmt",
+      "path": "IRS1120PCScheduleB/StockOfDomesticCorpEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "IRS1120PCScheduleB/TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInvestmentIncomeAmt",
+      "path": "IRS1120PCScheduleB/TaxableInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDividendsInclusionsRcvdAmt",
+      "path": "IRS1120PCScheduleB/TotDividendsInclusionsRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionAmt",
+      "path": "IRS1120PCScheduleB/TotalDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInvestedAssetsAmt",
+      "path": "IRS1120PCScheduleB/TotalInvestedAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInvestedAssetsBOYAmt",
+      "path": "IRS1120PCScheduleB/TotalInvestedAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInvestedAssetsEOYAmt",
+      "path": "IRS1120PCScheduleB/TotalInvestedAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInvestmentAmt",
+      "path": "IRS1120PCScheduleB/TotalInvestmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLossAmt",
+      "path": "IRS1120PCScheduleB/TotalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TradeOrBusinessDeductionsAmt",
+      "path": "IRS1120PCScheduleB/TradeOrBusinessDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USGovernmentObligationsBOYAmt",
+      "path": "IRS1120PCScheduleB/USGovernmentObligationsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USGovernmentObligationsEOYAmt",
+      "path": "IRS1120PCScheduleB/USGovernmentObligationsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainAffltCompanyDivRcvdAmt",
+      "path": "IRS1120PCScheduleC/CertainAffltCompanyDivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainAffltCompanyTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/CertainAffltCompanyTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtFincdStockCorpDeductionAmt",
+      "path": "IRS1120PCScheduleC/DebtFincdStockCorpDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtFincdStockCorpDivRcvdAmt",
+      "path": "IRS1120PCScheduleC/DebtFincdStockCorpDivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtFincdStockCorpTotDedAmt",
+      "path": "IRS1120PCScheduleC/DebtFincdStockCorpTotDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtFincdStockCorpTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/DebtFincdStockCorpTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DivRcvdDedLimitationAmt",
+      "path": "IRS1120PCScheduleC/DivRcvdDedLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DivRcvdDeductionSect832b5BAmt",
+      "path": "IRS1120PCScheduleC/DivRcvdDeductionSect832b5BAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsReceivedDeductionAmt",
+      "path": "IRS1120PCScheduleC/DividendsReceivedDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomCorp20OrMoreOwnDeductionAmt",
+      "path": "IRS1120PCScheduleC/DomCorp20OrMoreOwnDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomCorp20OrMoreOwnDivRcvdAmt",
+      "path": "IRS1120PCScheduleC/DomCorp20OrMoreOwnDivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomCorp20OrMoreOwnTotDedAmt",
+      "path": "IRS1120PCScheduleC/DomCorp20OrMoreOwnTotDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomCorp20OrMoreOwnTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/DomCorp20OrMoreOwnTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomCorpBelow20OwnDeductionAmt",
+      "path": "IRS1120PCScheduleC/DomCorpBelow20OwnDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomCorpBelow20OwnDivRcvdAmt",
+      "path": "IRS1120PCScheduleC/DomCorpBelow20OwnDivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomCorpBelow20OwnTotDedAmt",
+      "path": "IRS1120PCScheduleC/DomCorpBelow20OwnTotDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomCorpBelow20OwnTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/DomCorpBelow20OwnTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignDivGrossUpTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/ForeignDivGrossUpTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnCorp20OrMoreOwnDedAmt",
+      "path": "IRS1120PCScheduleC/FrgnCorp20OrMoreOwnDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnCorp20OrMoreOwnDivRcvdAmt",
+      "path": "IRS1120PCScheduleC/FrgnCorp20OrMoreOwnDivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnCorp20OrMoreOwnTotDedAmt",
+      "path": "IRS1120PCScheduleC/FrgnCorp20OrMoreOwnTotDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnCorp20OrMoreOwnTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/FrgnCorp20OrMoreOwnTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnCorpBelow20OwnDeductionAmt",
+      "path": "IRS1120PCScheduleC/FrgnCorpBelow20OwnDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnCorpBelow20OwnDivRcvdAmt",
+      "path": "IRS1120PCScheduleC/FrgnCorpBelow20OwnDivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnCorpBelow20OwnTotDedAmt",
+      "path": "IRS1120PCScheduleC/FrgnCorpBelow20OwnTotDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnCorpBelow20OwnTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/FrgnCorpBelow20OwnTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnSrceDiv10PctOwnDivRcvdAmt",
+      "path": "IRS1120PCScheduleC/FrgnSrceDiv10PctOwnDivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GILTIReceivedAmt",
+      "path": "IRS1120PCScheduleC/GILTIReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDivForeignCorpTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/OtherDivForeignCorpTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDividendsTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/OtherDividendsTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherSubpartFNotIncludedAmt",
+      "path": "IRS1120PCScheduleC/OtherSubpartFNotIncludedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PubUtility20OrMoreDedAmt",
+      "path": "IRS1120PCScheduleC/PubUtility20OrMoreDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PubUtility20OrMoreDivRcvdAmt",
+      "path": "IRS1120PCScheduleC/PubUtility20OrMoreDivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PubUtility20OrMoreTotDedAmt",
+      "path": "IRS1120PCScheduleC/PubUtility20OrMoreTotDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PubUtility20OrMoreTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/PubUtility20OrMoreTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PubUtilityBelow20DedAmt",
+      "path": "IRS1120PCScheduleC/PubUtilityBelow20DedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PubUtilityBelow20DivRcvdAmt",
+      "path": "IRS1120PCScheduleC/PubUtilityBelow20DivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PubUtilityBelow20TotDedAmt",
+      "path": "IRS1120PCScheduleC/PubUtilityBelow20TotDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PubUtilityBelow20TotRcvdAmt",
+      "path": "IRS1120PCScheduleC/PubUtilityBelow20TotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section250DeductionAmt",
+      "path": "IRS1120PCScheduleC/Section250DeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section965aInclusionRcvdAmt",
+      "path": "IRS1120PCScheduleC/Section965aInclusionRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section965cPrtcptExemptDedAmt",
+      "path": "IRS1120PCScheduleC/Section965cPrtcptExemptDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubpartFHybridDivRcvdAmt",
+      "path": "IRS1120PCScheduleC/SubpartFHybridDivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubpartFLowTierCFCRcvdAmt",
+      "path": "IRS1120PCScheduleC/SubpartFLowTierCFCRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDivRcvdDedSect832b5BAmt",
+      "path": "IRS1120PCScheduleC/TotDivRcvdDedSect832b5BAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDividendsInclusionsRcvdAmt",
+      "path": "IRS1120PCScheduleC/TotDividendsInclusionsRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhollyOwnFrgnSbsdryDivDedAmt",
+      "path": "IRS1120PCScheduleC/WhollyOwnFrgnSbsdryDivDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhollyOwnFrgnSbsdryDivRcvdAmt",
+      "path": "IRS1120PCScheduleC/WhollyOwnFrgnSbsdryDivRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhollyOwnFrgnSbsdryTotDedAmt",
+      "path": "IRS1120PCScheduleC/WhollyOwnFrgnSbsdryTotDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhollyOwnFrgnSbsdryTotRcvdAmt",
+      "path": "IRS1120PCScheduleC/WhollyOwnFrgnSbsdryTotRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrTYDiscountedUnrndPremAmt",
+      "path": "IRS1120PCScheduleE/CurrTYDiscountedUnrndPremAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrTYLifeInsuranceReservesAmt",
+      "path": "IRS1120PCScheduleE/CurrTYLifeInsuranceReservesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrTYOthUnearnedPremPctAmt",
+      "path": "IRS1120PCScheduleE/CurrTYOthUnearnedPremPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrTYUnearnedPremiumsAmt",
+      "path": "IRS1120PCScheduleE/CurrTYUnearnedPremiumsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrTYUnearnedPremiumsPctAmt",
+      "path": "IRS1120PCScheduleE/CurrTYUnearnedPremiumsPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetPremiumsWrittenAmt",
+      "path": "IRS1120PCScheduleE/NetPremiumsWrittenAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTotNetPremWrttnUnrndPremAmt",
+      "path": "IRS1120PCScheduleE/NetTotNetPremWrttnUnrndPremAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PremiumsEarnedAmt",
+      "path": "IRS1120PCScheduleE/PremiumsEarnedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorTYDiscountedUnrndPremAmt",
+      "path": "IRS1120PCScheduleE/PriorTYDiscountedUnrndPremAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorTYLifeInsReservesAmt",
+      "path": "IRS1120PCScheduleE/PriorTYLifeInsReservesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorTYOthUnearnedPremPctAmt",
+      "path": "IRS1120PCScheduleE/PriorTYOthUnearnedPremPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorTYUnearnedPremiumsAmt",
+      "path": "IRS1120PCScheduleE/PriorTYUnearnedPremiumsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorTYUnearnedPremiumsPctAmt",
+      "path": "IRS1120PCScheduleE/PriorTYUnearnedPremiumsPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNetPremWrttnAndUnrndPremAmt",
+      "path": "IRS1120PCScheduleE/TotNetPremWrttnAndUnrndPremAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrnstAdjUnderSect832b7DAmt",
+      "path": "IRS1120PCScheduleE/TrnstAdjUnderSect832b7DAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrTYDiscountedUnpaidLossAmt",
+      "path": "IRS1120PCScheduleF/CurrTYDiscountedUnpaidLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrTYTotalUnpaidLossesAmt",
+      "path": "IRS1120PCScheduleF/CurrTYTotalUnpaidLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrTYUnpaidLossesAmt",
+      "path": "IRS1120PCScheduleF/CurrTYUnpaidLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DivRcvdDeductionSect832b5BAmt",
+      "path": "IRS1120PCScheduleF/DivRcvdDeductionSect832b5BAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstSalvageReinsEndCurrTYAmt",
+      "path": "IRS1120PCScheduleF/EstSalvageReinsEndCurrTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstSalvageReinsEndPriorTYAmt",
+      "path": "IRS1120PCScheduleF/EstSalvageReinsEndPriorTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncrPolicyCashValueSect264fAmt",
+      "path": "IRS1120PCScheduleF/IncrPolicyCashValueSect264fAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LossesIncurdDedUndSect832c4Amt",
+      "path": "IRS1120PCScheduleF/LossesIncurdDedUndSect832c4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "LossesIncurredAmt",
+      "path": "IRS1120PCScheduleF/LossesIncurredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LossesPaidAmt",
+      "path": "IRS1120PCScheduleF/LossesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTotalLossesAmt",
+      "path": "IRS1120PCScheduleF/NetTotalLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorTYDiscountedUnpaidLossAmt",
+      "path": "IRS1120PCScheduleF/PriorTYDiscountedUnpaidLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorTYTotalUnpaidLossesAmt",
+      "path": "IRS1120PCScheduleF/PriorTYTotalUnpaidLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorTYUnpaidLossesAmt",
+      "path": "IRS1120PCScheduleF/PriorTYUnpaidLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionOfDedSect832b5BAmt",
+      "path": "IRS1120PCScheduleF/ReductionOfDedSect832b5BAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptIntSubjSect832b5BAmt",
+      "path": "IRS1120PCScheduleF/TaxExemptIntSubjSect832b5BAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestDivPoliciesAmt",
+      "path": "IRS1120PCScheduleF/TotalInterestDivPoliciesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLossesAmt",
+      "path": "IRS1120PCScheduleF/TotalLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalAssetDetail",
+      "path": "IRS1120PCScheduleG/CapitalAssetDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "DividendsAndSimilarDistriPdAmt",
+      "path": "IRS1120PCScheduleG/DividendsAndSimilarDistriPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensesPaidAmt",
+      "path": "IRS1120PCScheduleG/ExpensesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeFromTradeOrBusAmt",
+      "path": "IRS1120PCScheduleG/GrossIncomeFromTradeOrBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsLimitationAmt",
+      "path": "IRS1120PCScheduleG/GrossReceiptsLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestReceivedAmt",
+      "path": "IRS1120PCScheduleG/InterestReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LossesPaidAmt",
+      "path": "IRS1120PCScheduleG/LossesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetPremiumsReceivedAmt",
+      "path": "IRS1120PCScheduleG/NetPremiumsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDividendsInclusionsRcvdAmt",
+      "path": "IRS1120PCScheduleG/TotDividendsInclusionsRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDistributionPaidAmt",
+      "path": "IRS1120PCScheduleG/TotalDistributionPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossSalesPriceAmt",
+      "path": "IRS1120PCScheduleG/TotalGrossSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeReceivedAmt",
+      "path": "IRS1120PCScheduleG/TotalIncomeReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLossAmt",
+      "path": "IRS1120PCScheduleG/TotalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedDividendsRcvdDedAmt",
+      "path": "IRS1120PCScheduleH/AdjustedDividendsRcvdDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedTaxExemptIncomeAmt",
+      "path": "IRS1120PCScheduleH/AdjustedTaxExemptIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningAdjustedSurplusAmt",
+      "path": "IRS1120PCScheduleH/BeginningAdjustedSurplusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingAdjustedSurplusAmt",
+      "path": "IRS1120PCScheduleH/EndingAdjustedSurplusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensesIncurredAmt",
+      "path": "IRS1120PCScheduleH/ExpensesIncurredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HealthCareClaimsAndLiabAmt",
+      "path": "IRS1120PCScheduleH/HealthCareClaimsAndLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossDeductionAmt",
+      "path": "IRS1120PCScheduleH/NetOperatingLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialDeductionSect833OrgAmt",
+      "path": "IRS1120PCScheduleH/SpecialDeductionSect833OrgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "IRS1120PCScheduleH/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalClaimsLiabExpensesAmt",
+      "path": "IRS1120PCScheduleH/TotalClaimsLiabExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalClaimsLiabExpensesPctAmt",
+      "path": "IRS1120PCScheduleH/TotalClaimsLiabExpensesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrntCorporationNameControlTxt",
+      "path": "IRS1120PCScheduleI/PrntCorporationNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "AccountsPayableBOYAmt",
+      "path": "IRS1120PCScheduleL/AccountsPayableBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountsPayableEOYAmt",
+      "path": "IRS1120PCScheduleL/AccountsPayableEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccumulatedAmortizationBOYAmt",
+      "path": "IRS1120PCScheduleL/AccumulatedAmortizationBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccumulatedAmortizationEOYAmt",
+      "path": "IRS1120PCScheduleL/AccumulatedAmortizationEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccumulatedDepletionBOYAmt",
+      "path": "IRS1120PCScheduleL/AccumulatedDepletionBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccumulatedDepletionEOYAmt",
+      "path": "IRS1120PCScheduleL/AccumulatedDepletionEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccumulatedDepreciationBOYAmt",
+      "path": "IRS1120PCScheduleL/AccumulatedDepreciationBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccumulatedDepreciationEOYAmt",
+      "path": "IRS1120PCScheduleL/AccumulatedDepreciationEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalPaidInCapitalBOYAmt",
+      "path": "IRS1120PCScheduleL/AdditionalPaidInCapitalBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalPaidInCapitalEOYAmt",
+      "path": "IRS1120PCScheduleL/AdditionalPaidInCapitalEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentToShrEqtyBOYAmt",
+      "path": "IRS1120PCScheduleL/AdjustmentToShrEqtyBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentToShrEqtyEOYAmt",
+      "path": "IRS1120PCScheduleL/AdjustmentToShrEqtyEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BadDebtAllowanceBOYAmt",
+      "path": "IRS1120PCScheduleL/BadDebtAllowanceBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BadDebtAllowanceEOYAmt",
+      "path": "IRS1120PCScheduleL/BadDebtAllowanceEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BuildingOtherDeprecAstBOYAmt",
+      "path": "IRS1120PCScheduleL/BuildingOtherDeprecAstBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BuildingOtherDeprecAstEOYAmt",
+      "path": "IRS1120PCScheduleL/BuildingOtherDeprecAstEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalCommonStockBOYAmt",
+      "path": "IRS1120PCScheduleL/CapitalCommonStockBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalCommonStockEOYAmt",
+      "path": "IRS1120PCScheduleL/CapitalCommonStockEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalPreferredStockBOYAmt",
+      "path": "IRS1120PCScheduleL/CapitalPreferredStockBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalPreferredStockEOYAmt",
+      "path": "IRS1120PCScheduleL/CapitalPreferredStockEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalStockBOYAmt",
+      "path": "IRS1120PCScheduleL/CapitalStockBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalStockEOYAmt",
+      "path": "IRS1120PCScheduleL/CapitalStockEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashBOYAmt",
+      "path": "IRS1120PCScheduleL/CashBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashEOYAmt",
+      "path": "IRS1120PCScheduleL/CashEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfTreasuryStockBOYAmt",
+      "path": "IRS1120PCScheduleL/CostOfTreasuryStockBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfTreasuryStockEOYAmt",
+      "path": "IRS1120PCScheduleL/CostOfTreasuryStockEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletableAssetsBOYAmt",
+      "path": "IRS1120PCScheduleL/DepletableAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletableAssetsEOYAmt",
+      "path": "IRS1120PCScheduleL/DepletableAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceLiabilitiesBOYAmt",
+      "path": "IRS1120PCScheduleL/InsuranceLiabilitiesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceLiabilitiesEOYAmt",
+      "path": "IRS1120PCScheduleL/InsuranceLiabilitiesEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntangibleAssetsBOYAmt",
+      "path": "IRS1120PCScheduleL/IntangibleAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntangibleAssetsEOYAmt",
+      "path": "IRS1120PCScheduleL/IntangibleAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoriesBOYAmt",
+      "path": "IRS1120PCScheduleL/InventoriesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoriesEOYAmt",
+      "path": "IRS1120PCScheduleL/InventoriesEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LandBOYAmt",
+      "path": "IRS1120PCScheduleL/LandBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LandEOYAmt",
+      "path": "IRS1120PCScheduleL/LandEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoansFromShareholdersBOYAmt",
+      "path": "IRS1120PCScheduleL/LoansFromShareholdersBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoansFromShareholdersEOYAmt",
+      "path": "IRS1120PCScheduleL/LoansFromShareholdersEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoansToShareholdersBOYAmt",
+      "path": "IRS1120PCScheduleL/LoansToShareholdersBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoansToShareholdersEOYAmt",
+      "path": "IRS1120PCScheduleL/LoansToShareholdersEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LongTermPayableBOYAmt",
+      "path": "IRS1120PCScheduleL/LongTermPayableBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LongTermPayableEOYAmt",
+      "path": "IRS1120PCScheduleL/LongTermPayableEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageRealEstateLoansBOYAmt",
+      "path": "IRS1120PCScheduleL/MortgageRealEstateLoansBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageRealEstateLoansEOYAmt",
+      "path": "IRS1120PCScheduleL/MortgageRealEstateLoansEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetDepletableAssetsBOYAmt",
+      "path": "IRS1120PCScheduleL/NetDepletableAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetDepletableAssetsEOYAmt",
+      "path": "IRS1120PCScheduleL/NetDepletableAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetDepreciableAssetsBOYAmt",
+      "path": "IRS1120PCScheduleL/NetDepreciableAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetDepreciableAssetsEOYAmt",
+      "path": "IRS1120PCScheduleL/NetDepreciableAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIntangibleAssetsBOYAmt",
+      "path": "IRS1120PCScheduleL/NetIntangibleAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIntangibleAssetsEOYAmt",
+      "path": "IRS1120PCScheduleL/NetIntangibleAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTradeNotesAcctRcvblBOYAmt",
+      "path": "IRS1120PCScheduleL/NetTradeNotesAcctRcvblBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTradeNotesAcctRcvblEOYAmt",
+      "path": "IRS1120PCScheduleL/NetTradeNotesAcctRcvblEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAssetsBOYAmt",
+      "path": "IRS1120PCScheduleL/OtherAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAssetsEOYAmt",
+      "path": "IRS1120PCScheduleL/OtherAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCurrentAssetsBOYAmt",
+      "path": "IRS1120PCScheduleL/OtherCurrentAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCurrentAssetsEOYAmt",
+      "path": "IRS1120PCScheduleL/OtherCurrentAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCurrentLiabilitiesBOYAmt",
+      "path": "IRS1120PCScheduleL/OtherCurrentLiabilitiesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCurrentLiabilitiesEOYAmt",
+      "path": "IRS1120PCScheduleL/OtherCurrentLiabilitiesEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInvestmentsBOYAmt",
+      "path": "IRS1120PCScheduleL/OtherInvestmentsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInvestmentsEOYAmt",
+      "path": "IRS1120PCScheduleL/OtherInvestmentsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherLiabilitiesBOYAmt",
+      "path": "IRS1120PCScheduleL/OtherLiabilitiesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherLiabilitiesEOYAmt",
+      "path": "IRS1120PCScheduleL/OtherLiabilitiesEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RetainedEarningsApprBOYAmt",
+      "path": "IRS1120PCScheduleL/RetainedEarningsApprBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RetainedEarningsApprEOYAmt",
+      "path": "IRS1120PCScheduleL/RetainedEarningsApprEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RetainedEarningsUnapprBOYAmt",
+      "path": "IRS1120PCScheduleL/RetainedEarningsUnapprBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RetainedEarningsUnapprEOYAmt",
+      "path": "IRS1120PCScheduleL/RetainedEarningsUnapprEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ShortTermPayableBOYAmt",
+      "path": "IRS1120PCScheduleL/ShortTermPayableBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ShortTermPayableEOYAmt",
+      "path": "IRS1120PCScheduleL/ShortTermPayableEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptSecuritiesBOYAmt",
+      "path": "IRS1120PCScheduleL/TaxExemptSecuritiesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptSecuritiesEOYAmt",
+      "path": "IRS1120PCScheduleL/TaxExemptSecuritiesEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAssetsBOYAmt",
+      "path": "IRS1120PCScheduleL/TotalAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAssetsEOYAmt",
+      "path": "IRS1120PCScheduleL/TotalAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLiabilitiesShrEqtyBOYAmt",
+      "path": "IRS1120PCScheduleL/TotalLiabilitiesShrEqtyBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLiabilitiesShrEqtyEOYAmt",
+      "path": "IRS1120PCScheduleL/TotalLiabilitiesShrEqtyEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TradeNotesAccountsRcvblBOYAmt",
+      "path": "IRS1120PCScheduleL/TradeNotesAccountsRcvblBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TradeNotesAccountsRcvblEOYAmt",
+      "path": "IRS1120PCScheduleL/TradeNotesAccountsRcvblEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USGovernmentObligationsBOYAmt",
+      "path": "IRS1120PCScheduleL/USGovernmentObligationsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USGovernmentObligationsEOYAmt",
+      "path": "IRS1120PCScheduleL/USGovernmentObligationsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContriExpnssAmt",
+      "path": "IRS1120PCScheduleM1/CharitableContriExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContributionsDedAmt",
+      "path": "IRS1120PCScheduleM1/CharitableContributionsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationDeductionAmt",
+      "path": "IRS1120PCScheduleM1/DepreciationDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationExpensesAmt",
+      "path": "IRS1120PCScheduleM1/DepreciationExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessCapLossesOverCapGainsAmt",
+      "path": "IRS1120PCScheduleM1/ExcessCapLossesOverCapGainsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxPerBooksAmt",
+      "path": "IRS1120PCScheduleM1/FederalIncomeTaxPerBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAmt",
+      "path": "IRS1120PCScheduleM1/IncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeDeductionsSubtotalAmt",
+      "path": "IRS1120PCScheduleM1/IncomeDeductionsSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeExpensesSubtotalAmt",
+      "path": "IRS1120PCScheduleM1/IncomeExpensesSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeLossPerBooksAmt",
+      "path": "IRS1120PCScheduleM1/NetIncomeLossPerBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptInterestAmt",
+      "path": "IRS1120PCScheduleM1/TaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncmRecordedNotIncludedAmt",
+      "path": "IRS1120PCScheduleM1/TotIncmRecordedNotIncludedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionsNotChargedAmt",
+      "path": "IRS1120PCScheduleM1/TotalDeductionsNotChargedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesNotDeductedAmt",
+      "path": "IRS1120PCScheduleM1/TotalExpensesNotDeductedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxableIncmNotRecOnBksAmt",
+      "path": "IRS1120PCScheduleM1/TotalTaxableIncmNotRecOnBksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TravelEntertainmentAmt",
+      "path": "IRS1120PCScheduleM1/TravelEntertainmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceIncomeOtherIncreasesAmt",
+      "path": "IRS1120PCScheduleM2/BalanceIncomeOtherIncreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "IRS1120PCScheduleM2/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashDistributionAmt",
+      "path": "IRS1120PCScheduleM2/CashDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributionsOtherDecreasesAmt",
+      "path": "IRS1120PCScheduleM2/DistributionsOtherDecreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndYearBalanceAmt",
+      "path": "IRS1120PCScheduleM2/EndYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeLossPerBooksAmt",
+      "path": "IRS1120PCScheduleM2/NetIncomeLossPerBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDistributionAmt",
+      "path": "IRS1120PCScheduleM2/PropertyDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockDistributionAmt",
+      "path": "IRS1120PCScheduleM2/StockDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherDecreasesAmt",
+      "path": "IRS1120PCScheduleM2/TotalOtherDecreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherIncreasesAmt",
+      "path": "IRS1120PCScheduleM2/TotalOtherIncreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncmTxBaseErosionTxCAMTSumAmt",
+      "path": "IncmTxBaseErosionTxCAMTSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxAmt",
+      "path": "IncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form8978Amt",
+      "path": "IncomeTaxAmt/@form8978Amt",
+      "type": "usd"
+    },
+    {
+      "name": "@form8978Cd",
+      "path": "IncomeTaxAmt/@form8978Cd",
+      "type": "enum"
+    },
+    {
+      "name": "IncorporationDt",
+      "path": "IncorporationDt",
+      "type": "date"
+    },
+    {
+      "name": "LifeNonlifeConsolidatedRetInd",
+      "path": "LifeNonlifeConsolidatedRetInd",
+      "type": "bool"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherChapter1TaxAmt",
+      "path": "OtherChapter1TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCreditsPaymentsAmt",
+      "path": "OtherCreditsPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@backupWithholdingAmt",
+      "path": "OtherCreditsPaymentsAmt/@backupWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@backupWithholdingTypeCd",
+      "path": "OtherCreditsPaymentsAmt/@backupWithholdingTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentOfEstimatedTaxAmt",
+      "path": "OverpaymentOfEstimatedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedToEsTaxAmt",
+      "path": "OverpaymentSection/AppliedToEsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "OverpaymentSection/OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "OverpaymentSection/RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalHoldingCompanyTaxAmt",
+      "path": "PersonalHoldingCompanyTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearOverpaymentCreditAmt",
+      "path": "PriorYearOverpaymentCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecMotorVehCrAmt",
+      "path": "QlfyElecMotorVehCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecaptureTaxAmt",
+      "path": "RecaptureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReciprocalTaxPaidSect835dAmt",
+      "path": "ReciprocalTaxPaidSect835dAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScheduleM3Form1120PCInd",
+      "path": "ScheduleM3Form1120PCInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section1291Amt",
+      "path": "Section1291Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Section197Amt",
+      "path": "Section197Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Section831bElectionInd",
+      "path": "Section831bElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section953c3CElectionInd",
+      "path": "Section953c3CElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section953dElectionInd",
+      "path": "Section953dElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "@section953dAmt",
+      "path": "Section953dElectionInd/@section953dAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section953dCd",
+      "path": "Section953dElectionInd/@section953dCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxLessCreditsAmt",
+      "path": "TaxLessCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxPaidForm7004Amt",
+      "path": "TaxPaidForm7004Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxReciprocalMustIncludeAmt",
+      "path": "TaxReciprocalMustIncludeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInvestmentIncomeAmt",
+      "path": "TaxableInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalChapter1TaxAmt",
+      "path": "TotalChapter1TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "TotalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form8978Amt",
+      "path": "TotalCreditAmt/@form8978Amt",
+      "type": "usd"
+    },
+    {
+      "name": "@form8978Cd",
+      "path": "TotalCreditAmt/@form8978Cd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalIncomeTaxAmt",
+      "path": "TotalIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonChapter1TaxAmt",
+      "path": "TotalNonChapter1TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherTaxesAndInterestAmt",
+      "path": "TotalOtherTaxesAndInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAndCreditsAmt",
+      "path": "TotalPaymentsAndCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "USAddress/ZIPCd",
+      "type": "enum"
+    }
+  ]
+}

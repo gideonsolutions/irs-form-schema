@@ -1,0 +1,456 @@
+{
+  "form_id": "IRS3468",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjBasisOfWindEnergyPropCrAmt",
+      "path": "AdjBasisOfWindEnergyPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjBssQlfyApplcblFuelCellCrAmt",
+      "path": "AdjBssQlfyApplcblFuelCellCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjBssQlfyApplcblFuelCrDurAmt",
+      "path": "AdjBssQlfyApplcblFuelCrDurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjHeatAndPowerSysPropCrAmt",
+      "path": "AdjHeatAndPowerSysPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjQlfyMicroturbineKwBssAmt",
+      "path": "AdjQlfyMicroturbineKwBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBasisOfBuildingAmt",
+      "path": "AdjustedBasisOfBuildingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedQlfyFuelCellPropCrAmt",
+      "path": "AdjustedQlfyFuelCellPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdvancedCoalBaseTechnologyAmt",
+      "path": "AdvancedCoalBaseTechnologyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AfterLmtFuelCellPropKwCapAmt",
+      "path": "AfterLmtFuelCellPropKwCapAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AfterLmtFuelCellPropKwCapQty",
+      "path": "AfterLmtFuelCellPropKwCapQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BasisOfHeatAndPowerPropAmt",
+      "path": "BasisOfHeatAndPowerPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BasisOfWindEnergyPropAmt",
+      "path": "BasisOfWindEnergyPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BasisQlfyFuelCellPropAcqAmt",
+      "path": "BasisQlfyFuelCellPropAcqAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BetweenLmtFuelCellPropKwCapAmt",
+      "path": "BetweenLmtFuelCellPropKwCapAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BetweenLmtFuelCellPropKwCapQty",
+      "path": "BetweenLmtFuelCellPropKwCapQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BssGthrmlPropHtPumpSysAmt",
+      "path": "BssGthrmlPropHtPumpSysAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssOfPropPlacedInSrvcAmt",
+      "path": "BssOfPropPlacedInSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssOfWindEgyConstrErctnAmt",
+      "path": "BssOfWindEgyConstrErctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssQlfyFuelCellPropAcqDurYrAmt",
+      "path": "BssQlfyFuelCellPropAcqDurYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssQlfyInvstAdvncEnergyAmt",
+      "path": "BssQlfyInvstAdvncEnergyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssWasteEgyRcvryPropAmt",
+      "path": "BssWasteEgyRcvryPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssWindEgyConstrErctnDurAmt",
+      "path": "BssWindEgyConstrErctnDurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcAdvCoalBasedTechAmt",
+      "path": "CalcAdvCoalBasedTechAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcAdvancedCoalBaseTechAmt",
+      "path": "CalcAdvancedCoalBaseTechAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBasisOfHeatAndPowerPropAmt",
+      "path": "CalcBasisOfHeatAndPowerPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBasisOfWindEnergyPropAmt",
+      "path": "CalcBasisOfWindEnergyPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssGthrmlPropHtPumpSysAmt",
+      "path": "CalcBssGthrmlPropHtPumpSysAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssOfWindEgyConstrErctnAmt",
+      "path": "CalcBssOfWindEgyConstrErctnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssQlfyFuelCellPropAcqAmt",
+      "path": "CalcBssQlfyFuelCellPropAcqAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssQlfyFuelCellPropDurAmt",
+      "path": "CalcBssQlfyFuelCellPropDurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssQlfyInvstAdvncEnergyAmt",
+      "path": "CalcBssQlfyInvstAdvncEnergyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssWasteEgyRcvryPropAmt",
+      "path": "CalcBssWasteEgyRcvryPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssWindEgyConstrDurAmt",
+      "path": "CalcBssWindEgyConstrDurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssWindPropPlcdSrvcYr4Amt",
+      "path": "CalcBssWindPropPlcdSrvcYr4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcGasCombCycPropInvstCrAmt",
+      "path": "CalcGasCombCycPropInvstCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcGthrmlAndSolarEgyPropAmt",
+      "path": "CalcGthrmlAndSolarEgyPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcOtherQlfyInvstPropCrAmt",
+      "path": "CalcOtherQlfyInvstPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcPropSolarIllmntnEgyDurAmt",
+      "path": "CalcPropSolarIllmntnEgyDurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcPropSolarIllmntnOrEgyAmt",
+      "path": "CalcPropSolarIllmntnOrEgyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyFuelCellPropBssAmt",
+      "path": "CalcQlfyFuelCellPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyGasificationPropBssAmt",
+      "path": "CalcQlfyGasificationPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyMcrtrbnPropKwCapAmt",
+      "path": "CalcQlfyMcrtrbnPropKwCapAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyMicroturbinePropBssAmt",
+      "path": "CalcQlfyMicroturbinePropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertHistoricStructureCrAmt",
+      "path": "CertHistoricStructureCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertifiedHistoricStructureAmt",
+      "path": "CertifiedHistoricStructureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "  @historicStructureCertOnFile",
+      "path": "CertifiedHistoricStructures/  @historicStructureCertOnFile",
+      "type": "unknown"
+    },
+    {
+      "name": "DuringLmtFuelCellPropKwCapAmt",
+      "path": "DuringLmtFuelCellPropKwCapAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DuringLmtFuelCellPropKwCapQty",
+      "path": "DuringLmtFuelCellPropKwCapQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "GthrmlAndSolarEgyPropBssAmt",
+      "path": "GthrmlAndSolarEgyPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvstIntgrtGasCombCycPropAmt",
+      "path": "InvstIntgrtGasCombCycPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LessorBusinessName",
+      "path": "LessorBusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "LessorForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "LessorForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "LessorForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "LessorForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "LessorForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "LessorForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "LessorUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "LessorUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "LessorUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "LessorUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "LessorUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "MegaHorsepowerPct",
+      "path": "MegaHorsepowerPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NPSApprovalDt",
+      "path": "NPSApprovalDt",
+      "type": "date"
+    },
+    {
+      "name": "NPSProjectNum",
+      "path": "NPSProjectNum",
+      "type": "string"
+    },
+    {
+      "name": "OtherCertifiedHistStrctrAmt",
+      "path": "OtherCertifiedHistStrctrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCertifiedHistStrctrCrAmt",
+      "path": "OtherCertifiedHistStrctrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherQlfyInvstPropertyBasisAmt",
+      "path": "OtherQlfyInvstPropertyBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Pre1936BuildingAmt",
+      "path": "Pre1936BuildingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Pre1936BuildingCreditAmt",
+      "path": "Pre1936BuildingCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropSolarIllmntnEgyBssDurAmt",
+      "path": "PropSolarIllmntnEgyBssDurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropSolarIllmntnOrEgyBssAmt",
+      "path": "PropSolarIllmntnOrEgyBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "QlfyAdvCoalBasedTechAmt",
+      "path": "QlfyAdvCoalBasedTechAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyGasificationPropBssAmt",
+      "path": "QlfyGasificationPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyMicroturbinePropBssAmt",
+      "path": "QlfyMicroturbinePropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyMicroturbinePropKwCapQty",
+      "path": "QlfyMicroturbinePropKwCapQty",
+      "type": "unknown"
+    },
+    {
+      "name": "QlfyRehbltExpendIncurredAmt",
+      "path": "QlfyRehbltExpendIncurredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedFuelCellPropBssAmt",
+      "path": "QualifiedFuelCellPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RehabilitationExpendElectInd",
+      "path": "RehabilitationExpendElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "RehabilitationPeriodBeginDt",
+      "path": "RehabilitationPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "RehabilitationPeriodEndDt",
+      "path": "RehabilitationPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotAdvncCoalGasAndEnergyCrAmt",
+      "path": "TotAdvncCoalGasAndEnergyCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInvestmentCreditAmt",
+      "path": "TotalInvestmentCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQlfyAdvncCoalProjCrAmt",
+      "path": "TotalQlfyAdvncCoalProjCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQlfyGasificationProjCrAmt",
+      "path": "TotalQlfyGasificationProjCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TreatedAsAcquiredPropertyAmt",
+      "path": "TreatedAsAcquiredPropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedCrRehbltEgyCrFromCoopAmt",
+      "path": "UnusedCrRehbltEgyCrFromCoopAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedCreditFromCoopAmt",
+      "path": "UnusedCreditFromCoopAmt",
+      "type": "usd"
+    }
+  ]
+}

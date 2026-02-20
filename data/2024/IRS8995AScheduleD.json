@@ -1,0 +1,66 @@
+{
+  "form_id": "IRS8995AScheduleD",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "PatronAgricHortCoopGrp",
+      "path": "PatronAgricHortCoopGrp",
+      "type": "group"
+    },
+    {
+      "name": "EIN",
+      "path": "PatronAgricHortCoopGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "PatronAgricHortCoopGrp/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PatronReductionAmt",
+      "path": "PatronAgricHortCoopGrp/PatronReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PatronAgricHortCoopGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "QBIAllcblQlfyCoopPymtAmt",
+      "path": "PatronAgricHortCoopGrp/QBIAllcblQlfyCoopPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QBIAllcblQlfyCoopPymtPctAmt",
+      "path": "PatronAgricHortCoopGrp/QBIAllcblQlfyCoopPymtPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "PatronAgricHortCoopGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PatronAgricHortCoopGrp/TradeOrBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PatronAgricHortCoopGrp/TradeOrBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "W2WageAllcblQlfyCoopPymtAmt",
+      "path": "PatronAgricHortCoopGrp/W2WageAllcblQlfyCoopPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "W2WageAllcblQlfyCoopPymtPctAmt",
+      "path": "PatronAgricHortCoopGrp/W2WageAllcblQlfyCoopPymtPctAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "form_id": "IRS8941",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AnnualWgPdLessThanSpecifiedAmt",
+      "path": "AnnualWgPdLessThanSpecifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AvgAnnualWagesPdForTxYrAmt",
+      "path": "AvgAnnualWagesPdForTxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "EmplmnTaxesReportEmployerEIN",
+      "path": "EmplmnTaxesReportEmployerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FTEEmplPdHIPForPrpsOfCrCnt",
+      "path": "FTEEmplPdHIPForPrpsOfCrCnt",
+      "type": "int"
+    },
+    {
+      "name": "HIPPaidForEmplEmployedForCrAmt",
+      "path": "HIPPaidForEmplEmployedForCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HIPPdLessTotStPremOrCrAmt",
+      "path": "HIPPdLessTotStPremOrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaidHIPForEmplForPrpsOfCrCnt",
+      "path": "PaidHIPForEmplForPrpsOfCrCnt",
+      "type": "int"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SHOPIdentificationNum",
+      "path": "SHOPIdentificationNum",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SmallerAnnualWgPdOrHIPPdAmt",
+      "path": "SmallerAnnualWgPdOrHIPPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrCreditForHIPAmt",
+      "path": "SmllEmplrCreditForHIPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrEligHIPTimesPctAmt",
+      "path": "SmllEmplrEligHIPTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrEligibleHIPPaidAmt",
+      "path": "SmllEmplrEligibleHIPPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrHIPAllocToPatronsAmt",
+      "path": "SmllEmplrHIPAllocToPatronsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrHIPFTECreditAmt",
+      "path": "SmllEmplrHIPFTECreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrHIPFTEEmplForTaxYrCnt",
+      "path": "SmllEmplrHIPFTEEmplForTaxYrCnt",
+      "type": "int"
+    },
+    {
+      "name": "SmllEmplrHIPIndivEmpldForCrCnt",
+      "path": "SmllEmplrHIPIndivEmpldForCrCnt",
+      "type": "int"
+    },
+    {
+      "name": "SmllEmplrHIPPayrollTxsPdCrAmt",
+      "path": "SmllEmplrHIPPayrollTxsPdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrHIPPotentiallyPaidAmt",
+      "path": "SmllEmplrHIPPotentiallyPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrHIPSumLessAllocAmt",
+      "path": "SmllEmplrHIPSumLessAllocAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrHIPTaxExemptCreditAmt",
+      "path": "SmllEmplrHIPTaxExemptCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumSmllrAmtAndCreditForHIPAmt",
+      "path": "SumSmllrAmtAndCreditForHIPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotStPremSbsdyPdOrCrForHIPAmt",
+      "path": "TotStPremSbsdyPdOrCrForHIPAmt",
+      "type": "usd"
+    }
+  ]
+}

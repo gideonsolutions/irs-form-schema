@@ -1,0 +1,71 @@
+{
+  "form_id": "IRS1040NRScheduleA",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CarryoverFromPriorYearAmt",
+      "path": "CarryoverFromPriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CasualtyOrTheftLossesAmt",
+      "path": "CasualtyOrTheftLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GiftsByCashOrCheckAmt",
+      "path": "GiftsByCashOrCheckAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@qualifiedContributionsAmt",
+      "path": "GiftsByCashOrCheckAmt/@qualifiedContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndiaStandardDedTaxTreatyAmt",
+      "path": "IndiaStandardDedTaxTreatyGrp/IndiaStandardDedTaxTreatyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndiaStandardDedTaxTreatyCd",
+      "path": "IndiaStandardDedTaxTreatyGrp/IndiaStandardDedTaxTreatyCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherMiscDedTypeAndAmt",
+      "path": "OtherMiscDedTypeAndAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherMiscellaneousDedAmt",
+      "path": "OtherMiscellaneousDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherThanByCashOrCheckAmt",
+      "path": "OtherThanByCashOrCheckAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StateAndLocalTaxAmt",
+      "path": "StateAndLocalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StateAndLocalTaxLimitationAmt",
+      "path": "StateAndLocalTaxLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCharitableContriAmt",
+      "path": "TotalCharitableContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalItemizedDeductionsAmt",
+      "path": "TotalItemizedDeductionsAmt",
+      "type": "usd"
+    }
+  ]
+}

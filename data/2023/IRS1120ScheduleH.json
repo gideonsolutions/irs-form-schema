@@ -1,0 +1,106 @@
+{
+  "form_id": "IRS1120ScheduleH",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjTaxableIncmPrecdYr1Amt",
+      "path": "AdjTaxableIncmPrecdYr1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjTaxableIncmPrecdYr2Amt",
+      "path": "AdjTaxableIncmPrecdYr2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjTaxableIncmPrecdYr3Amt",
+      "path": "AdjTaxableIncmPrecdYr3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjTaxableIncomeDeferralPrdAmt",
+      "path": "AdjTaxableIncomeDeferralPrdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableAmtsRt",
+      "path": "ApplicableAmtsRt",
+      "type": "decimal"
+    },
+    {
+      "name": "DeferralPeriodAvgMonthlyAmt",
+      "path": "DeferralPeriodAvgMonthlyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferralPrdMonthsNum",
+      "path": "DeferralPrdMonthsNum",
+      "type": "string"
+    },
+    {
+      "name": "ElectionYrDeferralPeriodAmt",
+      "path": "ElectionYrDeferralPeriodAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaximumDeductibleAmt",
+      "path": "MaximumDeductibleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinDistribtnReqAmt",
+      "path": "MinDistribtnReqAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MonthsInNondeferralPeriodNum",
+      "path": "MonthsInNondeferralPeriodNum",
+      "type": "string"
+    },
+    {
+      "name": "PrecdTYApplicableAmt",
+      "path": "PrecdTYApplicableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrecdTYDeferralPeriodRt",
+      "path": "PrecdTYDeferralPeriodRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PrecdYTestFiguredAmt",
+      "path": "PrecdYTestFiguredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrecdYr1ApplicableAmt",
+      "path": "PrecdYr1ApplicableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrecdYr2ApplicableAmt",
+      "path": "PrecdYr2ApplicableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrecdYr3ApplicableAmt",
+      "path": "PrecdYr3ApplicableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrecdYrsTotalApplicableAmt",
+      "path": "PrecdYrsTotalApplicableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReducedApplicableAmtsRt",
+      "path": "ReducedApplicableAmtsRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ThreeYrAvgTestFiguredAmt",
+      "path": "ThreeYrAvgTestFiguredAmt",
+      "type": "usd"
+    }
+  ]
+}

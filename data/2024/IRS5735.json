@@ -1,0 +1,46 @@
+{
+  "form_id": "IRS5735",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AmericanSamoaEconomicDevCrAmt",
+      "path": "AmericanSamoaEconomicDevCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalendarYr",
+      "path": "CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "FifteenPctDeprecTngblPropAmt",
+      "path": "FifteenPctDeprecTngblPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FortyPercentDeprecTngblPropAmt",
+      "path": "FortyPercentDeprecTngblPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SixtyFivePctDeprecTngblPropAmt",
+      "path": "SixtyFivePctDeprecTngblPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SixtyPercentQualifiedCompAmt",
+      "path": "SixtyPercentQualifiedCompAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCreditAmt",
+      "path": "TentativeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUSIncomeTaxAmt",
+      "path": "TotalUSIncomeTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

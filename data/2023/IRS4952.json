@@ -1,0 +1,91 @@
+{
+  "form_id": "IRS4952",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "DisallowedCarryForwardExpAmt",
+      "path": "DisallowedCarryForwardExpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentExpenseAmt",
+      "path": "InvestmentExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentIncomeAmt",
+      "path": "InvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentIncomeElectionAmt",
+      "path": "InvestmentIncomeElectionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentInterestExpDeductAmt",
+      "path": "InvestmentInterestExpDeductAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentInterestExpenseAmt",
+      "path": "InvestmentInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentNetGainLessSmallAmt",
+      "path": "InvestmentNetGainLessSmallAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentPropGrossIncomeAmt",
+      "path": "InvestmentPropGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentPropNetDispGainAmt",
+      "path": "InvestmentPropNetDispGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentPropNetGrossIncAmt",
+      "path": "InvestmentPropNetGrossIncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentPropQualDividendsAmt",
+      "path": "InvestmentPropQualDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetInvestmentIncomeAmt",
+      "path": "NetInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYrDisallowInvsmtIntExpAmt",
+      "path": "PriorYrDisallowInvsmtIntExpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDspstnCapGainInvIncAmt",
+      "path": "PropertyDspstnCapGainInvIncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@investmentPropGainElectedAmt",
+      "path": "PropertyDspstnCapGainInvIncAmt/@investmentPropGainElectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@investmentPropGainElectedCd",
+      "path": "PropertyDspstnCapGainInvIncAmt/@investmentPropGainElectedCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalInvestmentInterestExpAmt",
+      "path": "TotalInvestmentInterestExpAmt",
+      "type": "usd"
+    }
+  ]
+}

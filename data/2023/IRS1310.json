@@ -1,0 +1,146 @@
+{
+  "form_id": "IRS1310",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CertificatePreviouslyFiledCd",
+      "path": "CourtOrPersonalRepGrp/CertificatePreviouslyFiledCd",
+      "type": "enum"
+    },
+    {
+      "name": "CourtOrPersonalRepInd",
+      "path": "CourtOrPersonalRepGrp/CourtOrPersonalRepInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeathDt",
+      "path": "DeathDt",
+      "type": "date"
+    },
+    {
+      "name": "DecedentNm",
+      "path": "DecedentNm",
+      "type": "string"
+    },
+    {
+      "name": "DecedentSSN",
+      "path": "DecedentSSN",
+      "type": "tin"
+    },
+    {
+      "name": "PersonNameControlTxt",
+      "path": "PersonNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "CourtAppointedRepInd",
+      "path": "RefundClaimWithProofOfDeathGrp/CourtAppointedRepInd",
+      "type": "bool"
+    },
+    {
+      "name": "DecedentHasWillInd",
+      "path": "RefundClaimWithProofOfDeathGrp/DecedentHasWillInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherPersonClaimingRefundInd",
+      "path": "RefundClaimWithProofOfDeathGrp/OtherPersonClaimingRefundInd",
+      "type": "bool"
+    },
+    {
+      "name": "PaymentAccordingToStateLawInd",
+      "path": "RefundClaimWithProofOfDeathGrp/PaymentAccordingToStateLawInd",
+      "type": "bool"
+    },
+    {
+      "name": "RepresentativeToBeAppointedInd",
+      "path": "RefundClaimWithProofOfDeathGrp/RepresentativeToBeAppointedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ValidProofOfDeathInd",
+      "path": "RefundClaimWithProofOfDeathGrp/ValidProofOfDeathInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RefundClaimantForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RefundClaimantForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "RefundClaimantForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "RefundClaimantForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "RefundClaimantForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "RefundClaimantForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "RefundClaimantSSN",
+      "path": "RefundClaimantSSN",
+      "type": "tin"
+    },
+    {
+      "name": "RefundClaimantSignatureDt",
+      "path": "RefundClaimantSignatureDt",
+      "type": "date"
+    },
+    {
+      "name": "RefundClaimantUSAddress",
+      "path": "RefundClaimantUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RefundClaimantUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RefundClaimantUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "RefundDueTaxPeriodBeginDt",
+      "path": "RefundDueTaxPeriod/RefundDueTaxPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "RefundDueTaxPeriodEndDt",
+      "path": "RefundDueTaxPeriod/RefundDueTaxPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "RefundDueTaxYr",
+      "path": "RefundDueTaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "SurvivingSpouseInd",
+      "path": "SurvivingSpouseInd",
+      "type": "bool"
+    }
+  ]
+}

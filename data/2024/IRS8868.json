@@ -1,0 +1,236 @@
+{
+  "form_id": "IRS8868",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AccountingPeriodChangeInd",
+      "path": "EOAutomaticExtensionFileTmGrp/AccountingPeriodChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "EOAutomaticExtensionFileTmGrp/BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/              BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "             PersonNm",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/             USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "CityNm",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/            USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/            USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "FaxNum",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/FaxNum",
+      "type": "string"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "EOAutomaticExtensionFileTmGrp/BooksInCareOfDetail/PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "EstTaxPymtAndRfdblCreditAmt",
+      "path": "EOAutomaticExtensionFileTmGrp/EstTaxPymtAndRfdblCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExtensionDt",
+      "path": "EOAutomaticExtensionFileTmGrp/ExtensionDt",
+      "type": "date"
+    },
+    {
+      "name": "FinalReturnInd",
+      "path": "EOAutomaticExtensionFileTmGrp/FinalReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "GroupExemptionNum",
+      "path": "EOAutomaticExtensionFileTmGrp/GroupExemptionNum",
+      "type": "string"
+    },
+    {
+      "name": "InitialReturnInd",
+      "path": "EOAutomaticExtensionFileTmGrp/InitialReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrgHasNoOfficeInUSInd",
+      "path": "EOAutomaticExtensionFileTmGrp/OrgHasNoOfficeInUSInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartialGroupInd",
+      "path": "EOAutomaticExtensionFileTmGrp/PartialGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "TentativeTaxAmt",
+      "path": "EOAutomaticExtensionFileTmGrp/TentativeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WholeGroupInd",
+      "path": "EOAutomaticExtensionFileTmGrp/WholeGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExtensionReturnCd",
+      "path": "ExtensionReturnCd",
+      "type": "enum"
+    },
+    {
+      "name": "           ExtensionReasonTxt",
+      "path": "Form5330ExtensionFileTmGrp/           ExtensionReasonTxt",
+      "type": "string"
+    },
+    {
+      "name": "           SectionBCodeSectImposingTaxCd",
+      "path": "Form5330ExtensionFileTmGrp/           SectionBCodeSectImposingTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExtensionDt",
+      "path": "Form5330ExtensionFileTmGrp/ExtensionDt",
+      "type": "date"
+    },
+    {
+      "name": "ExtensionReasonCd",
+      "path": "Form5330ExtensionFileTmGrp/ExtensionReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PaidWithExtensionAmt",
+      "path": "Form5330ExtensionFileTmGrp/PaidWithExtensionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlanNameTxt",
+      "path": "Form5330ExtensionFileTmGrp/PlanNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "PlanNum",
+      "path": "Form5330ExtensionFileTmGrp/PlanNum",
+      "type": "string"
+    },
+    {
+      "name": "PlanYearEndDt",
+      "path": "Form5330ExtensionFileTmGrp/PlanYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ReversionAmendmentDt",
+      "path": "Form5330ExtensionFileTmGrp/ReversionAmendmentDt",
+      "type": "date"
+    },
+    {
+      "name": "SectionACodeSectImposingTaxCd",
+      "path": "Form5330ExtensionFileTmGrp/SectionACodeSectImposingTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "SectionB1CodeSectImposingTaxCd",
+      "path": "Form5330ExtensionFileTmGrp/SectionB1CodeSectImposingTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "SectionBCodeSectImposingTaxCd",
+      "path": "Form5330ExtensionFileTmGrp/SectionBCodeSectImposingTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "SectionCCodeSectImposingTaxCd",
+      "path": "Form5330ExtensionFileTmGrp/SectionCCodeSectImposingTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "SectionDCodeSectImposingTaxCd",
+      "path": "Form5330ExtensionFileTmGrp/SectionDCodeSectImposingTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "SectionECodeSectImposingTaxCd",
+      "path": "Form5330ExtensionFileTmGrp/SectionECodeSectImposingTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "SectionFCodeSectImposingTaxCd",
+      "path": "Form5330ExtensionFileTmGrp/SectionFCodeSectImposingTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "SignatureDt",
+      "path": "Form5330ExtensionFileTmGrp/SignatureDt",
+      "type": "date"
+    },
+    {
+      "name": "SigningPersonNm",
+      "path": "Form5330ExtensionFileTmGrp/SigningPersonNm",
+      "type": "string"
+    }
+  ]
+}

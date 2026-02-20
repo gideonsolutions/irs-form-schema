@@ -1,0 +1,56 @@
+{
+  "form_id": "IRS8896",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjustedDieselFuelProducedAmt",
+      "path": "AdjustedDieselFuelProducedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocPatronsLessSmllrAdjCrAmt",
+      "path": "AllocPatronsLessSmllrAdjCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditFromPassThruEntitiesAmt",
+      "path": "CreditFromPassThruEntitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowSulphurDieselFuelPrdcdQty",
+      "path": "LowSulphurDieselFuelPrdcdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "QualifiedCostLimitAmt",
+      "path": "QualifiedCostLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerAdjDieselOrTotProdCrAmt",
+      "path": "SmallerAdjDieselOrTotProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumSmllrAdjCrAndPassThruEntAmt",
+      "path": "SumSmllrAdjCrAndPassThruEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllocatedToPatronsAmt",
+      "path": "TotalAllocatedToPatronsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFuelProdCrAllPrTxYrsAmt",
+      "path": "TotalFuelProdCrAllPrTxYrsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalProdCrLessQlfyCapCostsAmt",
+      "path": "TotalProdCrLessQlfyCapCostsAmt",
+      "type": "usd"
+    }
+  ]
+}

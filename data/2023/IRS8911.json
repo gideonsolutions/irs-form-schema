@@ -1,0 +1,136 @@
+{
+  "form_id": "IRS8911",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjBusUsePrtOrMxBusUsePrtAmt",
+      "path": "AdjBusUsePrtOrMxBusUsePrtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBusinessUsePartAmt",
+      "path": "AdjustedBusinessUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedPersonalUsePartAmt",
+      "path": "AdjustedPersonalUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedRegularTaxAmt",
+      "path": "AdjustedRegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltFuelVehRefuelPropCreditAmt",
+      "path": "AltFuelVehRefuelPropCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusInvestmtUsePartAmt",
+      "path": "BusInvestmtUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvstUsePartOfCrAmt",
+      "path": "BusinessInvstUsePartOfCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainAllowableCreditsAmt",
+      "path": "CertainAllowableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaximumBusinessUsePartAmt",
+      "path": "MaximumBusinessUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaximumPersonalUsePartAmt",
+      "path": "MaximumPersonalUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetBusUseAftrYrProjNotMetAmt",
+      "path": "NetBusUseAftrYrProjNotMetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetBusinessUsePartAmt",
+      "path": "NetBusinessUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRegularTaxAmt",
+      "path": "NetRegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherSpecifiedCredits",
+      "path": "OtherSpecifiedCredits",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonalUsePartOfCreditAmt",
+      "path": "PersonalUsePartOfCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularTaxBeforeCreditsAmt",
+      "path": "RegularTaxBeforeCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179ExpenseDeductionAmt",
+      "path": "Section179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrAdjOrMxPersnlUsePrtAmt",
+      "path": "SmllrAdjOrMxPersnlUsePrtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeMinimumTaxAmt",
+      "path": "TentativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBusinessUsePartAmt",
+      "path": "TotBusinessUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNetBusUsePartCrRateAdjAmt",
+      "path": "TotNetBusUsePartCrRateAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNetBusinessUsePartAmt",
+      "path": "TotNetBusinessUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPersonalUsePartOfCrAmt",
+      "path": "TotalPersonalUsePartOfCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQlfdPropertyCostCreditAmt",
+      "path": "TotalQlfdPropertyCostCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxCreditsAmt",
+      "path": "TotalTaxCreditsAmt",
+      "type": "usd"
+    }
+  ]
+}

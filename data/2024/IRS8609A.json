@@ -1,0 +1,126 @@
+{
+  "form_id": "IRS8609A",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdjCrForLowIncomeBuildingAmt",
+      "path": "AdjCrForLowIncomeBuildingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjForDeferredFirstYrCreditAmt",
+      "path": "AdjForDeferredFirstYrCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BIN",
+      "path": "BIN",
+      "type": "unknown"
+    },
+    {
+      "name": "BuildingEligibleBasisAmt",
+      "path": "BuildingEligibleBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAllowedForBldgForTYAmt",
+      "path": "CreditAllowedForBldgForTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditForBldgBfrReductionAmt",
+      "path": "CreditForBldgBfrReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditForLowIncomeBuildingAmt",
+      "path": "CreditForLowIncomeBuildingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DecreaseQualifiedBasisBldgInd",
+      "path": "DecreaseQualifiedBasisBldgInd",
+      "type": "bool"
+    },
+    {
+      "name": "DsallwCrDueToFederalGrantAmt",
+      "path": "DsallwCrDueToFederalGrantAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntBasedLowIncomeBuildingAmt",
+      "path": "IntBasedLowIncomeBuildingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncomeHousingCrAmt",
+      "path": "LowIncomeHousingCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncomePortionRt",
+      "path": "LowIncomePortionRt",
+      "type": "decimal"
+    },
+    {
+      "name": "MaximumApplicableCrPct",
+      "path": "MaximumApplicableCrPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NewlyConstrOrExstngBuildingInd",
+      "path": "NewlyConstrOrExstngBuildingInd",
+      "type": "bool"
+    },
+    {
+      "name": "OneThirdMaximumApplicableCrPct",
+      "path": "OneThirdMaximumApplicableCrPct",
+      "type": "decimal"
+    },
+    {
+      "name": "Orig8609HousingCrAgencyRecInd",
+      "path": "Orig8609HousingCrAgencyRecInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartYearAdjustment2DuringTYAmt",
+      "path": "PartYearAdjustment2DuringTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartYearAdjustmentDuringTYAmt",
+      "path": "PartYearAdjustmentDuringTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyLowIncmHsngProjSect42Ind",
+      "path": "QlfyLowIncmHsngProjSect42Ind",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedBasisAdditionAmt",
+      "path": "QualifiedBasisAdditionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBasisOfLowIncmBldgAmt",
+      "path": "QualifiedBasisOfLowIncmBldgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section42eRehbltExpendInd",
+      "path": "Section42eRehbltExpendInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section42f3BModificationAmt",
+      "path": "Section42f3BModificationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxpayerShareOfCreditForYrAmt",
+      "path": "TaxpayerShareOfCreditForYrAmt",
+      "type": "usd"
+    }
+  ]
+}

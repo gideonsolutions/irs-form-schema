@@ -1,0 +1,686 @@
+{
+  "form_id": "IRS8938",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AnyDepOrCstdAcctClosedDurTYInd",
+      "path": "AnyDepOrCstdAcctClosedDurTYInd",
+      "type": "bool"
+    },
+    {
+      "name": "AnyFrgnAssetAcqOrSoldDurTYInd",
+      "path": "AnyFrgnAssetAcqOrSoldDurTYInd",
+      "type": "bool"
+    },
+    {
+      "name": "CalendarYr",
+      "path": "CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "CorporationInd",
+      "path": "CorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "DummyCnt",
+      "path": "DummyCnt",
+      "type": "int"
+    },
+    {
+      "name": "DummyInd",
+      "path": "DummyInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignAssetCnt",
+      "path": "ForeignAssetCnt",
+      "type": "int"
+    },
+    {
+      "name": "ForeignCustodialAcctCnt",
+      "path": "ForeignCustodialAcctCnt",
+      "type": "int"
+    },
+    {
+      "name": "ForeignDepositAcctCnt",
+      "path": "ForeignDepositAcctCnt",
+      "type": "int"
+    },
+    {
+      "name": "ForeignFinclAccountGrp",
+      "path": "ForeignFinclAccountGrp",
+      "type": "group"
+    },
+    {
+      "name": "AccountClosedDuringTaxYearInd",
+      "path": "ForeignFinclAccountGrp/AccountClosedDuringTaxYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "AccountOpenedDuringTaxYearInd",
+      "path": "ForeignFinclAccountGrp/AccountOpenedDuringTaxYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "BankAccountNum",
+      "path": "ForeignFinclAccountGrp/BankAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignFinclAccountGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignFinclAccountGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CustodialAccountTypeInd",
+      "path": "ForeignFinclAccountGrp/CustodialAccountTypeInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepositAccountTypeInd",
+      "path": "ForeignFinclAccountGrp/DepositAccountTypeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExchangeRateUsedInd",
+      "path": "ForeignFinclAccountGrp/ExchangeRateUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExchangeRt",
+      "path": "ForeignFinclAccountGrp/ExchangeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignFinclAccountGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignFinclAccountGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ForeignFinclAccountGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignFinclAccountGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "ForeignFinclAccountGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ForeignFinclAccountGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ForeignCurrencyDesc",
+      "path": "ForeignFinclAccountGrp/ForeignCurrencyDesc",
+      "type": "string"
+    },
+    {
+      "name": "IdentifyingDesignationNum",
+      "path": "ForeignFinclAccountGrp/IdentifyingDesignationNum",
+      "type": "string"
+    },
+    {
+      "name": "JointlyOwnedWithSpouseInd",
+      "path": "ForeignFinclAccountGrp/JointlyOwnedWithSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "MaxAccountValueDurTYAmt",
+      "path": "ForeignFinclAccountGrp/MaxAccountValueDurTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NoTaxItemReportedInd",
+      "path": "ForeignFinclAccountGrp/NoTaxItemReportedInd",
+      "type": "bool"
+    },
+    {
+      "name": "SourceOfExchangeRateUsedTxt",
+      "path": "ForeignFinclAccountGrp/SourceOfExchangeRateUsedTxt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignFinclAccountGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignFinclAccountGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ForeignFinclAccountGrp/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "ForeignFinclAccountGrp/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "ForeignFinclAccountGrp/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "ForeignFinclAccountSumGrp/CreditSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/CreditSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/CreditSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "ForeignFinclAccountSumGrp/DeductionSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/DeductionSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/DeductionSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "ForeignFinclAccountSumGrp/DividendSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/DividendSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/DividendSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "ForeignFinclAccountSumGrp/GainLossSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/GainLossSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/GainLossSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "ForeignFinclAccountSumGrp/InterestSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/InterestSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/InterestSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "ForeignFinclAccountSumGrp/OtherIncomeSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/OtherIncomeSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/OtherIncomeSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "ForeignFinclAccountSumGrp/RoyaltySumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/RoyaltySumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "ForeignFinclAccountSumGrp/RoyaltySumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "Form3520ACnt",
+      "path": "Form3520ACnt",
+      "type": "int"
+    },
+    {
+      "name": "Form3520Cnt",
+      "path": "Form3520Cnt",
+      "type": "int"
+    },
+    {
+      "name": "Form5471Cnt",
+      "path": "Form5471Cnt",
+      "type": "int"
+    },
+    {
+      "name": "Form8621Cnt",
+      "path": "Form8621Cnt",
+      "type": "int"
+    },
+    {
+      "name": "Form8865Cnt",
+      "path": "Form8865Cnt",
+      "type": "int"
+    },
+    {
+      "name": "MaxAllFrgnAssetValueAmt",
+      "path": "MaxAllFrgnAssetValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaxAllFrgnCstdAcctValueAmt",
+      "path": "MaxAllFrgnCstdAcctValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaxAllFrgnDepositAcctValueAmt",
+      "path": "MaxAllFrgnDepositAcctValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherForeignAssetGrp",
+      "path": "OtherForeignAssetGrp",
+      "type": "group"
+    },
+    {
+      "name": "AcquiredDateVariousCd",
+      "path": "OtherForeignAssetGrp/AcquiredDateVariousCd",
+      "type": "enum"
+    },
+    {
+      "name": "AcquiredDt",
+      "path": "OtherForeignAssetGrp/AcquiredDt",
+      "type": "date"
+    },
+    {
+      "name": "AssetDesc",
+      "path": "OtherForeignAssetGrp/AssetDesc",
+      "type": "string"
+    },
+    {
+      "name": "AssetNotStockOfForeignEntGrp",
+      "path": "OtherForeignAssetGrp/AssetNotStockOfForeignEntGrp",
+      "type": "group"
+    },
+    {
+      "name": "BankAccountNum",
+      "path": "OtherForeignAssetGrp/BankAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "CorporationInd",
+      "path": "OtherForeignAssetGrp/CorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "DisposedOfDateVariousCd",
+      "path": "OtherForeignAssetGrp/DisposedOfDateVariousCd",
+      "type": "enum"
+    },
+    {
+      "name": "DisposedOfDt",
+      "path": "OtherForeignAssetGrp/DisposedOfDt",
+      "type": "date"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OtherForeignAssetGrp/EntityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OtherForeignAssetGrp/EntityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EstateInd",
+      "path": "OtherForeignAssetGrp/EstateInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExchangeRateUsedInd",
+      "path": "OtherForeignAssetGrp/ExchangeRateUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExchangeRt",
+      "path": "OtherForeignAssetGrp/ExchangeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "OtherForeignAssetGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "OtherForeignAssetGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "OtherForeignAssetGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "OtherForeignAssetGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "OtherForeignAssetGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "OtherForeignAssetGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ForeignCurrencyDesc",
+      "path": "OtherForeignAssetGrp/ForeignCurrencyDesc",
+      "type": "string"
+    },
+    {
+      "name": "IdentifyingDesignationNum",
+      "path": "OtherForeignAssetGrp/IdentifyingDesignationNum",
+      "type": "string"
+    },
+    {
+      "name": "JointlyOwnedWithSpouseInd",
+      "path": "OtherForeignAssetGrp/JointlyOwnedWithSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "MaxValueDurTY100001To150000Ind",
+      "path": "OtherForeignAssetGrp/MaxValueDurTY100001To150000Ind",
+      "type": "bool"
+    },
+    {
+      "name": "MaxValueDurTY150001To200000Ind",
+      "path": "OtherForeignAssetGrp/MaxValueDurTY150001To200000Ind",
+      "type": "bool"
+    },
+    {
+      "name": "MaxValueDurTY50001To100000Ind",
+      "path": "OtherForeignAssetGrp/MaxValueDurTY50001To100000Ind",
+      "type": "bool"
+    },
+    {
+      "name": "MaxValueDurTYMoreMaxAmt",
+      "path": "OtherForeignAssetGrp/MaxValueDurTYMoreMaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaxValueDuringTY0To50000Ind",
+      "path": "OtherForeignAssetGrp/MaxValueDuringTY0To50000Ind",
+      "type": "bool"
+    },
+    {
+      "name": "NoTaxItemReportedInd",
+      "path": "OtherForeignAssetGrp/NoTaxItemReportedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnershipInd",
+      "path": "OtherForeignAssetGrp/PartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "SourceOfExchangeRateUsedTxt",
+      "path": "OtherForeignAssetGrp/SourceOfExchangeRateUsedTxt",
+      "type": "string"
+    },
+    {
+      "name": "TrustInd",
+      "path": "OtherForeignAssetGrp/TrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "OtherForeignAssetGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "OtherForeignAssetGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "OtherForeignAssetGrp/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "OtherForeignAssetGrp/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "OtherForeignAssetGrp/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "OtherForeignAssetSumGrp/CreditSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/CreditSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/CreditSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "OtherForeignAssetSumGrp/DeductionSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/DeductionSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/DeductionSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "OtherForeignAssetSumGrp/DividendSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/DividendSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/DividendSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "OtherForeignAssetSumGrp/GainLossSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/GainLossSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/GainLossSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "OtherForeignAssetSumGrp/InterestSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/InterestSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/InterestSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "OtherForeignAssetSumGrp/OtherIncomeSumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/OtherIncomeSumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/OtherIncomeSumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReportedOnFormOrScheduleAmt",
+      "path": "OtherForeignAssetSumGrp/RoyaltySumGrp/ReportedOnFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WhereReportedFormAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/RoyaltySumGrp/WhereReportedFormAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "WhereReportedSchAndLineTxt",
+      "path": "OtherForeignAssetSumGrp/RoyaltySumGrp/WhereReportedSchAndLineTxt",
+      "type": "string"
+    },
+    {
+      "name": "PartnershipInd",
+      "path": "PartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "SingleProducer",
+      "path": "SingleProducer",
+      "type": "unknown"
+    },
+    {
+      "name": "SpcfdIndividualInd",
+      "path": "SpcfdIndividualInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecifiedIndivOrPersonInfo ",
+      "path": "SpecifiedIndivOrPersonInfo ",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "SpecifiedIndivOrPersonInfo/BusinessNm/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "SpecifiedIndivOrPersonInfo/BusinessNm/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "SpecifiedIndivOrPersonInfo/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "SpecifiedIndivOrPersonInfo/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonNm",
+      "path": "SpecifiedIndivOrPersonInfo/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SpecifiedIndivOrPersonInfo/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TrustInd",
+      "path": "TrustInd",
+      "type": "bool"
+    }
+  ]
+}

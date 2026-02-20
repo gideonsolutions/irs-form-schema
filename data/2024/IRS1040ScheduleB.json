@@ -1,0 +1,166 @@
+{
+  "form_id": "IRS1040ScheduleB",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AccruedInterestAmt",
+      "path": "AccruedInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@accruedInterestLiteralCd",
+      "path": "AccruedInterestAmt/@accruedInterestLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "AccruedMarketDiscountAmt",
+      "path": "AccruedMarketDiscountAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@accruedMarketDiscountLiteralCd",
+      "path": "AccruedMarketDiscountAmt/@accruedMarketDiscountLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "AmortizableBondPremAdjAmt",
+      "path": "AmortizableBondPremAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@amortizableBondPremiumAdjLitCd",
+      "path": "AmortizableBondPremAdjAmt/@amortizableBondPremiumAdjLitCd",
+      "type": "enum"
+    },
+    {
+      "name": "CalculatedTotalTaxableIntAmt",
+      "path": "CalculatedTotalTaxableIntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludableSavingsBondIntAmt",
+      "path": "ExcludableSavingsBondIntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinCENForm114Ind",
+      "path": "FinCENForm114Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignAccountsQuestionInd",
+      "path": "ForeignAccountsQuestionInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignCountryCd",
+      "path": "ForeignCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignTrustQuestionInd",
+      "path": "ForeignTrustQuestionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form1040SchBPartIGroup1",
+      "path": "Form1040SchBPartIGroup1",
+      "type": "unknown"
+    },
+    {
+      "name": "Form1040SchBPartIGroup2",
+      "path": "Form1040SchBPartIGroup2",
+      "type": "unknown"
+    },
+    {
+      "name": "Form1040SchBPartII",
+      "path": "Form1040SchBPartII",
+      "type": "unknown"
+    },
+    {
+      "name": "Form8814LiteralCd",
+      "path": "Form8814LiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "InterestSubtotalAmt",
+      "path": "InterestSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@interestSubtotalLiteralCd",
+      "path": "InterestSubtotalAmt/@interestSubtotalLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "NomineeDividendAmt",
+      "path": "NomineeDividendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@nomineeDividendLiteralCd",
+      "path": "NomineeDividendAmt/@nomineeDividendLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "NomineeInterestAmt",
+      "path": "NomineeInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@nomineeInterestLiteralCd",
+      "path": "NomineeInterestAmt/@nomineeInterestLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "OrdinaryDividendSubtotalAmt",
+      "path": "OrdinaryDividendSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@dividendSubtotalLiteralCd",
+      "path": "OrdinaryDividendSubtotalAmt/@dividendSubtotalLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "OriginalIssueDiscountAdjAmt",
+      "path": "OriginalIssueDiscountAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@originalIssueDiscountAdjLitCd",
+      "path": "OriginalIssueDiscountAdjAmt/@originalIssueDiscountAdjLitCd",
+      "type": "enum"
+    },
+    {
+      "name": "RestrictedStockDividendAmt",
+      "path": "RestrictedStockDividendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@restrictedStockDivLiteralCd",
+      "path": "RestrictedStockDividendAmt/@restrictedStockDivLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxableInterestSubtotalAmt",
+      "path": "TaxableInterestSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOrdinaryDividendsAmt",
+      "path": "TotalOrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSellerFinancedMortgIntAmt",
+      "path": "TotalSellerFinancedMortgIntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrustFormLiteralCd",
+      "path": "TrustFormLiteralCd",
+      "type": "enum"
+    }
+  ]
+}

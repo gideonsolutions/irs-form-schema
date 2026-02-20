@@ -1,0 +1,351 @@
+{
+  "form_id": "IRS1040Schedule1",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "ActivityNotForProfitIncmAmt",
+      "path": "ActivityNotForProfitIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlaskaPermanentFundDivAmt",
+      "path": "AlaskaPermanentFundDivAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlimonyAmountGrp",
+      "path": "AlimonyAmountGrp",
+      "type": "group"
+    },
+    {
+      "name": "AlimonyPaidAmt",
+      "path": "AlimonyAmountGrp/AlimonyPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DivorceOrSeparationAgreementDt",
+      "path": "AlimonyAmountGrp/DivorceOrSeparationAgreementDt",
+      "type": "date"
+    },
+    {
+      "name": "RecipientSSN",
+      "path": "AlimonyAmountGrp/RecipientSSN",
+      "type": "tin"
+    },
+    {
+      "name": "AlimonyReceivedGrp",
+      "path": "AlimonyReceivedGrp",
+      "type": "group"
+    },
+    {
+      "name": "AlimonyReceivedAmt",
+      "path": "AlimonyReceivedGrp/AlimonyReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DivorceOrSeparationAgreementDt",
+      "path": "AlimonyReceivedGrp/DivorceOrSeparationAgreementDt",
+      "type": "date"
+    },
+    {
+      "name": "ArcherMSADeductionAmt",
+      "path": "ArcherMSADeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttyFeesCrtCostsDedAmt",
+      "path": "AttyFeesCrtCostsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttyFeesCrtCostsPdDedAmt",
+      "path": "AttyFeesCrtCostsPdDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusExpnsReservistsAndOthersAmt",
+      "path": "BusExpnsReservistsAndOthersAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessIncomeLossAmt",
+      "path": "BusinessIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainPenalInstnWagesAmt",
+      "path": "CertainPenalInstnWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtCancellationAmt",
+      "path": "DebtCancellationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleSelfEmploymentTaxAmt",
+      "path": "DeductibleSelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducatorExpensesAmt",
+      "path": "EducatorExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessBusinessLossAmt",
+      "path": "ExcessBusinessLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GamblingReportableWinningAmt",
+      "path": "GamblingReportableWinningAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrantsOrScholarshipsAmt",
+      "path": "GrantsOrScholarshipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HealthSavingsAccountDedAmt",
+      "path": "HealthSavingsAccountDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingDeductionAmt",
+      "path": "HousingDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRADeductionAmt",
+      "path": "IRADeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRADeductionCd",
+      "path": "IRADeductionCd",
+      "type": "enum"
+    },
+    {
+      "name": "JuryDutyPayAmt",
+      "path": "JuryDutyPayAmt",
+      "type": "usd"
+    },
+    {
+      "name": "JuryDutyPayDeductionAmt",
+      "path": "JuryDutyPayDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MovingExpenseAmt",
+      "path": "MovingExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MovingExpenseCd",
+      "path": "MovingExpenseCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetFarmProfitLossAmt",
+      "path": "NetFarmProfitLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossDeductionAmt",
+      "path": "NetOperatingLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonqlfyDeferredCompensationAmt",
+      "path": "NonqlfyDeferredCompensationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxMedicaidWaiverPymtAmt",
+      "path": "NontxMedicaidWaiverPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OlympcPrlympcMedalUSOCDedAmt",
+      "path": "OlympcPrlympcMedalUSOCDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OlympicParalympicMedalUSOCAmt",
+      "path": "OlympicParalympicMedalUSOCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherGainLossAmt",
+      "path": "OtherGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form4684Cd",
+      "path": "OtherGainLossAmt/@form4684Cd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherIncomeTotalAmt",
+      "path": "OtherIncomeTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PnltyOnErlyWthdrwOfSavingsAmt",
+      "path": "PnltyOnErlyWthdrwOfSavingsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrizesAwardsAmt",
+      "path": "PrizesAwardsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentalIncomePersonalPropAmt",
+      "path": "RentalIncomePersonalPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentalRealEstateIncomeLossAmt",
+      "path": "RentalRealEstateIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepaymentSuppUnemplBnftDedAmt",
+      "path": "RepaymentSuppUnemplBnftDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RforAmortzExpnssDedAmt",
+      "path": "RforAmortzExpnssDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RntlIncmPrsnlPropExpnssDedAmt",
+      "path": "RntlIncmPrsnlPropExpnssDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect501c18DContriDedAmt",
+      "path": "Sect501c18DContriDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section403bContriDedAmt",
+      "path": "Section403bContriDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section67eExcessDeductionAmt",
+      "path": "Section67eExcessDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AaInclusionAmt",
+      "path": "Section951AaInclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951aInclusionAmt",
+      "path": "Section951aInclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmpldHealthInsDedAmt",
+      "path": "SelfEmpldHealthInsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmpldSepSimpleQlfyPlansAmt",
+      "path": "SelfEmpldSepSimpleQlfyPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StateLocalIncomeTaxRefundAmt",
+      "path": "StateLocalIncomeTaxRefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockOptionsAmt",
+      "path": "StockOptionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StudentLoanInterestDedAmt",
+      "path": "StudentLoanInterestDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableABLEDistributionsAmt",
+      "path": "TaxableABLEDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotArcherMSAMedcrLTCAmt",
+      "path": "TotArcherMSAMedcrLTCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotHSADistriHDHPAmt",
+      "path": "TotHSADistriHDHPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdditionalIncomeAmt",
+      "path": "TotalAdditionalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsAmt",
+      "path": "TotalAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAlimonyPaidAmt",
+      "path": "TotalAlimonyPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAlimonyReceivedAmt",
+      "path": "TotalAlimonyReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeExclusionAmt",
+      "path": "TotalIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherIncomeAmt",
+      "path": "TotalOtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnemploymentCompAmt",
+      "path": "UnemploymentCompAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@repaymentAmt",
+      "path": "UnemploymentCompAmt/@repaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@repaymentCd",
+      "path": "UnemploymentCompAmt/@repaymentCd",
+      "type": "enum"
+    }
+  ]
+}

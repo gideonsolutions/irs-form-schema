@@ -1,0 +1,466 @@
+{
+  "form_id": "IRS8865ScheduleK1",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AmendedK1Ind",
+      "path": "AmendedK1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "AppliedForEINReasonCd",
+      "path": "AppliedForEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "CapitalAccountBOYAmt",
+      "path": "CapitalAccountBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalAccountEOYAmt",
+      "path": "CapitalAccountEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalContributedDuringYrAmt",
+      "path": "CapitalContributedDuringYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CollectiblesGainLossAmt",
+      "path": "CollectiblesGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearNetIncomeOrLossAmt",
+      "path": "CurrentYearNetIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DecrExchPrtnrPrtshpIntInd",
+      "path": "DecrExchPrtnrPrtshpIntInd",
+      "type": "bool"
+    },
+    {
+      "name": "DecrSalePrtnrPrtshpIntInd",
+      "path": "DecrSalePrtnrPrtshpIntInd",
+      "type": "bool"
+    },
+    {
+      "name": "DisregardedEntityEIN",
+      "path": "DisregardedEntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "DisregardedEntityInd",
+      "path": "DisregardedEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "DisregardedEntityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "DisregardedEntityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "DisregardedEntitySSN",
+      "path": "DisregardedEntitySSN",
+      "type": "tin"
+    },
+    {
+      "name": "DividendEquivalentsAmt",
+      "path": "DividendEquivalentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalK1Ind",
+      "path": "FinalK1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "GuaranteedPaymentsCapitalAmt",
+      "path": "GuaranteedPaymentsCapitalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GuaranteedPaymentsServicesAmt",
+      "path": "GuaranteedPaymentsServicesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GuaranteedPymtsToPartnerAmt",
+      "path": "GuaranteedPymtsToPartnerAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRS8865SchK1OtherIncmLoss",
+      "path": "IRS8865SchK1OtherIncmLoss",
+      "type": "unknown"
+    },
+    {
+      "name": "InterestIncomeAmt",
+      "path": "InterestIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetLTCapitalGainOrLossAmt",
+      "path": "NetLTCapitalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSTCapitalGainOrLossAmt",
+      "path": "NetSTCapitalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection1231GainLossAmt",
+      "path": "NetSection1231GainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetUnrcgnzd704cGainLossBOYAmt",
+      "path": "NetUnrcgnzd704cGainLossBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetUnrcgnzd704cGainLossEOYAmt",
+      "path": "NetUnrcgnzd704cGainLossEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryDividendsAmt",
+      "path": "OrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryIncomeLossAmt",
+      "path": "OrdinaryIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncreaseDecreaseAmt",
+      "path": "OtherIncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@shortExplanationTxt",
+      "path": "OtherInd/@shortExplanationTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherRentalIncomeAmt",
+      "path": "OtherRentalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerEIN",
+      "path": "PartnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PartnerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PartnerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PartnerPersonNm",
+      "path": "PartnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PartnerSSN",
+      "path": "PartnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "PartnersCapitalBOYRt",
+      "path": "PartnersCapitalBOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersCapitalEOYRt",
+      "path": "PartnersCapitalEOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersDeductionsBOYRt",
+      "path": "PartnersDeductionsBOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersDeductionsEOYRt",
+      "path": "PartnersDeductionsEOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PartnersForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PartnersForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PartnersForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PartnersForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "PartnersForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "PartnersForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "PartnersInterestInProfitsBOYRt",
+      "path": "PartnersInterestInProfitsBOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersInterestInProfitsEOYRt",
+      "path": "PartnersInterestInProfitsEOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersLossesBOYRt",
+      "path": "PartnersLossesBOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersLossesEOYRt",
+      "path": "PartnersLossesEOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PartnersUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PartnersUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PartnersUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "PartnersUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "PartnersUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "PartnershipMissingEINReasonCd",
+      "path": "PartnershipMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PartnershipsEIN",
+      "path": "PartnershipsEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PartnershipsForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PartnershipsForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PartnershipsForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PartnershipsForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "PartnershipsForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "PartnershipsForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PartnershipsName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PartnershipsName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PartnershipsUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PartnershipsUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PartnershipsUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "PartnershipsUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "PartnershipsUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "PortfolioIncomeLossRyltsAmt",
+      "path": "PortfolioIncomeLossRyltsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedDividendsAmt",
+      "path": "QualifiedDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealEstateNetIncomeLossAmt",
+      "path": "RealEstateNetIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SchK1AMTItemsGrp",
+      "path": "SchK1AMTItemsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1CreditsAndCrRcptrGrp",
+      "path": "SchK1CreditsAndCrRcptrGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1DistributionsGrp",
+      "path": "SchK1DistributionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1ForeignTransactionsGrp",
+      "path": "SchK1ForeignTransactionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1OtherDeductionsGrp",
+      "path": "SchK1OtherDeductionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1OtherInformationGrp",
+      "path": "SchK1OtherInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1SelfEmploymentEarnLossGrp",
+      "path": "SchK1SelfEmploymentEarnLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1TxExmptNondedExpnsGrp",
+      "path": "SchK1TxExmptNondedExpnsGrp",
+      "type": "group"
+    },
+    {
+      "name": "ScheduleK3AttachedInd",
+      "path": "ScheduleK3AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section1377a2Election",
+      "path": "Section1377a2Election",
+      "type": "unknown"
+    },
+    {
+      "name": "Section179ExpenseDeductionAmt",
+      "path": "Section179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ShareholderNameControl",
+      "path": "ShareholderNameControl",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalForeignTaxesPaidOrAccrAmt",
+      "path": "TotalForeignTaxesPaidOrAccrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrecapturedSection1250GainAmt",
+      "path": "UnrecapturedSection1250GainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithdrawalsAndDstrbtnsAmt",
+      "path": "WithdrawalsAndDstrbtnsAmt",
+      "type": "usd"
+    }
+  ]
+}

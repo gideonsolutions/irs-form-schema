@@ -1,0 +1,331 @@
+{
+  "form_id": "IRS8594",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AggregateValuesListedInd",
+      "path": "AggregateValuesListedInd",
+      "type": "bool"
+    },
+    {
+      "name": "AggregateValuesListedIndAmt",
+      "path": "AggregateValuesListedIndAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessMissingEINReasonCd",
+      "path": "BusinessMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "BuyerOrSellerProvAllocnPrcInd",
+      "path": "BuyerOrSellerProvAllocnPrcInd",
+      "type": "bool"
+    },
+    {
+      "name": "Class1FairMarketValueAmt",
+      "path": "Class1FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class1PrevPriceAllocationAmt",
+      "path": "Class1PrevPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class1RedeterminedAllocnAmt",
+      "path": "Class1RedeterminedAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class1SalesPriceAllocationAmt",
+      "path": "Class1SalesPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class2FairMarketValueAmt",
+      "path": "Class2FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class2IncreaseDecreaseAmt",
+      "path": "Class2IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class2PrevPriceAllocationAmt",
+      "path": "Class2PrevPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class2RedeterminedAllocnAmt",
+      "path": "Class2RedeterminedAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class2SalesPriceAllocationAmt",
+      "path": "Class2SalesPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class3FairMarketValueAmt",
+      "path": "Class3FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class3IncreaseDecreaseAmt",
+      "path": "Class3IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class3PrevPriceAllocationAmt",
+      "path": "Class3PrevPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class3RedeterminedAllocnAmt",
+      "path": "Class3RedeterminedAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class3SalesPriceAllocationAmt",
+      "path": "Class3SalesPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class4FairMarketValueAmt",
+      "path": "Class4FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class4IncreaseDecreaseAmt",
+      "path": "Class4IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class4PrevPriceAllocationAmt",
+      "path": "Class4PrevPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class4RedeterminedAllocnAmt",
+      "path": "Class4RedeterminedAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class4SalesPriceAllocationAmt",
+      "path": "Class4SalesPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class5FairMarketValueAmt",
+      "path": "Class5FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class5IncreaseDecreaseAmt",
+      "path": "Class5IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class5PrevPriceAllocationAmt",
+      "path": "Class5PrevPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class5RedeterminedAllocnAmt",
+      "path": "Class5RedeterminedAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class5SalesPriceAllocationAmt",
+      "path": "Class5SalesPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class6And7FairMarketValueAmt",
+      "path": "Class6And7FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class6And7IncreaseDecreaseAmt",
+      "path": "Class6And7IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class6And7PrevPriceAllocnAmt",
+      "path": "Class6And7PrevPriceAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class6And7RedetermAllocnAmt",
+      "path": "Class6And7RedetermAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class6And7SalesPriceAllocnAmt",
+      "path": "Class6And7SalesPriceAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "OrignalFormFiledTaxYear",
+      "path": "OrignalFormFiledTaxYear",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherPartyEIN",
+      "path": "OtherPartyEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "OtherPartyForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "OtherPartyForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "OtherPartyForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "OtherPartyForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "OtherPartyForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "OtherPartyForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OtherPartyName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OtherPartyName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "OtherPartySSN",
+      "path": "OtherPartySSN",
+      "type": "tin"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "OtherPartyUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "OtherPartyUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "OtherPartyUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "OtherPartyUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "OtherPartyUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrchsOrEntrAgrmtWithSellrInd",
+      "path": "PrchsOrEntrAgrmtWithSellrInd",
+      "type": "bool"
+    },
+    {
+      "name": "PurchaserInd",
+      "path": "PurchaserInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReasonsForIncreaseOrDecrease",
+      "path": "ReasonsForIncreaseOrDecrease",
+      "type": "unknown"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SaleDt",
+      "path": "SaleDt",
+      "type": "date"
+    },
+    {
+      "name": "SellerInd",
+      "path": "SellerInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxReturnFormNumberDsc",
+      "path": "TaxReturnFormNumberDsc",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalFairMarketValueAmt",
+      "path": "TotalFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOfPreviousPriceAllocnAmt",
+      "path": "TotalOfPreviousPriceAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRedeterminedAllocationAmt",
+      "path": "TotalRedeterminedAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSalePriceAmt",
+      "path": "TotalSalePriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSalesPriceAllocationAmt",
+      "path": "TotalSalesPriceAllocationAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "form_id": "IRS1040Schedule3",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdoptionCreditAmt",
+      "path": "AdoptionCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CleanVehPrsnlUsePartCrAmt",
+      "path": "CleanVehPrsnlUsePartCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditForChildAndDepdCareAmt",
+      "path": "CreditForChildAndDepdCareAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditForElderlyOrDisabledAmt",
+      "path": "CreditForElderlyOrDisabledAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditForRepaymentAmt",
+      "path": "CreditForRepaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAllowableCreditAmt",
+      "path": "CurrentYearAllowableCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearCreditAllowedAmt",
+      "path": "CurrentYearCreditAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DCHmByrCurrentYearCreditAmt",
+      "path": "DCHmByrCurrentYearCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducationCreditAmt",
+      "path": "EducationCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EgyEffcntHmImprvCrAmt",
+      "path": "EgyEffcntHmImprvCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ElectivePaymentAmt",
+      "path": "ElectivePaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessSocSecAndTier1RRTATaxAmt",
+      "path": "ExcessSocSecAndTier1RRTATaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaxPrevOwnedCleanVehCrAmt",
+      "path": "MaxPrevOwnedCleanVehCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinAMTCrAmt",
+      "path": "MinAMTCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageInterestCreditAmt",
+      "path": "MortgageInterestCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection965TaxLiabilityAmt",
+      "path": "NetSection965TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthPymtOrRefundableCrGrp",
+      "path": "OthPymtOrRefundableCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "OthPymtOrRefundableCrAmt",
+      "path": "OthPymtOrRefundableCrGrp/OthPymtOrRefundableCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthPymtOrRefundableCrCd",
+      "path": "OthPymtOrRefundableCrGrp/OthPymtOrRefundableCrCd",
+      "type": "enum"
+    },
+    {
+      "name": "OthPymtOrRefundableCrTxt",
+      "path": "OthPymtOrRefundableCrGrp/OthPymtOrRefundableCrTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherCreditsAmt",
+      "path": "OtherCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNonrefundableCreditsGrp",
+      "path": "OtherNonrefundableCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherNonrefundableCreditsAmt",
+      "path": "OtherNonrefundableCreditsGrp/OtherNonrefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNonrefundableCreditsTxt",
+      "path": "OtherNonrefundableCreditsGrp/OtherNonrefundableCreditsTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherPaymentsAmt",
+      "path": "OtherPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecMotorVehCrAmt",
+      "path": "QlfyElecMotorVehCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReconciledPremiumTaxCreditAmt",
+      "path": "ReconciledPremiumTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequestForExtensionAmt",
+      "path": "RequestForExtensionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ResidentialCleanEnergyCrAmt",
+      "path": "ResidentialCleanEnergyCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RtrSavingsContributionsCrAmt",
+      "path": "RtrSavingsContributionsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxPaidByRICOrREITAmt",
+      "path": "TaxPaidByRICOrREITAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOthNonrefundableCreditsAmt",
+      "path": "TotOthNonrefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOthPymtOrRefundableCrAmt",
+      "path": "TotOthPymtOrRefundableCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotRptgYrTxIncreaseDecreaseAmt",
+      "path": "TotRptgYrTxIncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFuelTaxCreditAmt",
+      "path": "TotalFuelTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonrefundableCreditsAmt",
+      "path": "TotalNonrefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherPaymentsRfdblCrAmt",
+      "path": "TotalOtherPaymentsRfdblCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPersonalUsePartOfCrAmt",
+      "path": "TotalPersonalUsePartOfCrAmt",
+      "type": "usd"
+    }
+  ]
+}

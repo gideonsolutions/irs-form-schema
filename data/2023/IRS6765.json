@@ -1,0 +1,246 @@
+{
+  "form_id": "IRS6765",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjTotQualifedRsrchExpnssAmt",
+      "path": "AdjTotQualifedRsrchExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltBasePeriodAmt",
+      "path": "AltBasePeriodAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltBasicResearchPaymentAmt",
+      "path": "AltBasicResearchPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltComputerCostAmt",
+      "path": "AltComputerCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltContractResearchPctAmt",
+      "path": "AltContractResearchPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltCreditAmt",
+      "path": "AltCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltEnergyConsortiaAmt",
+      "path": "AltEnergyConsortiaAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltPaymentMinusBaseAmt",
+      "path": "AltPaymentMinusBaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltQlfyServicesWagesAmt",
+      "path": "AltQlfyServicesWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltRedSect280CCrElectInd",
+      "path": "AltRedSect280CCrElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "AltSupplyCostAmt",
+      "path": "AltSupplyCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltTotQlfyResearchExpnsAmt",
+      "path": "AltTotQlfyResearchExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@reducedCreditIndicator",
+      "path": "AlternateIncrementalCredit/@reducedCreditIndicator",
+      "type": "unknown"
+    },
+    {
+      "name": "CYGeneralBusCrCarryfowardAmt",
+      "path": "CYGeneralBusCrCarryfowardAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYResearchCreditAmt",
+      "path": "CYResearchCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployerDiffWagePymtCrAmt",
+      "path": "EmployerDiffWagePymtCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateOrTrustAllocatedBenefAmt",
+      "path": "EstateOrTrustAllocatedBenefAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FixedBasePctTimesGrossRcptsAmt",
+      "path": "FixedBasePctTimesGrossRcptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FixedBasedPct",
+      "path": "FixedBasedPct",
+      "type": "decimal"
+    },
+    {
+      "name": "HalfAdjTotQlfyRsrchExpnssAmt",
+      "path": "HalfAdjTotQlfyRsrchExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetEmployerDiffWagePymtCrAmt",
+      "path": "NetEmployerDiffWagePymtCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetEstateOrTrustAllocBenefAmt",
+      "path": "NetEstateOrTrustAllocBenefAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetQlfyResearchExpns3PYPctAmt",
+      "path": "NetQlfyResearchExpns3PYPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetQlfyResearchExpnsPctAmt",
+      "path": "NetQlfyResearchExpnsPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayrollTaxCreditElectionInd",
+      "path": "PayrollTaxCreditElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "PayrollTaxLimitationAmt",
+      "path": "PayrollTaxLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularAverageGrossReceiptsAmt",
+      "path": "RegularAverageGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularBasePeriodAmt",
+      "path": "RegularBasePeriodAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularBasicResearchPaymentAmt",
+      "path": "RegularBasicResearchPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularComputerCostAmt",
+      "path": "RegularComputerCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularContractResearchPctAmt",
+      "path": "RegularContractResearchPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@reducedCreditIndicator",
+      "path": "RegularCredit/@reducedCreditIndicator",
+      "type": "unknown"
+    },
+    {
+      "name": "RegularCreditAmt",
+      "path": "RegularCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularEnergyConsortiaAmt",
+      "path": "RegularEnergyConsortiaAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularPaymentMinusBaseAmt",
+      "path": "RegularPaymentMinusBaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularQlfyServicesWagesAmt",
+      "path": "RegularQlfyServicesWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularRedSect280CCrElectInd",
+      "path": "RegularRedSect280CCrElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "RegularSupplyCostAmt",
+      "path": "RegularSupplyCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularTotQlfyResearchExpnsAmt",
+      "path": "RegularTotQlfyResearchExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ResearchActivitiesIncrCrAmt",
+      "path": "ResearchActivitiesIncrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RsrchExpensesPlusRsrchPymtsAmt",
+      "path": "RsrchExpensesPlusRsrchPymtsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerQlfyResearchExpnssAmt",
+      "path": "SmallerQlfyResearchExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyResearchExpns3PYAmt",
+      "path": "TotQlfyResearchExpns3PYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyResearchExpns3PYPctAmt",
+      "path": "TotQlfyResearchExpns3PYPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAltPctAmt",
+      "path": "TotalAltPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSumEnergyAndNetBaseAmt",
+      "path": "TotalSumEnergyAndNetBaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSumTimesTwentyPctAmt",
+      "path": "TotalSumTimesTwentyPctAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "form_id": "IRS2555EZ",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "@claimFrgnEarnIncWaiverCd",
+      "path": "@claimFrgnEarnIncWaiverCd",
+      "type": "enum"
+    },
+    {
+      "name": "BonaFideResidentInd",
+      "path": "BonaFideResidentInd",
+      "type": "bool"
+    },
+    {
+      "name": "CitizenCountryNm",
+      "path": "CitizenCountryNm",
+      "type": "string"
+    },
+    {
+      "name": "EmployerForeignAddress",
+      "path": "EmployerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployerForeignEntityInd",
+      "path": "EmployerForeignEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "EmployerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "EmployerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerUSAddress",
+      "path": "EmployerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployerUnitedStatesCompanyInd",
+      "path": "EmployerUnitedStatesCompanyInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignEarnIncExclRevokeTaxYr",
+      "path": "ForeignEarnIncExclRevokeTaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignEarnIncExclRevokedInd",
+      "path": "ForeignEarnIncExclRevokedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignEarnIncmExclQlfyDaysCnt",
+      "path": "ForeignEarnIncmExclQlfyDaysCnt",
+      "type": "int"
+    },
+    {
+      "name": "ForeignEarnedIncExclusionAmt",
+      "path": "ForeignEarnedIncExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignEarnedIncExclusionPct",
+      "path": "ForeignEarnedIncExclusionPct",
+      "type": "decimal"
+    },
+    {
+      "name": "FrgnEarnIncExclQlfy366DaysInd",
+      "path": "FrgnEarnIncExclQlfy366DaysInd",
+      "type": "bool"
+    },
+    {
+      "name": "LastFrgnEarnIncExclClaimedYr",
+      "path": "LastFrgnEarnIncExclClaimedYr",
+      "type": "unknown"
+    },
+    {
+      "name": "NameLine1Txt",
+      "path": "NameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "NoFrgnEarnIncExclPrevFiledInd",
+      "path": "NoFrgnEarnIncExclPrevFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "OccupationTxt",
+      "path": "OccupationTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherEmployerDesc",
+      "path": "OtherEmployerTypeGroup/OtherEmployerDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherEmployerTypeInd",
+      "path": "OtherEmployerTypeGroup/OtherEmployerTypeInd",
+      "type": "bool"
+    },
+    {
+      "name": "PhysicalPresenceInd",
+      "path": "PhysicalPresenceInd",
+      "type": "bool"
+    },
+    {
+      "name": "PresenceInTheUSGroup",
+      "path": "PresenceInTheUSGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "ArrivedInUSDt",
+      "path": "PresenceInTheUSGroup/ArrivedInUSDt",
+      "type": "date"
+    },
+    {
+      "name": "BusinessDaysCnt",
+      "path": "PresenceInTheUSGroup/BusinessDaysCnt",
+      "type": "int"
+    },
+    {
+      "name": "BusinessIncomeEarnedAmt",
+      "path": "PresenceInTheUSGroup/BusinessIncomeEarnedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepartedUSDt",
+      "path": "PresenceInTheUSGroup/DepartedUSDt",
+      "type": "date"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TaxHomeGroup",
+      "path": "TaxHomeGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxHomeTestInd",
+      "path": "TaxHomeTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "BonaFideResidenceBeginDt",
+      "path": "TaxpayerBonaFideResGrp/BonaFideResidenceBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "BonaFideResidenceContinuedCd",
+      "path": "TaxpayerBonaFideResGrp/BonaFideResidenceContinuedCd",
+      "type": "enum"
+    },
+    {
+      "name": "BonaFideResidenceEndDt",
+      "path": "TaxpayerBonaFideResGrp/BonaFideResidenceEndDt",
+      "type": "date"
+    },
+    {
+      "name": "PhysicalPresenceBeginDt",
+      "path": "TaxpayerPhysicalPresenceGrp/PhysicalPresenceBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "PhysicalPresenceContinuedCd",
+      "path": "TaxpayerPhysicalPresenceGrp/PhysicalPresenceContinuedCd",
+      "type": "enum"
+    },
+    {
+      "name": "PhysicalPresenceEndDt",
+      "path": "TaxpayerPhysicalPresenceGrp/PhysicalPresenceEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TentForeignEarnedIncomeExclAmt",
+      "path": "TentForeignEarnedIncomeExclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalForeignEarnedIncomeAmt",
+      "path": "TotalForeignEarnedIncomeAmt",
+      "type": "usd"
+    }
+  ]
+}

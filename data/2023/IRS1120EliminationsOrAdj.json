@@ -1,0 +1,381 @@
+{
+  "form_id": "IRS1120EliminationsOrAdj",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "@filedPursuantToSect30191002Cd",
+      "path": "@filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "@section1291InterestAmt",
+      "path": "@section1291InterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section1291InterestCd",
+      "path": "@section1291InterestCd",
+      "type": "enum"
+    },
+    {
+      "name": "@section1294InterestAmt",
+      "path": "@section1294InterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section1294InterestCd",
+      "path": "@section1294InterestCd",
+      "type": "enum"
+    },
+    {
+      "name": "@section501dCd",
+      "path": "@section501dCd",
+      "type": "enum"
+    },
+    {
+      "name": "@shortPeriodReasonCd",
+      "path": "@shortPeriodReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "@subchapterTCoopIndicator",
+      "path": "@subchapterTCoopIndicator",
+      "type": "unknown"
+    },
+    {
+      "name": "@suprtStmtToCnsldtReturnInd",
+      "path": "@suprtStmtToCnsldtReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddressChangeInd",
+      "path": "AddressChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdvertisingAmt",
+      "path": "AdvertisingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "BadDebtExpenseAmt",
+      "path": "BadDebtExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainNetIncomeAmt",
+      "path": "CapitalGainNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContributionsTotAmt",
+      "path": "CharitableContributionsTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConsolidatedReturnInd",
+      "path": "ConsolidatedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletionAmt",
+      "path": "DepletionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeBenefitProgramAmt",
+      "path": "EmployeeBenefitProgramAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EnergyEffcntCmrclBldgDedAmt",
+      "path": "EnergyEffcntCmrclBldgDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EsPenaltyAmt",
+      "path": "EsPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalReturnInd",
+      "path": "FinalReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form2220AttachedInd",
+      "path": "Form2220AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossProfitAmt",
+      "path": "GrossProfitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsOrSalesAmt",
+      "path": "GrossReceiptsOrSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRentsAmt",
+      "path": "GrossRentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRoyaltiesAmt",
+      "path": "GrossRoyaltiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncorporationDt",
+      "path": "IncorporationDt",
+      "type": "date"
+    },
+    {
+      "name": "InitialReturnInd",
+      "path": "InitialReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "InterestDeductionAmt",
+      "path": "InterestDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LifeNonlifeConsolidatedRetInd",
+      "path": "LifeNonlifeConsolidatedRetInd",
+      "type": "bool"
+    },
+    {
+      "name": "NameChangeInd",
+      "path": "NameChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetGrossReceiptsOrSalesAmt",
+      "path": "NetGrossReceiptsOrSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossDeductionAmt",
+      "path": "NetOperatingLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OfficersCompensationAmt",
+      "path": "OfficersCompensationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@otherIncomeDesc",
+      "path": "OtherIncomeAmt/@otherIncomeDesc",
+      "type": "string"
+    },
+    {
+      "name": "AppliedToEsTaxAmt",
+      "path": "OverpaymentSection/AppliedToEsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "OverpaymentSection/OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "OverpaymentSection/RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ParentReturnInd",
+      "path": "ParentReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "PensionProfitSharingPlansAmt",
+      "path": "PensionProfitSharingPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalHoldingCompanyInd",
+      "path": "PersonalHoldingCompanyInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonalServiceCorporationInd",
+      "path": "PersonalServiceCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "RepairsAndMaintenanceAmt",
+      "path": "RepairsAndMaintenanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReturnsAndAllowancesAmt",
+      "path": "ReturnsAndAllowancesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SalariesAndWagesAmt",
+      "path": "SalariesAndWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScheduleM3AttachedInd",
+      "path": "ScheduleM3AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "SubsidiaryReturnInd",
+      "path": "SubsidiaryReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupersededReturnInd",
+      "path": "SupersededReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@capitalConstructionFundAmt",
+      "path": "TaxableIncomeAmt/@capitalConstructionFundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@capitalConstructionFundCd",
+      "path": "TaxableIncomeAmt/@capitalConstructionFundCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxableIncomeBfrNOLSpclDedAmt",
+      "path": "TaxableIncomeBfrNOLSpclDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesAndLicensesAmt",
+      "path": "TaxesAndLicensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDividendsInclusionsRcvdAmt",
+      "path": "TotDividendsInclusionsRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAssetsAmt",
+      "path": "TotalAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@otherRefundableCreditsAmount",
+      "path": "TotalCreditAmt/@otherRefundableCreditsAmount",
+      "type": "unknown"
+    },
+    {
+      "name": "@otherRefundableCreditsInd",
+      "path": "TotalCreditAmt/@otherRefundableCreditsInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalDeductionAmt",
+      "path": "TotalDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNOLSpecialDeductionAmt",
+      "path": "TotalNOLSpecialDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOrdinaryGainLossAmt",
+      "path": "TotalOrdinaryGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form4684Cd",
+      "path": "TotalOrdinaryGainLossAmt/@form4684Cd",
+      "type": "enum"
+    },
+    {
+      "name": "@backupWithholdingAmount",
+      "path": "TotalPaymentsAmt/@backupWithholdingAmount",
+      "type": "unknown"
+    },
+    {
+      "name": "@backupWithholdingIndicator",
+      "path": "TotalPaymentsAmt/@backupWithholdingIndicator",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalPaymentsAndCreditsAmt",
+      "path": "TotalPaymentsAndCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRentOrLeaseExpenseAmt",
+      "path": "TotalRentOrLeaseExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSpecialDeductionsAmt",
+      "path": "TotalSpecialDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

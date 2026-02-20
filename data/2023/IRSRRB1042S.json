@@ -1,0 +1,136 @@
+{
+  "form_id": "IRSRRB1042S",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AmendmentNum",
+      "path": "AmendmentNum",
+      "type": "string"
+    },
+    {
+      "name": "BenefitRepaidRRBAmt",
+      "path": "BenefitRepaidRRBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BirthDt",
+      "path": "BirthDt",
+      "type": "date"
+    },
+    {
+      "name": "Chapter3StatusCd",
+      "path": "Chapter3StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "Chapter4StatusCd",
+      "path": "Chapter4StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "ChapterTypeCd",
+      "path": "ChapterTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "ClaimNum",
+      "path": "ClaimNum",
+      "type": "string"
+    },
+    {
+      "name": "CorrectedInd",
+      "path": "CorrectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CountryCd",
+      "path": "CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "DuplicateInd",
+      "path": "DuplicateInd",
+      "type": "bool"
+    },
+    {
+      "name": "DuplicateIndd",
+      "path": "DuplicateIndd",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployeeContributionsAmt",
+      "path": "EmployeeContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptionCd",
+      "path": "ExemptionCd",
+      "type": "enum"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FormId",
+      "path": "FormId",
+      "type": "unknown"
+    },
+    {
+      "name": "GrossBenefitPaidAmt ",
+      "path": "GrossBenefitPaidAmt ",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeTypeCd",
+      "path": "IncomeTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetBenefitPaidAmount",
+      "path": "NetBenefitPaidAmount",
+      "type": "unknown"
+    },
+    {
+      "name": "PayeeCd",
+      "path": "PayeeCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "RecipientChapter3StatusCd",
+      "path": "RecipientChapter3StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TaxRt",
+      "path": "TaxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalMedicarePremiumAmt",
+      "path": "TotalMedicarePremiumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USAddress",
+      "path": "USAddress",
+      "type": "unknown"
+    }
+  ]
+}

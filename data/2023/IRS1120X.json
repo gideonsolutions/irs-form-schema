@@ -1,0 +1,291 @@
+{
+  "form_id": "IRS1120X",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "@filedPursuantToSect30191002Cd",
+      "path": "@filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "@sect199ClosingBooksElectCd",
+      "path": "@sect199ClosingBooksElectCd",
+      "type": "enum"
+    },
+    {
+      "name": "CarrybackClaimsInd",
+      "path": "CarrybackClaimsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangeExplanationGrp",
+      "path": "ChangeExplanationGrp",
+      "type": "group"
+    },
+    {
+      "name": "CrFedTaxFuelsCorrectAmt",
+      "path": "CrFedTaxFuelsCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrFedTaxFuelsNetChangeAmt",
+      "path": "CrFedTaxFuelsNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrFedTaxFuelsOriginallyRptAmt",
+      "path": "CrFedTaxFuelsOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditElectionAmt",
+      "path": "CreditElectionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditElectionYr",
+      "path": "CreditElectionYr",
+      "type": "unknown"
+    },
+    {
+      "name": "DifferenceCorrectAmt",
+      "path": "DifferenceCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DifferenceNetChangeAmt",
+      "path": "DifferenceNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DifferenceOriginallyRptAmt",
+      "path": "DifferenceOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EsPaymentsCorrectAmt",
+      "path": "EsPaymentsCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EsPaymentsNetChangeAmt",
+      "path": "EsPaymentsNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EsPaymentsOriginallyRptAmt",
+      "path": "EsPaymentsOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "Form2439CreditCorrectAmt",
+      "path": "Form2439CreditCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form2439CreditNetChangeAmt",
+      "path": "Form2439CreditNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form2439CreditOriginallyRptAmt",
+      "path": "Form2439CreditOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "NameAndAddress/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "NameAndAddress/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "NameAndAddress/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonNm",
+      "path": "NameAndAddress/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "USAddress",
+      "path": "NameAndAddress/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "OriginalReturnOverpaymentAmt",
+      "path": "OriginalReturnOverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OriginalReturnTaxPaidAmt",
+      "path": "OriginalReturnTaxPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYOvpmtCrCorrectAmt",
+      "path": "PYOvpmtCrCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYOvpmtCrNetChangeAmt",
+      "path": "PYOvpmtCrNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYOvpmtCrOriginallyRptAmt",
+      "path": "PYOvpmtCrOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PhoneNum ",
+      "path": "PhoneNum ",
+      "type": "unknown"
+    },
+    {
+      "name": "Refund",
+      "path": "Refund",
+      "type": "unknown"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundForm4466CorrectAmt",
+      "path": "RefundForm4466CorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundForm4466NetChangeAmt",
+      "path": "RefundForm4466NetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundForm4466OriginallyRptAmt",
+      "path": "RefundForm4466OriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SameAsAboveCd",
+      "path": "SameAsAboveCd",
+      "type": "enum"
+    },
+    {
+      "name": "ServiceCenterWhereRetFiledCd",
+      "path": "ServiceCenterWhereRetFiledCd",
+      "type": "enum"
+    },
+    {
+      "name": "SubtotalPaymentsAndCreditsAmt",
+      "path": "SubtotalPaymentsAndCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYearEndMonthYr",
+      "path": "TaxYearEndMonthYr",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxableIncomeCorrectAmt",
+      "path": "TaxableIncomeCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeNetChangeAmt",
+      "path": "TaxableIncomeNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeOriginallyRptAmt",
+      "path": "TaxableIncomeOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionCorrectAmt",
+      "path": "TotalDeductionCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionNetChangeAmt",
+      "path": "TotalDeductionNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionOriginallyRptAmt",
+      "path": "TotalDeductionOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeCorrectAmt",
+      "path": "TotalIncomeCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeNetChangeAmt",
+      "path": "TotalIncomeNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeOriginallyRptAmt",
+      "path": "TotalIncomeOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAndCreditsAmt",
+      "path": "TotalPaymentsAndCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxCorrectAmt",
+      "path": "TotalTaxCorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxNetChangeAmt",
+      "path": "TotalTaxNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxOriginallyRptAmt",
+      "path": "TotalTaxOriginallyRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxPaidForm7004CorrectAmt",
+      "path": "TxPaidForm7004CorrectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxPaidForm7004NetChangeAmt",
+      "path": "TxPaidForm7004NetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxPaidForm7004OriginallyRptAmt",
+      "path": "TxPaidForm7004OriginallyRptAmt",
+      "type": "usd"
+    }
+  ]
+}

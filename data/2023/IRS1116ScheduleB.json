@@ -1,0 +1,396 @@
+{
+  "form_id": "IRS1116ScheduleB",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "ActlTentAmtCarriedBackPrTYGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "ActlTentAmtCarriedBackPrTYGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EighthPrecedingTYAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/EighthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthPrecedingTYAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/FourthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NinthPrecedingTYAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/NinthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingTYAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/SecondPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SeventhPrecedingTYAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/SeventhPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SixthPrecedingTYAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/SixthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubtotalAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/SubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TenthPrecedingTYAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/TenthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPrecedingTYAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/ThirdPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "AdjForeignTxCyovPrTYGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "CarrybackAdjustmentGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "CarrybackAdjustmentGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeInd",
+      "path": "ForeignBranchIncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncGeneralCategoryInd",
+      "path": "ForeignIncGeneralCategoryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncLumpSumDistribInd",
+      "path": "ForeignIncLumpSumDistribInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncPassiveCategoryInd",
+      "path": "ForeignIncPassiveCategoryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncResourcedTreatyInd",
+      "path": "ForeignIncResourcedTreatyInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncSection901jInd",
+      "path": "ForeignIncSection901jInd",
+      "type": "bool"
+    },
+    {
+      "name": "SubtotalAmt",
+      "path": "ForeignTxCyovExprUnsdCurrTYGrp/SubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TenthPrecedingTYAmt",
+      "path": "ForeignTxCyovExprUnsdCurrTYGrp/TenthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "ForeignTxCyovExprUnsdCurrTYGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EighthPrecedingTYAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/EighthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthPrecedingTYAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/FourthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NinthPrecedingTYAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/NinthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingTYAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/SecondPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SeventhPrecedingTYAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/SeventhPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SixthPrecedingTYAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/SixthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubtotalAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/SubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPrecedingTYAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/ThirdPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "ForeignTxCyovFollowingTYGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "ForeignTxCyovGenCurrTYGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "ForeignTxCyovGenCurrTYGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EighthPrecedingTYAmt",
+      "path": "ForeignTxCyovPrTYGrp/EighthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "ForeignTxCyovPrTYGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "ForeignTxCyovPrTYGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthPrecedingTYAmt",
+      "path": "ForeignTxCyovPrTYGrp/FourthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NinthPrecedingTYAmt",
+      "path": "ForeignTxCyovPrTYGrp/NinthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingTYAmt",
+      "path": "ForeignTxCyovPrTYGrp/SecondPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SeventhPrecedingTYAmt",
+      "path": "ForeignTxCyovPrTYGrp/SeventhPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SixthPrecedingTYAmt",
+      "path": "ForeignTxCyovPrTYGrp/SixthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubtotalAmt",
+      "path": "ForeignTxCyovPrTYGrp/SubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TenthPrecedingTYAmt",
+      "path": "ForeignTxCyovPrTYGrp/TenthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPrecedingTYAmt",
+      "path": "ForeignTxCyovPrTYGrp/ThirdPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "ForeignTxCyovPrTYGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EighthPrecedingTYAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/EighthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthPrecedingTYAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/FourthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NinthPrecedingTYAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/NinthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingTYAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/SecondPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SeventhPrecedingTYAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/SeventhPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SixthPrecedingTYAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/SixthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubtotalAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/SubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TenthPrecedingTYAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/TenthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPrecedingTYAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/ThirdPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "ForeignTxCyovUsedCurrTYGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherFrgnTaxAdjustmentsGrp",
+      "path": "OtherFrgnTaxAdjustmentsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "EighthPrecedingTYAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/EighthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthPrecedingTYAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/FourthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NinthPrecedingTYAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/NinthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingTYAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/SecondPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SeventhPrecedingTYAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/SeventhPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SixthPrecedingTYAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/SixthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubtotalAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/SubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TenthPrecedingTYAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/TenthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPrecedingTYAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/ThirdPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "Sect905cRedeterminationsAdjGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TreatyCountryCd",
+      "path": "TreatyCountryCd",
+      "type": "enum"
+    }
+  ]
+}

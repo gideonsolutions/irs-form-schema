@@ -1,0 +1,96 @@
+{
+  "form_id": "IRS8810",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AddCYCreditsAndPYUnllwCrsAmt",
+      "path": "AddCYCreditsAndPYUnllwCrsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowedPassiveActivityCrAmt",
+      "path": "AllowedPassiveActivityCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYIncmCYDedAndPYUnllwLossAmt",
+      "path": "CYIncmCYDedAndPYUnllwLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrPropForWhichElectIsMadeGrp",
+      "path": "CrPropForWhichElectIsMadeGrp",
+      "type": "group"
+    },
+    {
+      "name": "DisposedPassiveActivityNm",
+      "path": "CrPropForWhichElectIsMadeGrp/DisposedPassiveActivityNm",
+      "type": "string"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "CrPropForWhichElectIsMadeGrp/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "UnallowedCreditAmt",
+      "path": "CrPropForWhichElectIsMadeGrp/UnallowedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearCreditAmt",
+      "path": "CurrentYearCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearDeductionsAmt",
+      "path": "CurrentYearDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearIncomeAmt",
+      "path": "CurrentYearIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DisposOfEntireIntInPssvActyInd",
+      "path": "DisposOfEntireIntInPssvActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetActiveIncomeAmt",
+      "path": "NetActiveIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearUnallowedCreditsAmt",
+      "path": "PriorYearUnallowedCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearUnallowedLossesAmt",
+      "path": "PriorYearUnallowedLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxNetPassiveIncmNetActIncmAmt",
+      "path": "TaxNetPassiveIncmNetActIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDedsAndLossesAllwAmt",
+      "path": "TotalDedsAndLossesAllwAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnallowedPassiveActivityCrAmt",
+      "path": "UnallowedPassiveActivityCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnallowedPssvActyDedAndLossAmt",
+      "path": "UnallowedPssvActyDedAndLossAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "form_id": "IRS5074",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "CNMIAllocationGroup/AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlimonyReceivedAmt",
+      "path": "CNMIAllocationGroup/AlimonyReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusExpnsReservistsAndOthersAmt",
+      "path": "CNMIAllocationGroup/BusExpnsReservistsAndOthersAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessIncomeLossAmt",
+      "path": "CNMIAllocationGroup/BusinessIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainLossAmt",
+      "path": "CNMIAllocationGroup/CapitalGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleSelfEmploymentTaxAmt",
+      "path": "CNMIAllocationGroup/DeductibleSelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducatorExpensesAmt",
+      "path": "CNMIAllocationGroup/EducatorExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstTaxPymntFldWithTerritoryAmt",
+      "path": "CNMIAllocationGroup/EstTaxPymntFldWithTerritoryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FarmIncomeLossAmt",
+      "path": "CNMIAllocationGroup/FarmIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HealthSavingsAccountDedAmt",
+      "path": "CNMIAllocationGroup/HealthSavingsAccountDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRADeductionAmt",
+      "path": "CNMIAllocationGroup/IRADeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MovingExpenseAmt",
+      "path": "CNMIAllocationGroup/MovingExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryDividendsAmt",
+      "path": "CNMIAllocationGroup/OrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsFrom1040TotAmt",
+      "path": "CNMIAllocationGroup/OtherDeductionsFrom1040TotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherGainLossAmt",
+      "path": "CNMIAllocationGroup/OtherGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PensionsAnnuitiesAmt",
+      "path": "CNMIAllocationGroup/PensionsAnnuitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PnltyOnErlyWthdrwOfSavingsAmt",
+      "path": "CNMIAllocationGroup/PnltyOnErlyWthdrwOfSavingsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentalRealEstateIncomeLossAmt",
+      "path": "CNMIAllocationGroup/RentalRealEstateIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmpldHealthInsDedAmt",
+      "path": "CNMIAllocationGroup/SelfEmpldHealthInsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmpldSepSimpleQlfyPlansAmt",
+      "path": "CNMIAllocationGroup/SelfEmpldSepSimpleQlfyPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StudentLoanInterestDedAmt",
+      "path": "CNMIAllocationGroup/StudentLoanInterestDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIRAAmt",
+      "path": "CNMIAllocationGroup/TaxableIRAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "CNMIAllocationGroup/TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableSocSecAmt",
+      "path": "CNMIAllocationGroup/TaxableSocSecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TerritoryIncomeTaxWithheldAmt",
+      "path": "CNMIAllocationGroup/TerritoryIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsAmt",
+      "path": "CNMIAllocationGroup/TotalAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "CNMIAllocationGroup/TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherIncomeAmt",
+      "path": "CNMIAllocationGroup/TotalOtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "CNMIAllocationGroup/TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblRefCrOffsetLocalIncmTaxAmt",
+      "path": "CNMIAllocationGroup/TxblRefCrOffsetLocalIncmTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USArmedForcesIncomeTaxWthldAmt",
+      "path": "CNMIAllocationGroup/USArmedForcesIncomeTaxWthldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USGovCivIncomeTaxWithheldAmt",
+      "path": "CNMIAllocationGroup/USGovCivIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnemploymentCompAmt",
+      "path": "CNMIAllocationGroup/UnemploymentCompAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesSalariesAndTipsAmt",
+      "path": "CNMIAllocationGroup/WagesSalariesAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "GUAMAllocationGroup/AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlimonyReceivedAmt",
+      "path": "GUAMAllocationGroup/AlimonyReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusExpnsReservistsAndOthersAmt",
+      "path": "GUAMAllocationGroup/BusExpnsReservistsAndOthersAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessIncomeLossAmt",
+      "path": "GUAMAllocationGroup/BusinessIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainLossAmt",
+      "path": "GUAMAllocationGroup/CapitalGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleSelfEmploymentTaxAmt",
+      "path": "GUAMAllocationGroup/DeductibleSelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducatorExpensesAmt",
+      "path": "GUAMAllocationGroup/EducatorExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstTaxPymntFldWithTerritoryAmt",
+      "path": "GUAMAllocationGroup/EstTaxPymntFldWithTerritoryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FarmIncomeLossAmt",
+      "path": "GUAMAllocationGroup/FarmIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HealthSavingsAccountDedAmt",
+      "path": "GUAMAllocationGroup/HealthSavingsAccountDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRADeductionAmt",
+      "path": "GUAMAllocationGroup/IRADeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MovingExpenseAmt",
+      "path": "GUAMAllocationGroup/MovingExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryDividendsAmt",
+      "path": "GUAMAllocationGroup/OrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsFrom1040TotAmt",
+      "path": "GUAMAllocationGroup/OtherDeductionsFrom1040TotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherGainLossAmt",
+      "path": "GUAMAllocationGroup/OtherGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PensionsAnnuitiesAmt",
+      "path": "GUAMAllocationGroup/PensionsAnnuitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PnltyOnErlyWthdrwOfSavingsAmt",
+      "path": "GUAMAllocationGroup/PnltyOnErlyWthdrwOfSavingsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentalRealEstateIncomeLossAmt",
+      "path": "GUAMAllocationGroup/RentalRealEstateIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmpldHealthInsDedAmt",
+      "path": "GUAMAllocationGroup/SelfEmpldHealthInsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmpldSepSimpleQlfyPlansAmt",
+      "path": "GUAMAllocationGroup/SelfEmpldSepSimpleQlfyPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StudentLoanInterestDedAmt",
+      "path": "GUAMAllocationGroup/StudentLoanInterestDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIRAAmt",
+      "path": "GUAMAllocationGroup/TaxableIRAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "GUAMAllocationGroup/TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableSocSecAmt",
+      "path": "GUAMAllocationGroup/TaxableSocSecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TerritoryIncomeTaxWithheldAmt",
+      "path": "GUAMAllocationGroup/TerritoryIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsAmt",
+      "path": "GUAMAllocationGroup/TotalAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "GUAMAllocationGroup/TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherIncomeAmt",
+      "path": "GUAMAllocationGroup/TotalOtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "GUAMAllocationGroup/TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblRefCrOffsetLocalIncmTaxAmt",
+      "path": "GUAMAllocationGroup/TxblRefCrOffsetLocalIncmTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USArmedForcesIncomeTaxWthldAmt",
+      "path": "GUAMAllocationGroup/USArmedForcesIncomeTaxWthldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USGovCivIncomeTaxWithheldAmt",
+      "path": "GUAMAllocationGroup/USGovCivIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnemploymentCompAmt",
+      "path": "GUAMAllocationGroup/UnemploymentCompAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesSalariesAndTipsAmt",
+      "path": "GUAMAllocationGroup/WagesSalariesAndTipsAmt",
+      "type": "usd"
+    }
+  ]
+}

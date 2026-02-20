@@ -1,0 +1,126 @@
+{
+  "form_id": "IRS4255",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "RecaptureOfInvstCrProperties",
+      "path": "RecaptureOfInvstCrProperties",
+      "type": "unknown"
+    },
+    {
+      "name": "AggregateCreditDecreaseAmt",
+      "path": "RecaptureOfInvstCrProperties/AggregateCreditDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AtRiskCreditRecaptureAmt",
+      "path": "RecaptureOfInvstCrProperties/AtRiskCreditRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBaseCYAmt",
+      "path": "RecaptureOfInvstCrProperties/CreditBaseCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBasePYAmt",
+      "path": "RecaptureOfInvstCrProperties/CreditBasePYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditRt",
+      "path": "RecaptureOfInvstCrProperties/CreditRt",
+      "type": "decimal"
+    },
+    {
+      "name": "InvestmentCrRecaptureTaxAmt",
+      "path": "RecaptureOfInvstCrProperties/InvestmentCrRecaptureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonqualifedFinanceRcptrTaxAmt",
+      "path": "RecaptureOfInvstCrProperties/NonqualifedFinanceRcptrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonqualifiedFinanceNetChgAmt",
+      "path": "RecaptureOfInvstCrProperties/NonqualifiedFinanceNetChgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlacedInServiceDt",
+      "path": "RecaptureOfInvstCrProperties/PlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "PriorYearsGeneralBusinessCrAmt",
+      "path": "RecaptureOfInvstCrProperties/PriorYearsGeneralBusinessCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyCeasedToQualifyDt",
+      "path": "RecaptureOfInvstCrProperties/PropertyCeasedToQualifyDt",
+      "type": "date"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "RecaptureOfInvstCrProperties/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "PropertyQualifiedYearCnt",
+      "path": "RecaptureOfInvstCrProperties/PropertyQualifiedYearCnt",
+      "type": "int"
+    },
+    {
+      "name": "RecapturePct",
+      "path": "RecaptureOfInvstCrProperties/RecapturePct",
+      "type": "decimal"
+    },
+    {
+      "name": "RefiguredCreditAmt",
+      "path": "RecaptureOfInvstCrProperties/RefiguredCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedGeneralBusCrNoCrAmt",
+      "path": "RecaptureOfInvstCrProperties/UnusedGeneralBusCrNoCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedGeneralBusCrOrigCrAmt",
+      "path": "RecaptureOfInvstCrProperties/UnusedGeneralBusCrOrigCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumInvestmentCrRcptrTaxAmt",
+      "path": "SumInvestmentCrRcptrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@taxFromAttachedCd",
+      "path": "SumInvestmentCrRcptrTaxAmt/@taxFromAttachedCd",
+      "type": "enum"
+    },
+    {
+      "name": "SumNonqualifiedRcptrTaxAmt",
+      "path": "SumNonqualifiedRcptrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@taxFromAttachedCd",
+      "path": "SumNonqualifiedRcptrTaxAmt/@taxFromAttachedCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalIncreaseInTaxAmt",
+      "path": "TotalIncreaseInTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@taxFromAttachedCd",
+      "path": "TotalUnusedGeneralBusCrOrigCrAmt/@taxFromAttachedCd",
+      "type": "enum"
+    }
+  ]
+}

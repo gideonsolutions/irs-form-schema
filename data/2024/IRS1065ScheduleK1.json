@@ -1,0 +1,466 @@
+{
+  "form_id": "IRS1065ScheduleK1",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "@sect1377a2Indicator",
+      "path": "@sect1377a2Indicator",
+      "type": "unknown"
+    },
+    {
+      "name": "AmendedK1Ind",
+      "path": "AmendedK1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BeneficialOwnerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BeneficialOwnerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "BeneficialOwnerPersonNm",
+      "path": "BeneficialOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "CollectiblesGainLossAmt",
+      "path": "CollectiblesGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DisregardedEntityEIN",
+      "path": "DisregardedEntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "DisregardedEntityInd",
+      "path": "DisregardedEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "DisregardedEntityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "DisregardedEntityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "DisregardedEntitySSN",
+      "path": "DisregardedEntitySSN",
+      "type": "tin"
+    },
+    {
+      "name": "DividendEquivalentsAmt",
+      "path": "DividendEquivalentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticPartnerInd",
+      "path": "DomesticPartnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "EntityPartnerTypeDesc",
+      "path": "EntityPartnerTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "FinalK1Ind",
+      "path": "FinalK1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignPartnerInd",
+      "path": "ForeignPartnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "GeneralPartnerOrLLCMemMgrInd",
+      "path": "GeneralPartnerOrLLCMemMgrInd",
+      "type": "bool"
+    },
+    {
+      "name": "GuaranteedPaymentsCapitalAmt",
+      "path": "GuaranteedPaymentsCapitalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GuaranteedPaymentsServicesAmt",
+      "path": "GuaranteedPaymentsServicesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GuaranteedPymtsToPartnerAmt",
+      "path": "GuaranteedPymtsToPartnerAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRS1065K1AMTItemsGrp",
+      "path": "IRS1065K1AMTItemsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1AMTItemsGrp",
+      "path": "IRS1065K1AMTItemsGrp/SchK1AMTItemsGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1065K1CreditsAndCrRcptrGrp",
+      "path": "IRS1065K1CreditsAndCrRcptrGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1CreditsAndCrRcptrGrp",
+      "path": "IRS1065K1CreditsAndCrRcptrGrp/SchK1CreditsAndCrRcptrGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1065K1DistributionsGrp",
+      "path": "IRS1065K1DistributionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1DistributionsGrp",
+      "path": "IRS1065K1DistributionsGrp/SchK1DistributionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1065K1OtherDeductionsGrp",
+      "path": "IRS1065K1OtherDeductionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1OtherDeductionsGrp",
+      "path": "IRS1065K1OtherDeductionsGrp/SchK1OtherDeductionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1065K1OtherIncomeLossGrp",
+      "path": "IRS1065K1OtherIncomeLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1OtherIncomeLossGrp",
+      "path": "IRS1065K1OtherIncomeLossGrp/SchK1OtherIncomeLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1065K1OtherInformationGrp",
+      "path": "IRS1065K1OtherInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "PartnersOtherInformationGrp",
+      "path": "IRS1065K1OtherInformationGrp/PartnersOtherInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1SelfEmploymentEarnLossGrp",
+      "path": "IRS1065K1SelfEmplmnEarnLossGrp/SchK1SelfEmploymentEarnLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "IRS1065K1TxExmptNondedExpnsGrp",
+      "path": "IRS1065K1TxExmptNondedExpnsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK1TxExmptNondedExpnsGrp",
+      "path": "IRS1065K1TxExmptNondedExpnsGrp/SchK1TxExmptNondedExpnsGrp",
+      "type": "group"
+    },
+    {
+      "name": "InterestIncomeAmt",
+      "path": "InterestIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LimitedPartnerOrOtherLLCMemInd",
+      "path": "LimitedPartnerOrOtherLLCMemInd",
+      "type": "bool"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "MissingSSNEINReasonCd",
+      "path": "MissingSSNEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetLTCapitalGainOrLossAmt",
+      "path": "NetLTCapitalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSTCapitalGainOrLossAmt",
+      "path": "NetSTCapitalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection1231GainLossAmt",
+      "path": "NetSection1231GainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetUnrcgnzd704cGainLossBOYAmt",
+      "path": "NetUnrcgnzd704cGainLossBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetUnrcgnzd704cGainLossEOYAmt",
+      "path": "NetUnrcgnzd704cGainLossEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryDividendsAmt",
+      "path": "OrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryIncomeLossAmt",
+      "path": "OrdinaryIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherRentalIncomeAmt",
+      "path": "OtherRentalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerEIN",
+      "path": "PartnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PartnerForeignAddress ",
+      "path": "PartnerForeignAddress ",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PartnerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PartnerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PartnerRetirmentPlanInd",
+      "path": "PartnerRetirmentPlanInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnerSSN",
+      "path": "PartnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "PartnerShareLiabilityGrp",
+      "path": "PartnerShareLiabilityGrp",
+      "type": "group"
+    },
+    {
+      "name": "LiabSubjGurntArrngmPrtnrInd",
+      "path": "PartnerShareLiabilityGrp/LiabSubjGurntArrngmPrtnrInd",
+      "type": "bool"
+    },
+    {
+      "name": "LowerTierPartnershipLiabAmtInd",
+      "path": "PartnerShareLiabilityGrp/LowerTierPartnershipLiabAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "NonrecourseBOYAmt",
+      "path": "PartnerShareLiabilityGrp/NonrecourseBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonrecourseEOYAmt",
+      "path": "PartnerShareLiabilityGrp/NonrecourseEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyNonRcrsFinancingBOYAmt",
+      "path": "PartnerShareLiabilityGrp/QlfyNonRcrsFinancingBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyNonRcrsFinancingEOYAmt",
+      "path": "PartnerShareLiabilityGrp/QlfyNonRcrsFinancingEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecourseBOYAmt",
+      "path": "PartnerShareLiabilityGrp/RecourseBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecourseEOYAmt",
+      "path": "PartnerShareLiabilityGrp/RecourseEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerUSAddress ",
+      "path": "PartnerUSAddress ",
+      "type": "unknown"
+    },
+    {
+      "name": "CapitalAccountBOYAmt",
+      "path": "PartnersCapitalAccountGrp/CapitalAccountBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalAccountEOYAmt",
+      "path": "PartnersCapitalAccountGrp/CapitalAccountEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalContributedDuringYrAmt",
+      "path": "PartnersCapitalAccountGrp/CapitalContributedDuringYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearNetIncomeOrLossAmt",
+      "path": "PartnersCapitalAccountGrp/CurrentYearNetIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncreaseDecreaseAmt",
+      "path": "PartnersCapitalAccountGrp/OtherIncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithdrawalsAndDstrbtnsAmt",
+      "path": "PartnersCapitalAccountGrp/WithdrawalsAndDstrbtnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnersShareProfitLossCapGrp",
+      "path": "PartnersShareProfitLossCapGrp",
+      "type": "group"
+    },
+    {
+      "name": "DecrExchPrtnrPrtshpIntInd",
+      "path": "PartnersShareProfitLossCapGrp/DecrExchPrtnrPrtshpIntInd",
+      "type": "bool"
+    },
+    {
+      "name": "DecrSalePrtnrPrtshpIntInd",
+      "path": "PartnersShareProfitLossCapGrp/DecrSalePrtnrPrtshpIntInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnersCapitalBOYRt",
+      "path": "PartnersShareProfitLossCapGrp/PartnersCapitalBOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersCapitalEOYRt",
+      "path": "PartnersShareProfitLossCapGrp/PartnersCapitalEOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersInterestInProfitsBOYRt",
+      "path": "PartnersShareProfitLossCapGrp/PartnersInterestInProfitsBOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersInterestInProfitsEOYRt",
+      "path": "PartnersShareProfitLossCapGrp/PartnersInterestInProfitsEOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersLossesBOYRt",
+      "path": "PartnersShareProfitLossCapGrp/PartnersLossesBOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PartnersLossesEOYRt",
+      "path": "PartnersShareProfitLossCapGrp/PartnersLossesEOYRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PortfolioIncomeLossRyltsAmt",
+      "path": "PortfolioIncomeLossRyltsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropContriBuiltInGainLossInd",
+      "path": "PropContriBuiltInGainLossInd",
+      "type": "bool"
+    },
+    {
+      "name": "PubliclyTradedPartnershipInd",
+      "path": "PubliclyTradedPartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedDividendsAmt",
+      "path": "QualifiedDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealEstateNetIncomeLossAmt",
+      "path": "RealEstateNetIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SchK1ForeignTransactionsGrp",
+      "path": "SchK1ForeignTransactionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "CountryOrPossessionCd",
+      "path": "SchK1ForeignTransactionsGrp/CountryOrPossessionCd",
+      "type": "enum"
+    },
+    {
+      "name": "ScheduleK3AttachedInd",
+      "path": "ScheduleK3AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sect465AtRiskAggregatedActyInd",
+      "path": "Sect465AtRiskAggregatedActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sect469PALGroupedActyInd",
+      "path": "Sect469PALGroupedActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section179ExpenseDeductionAmt",
+      "path": "Section179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ServiceCenterWhereRetFiledCd",
+      "path": "ServiceCenterWhereRetFiledCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalForeignTaxesPaidOrAccrAmt",
+      "path": "TotalForeignTaxesPaidOrAccrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrecapturedSection1250GainAmt",
+      "path": "UnrecapturedSection1250GainAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "form_id": "IRS8881",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AddnlCrEmplrContriEligEmplrAmt",
+      "path": "AddnlCrEmplrContriEligEmplrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AutoEnrlmtOptForRetireSavCrAmt",
+      "path": "AutoEnrlmtOptForRetireSavCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AutoEnrlmtPrtshpSCorpCrAmt",
+      "path": "AutoEnrlmtPrtshpSCorpCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ControlledGroupMemberStatement",
+      "path": "ControlledGroupMemberStatement",
+      "type": "unknown"
+    },
+    {
+      "name": "EligibleCreditEmplContriAmt",
+      "path": "EligibleCreditEmplContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmplrContriPaidMilSpsAmt",
+      "path": "EmplrContriPaidMilSpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MilSpsEmplPrtcptEligPlanAmt",
+      "path": "MilSpsEmplPrtcptEligPlanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MilSpsEmplPrtcptEligPlanCnt",
+      "path": "MilSpsEmplPrtcptEligPlanCnt",
+      "type": "int"
+    },
+    {
+      "name": "MilSpsParticipationCrAmt",
+      "path": "MilSpsParticipationCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MilSpsRetirePrtshpSCorpCrAmt",
+      "path": "MilSpsRetirePrtshpSCorpCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MultNetPrecTYEmplByCntPctAmt",
+      "path": "MultNetPrecTYEmplByCntPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetEligibleCreditEmplContriAmt",
+      "path": "NetEligibleCreditEmplContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetPrecTaxYrEmplCntByPct",
+      "path": "NetPrecTaxYrEmplCntByPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetPrecedingTaxYrEmployeeCnt",
+      "path": "NetPrecedingTaxYrEmployeeCnt",
+      "type": "int"
+    },
+    {
+      "name": "PensionPlanEligibleEmplCnt",
+      "path": "PensionPlanEligibleEmplCnt",
+      "type": "int"
+    },
+    {
+      "name": "PensionPlanEmplBaseCalcAmt",
+      "path": "PensionPlanEmplBaseCalcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PensionPlanEmplLimitedCalcAmt",
+      "path": "PensionPlanEmplLimitedCalcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PensionPlanStartupCostsCrAmt",
+      "path": "PensionPlanStartupCostsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PhaseoutEligCrEmplContriAmt",
+      "path": "PhaseoutEligCrEmplContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrecedingTaxYrEmployeeCnt",
+      "path": "PrecedingTaxYrEmployeeCnt",
+      "type": "int"
+    },
+    {
+      "name": "QlfyStartupCostsIncurdPctAmt",
+      "path": "QlfyStartupCostsIncurdPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedEmployeeCnt",
+      "path": "QualifiedEmployeeCnt",
+      "type": "int"
+    },
+    {
+      "name": "QualifiedStartupCostsIncurdAmt",
+      "path": "QualifiedStartupCostsIncurdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrAutoEnrlmtCrAmt",
+      "path": "SmllEmplrAutoEnrlmtCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrContriToPnsnPlanAmt",
+      "path": "SmllEmplrContriToPnsnPlanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrStartupCostEmplLtdCalcAmt",
+      "path": "SmllrStartupCostEmplLtdCalcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StartupCostsPrtshpSCorpCrAmt",
+      "path": "StartupCostsPrtshpSCorpCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotSmllEmplrCrEmplContriAmt",
+      "path": "TotSmllEmplrCrEmplContriAmt",
+      "type": "usd"
+    }
+  ]
+}

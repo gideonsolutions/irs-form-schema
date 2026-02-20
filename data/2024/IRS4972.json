@@ -1,0 +1,211 @@
+{
+  "form_id": "IRS4972",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdjustedActuarialAmt",
+      "path": "AdjustedActuarialAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnuityActuarialValueAmt",
+      "path": "AnnuityActuarialValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeneficiaryDistributionInd",
+      "path": "BeneficiaryDistributionInd",
+      "type": "bool"
+    },
+    {
+      "name": "CapitalGainElectionAmt",
+      "path": "CapitalGainElectionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@capitalGainElectionNUAAmt",
+      "path": "CapitalGainElectionAmt/@capitalGainElectionNUAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@capitalGainElectionNUACd",
+      "path": "CapitalGainElectionAmt/@capitalGainElectionNUACd",
+      "type": "enum"
+    },
+    {
+      "name": "CapitalGainTimesElectionPctAmt",
+      "path": "CapitalGainTimesElectionPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributionOfQualifiedPlanInd",
+      "path": "DistributionOfQualifiedPlanInd",
+      "type": "bool"
+    },
+    {
+      "name": "EmployeeBeneficiaryDistriInd",
+      "path": "EmployeeBeneficiaryDistriInd",
+      "type": "bool"
+    },
+    {
+      "name": "LumpDistribFederalEstateTaxAmt",
+      "path": "LumpDistribFederalEstateTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistri50PctTotalTxblAmt",
+      "path": "LumpSumDistri50PctTotalTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriActuarialAdjPct",
+      "path": "LumpSumDistriActuarialAdjPct",
+      "type": "decimal"
+    },
+    {
+      "name": "LumpSumDistriAdjActuarialAmt",
+      "path": "LumpSumDistriAdjActuarialAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriAdjAverageTaxAmt",
+      "path": "LumpSumDistriAdjAverageTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriAdjTotTaxableAmt",
+      "path": "LumpSumDistriAdjTotTaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriAllowableTxblAmt",
+      "path": "LumpSumDistriAllowableTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriDeathBnftExclAmt",
+      "path": "LumpSumDistriDeathBnftExclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriMinAllwPercentAmt",
+      "path": "LumpSumDistriMinAllwPercentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriMultRecipientsCd",
+      "path": "LumpSumDistriMultRecipientsCd",
+      "type": "enum"
+    },
+    {
+      "name": "LumpSumDistriNetTaxableAmt",
+      "path": "LumpSumDistriNetTaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriOrdinaryIncmAmt",
+      "path": "LumpSumDistriOrdinaryIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@netUnrealizedAppreciationAmt",
+      "path": "LumpSumDistriOrdinaryIncmAmt/@netUnrealizedAppreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@netUnrealizedAppreciationCd",
+      "path": "LumpSumDistriOrdinaryIncmAmt/@netUnrealizedAppreciationCd",
+      "type": "enum"
+    },
+    {
+      "name": "LumpSumDistriPctAdjTxblAmt",
+      "path": "LumpSumDistriPctAdjTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriProratedTxblAmt",
+      "path": "LumpSumDistriProratedTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriTaxOnPercentAmt",
+      "path": "LumpSumDistriTaxOnPercentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriTentAvgTaxAmt",
+      "path": "LumpSumDistriTentAvgTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriTotalTaxableAmt",
+      "path": "LumpSumDistriTotalTaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistriTxblAdjActrlAmt",
+      "path": "LumpSumDistriTxblAdjActrlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumDistributionTaxAmt",
+      "path": "LumpSumDistributionTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumMinDistriAllowanceAmt",
+      "path": "LumpSumMinDistriAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumNetAdjTotalTaxableAmt",
+      "path": "LumpSumNetAdjTotalTaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LumpSumRsdlAnnuityAvgTaxAmt",
+      "path": "LumpSumRsdlAnnuityAvgTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@waivedShortMethodAmt",
+      "path": "PenaltyAmt/@waivedShortMethodAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PriorYearDistributionInd",
+      "path": "PriorYearDistributionInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifyingAge5YearMemberInd",
+      "path": "QualifyingAge5YearMemberInd",
+      "type": "bool"
+    },
+    {
+      "name": "RolloverInd",
+      "path": "RolloverInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "@waivedLiteralRegularMethodCd",
+      "path": "TotalPenaltyAmt/@waivedLiteralRegularMethodCd",
+      "type": "enum"
+    },
+    {
+      "name": "@waivedRegularMethodAmt",
+      "path": "TotalPenaltyAmt/@waivedRegularMethodAmt",
+      "type": "usd"
+    }
+  ]
+}

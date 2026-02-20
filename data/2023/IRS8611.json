@@ -1,0 +1,146 @@
+{
+  "form_id": "IRS8611",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AcceleratedPortionOfCreditAmt",
+      "path": "AcceleratedPortionOfCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcceleratedPrtnOfUnsdCreditAmt",
+      "path": "AcceleratedPrtnOfUnsdCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcceleratedPrtnRecapturedAmt",
+      "path": "AcceleratedPrtnRecapturedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BIN",
+      "path": "BIN",
+      "type": "unknown"
+    },
+    {
+      "name": "BuildingForeignAddress",
+      "path": "BuildingForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BuildingUSAddress",
+      "path": "BuildingUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "CUSIPNum",
+      "path": "CUSIPNum",
+      "type": "string"
+    },
+    {
+      "name": "CarryforwardCreditAmt",
+      "path": "CarryforwardCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditRecapturePercentRt",
+      "path": "CreditRecapturePercentRt",
+      "type": "decimal"
+    },
+    {
+      "name": "CreditsIncludedAmt",
+      "path": "CreditsIncludedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditsSubjectToRecaptureAmt",
+      "path": "CreditsSubjectToRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DecreaseInQualifiedBasisPctRt",
+      "path": "DecreaseInQualifiedBasisPctRt",
+      "type": "decimal"
+    },
+    {
+      "name": "FlowThruEntityRecaptureAmt",
+      "path": "FlowThruEntityRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestOnRecaptureAmt",
+      "path": "InterestOnRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section42j5Cd",
+      "path": "InterestOnRecaptureAmt/@section42j5Cd",
+      "type": "enum"
+    },
+    {
+      "name": "IssueDt",
+      "path": "IssueDt",
+      "type": "date"
+    },
+    {
+      "name": "IssueNm",
+      "path": "IssueNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "IssuerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "IssuerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "MissingCUSIPReasonCd",
+      "path": "MissingCUSIPReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetRecaptureAmt",
+      "path": "NetRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYTotalCreditsOnForm8586Amt",
+      "path": "PYTotalCreditsOnForm8586Amt",
+      "type": "usd"
+    },
+    {
+      "name": "PlacedInServiceDt",
+      "path": "PlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "RecaptureAmt",
+      "path": "RecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecaptureTaxAmt",
+      "path": "RecaptureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRecaptureAmt",
+      "path": "TotalRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSubjectToRecaptureAmt",
+      "path": "TotalSubjectToRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedCreditRedByAccelPrtnAmt",
+      "path": "UnusedCreditRedByAccelPrtnAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "form_id": "IRS5713ScheduleB",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "IsraelBoycottedInd",
+      "path": "IsraelBoycottedInd",
+      "type": "bool"
+    },
+    {
+      "name": "OperationTaxesAndIncome",
+      "path": "OperationTaxesAndIncome",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@countryCd",
+      "path": "OtherInd/@countryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotBoycottOperationsFrgnTxsAmt",
+      "path": "TotBoycottOperationsFrgnTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFSCTaxableIncmByctOprAmt",
+      "path": "TotalFSCTaxableIncmByctOprAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalICDISCTxblIncmByctOprAmt",
+      "path": "TotalICDISCTxblIncmByctOprAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIntntlByctIncmPrortShrAmt",
+      "path": "TotalIntntlByctIncmPrortShrAmt",
+      "type": "usd"
+    }
+  ]
+}

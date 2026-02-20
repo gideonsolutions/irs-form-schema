@@ -1,0 +1,206 @@
+{
+  "form_id": "IRS1040ScheduleH",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AddnlMedicareTaxWithholdingAmt",
+      "path": "AddnlMedicareTaxWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedForEINReasonCd",
+      "path": "AppliedForEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "CombinedFUTATaxPlusNetTaxesAmt",
+      "path": "CombinedFUTATaxPlusNetTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployerEIN",
+      "path": "EmployerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "EmployerNameControlTxt",
+      "path": "EmployerNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HouseholdEmployerNm",
+      "path": "HouseholdEmployerNm",
+      "type": "string"
+    },
+    {
+      "name": "HsldEmplFedIncmTaxWithheldInd",
+      "path": "HsldEmplFedIncmTaxWithheldInd",
+      "type": "bool"
+    },
+    {
+      "name": "HsldEmplPdCashWageOverLmtCYInd",
+      "path": "HsldEmplPdCashWageOverLmtCYInd",
+      "type": "bool"
+    },
+    {
+      "name": "HsldEmplPdCashWageOvrLmtQtrInd",
+      "path": "HsldEmplPdCashWageOvrLmtQtrInd",
+      "type": "bool"
+    },
+    {
+      "name": "HsldEmplPdTotCashWageAnyQtrInd",
+      "path": "HsldEmplPdTotCashWageAnyQtrInd",
+      "type": "bool"
+    },
+    {
+      "name": "HsldEmplStateDisabilityPymtAmt",
+      "path": "HsldEmplStateDisabilityPymtGrp/HsldEmplStateDisabilityPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HsldEmplStateDisabilityPymtCd",
+      "path": "HsldEmplStateDisabilityPymtGrp/HsldEmplStateDisabilityPymtCd",
+      "type": "enum"
+    },
+    {
+      "name": "MedicareTaxCashWagesAmt",
+      "path": "MedicareTaxCashWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicareTaxWithheldAmt",
+      "path": "MedicareTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayAllStateUnemplContriInd",
+      "path": "PayAllStateUnemplContriInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequiredToFileForm1040Ind",
+      "path": "RequiredToFileForm1040Ind",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SocialSecurityTaxAmt",
+      "path": "SocialSecurityTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxCashWagesAmt",
+      "path": "SocialSecurityTaxCashWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotMedcrTaxCashWagesAddnlWhAmt",
+      "path": "TotMedcrTaxCashWagesAddnlWhAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotSocSecMedcrAndFedIncmTaxAmt",
+      "path": "TotSocSecMedcrAndFedIncmTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxHouseholdEmplCalcAmt",
+      "path": "TotalTaxHouseholdEmplCalcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblFUTAWagesAlsoTxblUnemplInd",
+      "path": "TxblFUTAWagesAlsoTxblUnemplInd",
+      "type": "bool"
+    },
+    {
+      "name": "CreditReductionStateWrkshtInd",
+      "path": "UnemplFundMultiStateGroup/CreditReductionStateWrkshtInd",
+      "type": "bool"
+    },
+    {
+      "name": "FUTATaxAmt",
+      "path": "UnemplFundMultiStateGroup/FUTATaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FUTATaxCreditMaxAllowedAmt",
+      "path": "UnemplFundMultiStateGroup/FUTATaxCreditMaxAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossFUTATaxCreditAmt",
+      "path": "UnemplFundMultiStateGroup/GrossFUTATaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeFUTACreditAmt",
+      "path": "UnemplFundMultiStateGroup/TentativeFUTACreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCashWagesSubjFUTATaxAmt",
+      "path": "UnemplFundMultiStateGroup/TotalCashWagesSubjFUTATaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalContriStateUnemplFundAmt",
+      "path": "UnemplFundMultiStateGroup/TotalContriStateUnemplFundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUnemplAdditionalTaxCrAmt",
+      "path": "UnemplFundMultiStateGroup/TotalUnemplAdditionalTaxCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnemplSmallerTaxAdjustmentAmt",
+      "path": "UnemplFundMultiStateGroup/UnemplSmallerTaxAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnemploymentStateTaxGroup",
+      "path": "UnemplFundMultiStateGroup/UnemploymentStateTaxGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "ContriPaidToStateUnemplFundAmt",
+      "path": "UnemplFundSingleStateGroup/ContriPaidToStateUnemplFundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FUTATaxAmt",
+      "path": "UnemplFundSingleStateGroup/FUTATaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StateCd",
+      "path": "UnemplFundSingleStateGroup/StateCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalCashWagesSubjFUTATaxAmt",
+      "path": "UnemplFundSingleStateGroup/TotalCashWagesSubjFUTATaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnemploymentFundZeroRateCd",
+      "path": "UnemplFundSingleStateGroup/UnemploymentFundZeroRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "UnemplPaidOnlyOneStateInd",
+      "path": "UnemplPaidOnlyOneStateInd",
+      "type": "bool"
+    }
+  ]
+}

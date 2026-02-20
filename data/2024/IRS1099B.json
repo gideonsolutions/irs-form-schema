@@ -1,0 +1,271 @@
+{
+  "form_id": "IRS1099B",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AccruedMarketDiscountAmt",
+      "path": "AccruedMarketDiscountAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcquiredDt",
+      "path": "AcquiredDt",
+      "type": "date"
+    },
+    {
+      "name": "BarterAmt",
+      "path": "BarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BasisReportedInd",
+      "path": "BasisReportedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CUSIPNum",
+      "path": "CUSIPNum",
+      "type": "string"
+    },
+    {
+      "name": "CYOpenCntrctProfitLossAmt",
+      "path": "CYOpenCntrctProfitLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CntrctAggregateProfitLossAmt",
+      "path": "CntrctAggregateProfitLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CollectiblesInd",
+      "path": "CollectiblesInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorrectedInd",
+      "path": "CorrectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CostOrOtherBasisAmt",
+      "path": "CostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FATCAFilingRequirementInd",
+      "path": "FATCAFilingRequirementInd",
+      "type": "bool"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "Form1099BStateLocalTaxGrp",
+      "path": "Form1099BStateLocalTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "LocalAbbreviationCdTxt",
+      "path": "Form1099BStateLocalTaxGrp/LocalAbbreviationCdTxt",
+      "type": "string"
+    },
+    {
+      "name": "LocalTaxWithheldAmt",
+      "path": "Form1099BStateLocalTaxGrp/LocalTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LocalityNm",
+      "path": "Form1099BStateLocalTaxGrp/LocalityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "Form1099BStateLocalTaxGrp/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "StateIdNum",
+      "path": "Form1099BStateLocalTaxGrp/StateIdNum",
+      "type": "string"
+    },
+    {
+      "name": "StateTaxWithheldAmt",
+      "path": "Form1099BStateLocalTaxGrp/StateTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form8949ApplicableCheckboxCd",
+      "path": "Form8949ApplicableCheckboxCd",
+      "type": "enum"
+    },
+    {
+      "name": "GrossProceedsInd",
+      "path": "GrossProceedsInd",
+      "type": "bool"
+    },
+    {
+      "name": "LongTermGainLossInd",
+      "path": "LongTermGainLossInd",
+      "type": "bool"
+    },
+    {
+      "name": "LossNotAllowedInd",
+      "path": "LossNotAllowedInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetProceedsInd",
+      "path": "NetProceedsInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncoveredSecurityInd",
+      "path": "NoncoveredSecurityInd",
+      "type": "bool"
+    },
+    {
+      "name": "NondeductibleWashSaleLossAmt",
+      "path": "NondeductibleWashSaleLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryInd",
+      "path": "OrdinaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "PayerEIN",
+      "path": "PayerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PayerForeignAddress",
+      "path": "PayerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PayerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PayerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PayerNameControlTxt",
+      "path": "PayerNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "PayerUSAddress",
+      "path": "PayerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PriorYrOpenCntrctProfitLossAmt",
+      "path": "PriorYrOpenCntrctProfitLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProceedsAmt",
+      "path": "ProceedsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "QOFInd",
+      "path": "QOFInd",
+      "type": "bool"
+    },
+    {
+      "name": "RecipientAccountNum",
+      "path": "RecipientAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "RecipientEIN",
+      "path": "RecipientEIN",
+      "type": "ein"
+    },
+    {
+      "name": "RecipientForeignAddress",
+      "path": "RecipientForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "RecipientForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "RecipientNm",
+      "path": "RecipientNm",
+      "type": "string"
+    },
+    {
+      "name": "RecipientSSN",
+      "path": "RecipientSSN",
+      "type": "tin"
+    },
+    {
+      "name": "RecipientUSAddress",
+      "path": "RecipientUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ShortTermGainLossInd",
+      "path": "ShortTermGainLossInd",
+      "type": "bool"
+    },
+    {
+      "name": "SoldOrDisposedDt",
+      "path": "SoldOrDisposedDt",
+      "type": "date"
+    },
+    {
+      "name": "TYClosedContractProfitLossAmt",
+      "path": "TYClosedContractProfitLossAmt",
+      "type": "usd"
+    }
+  ]
+}

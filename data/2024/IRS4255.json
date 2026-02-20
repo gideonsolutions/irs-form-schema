@@ -1,0 +1,176 @@
+{
+  "form_id": "IRS4255",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CrtnCrRcptrExPymtPnltyPropGrp",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp",
+      "type": "group"
+    },
+    {
+      "name": "AggregateCreditDecreaseAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/AggregateCreditDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AtRiskCreditRecaptureAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/AtRiskCreditRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBaseCYAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/CreditBaseCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBasePYAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/CreditBasePYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditRt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/CreditRt",
+      "type": "decimal"
+    },
+    {
+      "name": "InvestmentCrRecaptureTaxAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/InvestmentCrRecaptureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonqualifedFinanceRcptrTaxAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/NonqualifedFinanceRcptrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonqualifiedFinanceNetChgAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/NonqualifiedFinanceNetChgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlacedInServiceDt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/PlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "PriorYearsGeneralBusinessCrAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/PriorYearsGeneralBusinessCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyCeasedToQualifyDt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/PropertyCeasedToQualifyDt",
+      "type": "date"
+    },
+    {
+      "name": "PropertyQualifiedYearCnt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/PropertyQualifiedYearCnt",
+      "type": "int"
+    },
+    {
+      "name": "RecapturePct",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/RecapturePct",
+      "type": "decimal"
+    },
+    {
+      "name": "RefiguredCreditAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/RefiguredCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedGeneralBusCrNoCrAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/UnusedGeneralBusCrNoCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedGeneralBusCrOrigCrAmt",
+      "path": "CrtnCrRcptrExPymtPnltyPropGrp/UnusedGeneralBusCrOrigCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form3468PartIIIPYCreditsGrp",
+      "path": "Form3468PartIIIPYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form3468PartIVPYCreditsGrp",
+      "path": "Form3468PartIVPYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form3468PartVIPYCreditsGrp",
+      "path": "Form3468PartVIPYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form3468PartVPYCreditsGrp",
+      "path": "Form3468PartVPYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7207PYCreditsGrp",
+      "path": "Form7207PYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7210PYCreditsGrp",
+      "path": "Form7210PYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7211PYCreditsGrp",
+      "path": "Form7211PYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7213PartIIPYCreditsGrp",
+      "path": "Form7213PartIIPYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7218PYCreditsGrp",
+      "path": "Form7218PYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8835PYCreditsGrp",
+      "path": "Form8835PYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8911PartIPYCreditsGrp",
+      "path": "Form8911PartIPYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8933PYCreditsGrp",
+      "path": "Form8933PYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8936PartVPYCreditsGrp",
+      "path": "Form8936PartVPYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherChapter1PYCreditsGrp",
+      "path": "OtherChapter1PYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherNonChapter1PYCreditsGrp",
+      "path": "OtherNonChapter1PYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalAmountsPYCreditsGrp",
+      "path": "TotalAmountsPYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "@taxFromAttachedCd",
+      "path": "TotalUnusedGeneralBusCrOrigCrAmt/@taxFromAttachedCd",
+      "type": "enum"
+    }
+  ]
+}

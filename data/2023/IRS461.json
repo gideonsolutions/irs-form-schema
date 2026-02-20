@@ -1,0 +1,76 @@
+{
+  "form_id": "IRS461",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjustedTotalGainOrLossAmt",
+      "path": "AdjustedTotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedTotalIncomeAmt",
+      "path": "AdjustedTotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessIncomeLossAmt",
+      "path": "BusinessIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainLossAmt",
+      "path": "CapitalGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionOrLossAmt",
+      "path": "DeductionOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessBusinessLossAmt",
+      "path": "ExcessBusinessLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingStatusThresholdCd",
+      "path": "FilingStatusThresholdCd",
+      "type": "enum"
+    },
+    {
+      "name": "IncomeOrGainAmt",
+      "path": "IncomeOrGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFarmProfitLossAmt",
+      "path": "NetFarmProfitLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherGainLossAmt",
+      "path": "OtherGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeGainOrLossAmt",
+      "path": "OtherIncomeGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentalRealEstateIncomeLossAmt",
+      "path": "RentalRealEstateIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainOrLossAmt",
+      "path": "TotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeOrLossAmt",
+      "path": "TotalIncomeOrLossAmt",
+      "type": "usd"
+    }
+  ]
+}

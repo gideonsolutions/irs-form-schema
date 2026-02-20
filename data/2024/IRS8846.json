@@ -1,0 +1,46 @@
+{
+  "form_id": "IRS8846",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "@creditIndicator",
+      "path": "CarrybackCredit/@creditIndicator",
+      "type": "unknown"
+    },
+    {
+      "name": "CrForEmplrSSAndMedcrTxsAmt",
+      "path": "CrForEmplrSSAndMedcrTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditableTipsAmt",
+      "path": "CreditableTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearCreditAmt",
+      "path": "CurrentYearCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmplWageExceededMaxAmtInd",
+      "path": "EmplWageExceededMaxAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "TipsNotSubjectToCreditAmt",
+      "path": "TipsNotSubjectToCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCrTipsAndEmplrSSMedcrAmt",
+      "path": "TotalCrTipsAndEmplrSSMedcrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTipsReceivedAmt",
+      "path": "TotalTipsReceivedAmt",
+      "type": "usd"
+    }
+  ]
+}

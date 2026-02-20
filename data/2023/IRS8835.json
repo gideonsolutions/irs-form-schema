@@ -1,0 +1,381 @@
+{
+  "form_id": "IRS8835",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "@fiscalYearTaxpayerCd",
+      "path": "@fiscalYearTaxpayerCd",
+      "type": "enum"
+    },
+    {
+      "name": "ACNameplateCapNAInd",
+      "path": "ACNameplateCapNAInd",
+      "type": "bool"
+    },
+    {
+      "name": "ACNameplateCapOthEgyPropInd",
+      "path": "ACNameplateCapOthEgyPropInd",
+      "type": "bool"
+    },
+    {
+      "name": "              @aCNameplateCapOthEgyPropKWQty",
+      "path": "ACNameplateCapOthEgyPropInd/              @aCNameplateCapOthEgyPropKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ACNameplateCapSolarEgyPropInd",
+      "path": "ACNameplateCapSolarEgyPropInd",
+      "type": "bool"
+    },
+    {
+      "name": "@aCNameplateCapSolarEgyKWQty",
+      "path": "ACNameplateCapSolarEgyPropInd/@aCNameplateCapSolarEgyKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ACNameplateCapWindEgyPropInd",
+      "path": "ACNameplateCapWindEgyPropInd",
+      "type": "bool"
+    },
+    {
+      "name": "              @aCNameplateCapWindEgyPropKWQty",
+      "path": "ACNameplateCapWindEgyPropInd/              @aCNameplateCapWindEgyPropKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AdjustedCreditReductionAmt",
+      "path": "AdjustedCreditReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocatedToBeneficiariesAmt",
+      "path": "AllocatedToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBeforeReductionAmt",
+      "path": "CreditBeforeReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBeforeReductionFncAmt",
+      "path": "CreditBeforeReductionFncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBeforeReductionPctAmt",
+      "path": "CreditBeforeReductionPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBfrPhaseoutAdjustmentAmt",
+      "path": "CreditBfrPhaseoutAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DCSolarEnergyPropCapacityInd",
+      "path": "DCSolarEnergyPropCapacityInd",
+      "type": "bool"
+    },
+    {
+      "name": "@dCSolarEnergyPropCapKWQty",
+      "path": "DCSolarEnergyPropCapacityInd/@dCSolarEnergyPropCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DomesticContentBonusCreditAmt",
+      "path": "DomesticContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EgyComBonusCrNotQlfyInd",
+      "path": "EgyComBonusCrNotQlfyInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectivePaymentAmt",
+      "path": "ElectivePaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EnergyCommunityBonusCreditAmt",
+      "path": "EnergyCommunityBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsAndCoopsCreditAmt",
+      "path": "EstatesTrustsAndCoopsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExistingFacilityExpansionInd",
+      "path": "ExistingFacilityExpansionInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityConstructionStartDt",
+      "path": "FacilityConstructionStartDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityRqrNotStsfdInd",
+      "path": "FacilityRqrNotStsfdInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityTaxExemptBondFncAmt",
+      "path": "FacilityTaxExemptBondFncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityTypeDesc",
+      "path": "FacilityTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FcltyConstrBeganBfrSpcfdDtInd",
+      "path": "FcltyConstrBeganBfrSpcfdDtInd",
+      "type": "bool"
+    },
+    {
+      "name": "FcltyStsfyWgAprntcshpRqrInd",
+      "path": "FcltyStsfyWgAprntcshpRqrInd",
+      "type": "bool"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldGthrmlAmt",
+      "path": "KwHrsPrdcdAndSoldGthrmlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldGthrmlQty",
+      "path": "KwHrsPrdcdAndSoldGthrmlQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldHydropowerQty",
+      "path": "KwHrsPrdcdAndSoldHydropowerQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldHydropwrCrAmt",
+      "path": "KwHrsPrdcdAndSoldHydropwrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldLndfllGasQty",
+      "path": "KwHrsPrdcdAndSoldLndfllGasQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldLndfllGsCrAmt",
+      "path": "KwHrsPrdcdAndSoldLndfllGsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldSolarCrAmt",
+      "path": "KwHrsPrdcdAndSoldSolarCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldSolarQty",
+      "path": "KwHrsPrdcdAndSoldSolarQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldTrashCrAmt",
+      "path": "KwHrsPrdcdAndSoldTrashCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldTrashQty",
+      "path": "KwHrsPrdcdAndSoldTrashQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldWindCrAmt",
+      "path": "KwHrsPrdcdAndSoldWindCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KwHrsPrdcdAndSoldWindQty",
+      "path": "KwHrsPrdcdAndSoldWindQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KwHrsPrdcdSoldClsLoopBmssCrAmt",
+      "path": "KwHrsPrdcdSoldClsLoopBmssCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KwHrsPrdcdSoldClsLoopBmssQty",
+      "path": "KwHrsPrdcdSoldClsLoopBmssQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KwHrsPrdcdSoldMarineRnwblCrAmt",
+      "path": "KwHrsPrdcdSoldMarineRnwblCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KwHrsPrdcdSoldMarineRnwblQty",
+      "path": "KwHrsPrdcdSoldMarineRnwblQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KwHrsPrdcdSoldOffshrWindCrAmt",
+      "path": "KwHrsPrdcdSoldOffshrWindCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KwHrsPrdcdSoldOffshrWindQty",
+      "path": "KwHrsPrdcdSoldOffshrWindQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KwHrsPrdcdSoldOpenLoopBmssQty",
+      "path": "KwHrsPrdcdSoldOpenLoopBmssQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KwHrsPrdcdSoldOpenLopBmssCrAmt",
+      "path": "KwHrsPrdcdSoldOpenLopBmssCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NANameplateCapacityDCInd",
+      "path": "NANameplateCapacityDCInd",
+      "type": "bool"
+    },
+    {
+      "name": "NAQlfyEgyComBonusCrInd",
+      "path": "NAQlfyEgyComBonusCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetWindFacilityPercentageAmt",
+      "path": "NetWindFacilityPercentageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PhaseoutAdjustmentRt",
+      "path": "PhaseoutAdjustmentRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ProjectNetOutputUnder1MWInd",
+      "path": "ProjectNetOutputUnder1MWInd",
+      "type": "bool"
+    },
+    {
+      "name": "PropertyQualifyDomBonusCrInd",
+      "path": "PropertyQualifyDomBonusCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyEgyComBonusCrInd",
+      "path": "QlfyEgyComBonusCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyFcltsDomCntntEgyComCrAmt",
+      "path": "QlfyFcltsDomCntntEgyComCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedFacilitiesIncrCrAmt",
+      "path": "QualifiedFacilitiesIncrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RenewableElectricityProdCrAmt",
+      "path": "RenewableElectricityProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrCrBfrReductionFncPctAmt",
+      "path": "SmllrCrBfrReductionFncPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllowedTaxCreditAmt",
+      "path": "TotalAllowedTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalForCreditRtUnder45b4AAmt",
+      "path": "TotalForCreditRtUnder45b4AAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPhaseoutAdjustmentAmt",
+      "path": "TotalPhaseoutAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WindFacilityAmt",
+      "path": "WindFacilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WindFacilityPercentageAmt",
+      "path": "WindFacilityPercentageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WindFacilityPercentageYr2Amt",
+      "path": "WindFacilityPercentageYr2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "WindFacilityYr2Amt",
+      "path": "WindFacilityYr2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "WindFacilityYr3Amt",
+      "path": "WindFacilityYr3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "WindFcltyConstrPctYr3Amt",
+      "path": "WindFcltyConstrPctYr3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "WindFcltyConstrPhaseOutCrAmt",
+      "path": "WindFcltyConstrPhaseOutCrAmt",
+      "type": "usd"
+    }
+  ]
+}

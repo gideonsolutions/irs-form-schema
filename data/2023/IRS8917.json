@@ -1,0 +1,41 @@
+{
+  "form_id": "IRS8917",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "Student",
+      "path": "Student",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQualifiedExpensesAmt",
+      "path": "TotalQualifiedExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TuitionAndFeesDedAmt",
+      "path": "TuitionAndFeesDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TuitionAndFeesDedIncmLessCrAmt",
+      "path": "TuitionAndFeesDedIncmLessCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TuitionAndFeesDedMoreLimitInd",
+      "path": "TuitionAndFeesDedMoreLimitInd",
+      "type": "bool"
+    },
+    {
+      "name": "TuitionAndFeesDedOthCreditAmt",
+      "path": "TuitionAndFeesDedOthCreditAmt",
+      "type": "usd"
+    }
+  ]
+}

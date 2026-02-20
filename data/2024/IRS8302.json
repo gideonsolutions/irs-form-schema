@@ -1,0 +1,51 @@
+{
+  "form_id": "IRS8302",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "BankAccountNum",
+      "path": "BankAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "BankAccountTypeCd",
+      "path": "BankAccountTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BankName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BankName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "CityNm",
+      "type": "string"
+    },
+    {
+      "name": "DepositMethodCd",
+      "path": "DepositMethodCd",
+      "type": "enum"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "StateCd",
+      "path": "StateCd",
+      "type": "enum"
+    }
+  ]
+}

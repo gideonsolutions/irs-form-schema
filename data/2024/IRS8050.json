@@ -1,0 +1,31 @@
+{
+  "form_id": "IRS8050",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "BankAccountNum",
+      "path": "BankAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "CheckingAccountInd",
+      "path": "CheckingAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "SavingsAccountInd",
+      "path": "SavingsAccountInd",
+      "type": "bool"
+    }
+  ]
+}

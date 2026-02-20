@@ -1,0 +1,41 @@
+{
+  "form_id": "IRS8932",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CurrentYearCredit",
+      "path": "CurrentYearCredit",
+      "type": "unknown"
+    },
+    {
+      "name": "DifferentialWagePaymentAdjAmt",
+      "path": "DifferentialWagePaymentAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DifferentialWagePaymentCrAmt",
+      "path": "DifferentialWagePaymentCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DifferentialWagePaymentEligAmt",
+      "path": "DifferentialWagePaymentEligAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DifferentialWagePaymentNetAmt",
+      "path": "DifferentialWagePaymentNetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DifferentialWagePymtAllocnAmt",
+      "path": "DifferentialWagePymtAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DifferentialWgPymtCoopEstsAmt",
+      "path": "DifferentialWgPymtCoopEstsAmt",
+      "type": "usd"
+    }
+  ]
+}

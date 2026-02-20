@@ -1,0 +1,71 @@
+{
+  "form_id": "IRS8716",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "@backupElectionCd",
+      "path": "@backupElectionCd",
+      "type": "enum"
+    },
+    {
+      "name": "@filedPursuantToSect30191002Cd",
+      "path": "@filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "AdoptingInd",
+      "path": "AdoptingInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangingToInd",
+      "path": "ChangingToInd",
+      "type": "bool"
+    },
+    {
+      "name": "EffectiveEndDt",
+      "path": "EffectiveEndDt",
+      "type": "date"
+    },
+    {
+      "name": "LastFiledReturnEndDt",
+      "path": "LastFiledReturnEndDt",
+      "type": "date"
+    },
+    {
+      "name": "PartnershipInd",
+      "path": "PartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonalServiceCorporationInd",
+      "path": "PersonalServiceCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequiredTaxYearEndDt",
+      "path": "RequiredTaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "RetainingInd",
+      "path": "RetainingInd",
+      "type": "bool"
+    },
+    {
+      "name": "SCorporationInd",
+      "path": "SCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "TelephoneNum",
+      "path": "TelephoneNum",
+      "type": "string"
+    }
+  ]
+}

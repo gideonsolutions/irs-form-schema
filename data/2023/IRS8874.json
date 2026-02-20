@@ -1,0 +1,26 @@
+{
+  "form_id": "IRS8874",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CDETotalCreditAmt",
+      "path": "CDETotalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearCreditInfo",
+      "path": "CurrentYearCreditInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "NewMarketsCreditAmt",
+      "path": "NewMarketsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "TotalCreditAmt",
+      "type": "usd"
+    }
+  ]
+}

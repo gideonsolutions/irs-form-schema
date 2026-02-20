@@ -1,0 +1,111 @@
+{
+  "form_id": "IRS8912",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AlternativeMinimumTaxAmt",
+      "path": "AlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BondInformation",
+      "path": "BondInformation",
+      "type": "unknown"
+    },
+    {
+      "name": "BondNotOnForm1097BTCGrp",
+      "path": "BondNotOnForm1097BTCGrp",
+      "type": "group"
+    },
+    {
+      "name": "CarryforwardPYBondCreditAmt",
+      "path": "CarryforwardPYBondCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainAllowableCreditsAmt",
+      "path": "CertainAllowableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditPriorYearMinimumTaxAmt",
+      "path": "CreditPriorYearMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAllowableCreditAmt",
+      "path": "CurrentYearAllowableCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstTrCYBondCrAmt",
+      "path": "EstTrCYBondCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateOrTrustAllocatedBenefAmt",
+      "path": "EstateOrTrustAllocatedBenefAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralBusinessCreditAmt",
+      "path": "GeneralBusinessCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeTaxAmt",
+      "path": "NetIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NewCleanEnergyBondAmt",
+      "path": "NewCleanEnergyBondAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularTaxBeforeCreditAmt",
+      "path": "RegularTaxBeforeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumRegularTaxAndAltMinTxAmt",
+      "path": "SumRegularTaxAndAltMinTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllForm1097BTCAmt",
+      "path": "TotalAllForm1097BTCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "TotalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditsAmt",
+      "path": "TotalCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NewCleanEnergyBondAmt",
+      "path": "TotalForm8912BondCreditGrp/NewCleanEnergyBondAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllForm1097BTCAmt",
+      "path": "TotalForm8912BondCreditGrp/TotalAllForm1097BTCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherNotRptF1097BTCAmt",
+      "path": "TotalOtherNotRptF1097BTCAmt",
+      "type": "usd"
+    }
+  ]
+}

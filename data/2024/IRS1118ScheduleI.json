@@ -1,0 +1,141 @@
+{
+  "form_id": "IRS1118ScheduleI",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CombForeignOilAndGasIncomeAmt",
+      "path": "CombForeignOilAndGasIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessSection907aLimitationAmt",
+      "path": "ExcessSection907aLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "ForeignOilAndGasIncomeTaxes",
+      "path": "ForeignOilAndGasIncomeTaxes",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignCorpMissingEINReasonCd",
+      "path": "ForeignOilAndGasIncomeTaxes/ForeignCorpMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignCorporationEIN",
+      "path": "ForeignOilAndGasIncomeTaxes/ForeignCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "OilGasExtractionTxsDeemedPdAmt",
+      "path": "ForeignOilAndGasIncomeTaxes/OilGasExtractionTxsDeemedPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OilGasExtractionTxsPaidAccrAmt",
+      "path": "ForeignOilAndGasIncomeTaxes/OilGasExtractionTxsPaidAccrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HighestRateTaxCalcSect11bAmt",
+      "path": "HighestRateTaxCalcSect11bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionForeignOilGasTaxesAmt",
+      "path": "ReductionForeignOilGasTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SmllrCYForeignOilandGasTxsAmt",
+      "path": "SmllrCYForeignOilandGasTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCYCarryoverFrgnOilAndTxAmt",
+      "path": "TotCYCarryoverFrgnOilAndTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GroForeignOilRelatedIncomeAmt",
+      "path": "TotForeignOilAndGasIncomeTaxes/GroForeignOilRelatedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GroFrgnOilGasExtractionIncmAmt",
+      "path": "TotForeignOilAndGasIncomeTaxes/GroFrgnOilGasExtractionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InclusionsSect951a1Or951AAmt",
+      "path": "TotForeignOilAndGasIncomeTaxes/InclusionsSect951a1Or951AAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherGrossIncomeAmt",
+      "path": "TotForeignOilAndGasIncomeTaxes/OtherGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossIncomeAmt",
+      "path": "TotForeignOilAndGasIncomeTaxes/TotalGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApportionedShareDeductionAmt",
+      "path": "TotalsFrgnOilGasExtAndDedTaxes/ApportionedShareDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DefinitelyAllocableDedAmt",
+      "path": "TotalsFrgnOilGasExtAndDedTaxes/DefinitelyAllocableDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OilGasExtractionTxsDeemedPdAmt",
+      "path": "TotalsFrgnOilGasExtAndDedTaxes/OilGasExtractionTxsDeemedPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OilGasExtractionTxsPaidAccrAmt",
+      "path": "TotalsFrgnOilGasExtAndDedTaxes/OilGasExtractionTxsPaidAccrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "TotalsFrgnOilGasExtAndDedTaxes/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllocableDeductionsAmt",
+      "path": "TotalsFrgnOilGasExtAndDedTaxes/TotalAllocableDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOilGasExtractionTaxesAmt",
+      "path": "TotalsFrgnOilGasExtAndDedTaxes/TotalOilGasExtractionTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TreatyCountryCd",
+      "path": "TreatyCountryCd",
+      "type": "enum"
+    }
+  ]
+}

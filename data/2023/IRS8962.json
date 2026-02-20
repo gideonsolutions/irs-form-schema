@@ -1,0 +1,191 @@
+{
+  "form_id": "IRS8962",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdditionalTaxLimitationAmt",
+      "path": "AdditionalTaxLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndMonthNumberCd",
+      "path": "AltCalcForMarriagePrimaryGrp/EndMonthNumberCd",
+      "type": "enum"
+    },
+    {
+      "name": "FamilySizeCnt",
+      "path": "AltCalcForMarriagePrimaryGrp/FamilySizeCnt",
+      "type": "int"
+    },
+    {
+      "name": "MonthlyContributionAmt",
+      "path": "AltCalcForMarriagePrimaryGrp/MonthlyContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StartMonthNumberCd",
+      "path": "AltCalcForMarriagePrimaryGrp/StartMonthNumberCd",
+      "type": "enum"
+    },
+    {
+      "name": "EndMonthNumberCd",
+      "path": "AltCalcForMarriageSpouseGrp/EndMonthNumberCd",
+      "type": "enum"
+    },
+    {
+      "name": "FamilySizeCnt",
+      "path": "AltCalcForMarriageSpouseGrp/FamilySizeCnt",
+      "type": "int"
+    },
+    {
+      "name": "MonthlyContributionAmt",
+      "path": "AltCalcForMarriageSpouseGrp/MonthlyContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StartMonthNumberCd",
+      "path": "AltCalcForMarriageSpouseGrp/StartMonthNumberCd",
+      "type": "enum"
+    },
+    {
+      "name": "AnnualContributionAmt",
+      "path": "AnnualContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualAdvancedPTCAmt",
+      "path": "AnnualPTCCalculationGrp/AnnualAdvancedPTCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualContributionAmt",
+      "path": "AnnualPTCCalculationGrp/AnnualContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualMaxPremiumAssistanceAmt",
+      "path": "AnnualPTCCalculationGrp/AnnualMaxPremiumAssistanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualPremiumAmt",
+      "path": "AnnualPTCCalculationGrp/AnnualPremiumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualPremiumSLCSPAmt",
+      "path": "AnnualPTCCalculationGrp/AnnualPremiumSLCSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualPremiumTaxCreditAllwAmt",
+      "path": "AnnualPTCCalculationGrp/AnnualPremiumTaxCreditAllwAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableFigureRt",
+      "path": "ApplicableFigureRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ExcessAdvncPaymentAmt",
+      "path": "ExcessAdvncPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalPovertyLevelPct",
+      "path": "FederalPovertyLevelPct",
+      "type": "decimal"
+    },
+    {
+      "name": "FederalPovertyTableLocCd",
+      "path": "FederalPovertyTableLocCd",
+      "type": "enum"
+    },
+    {
+      "name": "FullYrCoverage1095AInd",
+      "path": "FullYrCoverage1095AInd",
+      "type": "bool"
+    },
+    {
+      "name": "HouseholdIncomeAmt",
+      "path": "HouseholdIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MarriedFilingSeparatelyExcInd",
+      "path": "MarriedFilingSeparatelyExcInd",
+      "type": "bool"
+    },
+    {
+      "name": "ModifiedAGIAmt",
+      "path": "ModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MonthlyContriHealthCareCvrAmt",
+      "path": "MonthlyContriHealthCareCvrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MonthlyPTCCalculationGrp",
+      "path": "MonthlyPTCCalculationGrp",
+      "type": "group"
+    },
+    {
+      "name": "PovertyLevelAmt",
+      "path": "PovertyLevelAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PremiumTaxCreditTaxLiabAmt",
+      "path": "PremiumTaxCreditTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QSEHRAInd",
+      "path": "QSEHRAInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReconciledPremiumTaxCreditAmt",
+      "path": "ReconciledPremiumTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SharePolicyMarriedAltCalcInd",
+      "path": "SharePolicyMarriedAltCalcInd",
+      "type": "bool"
+    },
+    {
+      "name": "SharedPolicyAllocationGrp",
+      "path": "SharedPolicyAllocationGrp",
+      "type": "group"
+    },
+    {
+      "name": "SharedPolicyAllocationInfoInd",
+      "path": "SharedPolicyAllocationInfoInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalAdvancedPTCAmt",
+      "path": "TotalAdvancedPTCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDependentsModifiedAGIAmt",
+      "path": "TotalDependentsModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExemptionsCnt",
+      "path": "TotalExemptionsCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalPremiumTaxCreditAmt",
+      "path": "TotalPremiumTaxCreditAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "form_id": "IRS8868",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AccountingPeriodChangeInd",
+      "path": "Automatic6MonthExtensionOfTime/AccountingPeriodChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "Automatic6MonthExtensionOfTime/BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FaxNum",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/FaxNum",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonNm",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "Automatic6MonthExtensionOfTime/BooksInCareOfDetail/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "EstTaxPymtAndRfdblCreditAmt",
+      "path": "Automatic6MonthExtensionOfTime/EstTaxPymtAndRfdblCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExtensionDt",
+      "path": "Automatic6MonthExtensionOfTime/ExtensionDt",
+      "type": "date"
+    },
+    {
+      "name": "ExtensionReturnCd",
+      "path": "Automatic6MonthExtensionOfTime/ExtensionReturnCd",
+      "type": "enum"
+    },
+    {
+      "name": "FinalReturnInd",
+      "path": "Automatic6MonthExtensionOfTime/FinalReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "GroupExemptionNum",
+      "path": "Automatic6MonthExtensionOfTime/GroupExemptionNum",
+      "type": "string"
+    },
+    {
+      "name": "InitialReturnInd",
+      "path": "Automatic6MonthExtensionOfTime/InitialReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrgHasNoOfficeInUSInd",
+      "path": "Automatic6MonthExtensionOfTime/OrgHasNoOfficeInUSInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartialGroupInd",
+      "path": "Automatic6MonthExtensionOfTime/PartialGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "TentativeTaxAmt",
+      "path": "Automatic6MonthExtensionOfTime/TentativeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WholeGroupInd",
+      "path": "Automatic6MonthExtensionOfTime/WholeGroupInd",
+      "type": "bool"
+    }
+  ]
+}

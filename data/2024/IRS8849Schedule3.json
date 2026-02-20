@@ -1,0 +1,281 @@
+{
+  "form_id": "IRS8849Schedule3",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "Amt",
+      "path": "AlternativeFuelCredit/CompressedGasFromBiomass/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "AlternativeFuelCredit/CompressedGasFromBiomass/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "AlternativeFuelCredit/CompressedGasFromBiomass/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AlternativeFuelCredit/CompressedGasFromBiomass/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "AlternativeFuelCredit/CompressedNaturalGas/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "AlternativeFuelCredit/CompressedNaturalGas/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "AlternativeFuelCredit/CompressedNaturalGas/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AlternativeFuelCredit/CompressedNaturalGas/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "AlternativeFuelCredit/LiquefiedGasFromBiomass/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "AlternativeFuelCredit/LiquefiedGasFromBiomass/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "AlternativeFuelCredit/LiquefiedGasFromBiomass/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AlternativeFuelCredit/LiquefiedGasFromBiomass/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "AlternativeFuelCredit/LiquefiedNaturalGas/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "AlternativeFuelCredit/LiquefiedNaturalGas/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "AlternativeFuelCredit/LiquefiedNaturalGas/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AlternativeFuelCredit/LiquefiedNaturalGas/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "AlternativeFuelCredit/LiquefiedPetroleumGas/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "AlternativeFuelCredit/LiquefiedPetroleumGas/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "AlternativeFuelCredit/LiquefiedPetroleumGas/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AlternativeFuelCredit/LiquefiedPetroleumGas/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "AlternativeFuelCredit/LiquidFuelFromBiomass/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "AlternativeFuelCredit/LiquidFuelFromBiomass/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "AlternativeFuelCredit/LiquidFuelFromBiomass/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AlternativeFuelCredit/LiquidFuelFromBiomass/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "AlternativeFuelCredit/LiquidFuelFromCoal/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "AlternativeFuelCredit/LiquidFuelFromCoal/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "AlternativeFuelCredit/LiquidFuelFromCoal/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AlternativeFuelCredit/LiquidFuelFromCoal/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "AlternativeFuelCredit/PSeriesFuels/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "AlternativeFuelCredit/PSeriesFuels/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "AlternativeFuelCredit/PSeriesFuels/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AlternativeFuelCredit/PSeriesFuels/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "BiodieselOrRnwblDslMixtureCr",
+      "path": "BiodieselOrRnwblDslMixtureCr",
+      "type": "unknown"
+    },
+    {
+      "name": "Amt",
+      "path": "BiodieselOrRnwblDslMixtureCr/AgriBiodieselMixtures/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "BiodieselOrRnwblDslMixtureCr/AgriBiodieselMixtures/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "BiodieselOrRnwblDslMixtureCr/AgriBiodieselMixtures/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "BiodieselOrRnwblDslMixtureCr/AgriBiodieselMixtures/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "BiodieselOrRnwblDslMixtureCr/BiodieselMixtures/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "BiodieselOrRnwblDslMixtureCr/BiodieselMixtures/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "BiodieselOrRnwblDslMixtureCr/BiodieselMixtures/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "BiodieselOrRnwblDslMixtureCr/BiodieselMixtures/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "BiodieselOrRnwblDslMixtureCr/RenewableDieselMixtures/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "BiodieselOrRnwblDslMixtureCr/RenewableDieselMixtures/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "BiodieselOrRnwblDslMixtureCr/RenewableDieselMixtures/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "BiodieselOrRnwblDslMixtureCr/RenewableDieselMixtures/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "BiodieselOrRnwblDslMixtureCr/SustainableAviationFuel/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "BiodieselOrRnwblDslMixtureCr/SustainableAviationFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "BiodieselOrRnwblDslMixtureCr/SustainableAviationFuel/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "BiodieselOrRnwblDslMixtureCr/SustainableAviationFuel/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimantRegistrationNum",
+      "path": "ClaimantRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "EmployerIdentificationNumber",
+      "path": "EmployerIdentificationNumber",
+      "type": "unknown"
+    },
+    {
+      "name": "MissingEINReason",
+      "path": "MissingEINReason",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalRefundAmt",
+      "path": "TotalRefundAmt",
+      "type": "usd"
+    }
+  ]
+}

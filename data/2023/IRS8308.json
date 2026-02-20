@@ -1,0 +1,496 @@
+{
+  "form_id": "IRS8308",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "EIN",
+      "path": "/TransfereeBeneficialOwnerGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "SSN",
+      "path": "/TransfereeBeneficialOwnerGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "EIN",
+      "path": "/TransferorBeneficialOwnerGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "SSN",
+      "path": "/TransferorBeneficialOwnerGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "EIN",
+      "path": "/TransferorGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "SSN",
+      "path": "/TransferorGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "@summaryDormantFDEIndicator",
+      "path": "@summaryDormantFDEIndicator",
+      "type": "unknown"
+    },
+    {
+      "name": "CapitalPrtshpIntTrnsfrInd",
+      "path": "CapitalPrtshpIntTrnsfrInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrtnrLvlDeemedSaleGainLossAmt",
+      "path": "DmdSect1250UnrcptrGainLossGrp/PrtnrLvlDeemedSaleGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpInterestTransferredPct",
+      "path": "DmdSect1250UnrcptrGainLossGrp/PrtshpInterestTransferredPct",
+      "type": "decimal"
+    },
+    {
+      "name": "PrtshpLvlDeemedSaleGainLossAmt",
+      "path": "DmdSect1250UnrcptrGainLossGrp/PrtshpLvlDeemedSaleGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPrtshpUnitsTransferredCnt",
+      "path": "DmdSect1250UnrcptrGainLossGrp/TotalPrtshpUnitsTransferredCnt",
+      "type": "int"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd ",
+      "path": "ForeignAddress/ForeignPostalCd ",
+      "type": "unknown"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "OtherPrtshpIntTrnsfrInd",
+      "path": "OtherPrtshpIntTrnsfrInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnershipEIN",
+      "path": "PartnershipEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PartnershipName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PartnershipName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PreferredPrtshpIntTrnsfrInd",
+      "path": "PreferredPrtshpIntTrnsfrInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProfitsPrtshpIntTrnsfrInd",
+      "path": "ProfitsPrtshpIntTrnsfrInd",
+      "type": "bool"
+    },
+    {
+      "name": "SaleOrExchangeDt",
+      "path": "SaleOrExchangeDt",
+      "type": "date"
+    },
+    {
+      "name": "PrtnrLvlDeemedSaleGainLossAmt",
+      "path": "Section1h5GainLossGrp/PrtnrLvlDeemedSaleGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpInterestTransferredPct",
+      "path": "Section1h5GainLossGrp/PrtshpInterestTransferredPct",
+      "type": "decimal"
+    },
+    {
+      "name": "PrtshpLvlDeemedSaleGainLossAmt",
+      "path": "Section1h5GainLossGrp/PrtshpLvlDeemedSaleGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPrtshpUnitsTransferredCnt",
+      "path": "Section1h5GainLossGrp/TotalPrtshpUnitsTransferredCnt",
+      "type": "int"
+    },
+    {
+      "name": "PrtnrLvlDeemedSaleGainLossAmt",
+      "path": "Section751aGainLossGrp/PrtnrLvlDeemedSaleGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpInterestTransferredPct",
+      "path": "Section751aGainLossGrp/PrtshpInterestTransferredPct",
+      "type": "decimal"
+    },
+    {
+      "name": "PrtshpLvlDeemedSaleGainLossAmt",
+      "path": "Section751aGainLossGrp/PrtshpLvlDeemedSaleGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPrtshpUnitsTransferredCnt",
+      "path": "Section751aGainLossGrp/TotalPrtshpUnitsTransferredCnt",
+      "type": "int"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransfereeBeneficialOwnerGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransfereeBeneficialOwnerGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TransfereeBeneficialOwnerGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TransfereeBeneficialOwnerGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TransfereeBeneficialOwnerGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "TransfereeBeneficialOwnerGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd ",
+      "path": "TransfereeBeneficialOwnerGrp/ForeignAddress/ForeignPostalCd ",
+      "type": "unknown"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "TransfereeBeneficialOwnerGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "TransfereeBeneficialOwnerGrp/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TransfereeBeneficialOwnerGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TransfereeBeneficialOwnerGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TransfereeBeneficialOwnerGrp/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "TransfereeBeneficialOwnerGrp/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "TransfereeBeneficialOwnerGrp/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransfereeGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransfereeGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "TransfereeGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TransfereeGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TransfereeGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TransfereeGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "TransfereeGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd ",
+      "path": "TransfereeGrp/ForeignAddress/ForeignPostalCd ",
+      "type": "unknown"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "TransfereeGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "TransfereeGrp/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "SSN",
+      "path": "TransfereeGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TransfereeGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TransfereeGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TransfereeGrp/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "TransfereeGrp/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "TransfereeGrp/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransferorBeneficialOwnerGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransferorBeneficialOwnerGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TransferorBeneficialOwnerGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TransferorBeneficialOwnerGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TransferorBeneficialOwnerGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "TransferorBeneficialOwnerGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd ",
+      "path": "TransferorBeneficialOwnerGrp/ForeignAddress/ForeignPostalCd ",
+      "type": "unknown"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "TransferorBeneficialOwnerGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "TransferorBeneficialOwnerGrp/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TransferorBeneficialOwnerGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TransferorBeneficialOwnerGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TransferorBeneficialOwnerGrp/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "TransferorBeneficialOwnerGrp/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "TransferorBeneficialOwnerGrp/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "TransferorForeignInd",
+      "path": "TransferorForeignInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransferorGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransferorGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TransferorGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TransferorGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TransferorGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "TransferorGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd ",
+      "path": "TransferorGrp/ForeignAddress/ForeignPostalCd ",
+      "type": "unknown"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "TransferorGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "TransferorGrp/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TransferorGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TransferorGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TransferorGrp/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "TransferorGrp/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "TransferorGrp/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "USAddress/ZIPCd",
+      "type": "enum"
+    }
+  ]
+}

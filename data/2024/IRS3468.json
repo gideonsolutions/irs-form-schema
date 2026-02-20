@@ -1,0 +1,1491 @@
+{
+  "form_id": "IRS3468",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "  @historicStructureCertOnFile",
+      "path": "             CertifiedHistoricStructures/  @historicStructureCertOnFile",
+      "type": "unknown"
+    },
+    {
+      "name": "ACLess1MWEPESect48a12BAmt",
+      "path": "ACLess1MWEPESect48a12BAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ACNameplateCapKWQty",
+      "path": "ACNameplateCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ACNameplateCapWindEgyPropKWQty",
+      "path": "ACNameplateCapWindEgyPropKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AdjustedBasisOfBuildingAmt",
+      "path": "AdjustedBasisOfBuildingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdvancedCoalBaseTechnologyAmt",
+      "path": "AdvancedCoalBaseTechnologyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssAdvncMfrInvstCrAmt",
+      "path": "BssAdvncMfrInvstCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYACLess1MWEPESect48a12BAmt",
+      "path": "CYACLess1MWEPESect48a12BAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcAdvCoalBasedTechAmt",
+      "path": "CalcAdvCoalBasedTechAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcAdvancedCoalBaseTechAmt",
+      "path": "CalcAdvancedCoalBaseTechAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssAdvncMfrInvstCrAmt",
+      "path": "CalcBssAdvncMfrInvstCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEgyFncCrOrBondPctAmt",
+      "path": "CalcEgyFncCrOrBondPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcGasCombCycPropInvstCrAmt",
+      "path": "CalcGasCombCycPropInvstCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcOtherQlfyInvstPropCrAmt",
+      "path": "CalcOtherQlfyInvstPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyGasificationPropBssAmt",
+      "path": "CalcQlfyGasificationPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyInvAdvncEgyProjPropAmt",
+      "path": "CalcQlfyInvAdvncEgyProjPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcTaxExemptBondsPct",
+      "path": "CalcTaxExemptBondsPct",
+      "type": "decimal"
+    },
+    {
+      "name": "CalcTotEgyCrAndTxExmptBondAmt",
+      "path": "CalcTotEgyCrAndTxExmptBondAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcTotEgyFncCrOrBondAmt",
+      "path": "CalcTotEgyFncCrOrBondAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcTotEgyFncOrBondPct",
+      "path": "CalcTotEgyFncOrBondPct",
+      "type": "decimal"
+    },
+    {
+      "name": "CalcTotalEnergyCreditAmt",
+      "path": "CalcTotalEnergyCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertHistoricStructureCrAmt",
+      "path": "CertHistoricStructureCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcClnHydrgn45Vb2APropBssAmt",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/CalcClnHydrgn45Vb2APropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcClnHydrgn45Vb2BPropBssAmt",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/CalcClnHydrgn45Vb2BPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcClnHydrgn45Vb2CPropBssAmt",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/CalcClnHydrgn45Vb2CPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcClnHydrgn45Vb2DPropBssAmt",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/CalcClnHydrgn45Vb2DPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CleanHydrgn45Vb2APropBasisAmt",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/CleanHydrgn45Vb2APropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CleanHydrgn45Vb2BPropBasisAmt",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/CleanHydrgn45Vb2BPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CleanHydrgn45Vb2CPropBasisAmt",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/CleanHydrgn45Vb2CPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CleanHydrgn45Vb2DPropBasisAmt",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/CleanHydrgn45Vb2DPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWStsfdWgReqSectAPct",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/NetOutLss1MWStsfdWgReqSectAPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWStsfdWgReqSectBPct",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/NetOutLss1MWStsfdWgReqSectBPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWStsfdWgReqSectCPct",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/NetOutLss1MWStsfdWgReqSectCPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TotClnHydrgnFcltsEgyPropCrAmt",
+      "path": "ClnHydrgnProdFcltsEgyPropCrGrp/TotClnHydrgnFcltsEgyPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DCNameplateCapKWQty",
+      "path": "DCNameplateCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DCSmallWindEnergyPropCapInd",
+      "path": "DCSmallWindEnergyPropCapInd",
+      "type": "bool"
+    },
+    {
+      "name": "DCSolarEnergyPropCapacityInd",
+      "path": "DCSolarEnergyPropCapacityInd",
+      "type": "bool"
+    },
+    {
+      "name": "DOEControlNum",
+      "path": "DOEControlNum",
+      "type": "string"
+    },
+    {
+      "name": "DomContentCrNotQlfyInd",
+      "path": "DomContentCrNotQlfyInd",
+      "type": "bool"
+    },
+    {
+      "name": "DomContentCrNotStsfdPctInd",
+      "path": "DomContentCrNotStsfdPctInd",
+      "type": "bool"
+    },
+    {
+      "name": "DomContentCrStsfdPctInd",
+      "path": "DomContentCrStsfdPctInd",
+      "type": "bool"
+    },
+    {
+      "name": "EgyComBonusCrNotQlfyInd",
+      "path": "EgyComBonusCrNotQlfyInd",
+      "type": "bool"
+    },
+    {
+      "name": "EgyComBonusCrNotStsfdPctInd",
+      "path": "EgyComBonusCrNotStsfdPctInd",
+      "type": "bool"
+    },
+    {
+      "name": "EgyComBonusCrStsfdPctInd",
+      "path": "EgyComBonusCrStsfdPctInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectricCurrentTypeCd",
+      "path": "ElectricCurrentTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "EnergyStorageCapacityKWHQty",
+      "path": "EnergyStorageCapacityKWHQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EnergyStorageInd",
+      "path": "EnergyStorageInd",
+      "type": "bool"
+    },
+    {
+      "name": "AllocLmtEnergyCapKWQty",
+      "path": "EnergyStorageTechPropCrGrp/AllocLmtEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "EnergyStorageTechPropCrGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEgyStorageTechPropBasisAmt",
+      "path": "EnergyStorageTechPropCrGrp/CalcEgyStorageTechPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "EnergyStorageTechPropCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcLowIncmSolarWindBonusCrAmt",
+      "path": "EnergyStorageTechPropCrGrp/CalcLowIncmSolarWindBonusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "EnergyStorageTechPropCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "EnergyStorageTechPropCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyStorageTechPropBasisAmt",
+      "path": "EnergyStorageTechPropCrGrp/EnergyStorageTechPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncmComAllocRedFctrRt",
+      "path": "EnergyStorageTechPropCrGrp/LowIncmComAllocRedFctrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComFullBonusCrAmt",
+      "path": "EnergyStorageTechPropCrGrp/LowIncmComFullBonusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncmComPctRedFctrRt",
+      "path": "EnergyStorageTechPropCrGrp/LowIncmComPctRedFctrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComRedFctrCrAmt",
+      "path": "EnergyStorageTechPropCrGrp/LowIncmComRedFctrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncmSolarWindBonusCrPct",
+      "path": "EnergyStorageTechPropCrGrp/LowIncmSolarWindBonusCrPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "EnergyStorageTechPropCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalEnergyStorTechPropCrAmt",
+      "path": "EnergyStorageTechPropCrGrp/TotalEnergyStorTechPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExistingFacilityExpansionInd",
+      "path": "ExistingFacilityExpansionInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityConstructionStartDt",
+      "path": "FacilityConstructionStartDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityEmissionsValueOrRt",
+      "path": "FacilityEmissionsValueOrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityTaxExemptBondFncAmt",
+      "path": "FacilityTaxExemptBondFncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityTypeDesc",
+      "path": "FacilityTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "FacilityUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "FacilityUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "FacilityUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "FacilityUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "FacilityUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "FncFcltyEgyFncCrOrBondAmt",
+      "path": "FncFcltyEgyFncCrOrBondAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "GeothermalEnergyPropCrGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "GeothermalEnergyPropCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcGeothermalEgyPropBasisAmt",
+      "path": "GeothermalEnergyPropCrGrp/CalcGeothermalEgyPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "GeothermalEnergyPropCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "GeothermalEnergyPropCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "GeothermalEnergyPropBasisAmt",
+      "path": "GeothermalEnergyPropCrGrp/GeothermalEnergyPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "GeothermalEnergyPropCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "BssGthrmlPropHtPumpSysAmt",
+      "path": "GeothermalHeatPumpSystemCrGrp/BssGthrmlPropHtPumpSysAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssGthrmlPropHtPumpSysAmt",
+      "path": "GeothermalHeatPumpSystemCrGrp/CalcBssGthrmlPropHtPumpSysAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "GeothermalHeatPumpSystemCrGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "GeothermalHeatPumpSystemCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "GeothermalHeatPumpSystemCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "GeothermalHeatPumpSystemCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "GeothermalHeatPumpSystemCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalGthrmlHeatPumpSysCrAmt",
+      "path": "GeothermalHeatPumpSystemCrGrp/TotalGthrmlHeatPumpSysCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BasisOfHeatAndPowerPropAmt",
+      "path": "HeatAndPowerSystemPropCrGrp/BasisOfHeatAndPowerPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBasisOfHeatAndPowerPropAmt",
+      "path": "HeatAndPowerSystemPropCrGrp/CalcBasisOfHeatAndPowerPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "HeatAndPowerSystemPropCrGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "HeatAndPowerSystemPropCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcHeatAndPowerPropCapAmt",
+      "path": "HeatAndPowerSystemPropCrGrp/CalcHeatAndPowerPropCapAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "HeatAndPowerSystemPropCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "HeatAndPowerSystemPropCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "MegaHorsepowerPct",
+      "path": "HeatAndPowerSystemPropCrGrp/MegaHorsepowerPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "HeatAndPowerSystemPropCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalHeatAndPowerSysPropCrAmt",
+      "path": "HeatAndPowerSystemPropCrGrp/TotalHeatAndPowerSysPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvstCreditLesseeSect48dGrp",
+      "path": "InvstCreditLesseeSect48dGrp",
+      "type": "group"
+    },
+    {
+      "name": "               BusinessNameLine1Txt",
+      "path": "InvstCreditLesseeSect48dGrp/LessorBusinessName/               BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "InvstCreditLesseeSect48dInd",
+      "path": "InvstCreditLesseeSect48dInd",
+      "type": "bool"
+    },
+    {
+      "name": "InvstIntgrtGasCombCycPropAmt",
+      "path": "InvstIntgrtGasCombCycPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LessSmllrEgyFncCrOrBondAmt",
+      "path": "LessSmllrEgyFncCrOrBondAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "MicrogridControllersPropCrGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "MicrogridControllersPropCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcMicrogridControllersBssAmt",
+      "path": "MicrogridControllersPropCrGrp/CalcMicrogridControllersBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "MicrogridControllersPropCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "MicrogridControllersPropCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "MicrogridControllersPropBssAmt",
+      "path": "MicrogridControllersPropCrGrp/MicrogridControllersPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "MicrogridControllersPropCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TotMicrogridControllersPropAmt",
+      "path": "MicrogridControllersPropCrGrp/TotMicrogridControllersPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NPSApprovalDt",
+      "path": "NPSApprovalDt",
+      "type": "date"
+    },
+    {
+      "name": "NPSProjectNum",
+      "path": "NPSProjectNum",
+      "type": "string"
+    },
+    {
+      "name": "NameplateCapKWQty",
+      "path": "NameplateCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NetOutLess1MWOrThermalEgyCd",
+      "path": "NetOutLess1MWOrThermalEgyCd",
+      "type": "enum"
+    },
+    {
+      "name": "NotApplicableInd",
+      "path": "NotApplicableInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrigPassThroughEntityEIN",
+      "path": "OrigPassThroughEntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "OrigPassThruEntityEIN",
+      "path": "OrigPassThruEntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "OtherCertifiedHistStrctrCrAmt",
+      "path": "OtherCertifiedHistStrctrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherEnergyPropOrFacilityInd",
+      "path": "OtherEnergyPropOrFacilityInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherQlfyInvstPropertyBasisAmt",
+      "path": "OtherQlfyInvstPropertyBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassThroughEntityEIN",
+      "path": "PassThroughEntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PowerCapacityRatingKWQty",
+      "path": "PowerCapacityRatingKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Pre1936BuildingCreditAmt",
+      "path": "Pre1936BuildingCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Prior170hDeductionInd",
+      "path": "Prior170hDeductionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Prior170hDeductionNPSProjNum",
+      "path": "Prior170hDeductionNPSProjNum",
+      "type": "string"
+    },
+    {
+      "name": "ProjWageRqrNAInd",
+      "path": "ProjWageRqrNAInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProjWageRqrNotStsfdInd",
+      "path": "ProjWageRqrNotStsfdInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProjWageRqrSect48Ce5And6Ind",
+      "path": "ProjWageRqrSect48Ce5And6Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ProjWageRqrSect48a10And11Ind",
+      "path": "ProjWageRqrSect48a10And11Ind",
+      "type": "bool"
+    },
+    {
+      "name": "PropOrFacilityTypeDesc",
+      "path": "PropOrFacilityTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "ProvisionalEmissionRtApprvlInd",
+      "path": "ProvisionalEmissionRtApprvlInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyAdvCoalBasedTechAmt",
+      "path": "QlfyAdvCoalBasedTechAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocLmtEnergyCapKWQty",
+      "path": "QlfyCleanElectricityFcltyGrp/AllocLmtEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ApplcblCalcDomCntntBonusCrAmt",
+      "path": "QlfyCleanElectricityFcltyGrp/ApplcblCalcDomCntntBonusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssQlfyInvstSect48Eb1Amt",
+      "path": "QlfyCleanElectricityFcltyGrp/BssQlfyInvstSect48Eb1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Calc2BssQlfyInvstSect48Eb1Amt",
+      "path": "QlfyCleanElectricityFcltyGrp/Calc2BssQlfyInvstSect48Eb1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Calc3BssQlfyInvstSect48Eb1Amt",
+      "path": "QlfyCleanElectricityFcltyGrp/Calc3BssQlfyInvstSect48Eb1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssQlfyInvstSect48Eb1Amt",
+      "path": "QlfyCleanElectricityFcltyGrp/CalcBssQlfyInvstSect48Eb1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "QlfyCleanElectricityFcltyGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "QlfyCleanElectricityFcltyGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcSolarWindOthrCapAllocAmt",
+      "path": "QlfyCleanElectricityFcltyGrp/CalcSolarWindOthrCapAllocAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "QlfyCleanElectricityFcltyGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "QlfyCleanElectricityFcltyGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmSolarWindBonusCrPct",
+      "path": "QlfyCleanElectricityFcltyGrp/LowIncmSolarWindBonusCrPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "QlfyCleanElectricityFcltyGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "SolarWindOthrCapAllocRt",
+      "path": "QlfyCleanElectricityFcltyGrp/SolarWindOthrCapAllocRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TotQlfyElecFcltySect48Eb1CrAmt",
+      "path": "QlfyCleanElectricityFcltyGrp/TotQlfyElecFcltySect48Eb1CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssQlfyInvstEgyStorTechAmt",
+      "path": "QlfyEgyStorTechGrp/BssQlfyInvstEgyStorTechAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssQlfyInvstEgyStorTechAmt",
+      "path": "QlfyEgyStorTechGrp/CalcBssQlfyInvstEgyStorTechAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "QlfyEgyStorTechGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "QlfyEgyStorTechGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "QlfyEgyStorTechGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "QlfyEgyStorTechGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "QlfyEgyStorTechGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalQlfyEgyStorTechCrAmt",
+      "path": "QlfyEgyStorTechGrp/TotalQlfyEgyStorTechCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyGasificationPropBssAmt",
+      "path": "QlfyGasificationPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyInterconnectionPropInd",
+      "path": "QlfyInterconnectionPropInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyInvAdvncEgyProjProp48CPct",
+      "path": "QlfyInvAdvncEgyProjProp48CPct",
+      "type": "decimal"
+    },
+    {
+      "name": "QlfyInvAdvncEnergyProjPropAmt",
+      "path": "QlfyInvAdvncEnergyProjPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocLmtEnergyCapKWQty",
+      "path": "QlfyInvstCreditFacilityPropGrp/AllocLmtEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "QlfyInvstCreditFacilityPropGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "QlfyInvstCreditFacilityPropGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcLowIncmSolarWindBonusCrAmt",
+      "path": "QlfyInvstCreditFacilityPropGrp/CalcLowIncmSolarWindBonusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyInvstFcltyPropBasisAmt",
+      "path": "QlfyInvstCreditFacilityPropGrp/CalcQlfyInvstFcltyPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "QlfyInvstCreditFacilityPropGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "QlfyInvstCreditFacilityPropGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComAllocRedFctrRt",
+      "path": "QlfyInvstCreditFacilityPropGrp/LowIncmComAllocRedFctrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComFullBonusCrAmt",
+      "path": "QlfyInvstCreditFacilityPropGrp/LowIncmComFullBonusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncmComPctRedFctrRt",
+      "path": "QlfyInvstCreditFacilityPropGrp/LowIncmComPctRedFctrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComRedFctrCrAmt",
+      "path": "QlfyInvstCreditFacilityPropGrp/LowIncmComRedFctrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncmSolarWindBonusCrPct",
+      "path": "QlfyInvstCreditFacilityPropGrp/LowIncmSolarWindBonusCrPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "QlfyInvstCreditFacilityPropGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "QlfyInvstFcltyPropBasisAmt",
+      "path": "QlfyInvstCreditFacilityPropGrp/QlfyInvstFcltyPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyInvstFacilityPropCrAmt",
+      "path": "QlfyInvstCreditFacilityPropGrp/TotQlfyInvstFacilityPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyRehabilitationExpendAmt",
+      "path": "QlfyRehabilitationExpendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyRehbltExpendIncurredAmt",
+      "path": "QlfyRehbltExpendIncurredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocLmtEnergyCapKWQty",
+      "path": "QlfySmallWindEnergyPropCrGrp/AllocLmtEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "QlfySmallWindEnergyPropCrGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "QlfySmallWindEnergyPropCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcLowIncmSolarWindBonusCrAmt",
+      "path": "QlfySmallWindEnergyPropCrGrp/CalcLowIncmSolarWindBonusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcWindEgyBssAfterSpcfdPrdAmt",
+      "path": "QlfySmallWindEnergyPropCrGrp/CalcWindEgyBssAfterSpcfdPrdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "QlfySmallWindEnergyPropCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "QlfySmallWindEnergyPropCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComAllocRedFctrRt",
+      "path": "QlfySmallWindEnergyPropCrGrp/LowIncmComAllocRedFctrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComFullBonusCrAmt",
+      "path": "QlfySmallWindEnergyPropCrGrp/LowIncmComFullBonusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncmComPctRedFctrRt",
+      "path": "QlfySmallWindEnergyPropCrGrp/LowIncmComPctRedFctrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComRedFctrCrAmt",
+      "path": "QlfySmallWindEnergyPropCrGrp/LowIncmComRedFctrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncmSolarWindBonusCrPct",
+      "path": "QlfySmallWindEnergyPropCrGrp/LowIncmSolarWindBonusCrPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "QlfySmallWindEnergyPropCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalSmallWindEnergyPropCrAmt",
+      "path": "QlfySmallWindEnergyPropCrGrp/TotalSmallWindEnergyPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WindEgyBssAfterSpcfdPrdAmt",
+      "path": "QlfySmallWindEnergyPropCrGrp/WindEgyBssAfterSpcfdPrdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "QualifiedBiogasPropertyCrGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "QualifiedBiogasPropertyCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyBiogasPropBasisAmt",
+      "path": "QualifiedBiogasPropertyCrGrp/CalcQlfyBiogasPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "QualifiedBiogasPropertyCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "QualifiedBiogasPropertyCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "QualifiedBiogasPropertyCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "QualifiedBiogasPropBasisAmt",
+      "path": "QualifiedBiogasPropertyCrGrp/QualifiedBiogasPropBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQualifiedBiogasPropCrAmt",
+      "path": "QualifiedBiogasPropertyCrGrp/TotalQualifiedBiogasPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AfterLmtFuelCellPropKwCapAmt",
+      "path": "QualifiedFuelCellPropCrGrp/AfterLmtFuelCellPropKwCapAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableFuelCellPropKWCapQty",
+      "path": "QualifiedFuelCellPropCrGrp/ApplicableFuelCellPropKWCapQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ApplicablePropKWCapAfterQty",
+      "path": "QualifiedFuelCellPropCrGrp/ApplicablePropKWCapAfterQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BasisQlfyFuelCellPropAcqAmt",
+      "path": "QualifiedFuelCellPropCrGrp/BasisQlfyFuelCellPropAcqAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssQlfyFuelCellPropAcqAmt",
+      "path": "QualifiedFuelCellPropCrGrp/CalcBssQlfyFuelCellPropAcqAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "QualifiedFuelCellPropCrGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "QualifiedFuelCellPropCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyFuelCellPropBssAmt",
+      "path": "QualifiedFuelCellPropCrGrp/CalcQlfyFuelCellPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyFuelCellPropBssKWAmt",
+      "path": "QualifiedFuelCellPropCrGrp/CalcQlfyFuelCellPropBssKWAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "QualifiedFuelCellPropCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "QualifiedFuelCellPropCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "QualifiedFuelCellPropCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "QualifiedFuelCellPropBssAmt",
+      "path": "QualifiedFuelCellPropCrGrp/QualifiedFuelCellPropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerQlfyFuelCellPropCrAmt",
+      "path": "QualifiedFuelCellPropCrGrp/SmallerQlfyFuelCellPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrQlfyApplcblFuelCellCrAmt",
+      "path": "QualifiedFuelCellPropCrGrp/SmllrQlfyApplcblFuelCellCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFuelCellBonusCreditAmt",
+      "path": "QualifiedFuelCellPropCrGrp/TotalFuelCellBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQlfyFuelCellPropCrAmt",
+      "path": "QualifiedFuelCellPropCrGrp/TotalQlfyFuelCellPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableMcrtrbnPropKWCapQty",
+      "path": "QualifiedMicroturbinePropCrGrp/ApplicableMcrtrbnPropKWCapQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcEnergyComBonusCrOtherAmt",
+      "path": "QualifiedMicroturbinePropCrGrp/CalcEnergyComBonusCrOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "QualifiedMicroturbinePropCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyMcrtrbnPropKwCapAmt",
+      "path": "QualifiedMicroturbinePropCrGrp/CalcQlfyMcrtrbnPropKwCapAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcQlfyMicroturbinePropBssAmt",
+      "path": "QualifiedMicroturbinePropCrGrp/CalcQlfyMicroturbinePropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "QualifiedMicroturbinePropCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "QualifiedMicroturbinePropCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "QualifiedMicroturbinePropCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "QlfyMicroturbinePropBssAmt",
+      "path": "QualifiedMicroturbinePropCrGrp/QlfyMicroturbinePropBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrQlfyMicroturbinePropCrAmt",
+      "path": "QualifiedMicroturbinePropCrGrp/SmllrQlfyMicroturbinePropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEnergyComBonusCrAmt",
+      "path": "QualifiedMicroturbinePropCrGrp/TotalEnergyComBonusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RehabilitationExpendElectInd",
+      "path": "RehabilitationExpendElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "RehabilitationPeriodBeginDt",
+      "path": "RehabilitationPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "RehabilitationPeriodEndDt",
+      "path": "RehabilitationPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ReportableEnergyCreditAmt",
+      "path": "ReportableEnergyCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect48CAllocationControlNum",
+      "path": "Sect48CAllocationControlNum",
+      "type": "string"
+    },
+    {
+      "name": "Sect48CEnergyComFacilityInd",
+      "path": "Sect48CEnergyComFacilityInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section48eOr48EhControlNum",
+      "path": "Section48eOr48EhControlNum",
+      "type": "string"
+    },
+    {
+      "name": "SemiconductorEquipMfrFcltyInd",
+      "path": "SemiconductorEquipMfrFcltyInd",
+      "type": "bool"
+    },
+    {
+      "name": "SemiconductorMfrFacilityInd",
+      "path": "SemiconductorMfrFacilityInd",
+      "type": "bool"
+    },
+    {
+      "name": "SmllrEgyFncCrOrBondAmt",
+      "path": "SmllrEgyFncCrOrBondAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrTotEgyCrOrTxExmptBondAmt",
+      "path": "SmllrTotEgyCrOrTxExmptBondAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocLmtEnergyCapKWQty",
+      "path": "SolarEnergyPropCrGrp/AllocLmtEnergyCapKWQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "SolarEnergyPropCrGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "SolarEnergyPropCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcLowIncmSolarWindBonusCrAmt",
+      "path": "SolarEnergyPropCrGrp/CalcLowIncmSolarWindBonusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcPropSolarIllmntnOrEgyAmt",
+      "path": "SolarEnergyPropCrGrp/CalcPropSolarIllmntnOrEgyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "SolarEnergyPropCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "SolarEnergyPropCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComAllocRedFctrRt",
+      "path": "SolarEnergyPropCrGrp/LowIncmComAllocRedFctrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComFullBonusCrAmt",
+      "path": "SolarEnergyPropCrGrp/LowIncmComFullBonusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncmComPctRedFctrRt",
+      "path": "SolarEnergyPropCrGrp/LowIncmComPctRedFctrRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LowIncmComRedFctrCrAmt",
+      "path": "SolarEnergyPropCrGrp/LowIncmComRedFctrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LowIncmSolarWindBonusCrPct",
+      "path": "SolarEnergyPropCrGrp/LowIncmSolarWindBonusCrPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "SolarEnergyPropCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "PropSolarIllmntnOrEgyBssAmt",
+      "path": "SolarEnergyPropCrGrp/PropSolarIllmntnOrEgyBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSolarEnergyPropCrAmt",
+      "path": "SolarEnergyPropCrGrp/TotalSolarEnergyPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SolarEnergyPropOrFacilityInd",
+      "path": "SolarEnergyPropOrFacilityInd",
+      "type": "bool"
+    },
+    {
+      "name": "SolarTrackingDeviceInd",
+      "path": "SolarTrackingDeviceInd",
+      "type": "bool"
+    },
+    {
+      "name": "SolarWindCrComEconomicBnftInd",
+      "path": "SolarWindCrComEconomicBnftInd",
+      "type": "bool"
+    },
+    {
+      "name": "SolarWindCrComIndianLandInd",
+      "path": "SolarWindCrComIndianLandInd",
+      "type": "bool"
+    },
+    {
+      "name": "SolarWindCrComNotQlfyInd",
+      "path": "SolarWindCrComNotQlfyInd",
+      "type": "bool"
+    },
+    {
+      "name": "SolarWindCrComRsdntlBldgInd",
+      "path": "SolarWindCrComRsdntlBldgInd",
+      "type": "bool"
+    },
+    {
+      "name": "SolarWindCrComSect45DeInd",
+      "path": "SolarWindCrComSect45DeInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpcfdDtAftrOrigRehbltCrClaimDt",
+      "path": "SpcfdDtAftrOrigRehbltCrClaimDt",
+      "type": "date"
+    },
+    {
+      "name": "ThermalStorSolarWindCnnctInd",
+      "path": "ThermalStorSolarWindCnnctInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotAdvncCoalAndGsfctnCrAmt",
+      "path": "TotAdvncCoalAndGsfctnCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBssQlfyInvstCrAdvncMfrAmt",
+      "path": "TotBssQlfyInvstCrAdvncMfrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotEgyCrLssSmllrTxExmptBondAmt",
+      "path": "TotEgyCrLssSmllrTxExmptBondAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyInvAdvncEgyProjPropAmt",
+      "path": "TotQlfyInvAdvncEgyProjPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyRehabilitationExpendAmt",
+      "path": "TotQlfyRehabilitationExpendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotReportableEgyFncCrAmt",
+      "path": "TotReportableEgyFncCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEnergyCreditsAmt",
+      "path": "TotalEnergyCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGeothermalEnergyPropCrAmt",
+      "path": "TotalGeothermalEnergyPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQlfyElecEgyStorTechCrAmt",
+      "path": "TotalQlfyElecEgyStorTechCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnsdCoopInvstAdvncEnergyCrAmt",
+      "path": "UnsdCoopInvstAdvncEnergyCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedCoopInvstCrAmt",
+      "path": "UnusedCoopInvstCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedCoopInvstGsfcnProjCrAmt",
+      "path": "UnusedCoopInvstGsfcnProjCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedCoopInvstMfrFcltyCrAmt",
+      "path": "UnusedCoopInvstMfrFcltyCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedCrRehbltEgyCrFromCoopAmt",
+      "path": "UnusedCrRehbltEgyCrFromCoopAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedCreditFromCoopAmt",
+      "path": "UnusedCreditFromCoopAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BssWasteEgyRcvryPropAmt",
+      "path": "WasteEnergyRecoveryPropCrGrp/BssWasteEgyRcvryPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcBssWasteEgyRcvryPropAmt",
+      "path": "WasteEnergyRecoveryPropCrGrp/CalcBssWasteEgyRcvryPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcDomContentBonusCreditAmt",
+      "path": "WasteEnergyRecoveryPropCrGrp/CalcDomContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEnergyComBonusCreditAmt",
+      "path": "WasteEnergyRecoveryPropCrGrp/CalcEnergyComBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomContentBonusCreditPct",
+      "path": "WasteEnergyRecoveryPropCrGrp/DomContentBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EnergyComBonusCreditPct",
+      "path": "WasteEnergyRecoveryPropCrGrp/EnergyComBonusCreditPct",
+      "type": "decimal"
+    },
+    {
+      "name": "NetOutLss1MWACOrStsfdWgReqPct",
+      "path": "WasteEnergyRecoveryPropCrGrp/NetOutLss1MWACOrStsfdWgReqPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalWasteEnergyRecoveryCrAmt",
+      "path": "WasteEnergyRecoveryPropCrGrp/TotalWasteEnergyRecoveryCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WindEnergyPropOrFacilityInd",
+      "path": "WindEnergyPropOrFacilityInd",
+      "type": "bool"
+    }
+  ]
+}

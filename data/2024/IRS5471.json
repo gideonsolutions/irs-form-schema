@@ -1,0 +1,376 @@
+{
+  "form_id": "IRS5471",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "@changeAnnualAccountingPeriodCd",
+      "path": "@changeAnnualAccountingPeriodCd",
+      "type": "enum"
+    },
+    {
+      "name": "@dormantForeignCorporationCd",
+      "path": "@dormantForeignCorporationCd",
+      "type": "enum"
+    },
+    {
+      "name": "AltInformationRevProc201940Ind",
+      "path": "AltInformationRevProc201940Ind",
+      "type": "bool"
+    },
+    {
+      "name": "AltnformationRevProc201940Cd",
+      "path": "AltnformationRevProc201940Cd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BranchOfficeInTheUS/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BranchOfficeInTheUS/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "BranchOfficeInTheUS/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonNm",
+      "path": "BranchOfficeInTheUS/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "USAddress",
+      "path": "BranchOfficeInTheUS/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "CategoryOfFiler1aInd",
+      "path": "CategoryOfFiler1aInd",
+      "type": "bool"
+    },
+    {
+      "name": "CategoryOfFiler1bInd",
+      "path": "CategoryOfFiler1bInd",
+      "type": "bool"
+    },
+    {
+      "name": "CategoryOfFiler1cInd",
+      "path": "CategoryOfFiler1cInd",
+      "type": "bool"
+    },
+    {
+      "name": "CategoryOfFiler2Ind",
+      "path": "CategoryOfFiler2Ind",
+      "type": "bool"
+    },
+    {
+      "name": "CategoryOfFiler3Ind",
+      "path": "CategoryOfFiler3Ind",
+      "type": "bool"
+    },
+    {
+      "name": "CategoryOfFiler4Ind",
+      "path": "CategoryOfFiler4Ind",
+      "type": "bool"
+    },
+    {
+      "name": "CategoryOfFiler5aInd",
+      "path": "CategoryOfFiler5aInd",
+      "type": "bool"
+    },
+    {
+      "name": "CategoryOfFiler5bInd",
+      "path": "CategoryOfFiler5bInd",
+      "type": "bool"
+    },
+    {
+      "name": "CategoryOfFiler5cInd",
+      "path": "CategoryOfFiler5cInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangeInTaxableYearNo898cInd",
+      "path": "ChangeInTaxableYearNo898cInd",
+      "type": "bool"
+    },
+    {
+      "name": "CountryUnderWhoseLawsIncCd",
+      "path": "CountryUnderWhoseLawsIncCd",
+      "type": "enum"
+    },
+    {
+      "name": "ElectionChangeInYear898cInd",
+      "path": "ElectionChangeInYear898cInd",
+      "type": "bool"
+    },
+    {
+      "name": "EmployerEIN",
+      "path": "EmployerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FilerTaxYearBeginDt",
+      "path": "FilerTaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "FilerTaxYearEndDt",
+      "path": "FilerTaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "FinalForm5471Ind",
+      "path": "FinalForm5471Ind",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignCorporation/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignCorporation/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "ForeignCorporation/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "USAddress",
+      "path": "ForeignCorporation/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "ForeignFinancialAssetInd",
+      "path": "ForeignFinancialAssetInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "FrgnCorpStatutoryOrResidentAgt/             BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "FrgnCorpStatutoryOrResidentAgt/             BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "FrgnCorpStatutoryOrResidentAgt/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonNm",
+      "path": "FrgnCorpStatutoryOrResidentAgt/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "USAddress",
+      "path": "FrgnCorpStatutoryOrResidentAgt/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FunctionalCurrencyCd",
+      "path": "FunctionalCurrencyCd",
+      "type": "enum"
+    },
+    {
+      "name": "InactivePrincipalBusActyCd",
+      "path": "InactivePrincipalBusActyCd",
+      "type": "enum"
+    },
+    {
+      "name": "IncorporationDt",
+      "path": "IncorporationDt",
+      "type": "date"
+    },
+    {
+      "name": "MissingEmployerEINReasonCd",
+      "path": "MissingEmployerEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonFilingThisReturn",
+      "path": "PersonFilingThisReturn",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PersonFilingThisReturn/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PersonFilingThisReturn/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PersonFilingThisReturn/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PersonFilingThisReturn/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PersonFilingThisReturn/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PersonFilingThisReturn/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "PersonFilingThisReturn/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "PersonFilingThisReturn/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonFilingThisReturn/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PersonFilingThisReturn/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PersonFilingThisReturn/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PersonFilingThisReturn/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "PersonFilingThisReturn/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "PersonFilingThisReturn/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonInformationIsFiledFor",
+      "path": "PersonInformationIsFiledFor",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonInformationIsFiledFor/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonWithRecordsCustody",
+      "path": "PersonWithRecordsCustody",
+      "type": "unknown"
+    },
+    {
+      "name": "PrevForeignEntityIdGrp",
+      "path": "PrevForeignEntityIdGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "PrevForeignEntityIdGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityDesc",
+      "path": "PrincipalBusinessActivityDesc",
+      "type": "string"
+    },
+    {
+      "name": "PrincipalPlaceOfBusCountryCd",
+      "path": "PrincipalPlaceOfBusCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "Section338gElectionInd",
+      "path": "Section338gElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section898cElectionInd",
+      "path": "Section898cElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxableIncomeOrNetLossAmt",
+      "path": "TaxableIncomeOrNetLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USAgentEIN",
+      "path": "USAgentEIN",
+      "type": "ein"
+    },
+    {
+      "name": "USAgentMissingEINReasonCd",
+      "path": "USAgentMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "USAgentSSN",
+      "path": "USAgentSSN",
+      "type": "tin"
+    },
+    {
+      "name": "USIncomeTaxPaidAfterCrAmt",
+      "path": "USIncomeTaxPaidAfterCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VotingStockOwnedPct",
+      "path": "VotingStockOwnedPct",
+      "type": "decimal"
+    }
+  ]
+}

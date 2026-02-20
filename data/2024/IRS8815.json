@@ -1,0 +1,151 @@
+{
+  "form_id": "IRS8815",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "EligibleEducationInstnGrp",
+      "path": "EligibleEducationInstnGrp",
+      "type": "group"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionFrgnAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionFrgnAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionFrgnAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionFrgnAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionFrgnAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionFrgnAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "EligibleInstitutionNm",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionNm",
+      "type": "string"
+    },
+    {
+      "name": "@coverdellEducationalSavAcctCd",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionNm/@coverdellEducationalSavAcctCd",
+      "type": "enum"
+    },
+    {
+      "name": "@qualifiedTuitionProgramCd",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionNm/@qualifiedTuitionProgramCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "EligibleEducationInstnGrp/EligibleInstitutionUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "EligiblePersonNm",
+      "path": "EligibleEducationInstnGrp/EligiblePersonNm",
+      "type": "string"
+    },
+    {
+      "name": "ExclBondIntExcessAGIAmt",
+      "path": "ExclBondIntExcessAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclBondIntExcessAGIRt",
+      "path": "ExclBondIntExcessAGIRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ExclBondIntFilingStatusLmtAmt",
+      "path": "ExclBondIntFilingStatusLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclBondIntModifiedAGIAmt",
+      "path": "ExclBondIntModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclBondIntOffsetAmt",
+      "path": "ExclBondIntOffsetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclBondIntTentativeBondIntAmt",
+      "path": "ExclBondIntTentativeBondIntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclBondIntTotNonTxEducBnftAmt",
+      "path": "ExclBondIntTotNonTxEducBnftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclBondIntTotPYBondIntAmt",
+      "path": "ExclBondIntTotPYBondIntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclBondIntTotQlfyEducExpnsAmt",
+      "path": "ExclBondIntTotQlfyEducExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclBondIntTxblEducBenefitAmt",
+      "path": "ExclBondIntTxblEducBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclBondIntTxblExpnsBondProcRt",
+      "path": "ExclBondIntTxblExpnsBondProcRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ExclBondTotPYBondProcAmt",
+      "path": "ExclBondTotPYBondProcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludableSavingsBondIntAmt",
+      "path": "ExcludableSavingsBondIntAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "form_id": "IRS1042ScheduleQ",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CorporationEIN",
+      "path": "CorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "CorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "CorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "QDDName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "QDDName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "QDDScheduleNum",
+      "path": "QDDScheduleNum",
+      "type": "string"
+    },
+    {
+      "name": "QDDTaxPeriodBeginDt",
+      "path": "QDDTaxPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "QDDTaxPeriodEndDt",
+      "path": "QDDTaxPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "QualifiedIntermediaryEIN",
+      "path": "QualifiedIntermediaryEIN",
+      "type": "ein"
+    },
+    {
+      "name": "SchRltdTaxPeriodBeginDt",
+      "path": "SchRltdTaxPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "SchRltdTaxPeriodEndDt",
+      "path": "SchRltdTaxPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "GrossAmt",
+      "path": "TotDivRcvdInEqtyDerivativesGrp/GrossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "TotDivRcvdInEqtyDerivativesGrp/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingTaxRt",
+      "path": "TotDivRcvdInEqtyDerivativesGrp/WithholdingTaxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TotQDDTaxPerSect309CIncmGrp",
+      "path": "TotQDDTaxPerSect309CIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalQDDScheduleNum",
+      "path": "TotalQDDScheduleNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "TotalQDDTaxPerSect309AGrp/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingTaxRt",
+      "path": "TotalQDDTaxPerSect309AGrp/WithholdingTaxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "GrossAmt",
+      "path": "TotalQDDTaxPerSect309BGrp/GrossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "TotalQDDTaxPerSect309BGrp/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingTaxRt",
+      "path": "TotalQDDTaxPerSect309BGrp/WithholdingTaxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "GrossAmt",
+      "path": "TotalQDDTaxPerSect309CGrp/GrossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "TotalQDDTaxPerSect309CGrp/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossAmt",
+      "path": "TotalSect871mAmountGrp/GrossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "TotalSect871mAmountGrp/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingTaxRt",
+      "path": "TotalSect871mAmountGrp/WithholdingTaxRt",
+      "type": "decimal"
+    }
+  ]
+}

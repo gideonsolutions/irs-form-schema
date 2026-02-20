@@ -1,0 +1,1554 @@
+{
+  "tax_year": 2023,
+  "form_count": 387,
+  "forms": {
+    "IRS1040": {
+      "field_count": 145,
+      "file": "IRS1040.json"
+    },
+    "IRS1040A": {
+      "field_count": 123,
+      "file": "IRS1040A.json"
+    },
+    "IRS1040EZ": {
+      "field_count": 57,
+      "file": "IRS1040EZ.json"
+    },
+    "IRS1040NR": {
+      "field_count": 153,
+      "file": "IRS1040NR.json"
+    },
+    "IRS1040NRScheduleA": {
+      "field_count": 13,
+      "file": "IRS1040NRScheduleA.json"
+    },
+    "IRS1040NRScheduleNEC": {
+      "field_count": 24,
+      "file": "IRS1040NRScheduleNEC.json"
+    },
+    "IRS1040NRScheduleOI": {
+      "field_count": 30,
+      "file": "IRS1040NRScheduleOI.json"
+    },
+    "IRS1040SS": {
+      "field_count": 99,
+      "file": "IRS1040SS.json"
+    },
+    "IRS1040SSPR": {
+      "field_count": 72,
+      "file": "IRS1040SSPR.json"
+    },
+    "IRS1040Schedule1": {
+      "field_count": 69,
+      "file": "IRS1040Schedule1.json"
+    },
+    "IRS1040Schedule2": {
+      "field_count": 42,
+      "file": "IRS1040Schedule2.json"
+    },
+    "IRS1040Schedule3": {
+      "field_count": 39,
+      "file": "IRS1040Schedule3.json"
+    },
+    "IRS1040Schedule8812": {
+      "field_count": 36,
+      "file": "IRS1040Schedule8812.json"
+    },
+    "IRS1040ScheduleA": {
+      "field_count": 29,
+      "file": "IRS1040ScheduleA.json"
+    },
+    "IRS1040ScheduleB": {
+      "field_count": 32,
+      "file": "IRS1040ScheduleB.json"
+    },
+    "IRS1040ScheduleC": {
+      "field_count": 81,
+      "file": "IRS1040ScheduleC.json"
+    },
+    "IRS1040ScheduleCEZ": {
+      "field_count": 21,
+      "file": "IRS1040ScheduleCEZ.json"
+    },
+    "IRS1040ScheduleD": {
+      "field_count": 49,
+      "file": "IRS1040ScheduleD.json"
+    },
+    "IRS1040ScheduleE": {
+      "field_count": 61,
+      "file": "IRS1040ScheduleE.json"
+    },
+    "IRS1040ScheduleEIC": {
+      "field_count": 10,
+      "file": "IRS1040ScheduleEIC.json"
+    },
+    "IRS1040ScheduleF": {
+      "field_count": 80,
+      "file": "IRS1040ScheduleF.json"
+    },
+    "IRS1040ScheduleH": {
+      "field_count": 56,
+      "file": "IRS1040ScheduleH.json"
+    },
+    "IRS1040ScheduleJ": {
+      "field_count": 22,
+      "file": "IRS1040ScheduleJ.json"
+    },
+    "IRS1040ScheduleLEP": {
+      "field_count": 3,
+      "file": "IRS1040ScheduleLEP.json"
+    },
+    "IRS1040ScheduleR": {
+      "field_count": 27,
+      "file": "IRS1040ScheduleR.json"
+    },
+    "IRS1040ScheduleSE": {
+      "field_count": 45,
+      "file": "IRS1040ScheduleSE.json"
+    },
+    "IRS1040X": {
+      "field_count": 99,
+      "file": "IRS1040X.json"
+    },
+    "IRS1041": {
+      "field_count": 143,
+      "file": "IRS1041.json"
+    },
+    "IRS1041ScheduleD": {
+      "field_count": 81,
+      "file": "IRS1041ScheduleD.json"
+    },
+    "IRS1041ScheduleI": {
+      "field_count": 76,
+      "file": "IRS1041ScheduleI.json"
+    },
+    "IRS1041ScheduleJ": {
+      "field_count": 36,
+      "file": "IRS1041ScheduleJ.json"
+    },
+    "IRS1041ScheduleK1": {
+      "field_count": 34,
+      "file": "IRS1041ScheduleK1.json"
+    },
+    "IRS1042": {
+      "field_count": 113,
+      "file": "IRS1042.json"
+    },
+    "IRS1042S": {
+      "field_count": 95,
+      "file": "IRS1042S.json"
+    },
+    "IRS1042ScheduleQ": {
+      "field_count": 26,
+      "file": "IRS1042ScheduleQ.json"
+    },
+    "IRS1065": {
+      "field_count": 67,
+      "file": "IRS1065.json"
+    },
+    "IRS1065BScheduleK1": {
+      "field_count": 39,
+      "file": "IRS1065BScheduleK1.json"
+    },
+    "IRS1065ScheduleB1": {
+      "field_count": 2,
+      "file": "IRS1065ScheduleB1.json"
+    },
+    "IRS1065ScheduleB2": {
+      "field_count": 5,
+      "file": "IRS1065ScheduleB2.json"
+    },
+    "IRS1065ScheduleC": {
+      "field_count": 7,
+      "file": "IRS1065ScheduleC.json"
+    },
+    "IRS1065ScheduleD": {
+      "field_count": 43,
+      "file": "IRS1065ScheduleD.json"
+    },
+    "IRS1065ScheduleK1": {
+      "field_count": 92,
+      "file": "IRS1065ScheduleK1.json"
+    },
+    "IRS1065ScheduleK2": {
+      "field_count": 253,
+      "file": "IRS1065ScheduleK2.json"
+    },
+    "IRS1065ScheduleK3": {
+      "field_count": 255,
+      "file": "IRS1065ScheduleK3.json"
+    },
+    "IRS1065ScheduleM3": {
+      "field_count": 304,
+      "file": "IRS1065ScheduleM3.json"
+    },
+    "IRS1099B": {
+      "field_count": 53,
+      "file": "IRS1099B.json"
+    },
+    "IRS1099DIV": {
+      "field_count": 47,
+      "file": "IRS1099DIV.json"
+    },
+    "IRS1099G": {
+      "field_count": 37,
+      "file": "IRS1099G.json"
+    },
+    "IRS1099INT": {
+      "field_count": 44,
+      "file": "IRS1099INT.json"
+    },
+    "IRS1099K": {
+      "field_count": 51,
+      "file": "IRS1099K.json"
+    },
+    "IRS1099MISC": {
+      "field_count": 44,
+      "file": "IRS1099MISC.json"
+    },
+    "IRS1099NEC": {
+      "field_count": 32,
+      "file": "IRS1099NEC.json"
+    },
+    "IRS1099OID": {
+      "field_count": 40,
+      "file": "IRS1099OID.json"
+    },
+    "IRS1099PATR": {
+      "field_count": 40,
+      "file": "IRS1099PATR.json"
+    },
+    "IRS1099R": {
+      "field_count": 48,
+      "file": "IRS1099R.json"
+    },
+    "IRS1116": {
+      "field_count": 51,
+      "file": "IRS1116.json"
+    },
+    "IRS1116ScheduleB": {
+      "field_count": 78,
+      "file": "IRS1116ScheduleB.json"
+    },
+    "IRS1116ScheduleC": {
+      "field_count": 14,
+      "file": "IRS1116ScheduleC.json"
+    },
+    "IRS1118": {
+      "field_count": 7,
+      "file": "IRS1118.json"
+    },
+    "IRS1118AMT": {
+      "field_count": 10,
+      "file": "IRS1118AMT.json"
+    },
+    "IRS1118ScheduleI": {
+      "field_count": 27,
+      "file": "IRS1118ScheduleI.json"
+    },
+    "IRS1118ScheduleJ": {
+      "field_count": 192,
+      "file": "IRS1118ScheduleJ.json"
+    },
+    "IRS1118ScheduleK": {
+      "field_count": 94,
+      "file": "IRS1118ScheduleK.json"
+    },
+    "IRS1118ScheduleL": {
+      "field_count": 18,
+      "file": "IRS1118ScheduleL.json"
+    },
+    "IRS1120": {
+      "field_count": 75,
+      "file": "IRS1120.json"
+    },
+    "IRS1120EliminationsOrAdj": {
+      "field_count": 75,
+      "file": "IRS1120EliminationsOrAdj.json"
+    },
+    "IRS1120F": {
+      "field_count": 389,
+      "file": "IRS1120F.json"
+    },
+    "IRS1120FScheduleH": {
+      "field_count": 88,
+      "file": "IRS1120FScheduleH.json"
+    },
+    "IRS1120FScheduleI": {
+      "field_count": 88,
+      "file": "IRS1120FScheduleI.json"
+    },
+    "IRS1120FScheduleM1M2": {
+      "field_count": 29,
+      "file": "IRS1120FScheduleM1M2.json"
+    },
+    "IRS1120FScheduleM3": {
+      "field_count": 402,
+      "file": "IRS1120FScheduleM3.json"
+    },
+    "IRS1120FScheduleP": {
+      "field_count": 52,
+      "file": "IRS1120FScheduleP.json"
+    },
+    "IRS1120FScheduleS": {
+      "field_count": 49,
+      "file": "IRS1120FScheduleS.json"
+    },
+    "IRS1120FScheduleV": {
+      "field_count": 37,
+      "file": "IRS1120FScheduleV.json"
+    },
+    "IRS1120L": {
+      "field_count": 0,
+      "file": "IRS1120L.json"
+    },
+    "IRS1120LEliminationsOrAdj": {
+      "field_count": 0,
+      "file": "IRS1120LEliminationsOrAdj.json"
+    },
+    "IRS1120LSchM3EliminationsOrAdj": {
+      "field_count": 375,
+      "file": "IRS1120LSchM3EliminationsOrAdj.json"
+    },
+    "IRS1120LScheduleM3": {
+      "field_count": 373,
+      "file": "IRS1120LScheduleM3.json"
+    },
+    "IRS1120PC": {
+      "field_count": 293,
+      "file": "IRS1120PC.json"
+    },
+    "IRS1120PCEliminationsOrAdj": {
+      "field_count": 396,
+      "file": "IRS1120PCEliminationsOrAdj.json"
+    },
+    "IRS1120PCSchM3ElimOrAdj": {
+      "field_count": 366,
+      "file": "IRS1120PCSchM3ElimOrAdj.json"
+    },
+    "IRS1120PCScheduleM3": {
+      "field_count": 366,
+      "file": "IRS1120PCScheduleM3.json"
+    },
+    "IRS1120POL": {
+      "field_count": 48,
+      "file": "IRS1120POL.json"
+    },
+    "IRS1120S": {
+      "field_count": 76,
+      "file": "IRS1120S.json"
+    },
+    "IRS1120SScheduleB1": {
+      "field_count": 1,
+      "file": "IRS1120SScheduleB1.json"
+    },
+    "IRS1120SScheduleD": {
+      "field_count": 49,
+      "file": "IRS1120SScheduleD.json"
+    },
+    "IRS1120SScheduleK1": {
+      "field_count": 55,
+      "file": "IRS1120SScheduleK1.json"
+    },
+    "IRS1120SScheduleK2": {
+      "field_count": 112,
+      "file": "IRS1120SScheduleK2.json"
+    },
+    "IRS1120SScheduleK3": {
+      "field_count": 122,
+      "file": "IRS1120SScheduleK3.json"
+    },
+    "IRS1120SScheduleM3": {
+      "field_count": 291,
+      "file": "IRS1120SScheduleM3.json"
+    },
+    "IRS1120SchM3EliminationsOrAdj": {
+      "field_count": 369,
+      "file": "IRS1120SchM3EliminationsOrAdj.json"
+    },
+    "IRS1120ScheduleB": {
+      "field_count": 16,
+      "file": "IRS1120ScheduleB.json"
+    },
+    "IRS1120ScheduleD": {
+      "field_count": 43,
+      "file": "IRS1120ScheduleD.json"
+    },
+    "IRS1120ScheduleG": {
+      "field_count": 2,
+      "file": "IRS1120ScheduleG.json"
+    },
+    "IRS1120ScheduleH": {
+      "field_count": 20,
+      "file": "IRS1120ScheduleH.json"
+    },
+    "IRS1120ScheduleM3": {
+      "field_count": 361,
+      "file": "IRS1120ScheduleM3.json"
+    },
+    "IRS1120ScheduleN": {
+      "field_count": 12,
+      "file": "IRS1120ScheduleN.json"
+    },
+    "IRS1120ScheduleO": {
+      "field_count": 73,
+      "file": "IRS1120ScheduleO.json"
+    },
+    "IRS1120SchedulePH": {
+      "field_count": 47,
+      "file": "IRS1120SchedulePH.json"
+    },
+    "IRS1120ScheduleUTP": {
+      "field_count": 4,
+      "file": "IRS1120ScheduleUTP.json"
+    },
+    "IRS1120X": {
+      "field_count": 57,
+      "file": "IRS1120X.json"
+    },
+    "IRS1122": {
+      "field_count": 21,
+      "file": "IRS1122.json"
+    },
+    "IRS1125A": {
+      "field_count": 18,
+      "file": "IRS1125A.json"
+    },
+    "IRS1125E": {
+      "field_count": 5,
+      "file": "IRS1125E.json"
+    },
+    "IRS1310": {
+      "field_count": 28,
+      "file": "IRS1310.json"
+    },
+    "IRS2106": {
+      "field_count": 51,
+      "file": "IRS2106.json"
+    },
+    "IRS2106EZ": {
+      "field_count": 11,
+      "file": "IRS2106EZ.json"
+    },
+    "IRS2120": {
+      "field_count": 4,
+      "file": "IRS2120.json"
+    },
+    "IRS2210": {
+      "field_count": 131,
+      "file": "IRS2210.json"
+    },
+    "IRS2210F": {
+      "field_count": 18,
+      "file": "IRS2210F.json"
+    },
+    "IRS2220": {
+      "field_count": 63,
+      "file": "IRS2220.json"
+    },
+    "IRS2290": {
+      "field_count": 27,
+      "file": "IRS2290.json"
+    },
+    "IRS2290Schedule1": {
+      "field_count": 5,
+      "file": "IRS2290Schedule1.json"
+    },
+    "IRS2350": {
+      "field_count": 15,
+      "file": "IRS2350.json"
+    },
+    "IRS2439": {
+      "field_count": 41,
+      "file": "IRS2439.json"
+    },
+    "IRS2441": {
+      "field_count": 40,
+      "file": "IRS2441.json"
+    },
+    "IRS2555": {
+      "field_count": 99,
+      "file": "IRS2555.json"
+    },
+    "IRS2555EZ": {
+      "field_count": 39,
+      "file": "IRS2555EZ.json"
+    },
+    "IRS3115": {
+      "field_count": 248,
+      "file": "IRS3115.json"
+    },
+    "IRS3468": {
+      "field_count": 90,
+      "file": "IRS3468.json"
+    },
+    "IRS3800": {
+      "field_count": 169,
+      "file": "IRS3800.json"
+    },
+    "IRS3903": {
+      "field_count": 9,
+      "file": "IRS3903.json"
+    },
+    "IRS4136": {
+      "field_count": 145,
+      "file": "IRS4136.json"
+    },
+    "IRS4137": {
+      "field_count": 16,
+      "file": "IRS4137.json"
+    },
+    "IRS4255": {
+      "field_count": 24,
+      "file": "IRS4255.json"
+    },
+    "IRS4466": {
+      "field_count": 20,
+      "file": "IRS4466.json"
+    },
+    "IRS4562": {
+      "field_count": 63,
+      "file": "IRS4562.json"
+    },
+    "IRS4563": {
+      "field_count": 30,
+      "file": "IRS4563.json"
+    },
+    "IRS461": {
+      "field_count": 14,
+      "file": "IRS461.json"
+    },
+    "IRS4626": {
+      "field_count": 245,
+      "file": "IRS4626.json"
+    },
+    "IRS4684": {
+      "field_count": 109,
+      "file": "IRS4684.json"
+    },
+    "IRS4720": {
+      "field_count": 91,
+      "file": "IRS4720.json"
+    },
+    "IRS4797": {
+      "field_count": 68,
+      "file": "IRS4797.json"
+    },
+    "IRS4835": {
+      "field_count": 50,
+      "file": "IRS4835.json"
+    },
+    "IRS4868": {
+      "field_count": 6,
+      "file": "IRS4868.json"
+    },
+    "IRS4952": {
+      "field_count": 17,
+      "file": "IRS4952.json"
+    },
+    "IRS4970": {
+      "field_count": 42,
+      "file": "IRS4970.json"
+    },
+    "IRS4972": {
+      "field_count": 41,
+      "file": "IRS4972.json"
+    },
+    "IRS499W2PR": {
+      "field_count": 50,
+      "file": "IRS499W2PR.json"
+    },
+    "IRS5074": {
+      "field_count": 68,
+      "file": "IRS5074.json"
+    },
+    "IRS5227": {
+      "field_count": 253,
+      "file": "IRS5227.json"
+    },
+    "IRS5329": {
+      "field_count": 62,
+      "file": "IRS5329.json"
+    },
+    "IRS5330": {
+      "field_count": 107,
+      "file": "IRS5330.json"
+    },
+    "IRS5405": {
+      "field_count": 25,
+      "file": "IRS5405.json"
+    },
+    "IRS5452": {
+      "field_count": 19,
+      "file": "IRS5452.json"
+    },
+    "IRS5471": {
+      "field_count": 74,
+      "file": "IRS5471.json"
+    },
+    "IRS5471ScheduleE": {
+      "field_count": 216,
+      "file": "IRS5471ScheduleE.json"
+    },
+    "IRS5471ScheduleG1": {
+      "field_count": 28,
+      "file": "IRS5471ScheduleG1.json"
+    },
+    "IRS5471ScheduleH": {
+      "field_count": 39,
+      "file": "IRS5471ScheduleH.json"
+    },
+    "IRS5471ScheduleI1": {
+      "field_count": 40,
+      "file": "IRS5471ScheduleI1.json"
+    },
+    "IRS5471ScheduleJ": {
+      "field_count": 290,
+      "file": "IRS5471ScheduleJ.json"
+    },
+    "IRS5471ScheduleM": {
+      "field_count": 181,
+      "file": "IRS5471ScheduleM.json"
+    },
+    "IRS5471ScheduleO": {
+      "field_count": 18,
+      "file": "IRS5471ScheduleO.json"
+    },
+    "IRS5471ScheduleP": {
+      "field_count": 326,
+      "file": "IRS5471ScheduleP.json"
+    },
+    "IRS5471ScheduleQ": {
+      "field_count": 46,
+      "file": "IRS5471ScheduleQ.json"
+    },
+    "IRS5471ScheduleR": {
+      "field_count": 12,
+      "file": "IRS5471ScheduleR.json"
+    },
+    "IRS5472": {
+      "field_count": 195,
+      "file": "IRS5472.json"
+    },
+    "IRS56": {
+      "field_count": 84,
+      "file": "IRS56.json"
+    },
+    "IRS5695": {
+      "field_count": 62,
+      "file": "IRS5695.json"
+    },
+    "IRS5713": {
+      "field_count": 74,
+      "file": "IRS5713.json"
+    },
+    "IRS5713ScheduleA": {
+      "field_count": 13,
+      "file": "IRS5713ScheduleA.json"
+    },
+    "IRS5713ScheduleB": {
+      "field_count": 8,
+      "file": "IRS5713ScheduleB.json"
+    },
+    "IRS5713ScheduleC": {
+      "field_count": 24,
+      "file": "IRS5713ScheduleC.json"
+    },
+    "IRS5735": {
+      "field_count": 8,
+      "file": "IRS5735.json"
+    },
+    "IRS5884": {
+      "field_count": 12,
+      "file": "IRS5884.json"
+    },
+    "IRS5884A": {
+      "field_count": 10,
+      "file": "IRS5884A.json"
+    },
+    "IRS6197": {
+      "field_count": 72,
+      "file": "IRS6197.json"
+    },
+    "IRS6198": {
+      "field_count": 33,
+      "file": "IRS6198.json"
+    },
+    "IRS6251": {
+      "field_count": 60,
+      "file": "IRS6251.json"
+    },
+    "IRS6252": {
+      "field_count": 50,
+      "file": "IRS6252.json"
+    },
+    "IRS6478": {
+      "field_count": 8,
+      "file": "IRS6478.json"
+    },
+    "IRS6627": {
+      "field_count": 160,
+      "file": "IRS6627.json"
+    },
+    "IRS6765": {
+      "field_count": 48,
+      "file": "IRS6765.json"
+    },
+    "IRS6781": {
+      "field_count": 21,
+      "file": "IRS6781.json"
+    },
+    "IRS7004": {
+      "field_count": 16,
+      "file": "IRS7004.json"
+    },
+    "IRS720": {
+      "field_count": 592,
+      "file": "IRS720.json"
+    },
+    "IRS7203": {
+      "field_count": 141,
+      "file": "IRS7203.json"
+    },
+    "IRS7204": {
+      "field_count": 14,
+      "file": "IRS7204.json"
+    },
+    "IRS7205": {
+      "field_count": 5,
+      "file": "IRS7205.json"
+    },
+    "IRS7207": {
+      "field_count": 134,
+      "file": "IRS7207.json"
+    },
+    "IRS7210": {
+      "field_count": 26,
+      "file": "IRS7210.json"
+    },
+    "IRS7213": {
+      "field_count": 43,
+      "file": "IRS7213.json"
+    },
+    "IRS8038CP": {
+      "field_count": 55,
+      "file": "IRS8038CP.json"
+    },
+    "IRS8038CPScheduleA": {
+      "field_count": 4,
+      "file": "IRS8038CPScheduleA.json"
+    },
+    "IRS8050": {
+      "field_count": 5,
+      "file": "IRS8050.json"
+    },
+    "IRS8082": {
+      "field_count": 31,
+      "file": "IRS8082.json"
+    },
+    "IRS8275": {
+      "field_count": 19,
+      "file": "IRS8275.json"
+    },
+    "IRS8275R": {
+      "field_count": 19,
+      "file": "IRS8275R.json"
+    },
+    "IRS8283": {
+      "field_count": 57,
+      "file": "IRS8283.json"
+    },
+    "IRS8288A": {
+      "field_count": 35,
+      "file": "IRS8288A.json"
+    },
+    "IRS8302": {
+      "field_count": 9,
+      "file": "IRS8302.json"
+    },
+    "IRS8308": {
+      "field_count": 98,
+      "file": "IRS8308.json"
+    },
+    "IRS8332": {
+      "field_count": 11,
+      "file": "IRS8332.json"
+    },
+    "IRS8379": {
+      "field_count": 53,
+      "file": "IRS8379.json"
+    },
+    "IRS8396": {
+      "field_count": 20,
+      "file": "IRS8396.json"
+    },
+    "IRS851": {
+      "field_count": 31,
+      "file": "IRS851.json"
+    },
+    "IRS8582": {
+      "field_count": 38,
+      "file": "IRS8582.json"
+    },
+    "IRS8582CR": {
+      "field_count": 53,
+      "file": "IRS8582CR.json"
+    },
+    "IRS8586": {
+      "field_count": 11,
+      "file": "IRS8586.json"
+    },
+    "IRS8594": {
+      "field_count": 65,
+      "file": "IRS8594.json"
+    },
+    "IRS8606": {
+      "field_count": 33,
+      "file": "IRS8606.json"
+    },
+    "IRS8609A": {
+      "field_count": 24,
+      "file": "IRS8609A.json"
+    },
+    "IRS8611": {
+      "field_count": 28,
+      "file": "IRS8611.json"
+    },
+    "IRS8615": {
+      "field_count": 27,
+      "file": "IRS8615.json"
+    },
+    "IRS8621": {
+      "field_count": 101,
+      "file": "IRS8621.json"
+    },
+    "IRS8689": {
+      "field_count": 45,
+      "file": "IRS8689.json"
+    },
+    "IRS8697": {
+      "field_count": 54,
+      "file": "IRS8697.json"
+    },
+    "IRS8716": {
+      "field_count": 13,
+      "file": "IRS8716.json"
+    },
+    "IRS8801": {
+      "field_count": 53,
+      "file": "IRS8801.json"
+    },
+    "IRS8805": {
+      "field_count": 38,
+      "file": "IRS8805.json"
+    },
+    "IRS8810": {
+      "field_count": 18,
+      "file": "IRS8810.json"
+    },
+    "IRS8814": {
+      "field_count": 26,
+      "file": "IRS8814.json"
+    },
+    "IRS8815": {
+      "field_count": 29,
+      "file": "IRS8815.json"
+    },
+    "IRS8816": {
+      "field_count": 18,
+      "file": "IRS8816.json"
+    },
+    "IRS8820": {
+      "field_count": 12,
+      "file": "IRS8820.json"
+    },
+    "IRS8824": {
+      "field_count": 49,
+      "file": "IRS8824.json"
+    },
+    "IRS8825": {
+      "field_count": 30,
+      "file": "IRS8825.json"
+    },
+    "IRS8826": {
+      "field_count": 6,
+      "file": "IRS8826.json"
+    },
+    "IRS8827": {
+      "field_count": 4,
+      "file": "IRS8827.json"
+    },
+    "IRS8828": {
+      "field_count": 29,
+      "file": "IRS8828.json"
+    },
+    "IRS8829": {
+      "field_count": 60,
+      "file": "IRS8829.json"
+    },
+    "IRS8832": {
+      "field_count": 44,
+      "file": "IRS8832.json"
+    },
+    "IRS8833": {
+      "field_count": 23,
+      "file": "IRS8833.json"
+    },
+    "IRS8834": {
+      "field_count": 9,
+      "file": "IRS8834.json"
+    },
+    "IRS8835": {
+      "field_count": 75,
+      "file": "IRS8835.json"
+    },
+    "IRS8838": {
+      "field_count": 19,
+      "file": "IRS8838.json"
+    },
+    "IRS8838P": {
+      "field_count": 27,
+      "file": "IRS8838P.json"
+    },
+    "IRS8839": {
+      "field_count": 23,
+      "file": "IRS8839.json"
+    },
+    "IRS8840": {
+      "field_count": 41,
+      "file": "IRS8840.json"
+    },
+    "IRS8843": {
+      "field_count": 27,
+      "file": "IRS8843.json"
+    },
+    "IRS8844": {
+      "field_count": 6,
+      "file": "IRS8844.json"
+    },
+    "IRS8845": {
+      "field_count": 8,
+      "file": "IRS8845.json"
+    },
+    "IRS8846": {
+      "field_count": 8,
+      "file": "IRS8846.json"
+    },
+    "IRS8849": {
+      "field_count": 7,
+      "file": "IRS8849.json"
+    },
+    "IRS8849Schedule1": {
+      "field_count": 152,
+      "file": "IRS8849Schedule1.json"
+    },
+    "IRS8849Schedule2": {
+      "field_count": 64,
+      "file": "IRS8849Schedule2.json"
+    },
+    "IRS8849Schedule3": {
+      "field_count": 55,
+      "file": "IRS8849Schedule3.json"
+    },
+    "IRS8849Schedule5": {
+      "field_count": 22,
+      "file": "IRS8849Schedule5.json"
+    },
+    "IRS8849Schedule6": {
+      "field_count": 8,
+      "file": "IRS8849Schedule6.json"
+    },
+    "IRS8849Schedule8": {
+      "field_count": 38,
+      "file": "IRS8849Schedule8.json"
+    },
+    "IRS8853": {
+      "field_count": 38,
+      "file": "IRS8853.json"
+    },
+    "IRS8854": {
+      "field_count": 80,
+      "file": "IRS8854.json"
+    },
+    "IRS8858": {
+      "field_count": 0,
+      "file": "IRS8858.json"
+    },
+    "IRS8859": {
+      "field_count": 4,
+      "file": "IRS8859.json"
+    },
+    "IRS8862": {
+      "field_count": 44,
+      "file": "IRS8862.json"
+    },
+    "IRS8863": {
+      "field_count": 5,
+      "file": "IRS8863.json"
+    },
+    "IRS8864": {
+      "field_count": 22,
+      "file": "IRS8864.json"
+    },
+    "IRS8865": {
+      "field_count": 285,
+      "file": "IRS8865.json"
+    },
+    "IRS8865ScheduleG": {
+      "field_count": 36,
+      "file": "IRS8865ScheduleG.json"
+    },
+    "IRS8865ScheduleH": {
+      "field_count": 25,
+      "file": "IRS8865ScheduleH.json"
+    },
+    "IRS8865ScheduleK1": {
+      "field_count": 92,
+      "file": "IRS8865ScheduleK1.json"
+    },
+    "IRS8865ScheduleK2": {
+      "field_count": 199,
+      "file": "IRS8865ScheduleK2.json"
+    },
+    "IRS8865ScheduleK3": {
+      "field_count": 185,
+      "file": "IRS8865ScheduleK3.json"
+    },
+    "IRS8865ScheduleO": {
+      "field_count": 72,
+      "file": "IRS8865ScheduleO.json"
+    },
+    "IRS8865ScheduleP": {
+      "field_count": 57,
+      "file": "IRS8865ScheduleP.json"
+    },
+    "IRS8866": {
+      "field_count": 25,
+      "file": "IRS8866.json"
+    },
+    "IRS8867": {
+      "field_count": 26,
+      "file": "IRS8867.json"
+    },
+    "IRS8868": {
+      "field_count": 28,
+      "file": "IRS8868.json"
+    },
+    "IRS8873": {
+      "field_count": 83,
+      "file": "IRS8873.json"
+    },
+    "IRS8874": {
+      "field_count": 4,
+      "file": "IRS8874.json"
+    },
+    "IRS8880": {
+      "field_count": 18,
+      "file": "IRS8880.json"
+    },
+    "IRS8881": {
+      "field_count": 28,
+      "file": "IRS8881.json"
+    },
+    "IRS8882": {
+      "field_count": 10,
+      "file": "IRS8882.json"
+    },
+    "IRS8883": {
+      "field_count": 90,
+      "file": "IRS8883.json"
+    },
+    "IRS8885": {
+      "field_count": 18,
+      "file": "IRS8885.json"
+    },
+    "IRS8886": {
+      "field_count": 57,
+      "file": "IRS8886.json"
+    },
+    "IRS8888": {
+      "field_count": 11,
+      "file": "IRS8888.json"
+    },
+    "IRS8889": {
+      "field_count": 26,
+      "file": "IRS8889.json"
+    },
+    "IRS8891": {
+      "field_count": 23,
+      "file": "IRS8891.json"
+    },
+    "IRS8896": {
+      "field_count": 10,
+      "file": "IRS8896.json"
+    },
+    "IRS8900": {
+      "field_count": 10,
+      "file": "IRS8900.json"
+    },
+    "IRS8902": {
+      "field_count": 55,
+      "file": "IRS8902.json"
+    },
+    "IRS8903": {
+      "field_count": 37,
+      "file": "IRS8903.json"
+    },
+    "IRS8906": {
+      "field_count": 6,
+      "file": "IRS8906.json"
+    },
+    "IRS8907": {
+      "field_count": 6,
+      "file": "IRS8907.json"
+    },
+    "IRS8908": {
+      "field_count": 14,
+      "file": "IRS8908.json"
+    },
+    "IRS8909": {
+      "field_count": 44,
+      "file": "IRS8909.json"
+    },
+    "IRS8910": {
+      "field_count": 22,
+      "file": "IRS8910.json"
+    },
+    "IRS8911": {
+      "field_count": 26,
+      "file": "IRS8911.json"
+    },
+    "IRS8912": {
+      "field_count": 21,
+      "file": "IRS8912.json"
+    },
+    "IRS8915F": {
+      "field_count": 58,
+      "file": "IRS8915F.json"
+    },
+    "IRS8916": {
+      "field_count": 27,
+      "file": "IRS8916.json"
+    },
+    "IRS8916A": {
+      "field_count": 134,
+      "file": "IRS8916A.json"
+    },
+    "IRS8917": {
+      "field_count": 7,
+      "file": "IRS8917.json"
+    },
+    "IRS8919": {
+      "field_count": 10,
+      "file": "IRS8919.json"
+    },
+    "IRS8923": {
+      "field_count": 6,
+      "file": "IRS8923.json"
+    },
+    "IRS8925": {
+      "field_count": 12,
+      "file": "IRS8925.json"
+    },
+    "IRS8926": {
+      "field_count": 40,
+      "file": "IRS8926.json"
+    },
+    "IRS8931": {
+      "field_count": 19,
+      "file": "IRS8931.json"
+    },
+    "IRS8932": {
+      "field_count": 7,
+      "file": "IRS8932.json"
+    },
+    "IRS8933": {
+      "field_count": 38,
+      "file": "IRS8933.json"
+    },
+    "IRS8936": {
+      "field_count": 36,
+      "file": "IRS8936.json"
+    },
+    "IRS8936ScheduleA": {
+      "field_count": 32,
+      "file": "IRS8936ScheduleA.json"
+    },
+    "IRS8938": {
+      "field_count": 136,
+      "file": "IRS8938.json"
+    },
+    "IRS8941": {
+      "field_count": 27,
+      "file": "IRS8941.json"
+    },
+    "IRS8949": {
+      "field_count": 2,
+      "file": "IRS8949.json"
+    },
+    "IRS8958": {
+      "field_count": 15,
+      "file": "IRS8958.json"
+    },
+    "IRS8959": {
+      "field_count": 20,
+      "file": "IRS8959.json"
+    },
+    "IRS8960": {
+      "field_count": 35,
+      "file": "IRS8960.json"
+    },
+    "IRS8962": {
+      "field_count": 37,
+      "file": "IRS8962.json"
+    },
+    "IRS8974": {
+      "field_count": 17,
+      "file": "IRS8974.json"
+    },
+    "IRS8975": {
+      "field_count": 6,
+      "file": "IRS8975.json"
+    },
+    "IRS8975ScheduleA": {
+      "field_count": 14,
+      "file": "IRS8975ScheduleA.json"
+    },
+    "IRS8978": {
+      "field_count": 24,
+      "file": "IRS8978.json"
+    },
+    "IRS8978ScheduleA": {
+      "field_count": 11,
+      "file": "IRS8978ScheduleA.json"
+    },
+    "IRS8985": {
+      "field_count": 59,
+      "file": "IRS8985.json"
+    },
+    "IRS8986": {
+      "field_count": 111,
+      "file": "IRS8986.json"
+    },
+    "IRS8990": {
+      "field_count": 51,
+      "file": "IRS8990.json"
+    },
+    "IRS8991": {
+      "field_count": 136,
+      "file": "IRS8991.json"
+    },
+    "IRS8992": {
+      "field_count": 15,
+      "file": "IRS8992.json"
+    },
+    "IRS8992ScheduleA": {
+      "field_count": 17,
+      "file": "IRS8992ScheduleA.json"
+    },
+    "IRS8992ScheduleB": {
+      "field_count": 25,
+      "file": "IRS8992ScheduleB.json"
+    },
+    "IRS8993": {
+      "field_count": 67,
+      "file": "IRS8993.json"
+    },
+    "IRS8994": {
+      "field_count": 7,
+      "file": "IRS8994.json"
+    },
+    "IRS8995": {
+      "field_count": 17,
+      "file": "IRS8995.json"
+    },
+    "IRS8995A": {
+      "field_count": 35,
+      "file": "IRS8995A.json"
+    },
+    "IRS8995AScheduleA": {
+      "field_count": 35,
+      "file": "IRS8995AScheduleA.json"
+    },
+    "IRS8995AScheduleB": {
+      "field_count": 3,
+      "file": "IRS8995AScheduleB.json"
+    },
+    "IRS8995AScheduleC": {
+      "field_count": 6,
+      "file": "IRS8995AScheduleC.json"
+    },
+    "IRS8995AScheduleD": {
+      "field_count": 12,
+      "file": "IRS8995AScheduleD.json"
+    },
+    "IRS8996": {
+      "field_count": 41,
+      "file": "IRS8996.json"
+    },
+    "IRS8997": {
+      "field_count": 15,
+      "file": "IRS8997.json"
+    },
+    "IRS9000": {
+      "field_count": 3,
+      "file": "IRS9000.json"
+    },
+    "IRS926": {
+      "field_count": 78,
+      "file": "IRS926.json"
+    },
+    "IRS940": {
+      "field_count": 32,
+      "file": "IRS940.json"
+    },
+    "IRS940ScheduleA": {
+      "field_count": 6,
+      "file": "IRS940ScheduleA.json"
+    },
+    "IRS940ScheduleR": {
+      "field_count": 18,
+      "file": "IRS940ScheduleR.json"
+    },
+    "IRS940_940PR": {
+      "field_count": 32,
+      "file": "IRS940_940PR.json"
+    },
+    "IRS941": {
+      "field_count": 57,
+      "file": "IRS941.json"
+    },
+    "IRS941SSPR": {
+      "field_count": 56,
+      "file": "IRS941SSPR.json"
+    },
+    "IRS941ScheduleB": {
+      "field_count": 2,
+      "file": "IRS941ScheduleB.json"
+    },
+    "IRS941ScheduleD": {
+      "field_count": 44,
+      "file": "IRS941ScheduleD.json"
+    },
+    "IRS941ScheduleR": {
+      "field_count": 73,
+      "file": "IRS941ScheduleR.json"
+    },
+    "IRS943": {
+      "field_count": 45,
+      "file": "IRS943.json"
+    },
+    "IRS943A": {
+      "field_count": 3,
+      "file": "IRS943A.json"
+    },
+    "IRS943ScheduleR": {
+      "field_count": 73,
+      "file": "IRS943ScheduleR.json"
+    },
+    "IRS943X": {
+      "field_count": 111,
+      "file": "IRS943X.json"
+    },
+    "IRS943_943PR": {
+      "field_count": 45,
+      "file": "IRS943_943PR.json"
+    },
+    "IRS944": {
+      "field_count": 46,
+      "file": "IRS944.json"
+    },
+    "IRS945": {
+      "field_count": 15,
+      "file": "IRS945.json"
+    },
+    "IRS945A": {
+      "field_count": 3,
+      "file": "IRS945A.json"
+    },
+    "IRS945X": {
+      "field_count": 13,
+      "file": "IRS945X.json"
+    },
+    "IRS9465": {
+      "field_count": 60,
+      "file": "IRS9465.json"
+    },
+    "IRS94xPINRegistration": {
+      "field_count": 8,
+      "file": "IRS94xPINRegistration.json"
+    },
+    "IRS965": {
+      "field_count": 8,
+      "file": "IRS965.json"
+    },
+    "IRS965A": {
+      "field_count": 9,
+      "file": "IRS965A.json"
+    },
+    "IRS965B": {
+      "field_count": 5,
+      "file": "IRS965B.json"
+    },
+    "IRS965Payment": {
+      "field_count": 6,
+      "file": "IRS965Payment.json"
+    },
+    "IRS965ScheduleF": {
+      "field_count": 5,
+      "file": "IRS965ScheduleF.json"
+    },
+    "IRS965ScheduleH": {
+      "field_count": 7,
+      "file": "IRS965ScheduleH.json"
+    },
+    "IRS970": {
+      "field_count": 31,
+      "file": "IRS970.json"
+    },
+    "IRS972": {
+      "field_count": 26,
+      "file": "IRS972.json"
+    },
+    "IRS973": {
+      "field_count": 4,
+      "file": "IRS973.json"
+    },
+    "IRS982": {
+      "field_count": 24,
+      "file": "IRS982.json"
+    },
+    "IRS990": {
+      "field_count": 578,
+      "file": "IRS990.json"
+    },
+    "IRS990EZ": {
+      "field_count": 141,
+      "file": "IRS990EZ.json"
+    },
+    "IRS990N": {
+      "field_count": 18,
+      "file": "IRS990N.json"
+    },
+    "IRS990PF": {
+      "field_count": 562,
+      "file": "IRS990PF.json"
+    },
+    "IRS990ScheduleA": {
+      "field_count": 298,
+      "file": "IRS990ScheduleA.json"
+    },
+    "IRS990ScheduleB": {
+      "field_count": 62,
+      "file": "IRS990ScheduleB.json"
+    },
+    "IRS990ScheduleC": {
+      "field_count": 86,
+      "file": "IRS990ScheduleC.json"
+    },
+    "IRS990ScheduleD": {
+      "field_count": 142,
+      "file": "IRS990ScheduleD.json"
+    },
+    "IRS990ScheduleE": {
+      "field_count": 24,
+      "file": "IRS990ScheduleE.json"
+    },
+    "IRS990ScheduleF": {
+      "field_count": 0,
+      "file": "IRS990ScheduleF.json"
+    },
+    "IRS990ScheduleG": {
+      "field_count": 134,
+      "file": "IRS990ScheduleG.json"
+    },
+    "IRS990ScheduleH": {
+      "field_count": 171,
+      "file": "IRS990ScheduleH.json"
+    },
+    "IRS990ScheduleI": {
+      "field_count": 6,
+      "file": "IRS990ScheduleI.json"
+    },
+    "IRS990ScheduleJ": {
+      "field_count": 28,
+      "file": "IRS990ScheduleJ.json"
+    },
+    "IRS990ScheduleK": {
+      "field_count": 53,
+      "file": "IRS990ScheduleK.json"
+    },
+    "IRS990ScheduleL": {
+      "field_count": 12,
+      "file": "IRS990ScheduleL.json"
+    },
+    "IRS990ScheduleM": {
+      "field_count": 100,
+      "file": "IRS990ScheduleM.json"
+    },
+    "IRS990ScheduleN": {
+      "field_count": 14,
+      "file": "IRS990ScheduleN.json"
+    },
+    "IRS990ScheduleO": {
+      "field_count": 0,
+      "file": "IRS990ScheduleO.json"
+    },
+    "IRS990ScheduleR": {
+      "field_count": 26,
+      "file": "IRS990ScheduleR.json"
+    },
+    "IRS990T": {
+      "field_count": 106,
+      "file": "IRS990T.json"
+    },
+    "IRS990TScheduleA": {
+      "field_count": 99,
+      "file": "IRS990TScheduleA.json"
+    },
+    "IRSESPayment": {
+      "field_count": 5,
+      "file": "IRSESPayment.json"
+    },
+    "IRSFormT": {
+      "field_count": 5,
+      "file": "IRSFormT.json"
+    },
+    "IRSPayment": {
+      "field_count": 5,
+      "file": "IRSPayment.json"
+    },
+    "IRSPayment2": {
+      "field_count": 5,
+      "file": "IRSPayment2.json"
+    },
+    "IRSRRB1042S": {
+      "field_count": 26,
+      "file": "IRSRRB1042S.json"
+    },
+    "IRSSSA1042S": {
+      "field_count": 16,
+      "file": "IRSSSA1042S.json"
+    },
+    "IRSW2": {
+      "field_count": 35,
+      "file": "IRSW2.json"
+    },
+    "IRSW2AS": {
+      "field_count": 27,
+      "file": "IRSW2AS.json"
+    },
+    "IRSW2G": {
+      "field_count": 48,
+      "file": "IRSW2G.json"
+    },
+    "IRSW2GU": {
+      "field_count": 27,
+      "file": "IRSW2GU.json"
+    },
+    "IRSW2VI": {
+      "field_count": 27,
+      "file": "IRSW2VI.json"
+    }
+  }
+}

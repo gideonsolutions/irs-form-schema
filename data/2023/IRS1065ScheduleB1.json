@@ -1,0 +1,16 @@
+{
+  "form_id": "IRS1065ScheduleB1",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "IndivOrEstOwn50PctOrMoreGrp",
+      "path": "IndivOrEstOwn50PctOrMoreGrp",
+      "type": "group"
+    },
+    {
+      "name": "PartnersOwn50PctOrMoreGrp",
+      "path": "PartnersOwn50PctOrMoreGrp",
+      "type": "group"
+    }
+  ]
+}

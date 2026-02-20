@@ -1,0 +1,271 @@
+{
+  "form_id": "IRS8801",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AMTCarryforwardPlusNegativeAmt",
+      "path": "AMTCarryforwardPlusNegativeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AMTCrCarryforwardToNextYearAmt",
+      "path": "AMTCrCarryforwardToNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AMTLessSmallerOfTaxOrGainAmt",
+      "path": "AMTLessSmallerOfTaxOrGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AMTPriorYearApplicableGainAmt",
+      "path": "AMTPriorYearApplicableGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AMTPriorYearCarryforwardAmt",
+      "path": "AMTPriorYearCarryforwardAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplcblCapGainsOrSchDWrkshtAmt",
+      "path": "ApplcblCapGainsOrSchDWrkshtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYRegTaxLiabiMinusAllwblCrAmt",
+      "path": "CYRegTaxLiabiMinusAllwblCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYTentativeMinimumTaxAmt",
+      "path": "CYTentativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessOfSumAmt",
+      "path": "ExcessOfSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessOfSumTimesPctAmt",
+      "path": "ExcessOfSumTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingThresholdAmt",
+      "path": "FilingThresholdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FlngThrshldLessThesholdSumAmt",
+      "path": "FlngThrshldLessThesholdSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainMinusSmallerNetAmt",
+      "path": "GainMinusSmallerNetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaxCapGainMinusApplcblLimitAmt",
+      "path": "MaxCapGainMinusApplcblLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaxCapGainsApplicableLimitAmt",
+      "path": "MaxCapGainsApplicableLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinAMTCrAmt",
+      "path": "MinAMTCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinTaxCreditExemptionAmt",
+      "path": "MinTaxCreditExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinTaxCreditNetOprLossDedAmt",
+      "path": "MinTaxCreditNetOprLossDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinTaxCreditPhaseOutAmt",
+      "path": "MinTaxCreditPhaseOutAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinTaxForeignTaxCrExclItemsAmt",
+      "path": "MinTaxForeignTaxCrExclItemsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAdjAMTTxblIncTimesPctAmt",
+      "path": "NetAdjAMTTxblIncTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAltMinTaxableIncTimesPctAmt",
+      "path": "NetAltMinTaxableIncTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAltMinTxblIncTimesFSPctAmt",
+      "path": "NetAltMinTxblIncTimesFSPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAlternativeMinimumTaxAmt",
+      "path": "NetAlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetMinTaxCrMinusPhaseOutAmt",
+      "path": "NetMinTaxCrMinusPhaseOutAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetMinTaxCrTimesDecimalAmt",
+      "path": "NetMinTaxCrTimesDecimalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetMinTaxExclusionItemsAmt",
+      "path": "NetMinTaxExclusionItemsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetMinTaxLessDeductionsAmt",
+      "path": "NetMinTaxLessDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetMinTaxLessLossAndDedAmt",
+      "path": "NetMinTaxLessLossAndDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetMinTaxMinusExemptionAmt",
+      "path": "NetMinTaxMinusExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetMinTaxOnExclusionItemsAmt",
+      "path": "NetMinTaxOnExclusionItemsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetMinTaxTaxableIncomeLossAmt",
+      "path": "NetMinTaxTaxableIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetMinTaxTimesTaxRateAmt",
+      "path": "NetMinTaxTimesTaxRateAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSchDOrAdjNetGainTimesPctAmt",
+      "path": "NetSchDOrAdjNetGainTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSmallerSchDOrAdjNetGainAmt",
+      "path": "NetSmallerSchDOrAdjNetGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYAlternativeMinimumTaxAmt",
+      "path": "PYAlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYMinTaxApplicableCapGainAmt",
+      "path": "PYMinTaxApplicableCapGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYMinTaxApplicableRtnTaxAmt",
+      "path": "PYMinTaxApplicableRtnTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYUnrecapturedS1250GainAmt",
+      "path": "PYUnrecapturedS1250GainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyElecVehPYUnallowedCrAmt",
+      "path": "QlfyElecVehPYUnallowedCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerCalculatedNetOrGainAmt",
+      "path": "SmallerCalculatedNetOrGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerNetAMTOrGainAmt",
+      "path": "SmallerNetAMTOrGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerPYSchDGainOrWrkshtAmt",
+      "path": "SmallerPYSchDGainOrWrkshtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrAdjNetGainOrTxblIncAmt",
+      "path": "SmllrAdjNetGainOrTxblIncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrNetMinTaxOrApplcblGainAmt",
+      "path": "SmllrNetMinTaxOrApplcblGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumMinTaxCreditLossAndDedAmt",
+      "path": "SumMinTaxCreditLossAndDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumOfAltMinTaxPercentagesAmt",
+      "path": "SumOfAltMinTaxPercentagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumOfSmllrAmt",
+      "path": "SumOfSmllrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumThresholdApplcblWrkshtAmt",
+      "path": "SumThresholdApplcblWrkshtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnAlternativeMinimumGainAmt",
+      "path": "TaxOnAlternativeMinimumGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentMinTaxMinusRegTaxLiabAmt",
+      "path": "TentMinTaxMinusRegTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeMinTaxOnExclItemsAmt",
+      "path": "TentativeMinTaxOnExclItemsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetAmt",
+      "path": "TotalNetAmt",
+      "type": "usd"
+    }
+  ]
+}

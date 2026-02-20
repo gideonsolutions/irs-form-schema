@@ -1,0 +1,101 @@
+{
+  "form_id": "IRS8838",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "EINMissingReasonCd",
+      "path": "EINMissingReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExpirationDt",
+      "path": "ExpirationDt",
+      "type": "date"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SpouseSSN",
+      "path": "SpouseSSN",
+      "type": "tin"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TaxpayerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TaxpayerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TaxpayerNm",
+      "path": "TaxpayerNm",
+      "type": "string"
+    },
+    {
+      "name": "TransfereeEIN",
+      "path": "TransfereeEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransfereeName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransfereeName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TransferredDt",
+      "path": "TransferredDt",
+      "type": "date"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "USAddress/AddressLine2Txt",
+      "type": "string"
+    }
+  ]
+}

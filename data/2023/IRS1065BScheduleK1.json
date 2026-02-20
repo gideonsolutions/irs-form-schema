@@ -1,0 +1,201 @@
+{
+  "form_id": "IRS1065BScheduleK1",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CorrectedInd",
+      "path": "CorrectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "Form3800PartnershipInfo/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PartnershipEIN",
+      "path": "Form3800PartnershipInfo/PartnershipEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PartnershipForeignAddress",
+      "path": "Form3800PartnershipInfo/PartnershipForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "Form3800PartnershipInfo/PartnershipForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "Form3800PartnershipInfo/PartnershipForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "Form3800PartnershipInfo/PartnershipForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "Form3800PartnershipInfo/PartnershipName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "Form3800PartnershipInfo/PartnershipName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PartnershipUSAddress",
+      "path": "Form3800PartnershipInfo/PartnershipUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "Form3800PartnershipInfo/PartnershipUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "Form3800PartnershipInfo/PartnershipUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "IRS1065BSchK1OtherDetail",
+      "path": "IRS1065BSchK1OtherDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "IRS1065BSchK1OtherItemDetail",
+      "path": "IRS1065BSchK1OtherDetail/IRS1065BSchK1OtherItemDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "LowIncomeHousingCreditAmt",
+      "path": "LowIncomeHousingCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingSSNEINReasonCd",
+      "path": "MissingSSNEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetCapitalGainLossOtherActyAmt",
+      "path": "NetCapitalGainLossOtherActyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalGainLossPssvActyAmt",
+      "path": "NetCapitalGainLossPssvActyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOtherAMTAdjustmentAmt",
+      "path": "NetOtherAMTAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetPassiveAMTAdjustmentAmt",
+      "path": "NetPassiveAMTAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonrecourseAmt",
+      "path": "NonrecourseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerEIN",
+      "path": "PartnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PartnerForeignAddress",
+      "path": "PartnerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PartnerForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PartnerForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PartnerForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PartnerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PartnerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PartnerSSN",
+      "path": "PartnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "PartnerUSAddress",
+      "path": "PartnerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PartnerUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PartnerUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PassiveActivityCreditAmt",
+      "path": "PassiveActivityCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PubliclyTradedPartnershipInd",
+      "path": "PubliclyTradedPartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedDividendsAmt",
+      "path": "QualifiedDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedNonRcrsFinancingAmt",
+      "path": "QualifiedNonRcrsFinancingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ShareOfLiabilitiesOtherAmt",
+      "path": "ShareOfLiabilitiesOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeLossOtherActyAmt",
+      "path": "TaxableIncomeLossOtherActyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeLossPssvActyAmt",
+      "path": "TaxableIncomeLossPssvActyAmt",
+      "type": "usd"
+    }
+  ]
+}

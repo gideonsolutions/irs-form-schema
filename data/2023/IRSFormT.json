@@ -1,0 +1,31 @@
+{
+  "form_id": "IRSFormT",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ShownOnReturnName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ShownOnReturnName/BusinessNameLine2Txt",
+      "type": "string"
+    }
+  ]
+}

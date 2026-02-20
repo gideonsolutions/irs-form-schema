@@ -1,0 +1,336 @@
+{
+  "form_id": "IRS709NA",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AddrChgSinceLastFiledReturnInd",
+      "path": "AddrChgSinceLastFiledReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "AutomaticAllocExemptTrnsfrAmt",
+      "path": "AutomaticAllocExemptTrnsfrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AvailableExemptionAmt",
+      "path": "AvailableExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BirthDt",
+      "path": "BirthDt",
+      "type": "date"
+    },
+    {
+      "name": "BirthPlaceCountryCd",
+      "path": "BirthPlaceCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "CharitableDeductionLessExclAmt",
+      "path": "CharitableDeductionLessExclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CitizenCountryCd",
+      "path": "CitizenCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "CreditForeignGiftTaxesAmt",
+      "path": "CreditForeignGiftTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearForm709FilingInd",
+      "path": "CurrentYearForm709FilingInd",
+      "type": "bool"
+    },
+    {
+      "name": "DonorDeathDt",
+      "path": "DonorDeathInformationGrp/DonorDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "DonorDiedInd",
+      "path": "DonorDeathInformationGrp/DonorDiedInd",
+      "type": "bool"
+    },
+    {
+      "name": "DonorDirectSkipsNAGrp",
+      "path": "DonorDirectSkipsNAGrp",
+      "type": "group"
+    },
+    {
+      "name": "DonorGSTNAGrp",
+      "path": "DonorGSTNAGrp",
+      "type": "group"
+    },
+    {
+      "name": "DonorGiftsSubjectToGiftTxNAGrp",
+      "path": "DonorGiftsSubjectToGiftTxNAGrp",
+      "type": "group"
+    },
+    {
+      "name": "DonorIndirectSkipsNAGrp",
+      "path": "DonorIndirectSkipsNAGrp",
+      "type": "group"
+    },
+    {
+      "name": "ExemptionAllocatedOthTrnsfrAmt",
+      "path": "ExemptionAllocatedOthTrnsfrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptionPrevUsedAmt",
+      "path": "ExemptionPrevUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FutureTransfersExemptionAmt",
+      "path": "FutureTransfersExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GiftAndGSTTaxesPrepaidAmt",
+      "path": "GiftAndGSTTaxesPrepaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GiftsLessDeductionsAmt",
+      "path": "GiftsLessDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LegalDomicileForeignCountryCd",
+      "path": "LegalDomicileForeignCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "MaritalDeductionAmt",
+      "path": "MaritalDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaritalDeductionClaimedAmt",
+      "path": "MaritalDeductionClaimedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaritalDeductionExclusionsAmt",
+      "path": "MaritalDeductionExclusionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaximumAllowableExemptionAmt",
+      "path": "MaximumAllowableExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCreditsAmt",
+      "path": "OtherCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrevFiledReturnOtherYearInd",
+      "path": "PrevFiledReturnOtherYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "PriorPeriodsGiftsGrp",
+      "path": "PriorPeriodsGiftsGrp",
+      "type": "group"
+    },
+    {
+      "name": "QTIPTreatmentElectOutInd",
+      "path": "QTIPTreatmentElectOutItemGrp/QTIPTreatmentElectOutInd",
+      "type": "bool"
+    },
+    {
+      "name": "QTIPTreatmentElectOutItemNum",
+      "path": "QTIPTreatmentElectOutItemGrp/QTIPTreatmentElectOutItemNum",
+      "type": "string"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RptGiftTaxTreatyOrProtocolInd",
+      "path": "RptGiftTaxTreatyOrProtocolInd",
+      "type": "bool"
+    },
+    {
+      "name": "ScheduleADoneesCnt",
+      "path": "ScheduleADoneesCnt",
+      "type": "int"
+    },
+    {
+      "name": "Section529c2BElectionInd",
+      "path": "Section529c2BElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecificExemptionAmt",
+      "path": "SpecificExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpouseAcqCitizenshipDt",
+      "path": "SpouseAcqCitizenshipDt",
+      "type": "date"
+    },
+    {
+      "name": "SpouseAcqCitizenshipLocTxt",
+      "path": "SpouseAcqCitizenshipLocTxt",
+      "type": "string"
+    },
+    {
+      "name": "SpouseBirthCountryCd",
+      "path": "SpouseBirthCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SpouseBirthDt",
+      "path": "SpouseBirthDt",
+      "type": "date"
+    },
+    {
+      "name": "SpouseCitizenCountryCd",
+      "path": "SpouseCitizenCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SpouseUSCitizenInd",
+      "path": "SpouseUSCitizenInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxCmptTotTaxableGiftsPrPrdAmt",
+      "path": "TaxCmptTotTaxableGiftsPrPrdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxCmptTotalTaxableGiftsAmt",
+      "path": "TaxCmptTotalTaxableGiftsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableGiftsAmt",
+      "path": "TaxableGiftsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableGiftsTaxBalanceAmt",
+      "path": "TaxableGiftsTaxBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TimeToFileExtensionInd",
+      "path": "TimeToFileExtensionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotDirectSkipsGiftFMVOnDateAmt",
+      "path": "TotDirectSkipsGiftFMVOnDateAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotGiftsSubjGiftTxGiftFMVDtAmt",
+      "path": "TotGiftsSubjGiftTxGiftFMVDtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPriorPrdApplicableCreditAmt",
+      "path": "TotPriorPrdApplicableCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPriorPrdExemptionAmt",
+      "path": "TotPriorPrdExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPriorPrdTaxableGiftsAmt",
+      "path": "TotPriorPrdTaxableGiftsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotTaxableGiftsPriorPeriodsAmt",
+      "path": "TotTaxableGiftsPriorPeriodsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAnnualExclusionsGiftsAmt",
+      "path": "TotalAnnualExclusionsGiftsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditBalanceAmt",
+      "path": "TotalCreditBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditsAmt",
+      "path": "TotalCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionsAmt",
+      "path": "TotalDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExemptionAmt",
+      "path": "TotalExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGSTExemptionClaimedAmt",
+      "path": "TotalGSTExemptionClaimedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGSTTaxAmt",
+      "path": "TotalGSTTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGiftsValueAmt",
+      "path": "TotalGiftsValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncludedGiftsAmt",
+      "path": "TotalIncludedGiftsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIndrSkipsGiftFMVOnDateAmt",
+      "path": "TotalIndrSkipsGiftFMVOnDateAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxableGiftsAmt",
+      "path": "TotalTaxableGiftsAmt",
+      "type": "usd"
+    }
+  ]
+}

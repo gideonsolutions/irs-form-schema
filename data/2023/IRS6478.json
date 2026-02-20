@@ -1,0 +1,46 @@
+{
+  "form_id": "IRS6478",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AllocatedToBeneficiariesAmt",
+      "path": "AllocatedToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BiofuelProducerCreditAmt",
+      "path": "BiofuelProducerCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsCooperativesAmt",
+      "path": "EstatesTrustsCooperativesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EthanolAlcoholOtherCreditAmt",
+      "path": "EthanolAlcoholOtherCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FuelsCreditRegistrationNum",
+      "path": "FuelsCreditRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Qlfy2ndBiofuelProdFuelCrAmt",
+      "path": "Qlfy2ndBiofuelProdFuelCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Qlfy2ndBiofuelProdFuelGalsQty",
+      "path": "Qlfy2ndBiofuelProdFuelGalsQty",
+      "type": "unknown"
+    }
+  ]
+}

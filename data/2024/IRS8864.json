@@ -1,0 +1,116 @@
+{
+  "form_id": "IRS8864",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AgriBiodieselAmt",
+      "path": "AgriBiodieselAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgriBiodieselGallonsQty",
+      "path": "AgriBiodieselGallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AgriBiodieselIncludedAmt",
+      "path": "AgriBiodieselIncludedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgriBiodieselIncludedGalsQty",
+      "path": "AgriBiodieselIncludedGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AllocatedToBeneficiariesAmt",
+      "path": "AllocatedToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BiodieselAmt",
+      "path": "BiodieselAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BiodieselGallonsQty",
+      "path": "BiodieselGallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BiodieselMixAmt",
+      "path": "BiodieselMixAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BiodieselMixtureGallonsQty",
+      "path": "BiodieselMixtureGallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BiodieselRnwblAvnFuelCrAmt",
+      "path": "BiodieselRnwblAvnFuelCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BiodieselRnwblAvnFuelMxtrCrAmt",
+      "path": "BiodieselRnwblAvnFuelMxtrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsAndCoopCreditAmt",
+      "path": "EstatesTrustsAndCoopCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedAgriBioDieselProdAmt",
+      "path": "QualifiedAgriBioDieselProdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedAgriBioDieselProdQty",
+      "path": "QualifiedAgriBioDieselProdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "RenewableDieselAmt",
+      "path": "RenewableDieselAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RenewableDieselGallonsQty",
+      "path": "RenewableDieselGallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "RenewableDieselInclMixtureAmt",
+      "path": "RenewableDieselInclMixtureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RenewableDieselMixtureGalsQty",
+      "path": "RenewableDieselMixtureGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SumAgriRnwblBiodieselAvnAmt",
+      "path": "SumAgriRnwblBiodieselAvnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ClaimAmt",
+      "path": "SustainableAvnFuelMxtrCrGrp/ClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "SustainableAvnFuelMxtrCrGrp/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SustainableAvnFuelMxtrCrGrp/Rt",
+      "type": "decimal"
+    }
+  ]
+}

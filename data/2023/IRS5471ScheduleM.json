@@ -1,0 +1,911 @@
+{
+  "form_id": "IRS5471ScheduleM",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AccountsPayableAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/AccountsPayableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountsReceivableAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/AccountsReceivableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BorrowedAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/BorrowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsPaidAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/CommissionsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsReceivedAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/CommissionsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompensationPaidForCrtnSrvcAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/CompensationPaidForCrtnSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompensationRcvdForCrtnSrvcAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/CompensationRcvdForCrtnSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingPaidAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/CostSharingPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingReceivedAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/CostSharingReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsPaidAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/DividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsReceivedAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/DividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HybridDividendsPaidAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/HybridDividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HybridDividendsReceivedAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/HybridDividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremPdAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/InsReinsPremPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremRcvdAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/InsReinsPremRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestPaidAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/InterestPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestReceivedAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/InterestReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryPurchaseAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/InventoryPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventorySalesAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/InventorySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/LoanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesPaidAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/LoanGuaranteeFeesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesRcvdAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/LoanGuaranteeFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmountsPaidAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/OtherAmountsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmountsReceivedAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/OtherAmountsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionPaidAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/PlatformContributionPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionRcvdAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/PlatformContributionRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsPrchsAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/PropertyRightsPrchsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsSalesAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/PropertyRightsSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsRoyaltiesLcnsFeesRcvdAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/RentsRoyaltiesLcnsFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsRoyaltiesLicenseFeesPdAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/RentsRoyaltiesLicenseFeesPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertyPurchaseAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/TangiblePropertyPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertySalesAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/TangiblePropertySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsPdAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/TotalTransactionsPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsReceivedAmt",
+      "path": "DomCorpPrtshpUSPersonFilingGrp/TotalTransactionsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ExchangeRt",
+      "path": "ExchangeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ForeignCorporationEIN",
+      "path": "ForeignCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "FunctionalCurrencyDesc",
+      "path": "FunctionalCurrencyDesc",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "MissingSSNEINReasonCd",
+      "path": "MissingSSNEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "AccountsPayableAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/AccountsPayableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountsReceivableAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/AccountsReceivableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BorrowedAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/BorrowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsPaidAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/CommissionsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsReceivedAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/CommissionsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompensationPaidForCrtnSrvcAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/CompensationPaidForCrtnSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompensationRcvdForCrtnSrvcAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/CompensationRcvdForCrtnSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingPaidAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/CostSharingPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingReceivedAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/CostSharingReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsPaidAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/DividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsReceivedAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/DividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HybridDividendsPaidAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/HybridDividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HybridDividendsReceivedAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/HybridDividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremPdAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/InsReinsPremPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremRcvdAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/InsReinsPremRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestPaidAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/InterestPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestReceivedAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/InterestReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryPurchaseAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/InventoryPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventorySalesAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/InventorySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/LoanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesPaidAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/LoanGuaranteeFeesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesRcvdAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/LoanGuaranteeFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmountsPaidAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/OtherAmountsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmountsReceivedAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/OtherAmountsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionPaidAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/PlatformContributionPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionRcvdAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/PlatformContributionRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsPrchsAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/PropertyRightsPrchsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsSalesAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/PropertyRightsSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsRoyaltiesLcnsFeesRcvdAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/RentsRoyaltiesLcnsFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsRoyaltiesLicenseFeesPdAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/RentsRoyaltiesLicenseFeesPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertyPurchaseAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/TangiblePropertyPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertySalesAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/TangiblePropertySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsPdAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/TotalTransactionsPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsReceivedAmt",
+      "path": "OthFrgnCorpPrtshpUSPrsnFlngGrp/TotalTransactionsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "AccountsPayableAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/AccountsPayableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountsReceivableAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/AccountsReceivableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BorrowedAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/BorrowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsPaidAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/CommissionsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsReceivedAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/CommissionsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompensationPaidForCrtnSrvcAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/CompensationPaidForCrtnSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompensationRcvdForCrtnSrvcAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/CompensationRcvdForCrtnSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingPaidAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/CostSharingPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingReceivedAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/CostSharingReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsPaidAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/DividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsReceivedAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/DividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HybridDividendsPaidAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/HybridDividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HybridDividendsReceivedAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/HybridDividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremPdAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/InsReinsPremPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremRcvdAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/InsReinsPremRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestPaidAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/InterestPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestReceivedAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/InterestReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryPurchaseAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/InventoryPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventorySalesAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/InventorySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/LoanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesPaidAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/LoanGuaranteeFeesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesRcvdAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/LoanGuaranteeFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmountsPaidAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/OtherAmountsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmountsReceivedAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/OtherAmountsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionPaidAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/PlatformContributionPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionRcvdAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/PlatformContributionRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsPrchsAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/PropertyRightsPrchsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsSalesAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/PropertyRightsSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsRoyaltiesLcnsFeesRcvdAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/RentsRoyaltiesLcnsFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsRoyaltiesLicenseFeesPdAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/RentsRoyaltiesLicenseFeesPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertyPurchaseAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/TangiblePropertyPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertySalesAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/TangiblePropertySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsPdAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/TotalTransactionsPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsReceivedAmt",
+      "path": "TenPctMoreUSShrAnyCorpCtrlGrp/TotalTransactionsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountsPayableAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/AccountsPayableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountsReceivableAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/AccountsReceivableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BorrowedAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/BorrowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsPaidAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/CommissionsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsReceivedAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/CommissionsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompensationPaidForCrtnSrvcAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/CompensationPaidForCrtnSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompensationRcvdForCrtnSrvcAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/CompensationRcvdForCrtnSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingPaidAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/CostSharingPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingReceivedAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/CostSharingReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsPaidAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/DividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsReceivedAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/DividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HybridDividendsPaidAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/HybridDividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HybridDividendsReceivedAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/HybridDividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremPdAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/InsReinsPremPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremRcvdAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/InsReinsPremRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestPaidAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/InterestPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestReceivedAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/InterestReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryPurchaseAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/InventoryPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventorySalesAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/InventorySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/LoanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesPaidAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/LoanGuaranteeFeesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesRcvdAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/LoanGuaranteeFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmountsPaidAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/OtherAmountsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmountsReceivedAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/OtherAmountsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionPaidAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/PlatformContributionPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionRcvdAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/PlatformContributionRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsPrchsAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/PropertyRightsPrchsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsSalesAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/PropertyRightsSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsRoyaltiesLcnsFeesRcvdAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/RentsRoyaltiesLcnsFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsRoyaltiesLicenseFeesPdAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/RentsRoyaltiesLicenseFeesPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertyPurchaseAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/TangiblePropertyPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertySalesAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/TangiblePropertySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsPdAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/TotalTransactionsPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsReceivedAmt",
+      "path": "TenPctMoreUSShrCtrlFrgnCorpGrp/TotalTransactionsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountsPayableAmt",
+      "path": "USPersonControlFrgnCorpGrp/AccountsPayableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountsReceivableAmt",
+      "path": "USPersonControlFrgnCorpGrp/AccountsReceivableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BorrowedAmt",
+      "path": "USPersonControlFrgnCorpGrp/BorrowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsPaidAmt",
+      "path": "USPersonControlFrgnCorpGrp/CommissionsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsReceivedAmt",
+      "path": "USPersonControlFrgnCorpGrp/CommissionsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompensationPaidForCrtnSrvcAmt",
+      "path": "USPersonControlFrgnCorpGrp/CompensationPaidForCrtnSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompensationRcvdForCrtnSrvcAmt",
+      "path": "USPersonControlFrgnCorpGrp/CompensationRcvdForCrtnSrvcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingPaidAmt",
+      "path": "USPersonControlFrgnCorpGrp/CostSharingPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingReceivedAmt",
+      "path": "USPersonControlFrgnCorpGrp/CostSharingReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsPaidAmt",
+      "path": "USPersonControlFrgnCorpGrp/DividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsReceivedAmt",
+      "path": "USPersonControlFrgnCorpGrp/DividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HybridDividendsPaidAmt",
+      "path": "USPersonControlFrgnCorpGrp/HybridDividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HybridDividendsReceivedAmt",
+      "path": "USPersonControlFrgnCorpGrp/HybridDividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremPdAmt",
+      "path": "USPersonControlFrgnCorpGrp/InsReinsPremPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremRcvdAmt",
+      "path": "USPersonControlFrgnCorpGrp/InsReinsPremRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestPaidAmt",
+      "path": "USPersonControlFrgnCorpGrp/InterestPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestReceivedAmt",
+      "path": "USPersonControlFrgnCorpGrp/InterestReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryPurchaseAmt",
+      "path": "USPersonControlFrgnCorpGrp/InventoryPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventorySalesAmt",
+      "path": "USPersonControlFrgnCorpGrp/InventorySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanAmt",
+      "path": "USPersonControlFrgnCorpGrp/LoanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesPaidAmt",
+      "path": "USPersonControlFrgnCorpGrp/LoanGuaranteeFeesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesRcvdAmt",
+      "path": "USPersonControlFrgnCorpGrp/LoanGuaranteeFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmountsPaidAmt",
+      "path": "USPersonControlFrgnCorpGrp/OtherAmountsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmountsReceivedAmt",
+      "path": "USPersonControlFrgnCorpGrp/OtherAmountsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionPaidAmt",
+      "path": "USPersonControlFrgnCorpGrp/PlatformContributionPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionRcvdAmt",
+      "path": "USPersonControlFrgnCorpGrp/PlatformContributionRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsPrchsAmt",
+      "path": "USPersonControlFrgnCorpGrp/PropertyRightsPrchsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsSalesAmt",
+      "path": "USPersonControlFrgnCorpGrp/PropertyRightsSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsRoyaltiesLcnsFeesRcvdAmt",
+      "path": "USPersonControlFrgnCorpGrp/RentsRoyaltiesLcnsFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsRoyaltiesLicenseFeesPdAmt",
+      "path": "USPersonControlFrgnCorpGrp/RentsRoyaltiesLicenseFeesPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertyPurchaseAmt",
+      "path": "USPersonControlFrgnCorpGrp/TangiblePropertyPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertySalesAmt",
+      "path": "USPersonControlFrgnCorpGrp/TangiblePropertySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsPdAmt",
+      "path": "USPersonControlFrgnCorpGrp/TotalTransactionsPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsReceivedAmt",
+      "path": "USPersonControlFrgnCorpGrp/TotalTransactionsReceivedAmt",
+      "type": "usd"
+    }
+  ]
+}

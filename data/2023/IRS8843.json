@@ -1,0 +1,141 @@
+{
+  "form_id": "IRS8843",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AppLawfulPermanentResExplnTxt",
+      "path": "AppLawfulPermanentResExplnTxt",
+      "type": "string"
+    },
+    {
+      "name": "AppLawfulPermanentResidentInd",
+      "path": "AppLawfulPermanentResidentInd",
+      "type": "bool"
+    },
+    {
+      "name": "CitizenCountryCd",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/CitizenCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "VisaChangeDesc",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/NonimmigrantStatusGrp/VisaChangeDesc",
+      "type": "string"
+    },
+    {
+      "name": "VisaChangeDt",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/NonimmigrantStatusGrp/VisaChangeDt",
+      "type": "date"
+    },
+    {
+      "name": "PassportIssuedGrp",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/PassportIssuedGrp",
+      "type": "group"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/PassportIssuedGrp/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "PassportNum",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/PassportIssuedGrp/PassportNum",
+      "type": "string"
+    },
+    {
+      "name": "PhysicallyPresUSPYDayCnt",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/PhysicallyPresUSPYDayCnt",
+      "type": "int"
+    },
+    {
+      "name": "PhysicallyPresUSPYLess1DayCnt",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/PhysicallyPresUSPYLess1DayCnt",
+      "type": "int"
+    },
+    {
+      "name": "PhysicallyPresUSPYLess2DayCnt",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/PhysicallyPresUSPYLess2DayCnt",
+      "type": "int"
+    },
+    {
+      "name": "SubstPresenceTestExclDaysCnt",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/SubstPresenceTestExclDaysCnt",
+      "type": "int"
+    },
+    {
+      "name": "USImmigrationStatusGrp",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/USImmigrationStatusGrp",
+      "type": "group"
+    },
+    {
+      "name": "EnteredUSDt",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/USImmigrationStatusGrp/EnteredUSDt",
+      "type": "date"
+    },
+    {
+      "name": "child::*",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/USImmigrationStatusGrp/child::*",
+      "type": "unknown"
+    },
+    {
+      "name": "Form1040NRInformationCd",
+      "path": "Form1040NRInformationCd",
+      "type": "enum"
+    },
+    {
+      "name": "MedicalConditionGrp",
+      "path": "MedicalConditionGrp",
+      "type": "group"
+    },
+    {
+      "name": "DepartedUSDt",
+      "path": "MedicalConditionGrp/DepartedUSDt",
+      "type": "date"
+    },
+    {
+      "name": "IntendedUSDepartureDt",
+      "path": "MedicalConditionGrp/IntendedUSDepartureDt",
+      "type": "date"
+    },
+    {
+      "name": "MedicalConditionCd",
+      "path": "MedicalConditionGrp/MedicalConditionCd",
+      "type": "enum"
+    },
+    {
+      "name": "MedicalConditionDesc",
+      "path": "MedicalConditionGrp/MedicalConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "SportEvtBnftCharitableOrgGrp",
+      "path": "SportEvtBnftCharitableOrgGrp",
+      "type": "group"
+    },
+    {
+      "name": "StudentExemptIndivGrp",
+      "path": "StudentExemptIndivGrp",
+      "type": "group"
+    },
+    {
+      "name": "TeacherOrTraineeExemptIndivGrp",
+      "path": "TeacherOrTraineeExemptIndivGrp",
+      "type": "group"
+    },
+    {
+      "name": "TeacherTraineeStdnt2of6PrCYInd",
+      "path": "TeacherTraineeStdnt2of6PrCYInd",
+      "type": "bool"
+    },
+    {
+      "name": "TeacherTraineeStdntGrtr5CYInd",
+      "path": "TeacherTraineeStdntGrtr5CYInd",
+      "type": "bool"
+    },
+    {
+      "name": "USChrtblSportEvtCompetitionGrp",
+      "path": "USChrtblSportEvtCompetitionGrp",
+      "type": "group"
+    }
+  ]
+}

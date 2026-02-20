@@ -1,0 +1,56 @@
+{
+  "form_id": "IRS1040ScheduleEIC",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "QualifyingChildInformation",
+      "path": "QualifyingChildInformation",
+      "type": "unknown"
+    },
+    {
+      "name": "ChildBirthYr",
+      "path": "QualifyingChildInformation/ChildBirthYr",
+      "type": "unknown"
+    },
+    {
+      "name": "ChildIsAStudentUnder24Ind",
+      "path": "QualifyingChildInformation/ChildIsAStudentUnder24Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ChildPermanentlyDisabledInd",
+      "path": "QualifyingChildInformation/ChildPermanentlyDisabledInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChildRelationshipCd",
+      "path": "QualifyingChildInformation/ChildRelationshipCd",
+      "type": "enum"
+    },
+    {
+      "name": "DiedLiteralCd",
+      "path": "QualifyingChildInformation/DiedLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "KidnappedChildCd",
+      "path": "QualifyingChildInformation/KidnappedChildCd",
+      "type": "enum"
+    },
+    {
+      "name": "MonthsChildLivedWithYouCnt",
+      "path": "QualifyingChildInformation/MonthsChildLivedWithYouCnt",
+      "type": "int"
+    },
+    {
+      "name": "QualifyingChildSSN",
+      "path": "QualifyingChildInformation/QualifyingChildSSN",
+      "type": "tin"
+    },
+    {
+      "name": "SepdSpsFilingSepRetMeetsRqrInd",
+      "path": "SepdSpsFilingSepRetMeetsRqrInd",
+      "type": "bool"
+    }
+  ]
+}

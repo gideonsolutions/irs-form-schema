@@ -1,0 +1,396 @@
+{
+  "form_id": "IRS926",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "ActiveTrdOrBusExcPropTotalGrp",
+      "path": "ActiveTrdOrBusExcPropTotalGrp",
+      "type": "group"
+    },
+    {
+      "name": "Apply20YearInclusionPeriodInd",
+      "path": "Apply20YearInclusionPeriodInd",
+      "type": "bool"
+    },
+    {
+      "name": "BasicAdjusmentsSect367a5Ind",
+      "path": "BasicAdjusmentsSect367a5Ind",
+      "type": "bool"
+    },
+    {
+      "name": "BuiltInLossPropSection367dGrp",
+      "path": "BuiltInLossPropSection367dGrp",
+      "type": "group"
+    },
+    {
+      "name": "CashOnlyPropertyTransferredInd",
+      "path": "CashOnlyPropertyTransferredInd",
+      "type": "bool"
+    },
+    {
+      "name": "CashPropertyGrp",
+      "path": "CashPropertyGrp",
+      "type": "group"
+    },
+    {
+      "name": "ControlledBy5OrFewerDomCorpInd",
+      "path": "ControlledBy5OrFewerDomCorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "ControllingShareholder",
+      "path": "ControllingShareholder",
+      "type": "unknown"
+    },
+    {
+      "name": "CoverPropertyDistributionInd",
+      "path": "CoverPropertyDistributionInd",
+      "type": "bool"
+    },
+    {
+      "name": "DomCorpAstTransferForeignBrInd",
+      "path": "DomCorpAstTransferForeignBrInd",
+      "type": "bool"
+    },
+    {
+      "name": "DomesticCorpUSShareholderInd",
+      "path": "DomesticCorpUSShareholderInd",
+      "type": "bool"
+    },
+    {
+      "name": "EINMissingReasonCd",
+      "path": "EINMissingReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExistedAfterTransferInd",
+      "path": "ExistedAfterTransferInd",
+      "type": "bool"
+    },
+    {
+      "name": "FinancialAssetPropertyGrp",
+      "path": "FinancialAssetPropertyGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignBranchAssetTransferInd",
+      "path": "ForeignBranchAssetTransferInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignLawCharacterizationTxt",
+      "path": "ForeignLawCharacterizationTxt",
+      "type": "string"
+    },
+    {
+      "name": "IndfntUsefulLifeTransferInd",
+      "path": "IndfntUsefulLifeTransferInd",
+      "type": "bool"
+    },
+    {
+      "name": "IneligiblePropertyGrp",
+      "path": "IneligiblePropertyGrp",
+      "type": "group"
+    },
+    {
+      "name": "InlgblTrdOrBusExcPropTotalGrp",
+      "path": "InlgblTrdOrBusExcPropTotalGrp",
+      "type": "group"
+    },
+    {
+      "name": "InstallmentObligationsPropGrp",
+      "path": "InstallmentObligationsPropGrp",
+      "type": "group"
+    },
+    {
+      "name": "IntangiblePropertyDetailGrp",
+      "path": "IntangiblePropertyDetailGrp",
+      "type": "group"
+    },
+    {
+      "name": "IntangiblePropertyTotalGrp",
+      "path": "IntangiblePropertyTotalGrp",
+      "type": "group"
+    },
+    {
+      "name": "IntangiblePropertyTrnsfrInd",
+      "path": "IntangiblePropertyTrnsfrInd",
+      "type": "bool"
+    },
+    {
+      "name": "IntangliblePropertyTransferGrp",
+      "path": "IntangliblePropertyTransferGrp",
+      "type": "group"
+    },
+    {
+      "name": "IntngblPropTrnsfrContriInd",
+      "path": "IntngblPropTrnsfrContriInd",
+      "type": "bool"
+    },
+    {
+      "name": "InventoryPropSection367dGrp",
+      "path": "InventoryPropSection367dGrp",
+      "type": "group"
+    },
+    {
+      "name": "LeasedTangiblePropertyGrp",
+      "path": "LeasedTangiblePropertyGrp",
+      "type": "group"
+    },
+    {
+      "name": "LimitationAmt",
+      "path": "LimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NatureRightsIntangiblePropTxt",
+      "path": "NatureRightsIntangiblePropTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonfunctionalCurrencyPropGrp",
+      "path": "NonfunctionalCurrencyPropGrp",
+      "type": "group"
+    },
+    {
+      "name": "NonrecognitionTransactionTxt",
+      "path": "NonrecognitionTransactionTxt",
+      "type": "string"
+    },
+    {
+      "name": "OthPropNotOthCatSection367dGrp",
+      "path": "OthPropNotOthCatSection367dGrp",
+      "type": "group"
+    },
+    {
+      "name": "Owned10PercentForeignCorpInd",
+      "path": "Owned10PercentForeignCorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "ParentCorporationEIN",
+      "path": "ParentCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "ParentCorporationInd",
+      "path": "ParentCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ParentCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ParentCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PartnershipEIN",
+      "path": "PartnershipEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PartnershipMissingEINReasonCd",
+      "path": "PartnershipMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PartnershipName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PartnershipName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PropDistriGainLossNotRcgnzInd",
+      "path": "PropDistriGainLossNotRcgnzInd",
+      "type": "bool"
+    },
+    {
+      "name": "PropertyNotTransferredGrp",
+      "path": "PropertyNotTransferredGrp",
+      "type": "group"
+    },
+    {
+      "name": "PrtnrDisposingIntLtdPrtshpInd",
+      "path": "PrtnrDisposingIntLtdPrtshpInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrtnrDispsngEntireIntPrtshpInd",
+      "path": "PrtnrDispsngEntireIntPrtshpInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrtnrPickProRataShrGnTrnsfrInd",
+      "path": "PrtnrPickProRataShrGnTrnsfrInd",
+      "type": "bool"
+    },
+    {
+      "name": "RecognizeTotalGainLossAmt",
+      "path": "RecognizeTotalGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ResultedInChangeClsfInd",
+      "path": "ResultedInChangeClsfInd",
+      "type": "bool"
+    },
+    {
+      "name": "RetransferredPropertyGrp",
+      "path": "RetransferredPropertyGrp",
+      "type": "group"
+    },
+    {
+      "name": "Section355StockDistributionInd",
+      "path": "Section355StockDistributionInd",
+      "type": "bool"
+    },
+    {
+      "name": "StockOrSecuritiesTransferInd",
+      "path": "StockOrSecuritiesTransferInd",
+      "type": "bool"
+    },
+    {
+      "name": "StocksAndSecuritiesPropertyGrp",
+      "path": "StocksAndSecuritiesPropertyGrp",
+      "type": "group"
+    },
+    {
+      "name": "SupplementalInformationTxt",
+      "path": "SupplementalInformationTxt",
+      "type": "string"
+    },
+    {
+      "name": "TangiblePropertyGrp",
+      "path": "TangiblePropertyGrp",
+      "type": "group"
+    },
+    {
+      "name": "TangiblePropertyToBeLeasedGrp",
+      "path": "TangiblePropertyToBeLeasedGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalOtherPropSection367dGrp",
+      "path": "TotalOtherPropSection367dGrp",
+      "type": "group"
+    },
+    {
+      "name": "TransferGainUnderSect904f3Ind",
+      "path": "TransferGainUnderSect904f3Ind",
+      "type": "bool"
+    },
+    {
+      "name": "TransferGainUnderSect904f5FInd",
+      "path": "TransferGainUnderSect904f5FInd",
+      "type": "bool"
+    },
+    {
+      "name": "TransferInventoryPropertyGrp",
+      "path": "TransferInventoryPropertyGrp",
+      "type": "group"
+    },
+    {
+      "name": "TransferRcptrUndSect1503dInd",
+      "path": "TransferRcptrUndSect1503dInd",
+      "type": "bool"
+    },
+    {
+      "name": "TransfereeCountryOfIncorpCd",
+      "path": "TransfereeCountryOfIncorpCd",
+      "type": "enum"
+    },
+    {
+      "name": "TransfereeEIN",
+      "path": "TransfereeEIN",
+      "type": "ein"
+    },
+    {
+      "name": "TransfereeForeignAddress",
+      "path": "TransfereeForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "TransfereeForeignCorpInd",
+      "path": "TransfereeForeignCorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransfereeName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransfereeName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TransfereeUSAddress",
+      "path": "TransfereeUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransferorBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransferorBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TransferorEIN",
+      "path": "TransferorEIN",
+      "type": "ein"
+    },
+    {
+      "name": "TransferorsAfterTransferIntRt",
+      "path": "TransferorsAfterTransferIntRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TransferorsBeforeTransferIntRt",
+      "path": "TransferorsBeforeTransferIntRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TransferredLossAmt",
+      "path": "TransferredLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrnsfrExchGainUndSect987Ind",
+      "path": "TrnsfrExchGainUndSect987Ind",
+      "type": "bool"
+    },
+    {
+      "name": "TrnsfrOilGasWorkingIntPropGrp",
+      "path": "TrnsfrOilGasWorkingIntPropGrp",
+      "type": "group"
+    },
+    {
+      "name": "UsefulLifeTransferInd",
+      "path": "UsefulLifeTransferInd",
+      "type": "bool"
+    }
+  ]
+}

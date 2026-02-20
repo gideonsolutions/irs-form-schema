@@ -1,0 +1,31 @@
+{
+  "form_id": "IRS2290Schedule1",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "TaxableVehicleCnt",
+      "path": "TaxableVehicleCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalSuspendedVehicleCnt",
+      "path": "TotalSuspendedVehicleCnt",
+      "type": "int"
+    },
+    {
+      "name": "VehicleCnt",
+      "path": "VehicleCnt",
+      "type": "int"
+    },
+    {
+      "name": "VehicleReportTaxItem",
+      "path": "VehicleReportTaxItem",
+      "type": "unknown"
+    },
+    {
+      "name": "VehicleSuspendedTaxItem",
+      "path": "VehicleSuspendedTaxItem",
+      "type": "unknown"
+    }
+  ]
+}

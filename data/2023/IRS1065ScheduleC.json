@@ -1,0 +1,41 @@
+{
+  "form_id": "IRS1065ScheduleC",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "ChangeInAccountingPrincipleInd",
+      "path": "ChangeInAccountingPrincipleInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangeInMethodOfAccountingInd",
+      "path": "ChangeInMethodOfAccountingInd",
+      "type": "bool"
+    },
+    {
+      "name": "IRS1065ScheduleC",
+      "path": "IRS1065ScheduleC",
+      "type": "unknown"
+    },
+    {
+      "name": "InterestIntangibleAssetInd",
+      "path": "InterestIntangibleAssetInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnershipCapitalContriInd",
+      "path": "PartnershipCapitalContriInd",
+      "type": "bool"
+    },
+    {
+      "name": "SellExchangeTransferIntInd",
+      "path": "SellExchangeTransferIntInd",
+      "type": "bool"
+    },
+    {
+      "name": "TransfersSubjectToDisclRqrInd",
+      "path": "TransfersSubjectToDisclRqrInd",
+      "type": "bool"
+    }
+  ]
+}

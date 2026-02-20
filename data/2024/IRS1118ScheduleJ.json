@@ -1,0 +1,966 @@
+{
+  "form_id": "IRS1118ScheduleJ",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "@uSLossAllocUnderNotice89Cd",
+      "path": "@uSLossAllocUnderNotice89Cd",
+      "type": "enum"
+    },
+    {
+      "name": "AdjIncmLossAndLmtIncmAmt",
+      "path": "AdjSepLmtForeignBranchIncome/AdjIncmLossAndLmtIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedIncmLossAndAllocnCYAmt",
+      "path": "AdjSepLmtForeignBranchIncome/AdjustedIncmLossAndAllocnCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/AllocationCYSeparateLmtLosses/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/AllocationCYSeparateLmtLosses/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/AllocationCYSeparateLmtLosses/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/AllocationCYSeparateLmtLosses/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticLossesAmt",
+      "path": "AdjSepLmtForeignBranchIncome/DomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/EOYBalancesOfFutureSepLmtIncm/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/EOYBalancesOfFutureSepLmtIncm/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/EOYBalancesOfFutureSepLmtIncm/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NumLimitationFractionAmt",
+      "path": "AdjSepLmtForeignBranchIncome/NumLimitationFractionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentsSubtotalAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallDomLossAcctBalances/AdjustmentsSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallDomLossAcctBalances/BeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdditionsAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallDomLossAcctBalances/CurrentYearAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallDomLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearReductionsAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallDomLossAcctBalances/CurrentYearReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallDomLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallForeignLossAcctBalances/BeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdditionsAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallForeignLossAcctBalances/CurrentYearAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallForeignLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearReductionsAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallForeignLossAcctBalances/CurrentYearReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallForeignLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverallForeignLossesAmt",
+      "path": "AdjSepLmtForeignBranchIncome/OverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcptrOverallDomesticLossesAmt",
+      "path": "AdjSepLmtForeignBranchIncome/RcptrOverallDomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@allocationDomesticLossesCd",
+      "path": "AdjSepLmtForeignBranchIncome/RcptrOverallDomesticLossesAmt/@allocationDomesticLossesCd",
+      "type": "enum"
+    },
+    {
+      "name": "RcptrOverallForeignLossesAmt",
+      "path": "AdjSepLmtForeignBranchIncome/RcptrOverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/RecharacterizationSepLmtIncm/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/RecharacterizationSepLmtIncm/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/RecharacterizationSepLmtIncm/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtForeignBranchIncome/RecharacterizationSepLmtIncm/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncmOrLossBfrAdjustmentsAmt",
+      "path": "AdjSepLmtForeignBranchIncome/TotIncmOrLossBfrAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncomeOrLossCYAllocationAmt",
+      "path": "AdjSepLmtForeignBranchIncome/TotIncomeOrLossCYAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm//OverallForeignLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjIncmLossAndLmtIncmAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/AdjIncmLossAndLmtIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedIncmLossAndAllocnCYAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/AdjustedIncmLossAndAllocnCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/AllocationCYSeparateLmtLosses/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/AllocationCYSeparateLmtLosses/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/AllocationCYSeparateLmtLosses/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/AllocationCYSeparateLmtLosses/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticLossesAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/DomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/EOYBalancesOfFutureSepLmtIncm/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/EOYBalancesOfFutureSepLmtIncm/OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/EOYBalancesOfFutureSepLmtIncm/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/EOYBalancesOfFutureSepLmtIncm/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NumLimitationFractionAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/NumLimitationFractionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentsSubtotalAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallDomLossAcctBalances/AdjustmentsSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallDomLossAcctBalances/BeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdditionsAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallDomLossAcctBalances/CurrentYearAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallDomLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearReductionsAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallDomLossAcctBalances/CurrentYearReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallDomLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallForeignLossAcctBalances/BeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdditionsAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallForeignLossAcctBalances/CurrentYearAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallForeignLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearReductionsAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallForeignLossAcctBalances/CurrentYearReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallForeignLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverallForeignLossesAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/OverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcptrOverallDomesticLossesAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/RcptrOverallDomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@allocationDomesticLossesCd",
+      "path": "AdjSepLmtGeneralCategoryIncm/RcptrOverallDomesticLossesAmt/@allocationDomesticLossesCd",
+      "type": "enum"
+    },
+    {
+      "name": "RcptrOverallForeignLossesAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/RcptrOverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/RecharacterizationSepLmtIncm/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/RecharacterizationSepLmtIncm/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/RecharacterizationSepLmtIncm/OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/RecharacterizationSepLmtIncm/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/RecharacterizationSepLmtIncm/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncmOrLossBfrAdjustmentsAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/TotIncmOrLossBfrAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncomeOrLossCYAllocationAmt",
+      "path": "AdjSepLmtGeneralCategoryIncm/TotIncomeOrLossCYAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjSepLmtOtherIncome",
+      "path": "AdjSepLmtOtherIncome",
+      "type": "unknown"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtOtherIncome /EOYBalancesOfFutureSepLmtIncm/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjIncmLossAndLmtIncmAmt",
+      "path": "AdjSepLmtOtherIncome/AdjIncmLossAndLmtIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedIncmLossAndAllocnCYAmt",
+      "path": "AdjSepLmtOtherIncome/AdjustedIncmLossAndAllocnCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/AllocationCYSeparateLmtLosses/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/AllocationCYSeparateLmtLosses/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/AllocationCYSeparateLmtLosses/OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/AllocationCYSeparateLmtLosses/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/AllocationCYSeparateLmtLosses/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticLossesAmt",
+      "path": "AdjSepLmtOtherIncome/DomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/EOYBalancesOfFutureSepLmtIncm/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/EOYBalancesOfFutureSepLmtIncm/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/EOYBalancesOfFutureSepLmtIncm/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/EOYBalancesOfFutureSepLmtIncm/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NumLimitationFractionAmt",
+      "path": "AdjSepLmtOtherIncome/NumLimitationFractionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeDesc",
+      "path": "AdjSepLmtOtherIncome/OtherIncomeDesc",
+      "type": "string"
+    },
+    {
+      "name": "AdjustmentsSubtotalAmt",
+      "path": "AdjSepLmtOtherIncome/OverallDomLossAcctBalances/AdjustmentsSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAmt",
+      "path": "AdjSepLmtOtherIncome/OverallDomLossAcctBalances/BeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdditionsAmt",
+      "path": "AdjSepLmtOtherIncome/OverallDomLossAcctBalances/CurrentYearAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtOtherIncome/OverallDomLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearReductionsAmt",
+      "path": "AdjSepLmtOtherIncome/OverallDomLossAcctBalances/CurrentYearReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtOtherIncome/OverallDomLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAmt",
+      "path": "AdjSepLmtOtherIncome/OverallForeignLossAcctBalances/BeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdditionsAmt",
+      "path": "AdjSepLmtOtherIncome/OverallForeignLossAcctBalances/CurrentYearAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtOtherIncome/OverallForeignLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearReductionsAmt",
+      "path": "AdjSepLmtOtherIncome/OverallForeignLossAcctBalances/CurrentYearReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtOtherIncome/OverallForeignLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverallForeignLossesAmt",
+      "path": "AdjSepLmtOtherIncome/OverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcptrOverallDomesticLossesAmt",
+      "path": "AdjSepLmtOtherIncome/RcptrOverallDomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@allocationDomesticLossesCd",
+      "path": "AdjSepLmtOtherIncome/RcptrOverallDomesticLossesAmt/@allocationDomesticLossesCd",
+      "type": "enum"
+    },
+    {
+      "name": "RcptrOverallForeignLossesAmt",
+      "path": "AdjSepLmtOtherIncome/RcptrOverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/RecharacterizationSepLmtIncm/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/RecharacterizationSepLmtIncm/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/RecharacterizationSepLmtIncm/OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/RecharacterizationSepLmtIncm/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtOtherIncome/RecharacterizationSepLmtIncm/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "AdjSepLmtOtherIncome/SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "AdjSepLmtOtherIncome/SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotIncmOrLossBfrAdjustmentsAmt",
+      "path": "AdjSepLmtOtherIncome/TotIncmOrLossBfrAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncomeOrLossCYAllocationAmt",
+      "path": "AdjSepLmtOtherIncome/TotIncomeOrLossCYAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TreatyCountryCd",
+      "path": "AdjSepLmtOtherIncome/TreatyCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/ OverallDomLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjIncmLossAndLmtIncmAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/AdjIncmLossAndLmtIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedIncmLossAndAllocnCYAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/AdjustedIncmLossAndAllocnCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/AllocationCYSeparateLmtLosses/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/AllocationCYSeparateLmtLosses/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/AllocationCYSeparateLmtLosses/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/AllocationCYSeparateLmtLosses/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticLossesAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/DomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/EOYBalancesOfFutureSepLmtIncm/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/EOYBalancesOfFutureSepLmtIncm/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/EOYBalancesOfFutureSepLmtIncm/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NumLimitationFractionAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/NumLimitationFractionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentsSubtotalAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallDomLossAcctBalances/AdjustmentsSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallDomLossAcctBalances/BeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdditionsAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallDomLossAcctBalances/CurrentYearAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallDomLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearReductionsAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallDomLossAcctBalances/CurrentYearReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallDomLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallForeignLossAcctBalances/BeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdditionsAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallForeignLossAcctBalances/CurrentYearAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallForeignLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearReductionsAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallForeignLossAcctBalances/CurrentYearReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallForeignLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverallForeignLossesAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/OverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcptrOverallDomesticLossesAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/RcptrOverallDomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@allocationDomesticLossesCd",
+      "path": "AdjSepLmtPassiveCategoryIncm/RcptrOverallDomesticLossesAmt/@allocationDomesticLossesCd",
+      "type": "enum"
+    },
+    {
+      "name": "RcptrOverallForeignLossesAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/RcptrOverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/RecharacterizationSepLmtIncm/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/RecharacterizationSepLmtIncm/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/RecharacterizationSepLmtIncm/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/RecharacterizationSepLmtIncm/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncmOrLossBfrAdjustmentsAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/TotIncmOrLossBfrAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncomeOrLossCYAllocationAmt",
+      "path": "AdjSepLmtPassiveCategoryIncm/TotIncomeOrLossCYAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjSepLmtSection951AIncome",
+      "path": "AdjSepLmtSection951AIncome",
+      "type": "unknown"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtSection951AIncome/ OverallDomLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjIncmLossAndLmtIncmAmt",
+      "path": "AdjSepLmtSection951AIncome/AdjIncmLossAndLmtIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedIncmLossAndAllocnCYAmt",
+      "path": "AdjSepLmtSection951AIncome/AdjustedIncmLossAndAllocnCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/AllocationCYSeparateLmtLosses/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/AllocationCYSeparateLmtLosses/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/AllocationCYSeparateLmtLosses/OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/AllocationCYSeparateLmtLosses/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/AllocationCYSeparateLmtLosses/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticLossesAmt",
+      "path": "AdjSepLmtSection951AIncome/DomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/EOYBalancesOfFutureSepLmtIncm/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/EOYBalancesOfFutureSepLmtIncm/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/EOYBalancesOfFutureSepLmtIncm/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NumLimitationFractionAmt",
+      "path": "AdjSepLmtSection951AIncome/NumLimitationFractionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentsSubtotalAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallDomLossAcctBalances/AdjustmentsSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallDomLossAcctBalances/BeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdditionsAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallDomLossAcctBalances/CurrentYearAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearReductionsAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallDomLossAcctBalances/CurrentYearReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallDomLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallForeignLossAcctBalances/BeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdditionsAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallForeignLossAcctBalances/CurrentYearAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearRecaptureAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallForeignLossAcctBalances/CurrentYearRecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearReductionsAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallForeignLossAcctBalances/CurrentYearReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallForeignLossAcctBalances/EndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverallForeignLossesAmt",
+      "path": "AdjSepLmtSection951AIncome/OverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcptrOverallDomesticLossesAmt",
+      "path": "AdjSepLmtSection951AIncome/RcptrOverallDomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@allocationDomesticLossesCd",
+      "path": "AdjSepLmtSection951AIncome/RcptrOverallDomesticLossesAmt/@allocationDomesticLossesCd",
+      "type": "enum"
+    },
+    {
+      "name": "RcptrOverallForeignLossesAmt",
+      "path": "AdjSepLmtSection951AIncome/RcptrOverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/RecharacterizationSepLmtIncm/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralCategoryIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/RecharacterizationSepLmtIncm/GeneralCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/RecharacterizationSepLmtIncm/OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveCategoryIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/RecharacterizationSepLmtIncm/PassiveCategoryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section951AIncomeAmt",
+      "path": "AdjSepLmtSection951AIncome/RecharacterizationSepLmtIncm/Section951AIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncmOrLossBfrAdjustmentsAmt",
+      "path": "AdjSepLmtSection951AIncome/TotIncmOrLossBfrAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncomeOrLossCYAllocationAmt",
+      "path": "AdjSepLmtSection951AIncome/TotIncomeOrLossCYAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjSepLmtUSIncome",
+      "path": "AdjSepLmtUSIncome",
+      "type": "unknown"
+    },
+    {
+      "name": "AdjIncmLossAndLmtIncmAmt",
+      "path": "AdjSepLmtUSIncome/AdjIncmLossAndLmtIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedIncmLossAndAllocnCYAmt",
+      "path": "AdjSepLmtUSIncome/AdjustedIncmLossAndAllocnCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticLossesAmt",
+      "path": "AdjSepLmtUSIncome/DomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverallForeignLossesAmt",
+      "path": "AdjSepLmtUSIncome/OverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcptrOverallDomesticLossesAmt",
+      "path": "AdjSepLmtUSIncome/RcptrOverallDomesticLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@allocationDomesticLossesCd",
+      "path": "AdjSepLmtUSIncome/RcptrOverallDomesticLossesAmt/@allocationDomesticLossesCd",
+      "type": "enum"
+    },
+    {
+      "name": "RcptrOverallForeignLossesAmt",
+      "path": "AdjSepLmtUSIncome/RcptrOverallForeignLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncmOrLossBfrAdjustmentsAmt",
+      "path": "AdjSepLmtUSIncome/TotIncmOrLossBfrAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncomeOrLossCYAllocationAmt",
+      "path": "AdjSepLmtUSIncome/TotIncomeOrLossCYAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocationSepLmtLossOthIncmGrp",
+      "path": "AllocationSepLmtLossOthIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "EOYBalanceSepLmtOtherIncmGrp",
+      "path": "EOYBalanceSepLmtOtherIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "GeneralCategoryIncomeAmt/EOYBalancesOfFutureSepLmtIncm/OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "PassiveCategoryIncomeAmt/EOYBalancesOfFutureSepLmtIncm/OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RchrctrztnSepLmtOtherIncmGrp",
+      "path": "RchrctrztnSepLmtOtherIncmGrp",
+      "type": "group"
+    }
+  ]
+}

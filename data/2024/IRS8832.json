@@ -1,0 +1,226 @@
+{
+  "form_id": "IRS8832",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AddressChangeInd",
+      "path": "AddressChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangeInCurrentClsfInd",
+      "path": "ChangeInCurrentClsfInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContactPersonNm",
+      "path": "ContactPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "ContactPersonPhoneNum",
+      "path": "ContactPersonPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "ContactPersonTitleTxt",
+      "path": "ContactPersonTitleTxt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ElectionEffectiveDt",
+      "path": "ElectionEffectiveDt",
+      "type": "date"
+    },
+    {
+      "name": "ElectionWithPriorEffDtInd",
+      "path": "ElectionWithPriorEffDtInd",
+      "type": "bool"
+    },
+    {
+      "name": "EmployerMissingEINReasonCd",
+      "path": "EmployerMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "EntityEIN",
+      "path": "EntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "EntityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "EntityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityTxblAsACorpInd",
+      "path": "ForeignEntityTxblAsACorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignPartnershipInd",
+      "path": "ForeignPartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnContactPersonPhoneNum",
+      "path": "FrgnContactPersonPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "FrgnOwnerDsrgdSepEntityInd",
+      "path": "FrgnOwnerDsrgdSepEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "InitialClassificationInd",
+      "path": "InitialClassificationInd",
+      "type": "bool"
+    },
+    {
+      "name": "LateClsfReliefRevProc200941Ind",
+      "path": "LateClsfReliefRevProc200941Ind",
+      "type": "bool"
+    },
+    {
+      "name": "LateClsfReliefRevProc201032Ind",
+      "path": "LateClsfReliefRevProc201032Ind",
+      "type": "bool"
+    },
+    {
+      "name": "LateFiledEntyClsElectnExplnTxt",
+      "path": "LateFiledEntyClsElectnExplnTxt",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "MultipleOwnerYesOrNoInd",
+      "path": "MultipleOwnerYesOrNoInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrganizationCountryCd",
+      "path": "OrganizationCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OwnerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OwnerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ParentCorporationEIN",
+      "path": "ParentCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ParentCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ParentCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PriorElectionDtOfFormationInd",
+      "path": "PriorElectionDtOfFormationInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "USAssocTxblAsACorpInd",
+      "path": "USAssocTxblAsACorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "USEntityAsAPrtshpInd",
+      "path": "USEntityAsAPrtshpInd",
+      "type": "bool"
+    },
+    {
+      "name": "USEntityOwnerDsrgdSepEntityInd",
+      "path": "USEntityOwnerDsrgdSepEntityInd",
+      "type": "bool"
+    }
+  ]
+}

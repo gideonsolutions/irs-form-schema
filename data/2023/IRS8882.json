@@ -1,0 +1,56 @@
+{
+  "form_id": "IRS8882",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AllocatedtoBeneficiariesAmt",
+      "path": "AllocatedtoBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmplrChldCareFcltsAndSrvcCrAmt",
+      "path": "EmplrChldCareFcltsAndSrvcCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesAndTrustsCreditAmt",
+      "path": "EstatesAndTrustsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyChldCareFcltyExpendAmt",
+      "path": "QlfyChldCareFcltyExpendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedChildCareRscExpendAmt",
+      "path": "QualifiedChildCareRscExpendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrOfEntitiesSumOr150000Amt",
+      "path": "SmllrOfEntitiesSumOr150000Amt",
+      "type": "usd"
+    },
+    {
+      "name": "@portionAmount1041",
+      "path": "SmllrOfEntitiesSumOr150000Amt/@portionAmount1041",
+      "type": "unknown"
+    },
+    {
+      "name": "SumOfPassThruEntCostsAndCrAmt",
+      "path": "SumOfPassThruEntCostsAndCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TenPercentOfResourceExpendAmt",
+      "path": "TenPercentOfResourceExpendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TwentyFivePctOfFcltyExpendAmt",
+      "path": "TwentyFivePctOfFcltyExpendAmt",
+      "type": "usd"
+    }
+  ]
+}

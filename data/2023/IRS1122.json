@@ -1,0 +1,111 @@
+{
+  "form_id": "IRS1122",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CalendarYr",
+      "path": "CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ParentCorporationEIN",
+      "path": "ParentCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ParentCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ParentCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "SubsidiaryBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "SubsidiaryBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "SubsidiaryCorpForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "SubsidiaryCorpForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "SubsidiaryCorpForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "SubsidiaryCorpForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "SubsidiaryCorpForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "SubsidiaryCorpForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "SubsidiaryCorpUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "SubsidiaryCorpUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "SubsidiaryCorpUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "SubsidiaryCorpUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "SubsidiaryCorpUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "SubsidiaryEIN",
+      "path": "SubsidiaryEIN",
+      "type": "ein"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    }
+  ]
+}

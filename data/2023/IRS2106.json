@@ -1,0 +1,261 @@
+{
+  "form_id": "IRS2106",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "ActualExpensesGrp",
+      "path": "ActualExpensesGrp",
+      "type": "group"
+    },
+    {
+      "name": "ActualVehicleExpenseAmt",
+      "path": "ActualExpensesGrp/ActualVehicleExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalculatedBusinessExpenseAmt",
+      "path": "ActualExpensesGrp/CalculatedBusinessExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "ActualExpensesGrp/DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InclusionAmt",
+      "path": "ActualExpensesGrp/InclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentalMinusInclusionAmt",
+      "path": "ActualExpensesGrp/RentalMinusInclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalActualExpenseAmt",
+      "path": "ActualExpensesGrp/TotalActualExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ValueEmplrProvidedVehicleAmt",
+      "path": "ActualExpensesGrp/ValueEmplrProvidedVehicleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleGasRepairsInsAmt",
+      "path": "ActualExpensesGrp/VehicleGasRepairsInsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleRentalsAmt",
+      "path": "ActualExpensesGrp/VehicleRentalsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowableBusinessDeductionAmt",
+      "path": "AllowableBusinessDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowableMealsDeductionAmt",
+      "path": "AllowableMealsDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnotherVehicleForPrsnlUseInd",
+      "path": "AnotherVehicleForPrsnlUseInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusExpnssLessMealsEntrmtAmt",
+      "path": "BusExpnssLessMealsEntrmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationOfVehiclesGrp",
+      "path": "DepreciationOfVehiclesGrp",
+      "type": "group"
+    },
+    {
+      "name": "CalculatedDepreciationAmt",
+      "path": "DepreciationOfVehiclesGrp/CalculatedDepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationMethodTypeTxt",
+      "path": "DepreciationOfVehiclesGrp/DepreciationMethodTypeTxt",
+      "type": "string"
+    },
+    {
+      "name": "DepreciationOfVehicleAmt",
+      "path": "DepreciationOfVehiclesGrp/DepreciationOfVehicleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationRecoveryAmt",
+      "path": "DepreciationOfVehiclesGrp/DepreciationRecoveryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationSubtotalAmt",
+      "path": "DepreciationOfVehiclesGrp/DepreciationSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LimitationAmt",
+      "path": "DepreciationOfVehiclesGrp/LimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LimitationMultipliedByUseAmt",
+      "path": "DepreciationOfVehiclesGrp/LimitationMultipliedByUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Pct",
+      "path": "DepreciationOfVehiclesGrp/Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Section179DeductionAmt",
+      "path": "DepreciationOfVehiclesGrp/Section179DeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleBasisAmt",
+      "path": "DepreciationOfVehiclesGrp/VehicleBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EvidenceToSupportDeductionInd",
+      "path": "EvidenceToSupportDeductionInd",
+      "type": "bool"
+    },
+    {
+      "name": "EvidenceWrittenInd",
+      "path": "EvidenceWrittenInd",
+      "type": "bool"
+    },
+    {
+      "name": "MealsAndEntertainmentAmt",
+      "path": "MealsAndEntertainmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MealsEntrmtReimbNotRptW2Amt",
+      "path": "MealsEntrmtReimbNotRptW2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OccupationTxt",
+      "path": "OccupationTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherReimbNotRptOnW2Amt",
+      "path": "OtherReimbNotRptOnW2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ParkingFeesTollsLocalTransAmt",
+      "path": "ParkingFeesTollsLocalTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "StandardMileageDeductionAmt",
+      "path": "StandardMileageDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotExpnssLessMealsEntrmtAmt",
+      "path": "TotExpnssLessMealsEntrmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalMealsAndEntrmtAmt",
+      "path": "TotalMealsAndEntrmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TravExpnsLessMealsEntrmtAmt",
+      "path": "TravExpnsLessMealsEntrmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnreimEmployeeBusExpnsAmt",
+      "path": "UnreimEmployeeBusExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnreimbursedBusinessExpenseAmt",
+      "path": "UnreimbursedBusinessExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnreimbursedMealsExpenseAmt",
+      "path": "UnreimbursedMealsExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleAvailableOffDutyHrsInd",
+      "path": "VehicleAvailableOffDutyHrsInd",
+      "type": "bool"
+    },
+    {
+      "name": "VehicleExpenseAmt",
+      "path": "VehicleExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleExpensesGrp",
+      "path": "VehicleExpensesGrp",
+      "type": "group"
+    },
+    {
+      "name": "AverageDistanceCnt",
+      "path": "VehicleExpensesGrp/AverageDistanceCnt",
+      "type": "int"
+    },
+    {
+      "name": "BusinessMilesCnt",
+      "path": "VehicleExpensesGrp/BusinessMilesCnt",
+      "type": "int"
+    },
+    {
+      "name": "MilesCommutingCnt",
+      "path": "VehicleExpensesGrp/MilesCommutingCnt",
+      "type": "int"
+    },
+    {
+      "name": "OtherPersonalMilesCnt",
+      "path": "VehicleExpensesGrp/OtherPersonalMilesCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalMilesCnt",
+      "path": "VehicleExpensesGrp/TotalMilesCnt",
+      "type": "int"
+    },
+    {
+      "name": "VehBusInvestmentUsePct",
+      "path": "VehicleExpensesGrp/VehBusInvestmentUsePct",
+      "type": "decimal"
+    },
+    {
+      "name": "VehiclePlacedInServiceDt",
+      "path": "VehicleExpensesGrp/VehiclePlacedInServiceDt",
+      "type": "date"
+    }
+  ]
+}

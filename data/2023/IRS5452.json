@@ -1,0 +1,101 @@
+{
+  "form_id": "IRS5452",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AccumulatedAdjAccountDistriInd",
+      "path": "AccumulatedAdjAccountDistriInd",
+      "type": "bool"
+    },
+    {
+      "name": "AccumulatedEarnAndPrftAtBOYAmt",
+      "path": "AccumulatedEarnAndPrftAtBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualEarnAndPrftCurrentTYAmt",
+      "path": "ActualEarnAndPrftCurrentTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableYr",
+      "path": "ApplicableYr",
+      "type": "unknown"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalendarYr",
+      "path": "CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "CorporateDistributions",
+      "path": "CorporateDistributions",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalDistributionPaidAmt",
+      "path": "CorporateDistributions/TotalDistributionPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorporationAndOtherShrCnt",
+      "path": "CorporationAndOtherShrCnt",
+      "type": "int"
+    },
+    {
+      "name": "DistriPartOfLiquidationInd",
+      "path": "DistriPartOfLiquidationInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form5452FiledForPriorYeaearInd",
+      "path": "Form5452FiledForPriorYeaearInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form5452FiledForPriorYearInd",
+      "path": "Form5452FiledForPriorYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "IndividualCnt",
+      "path": "IndividualCnt",
+      "type": "int"
+    },
+    {
+      "name": "PartnershipCnt",
+      "path": "PartnershipCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotAccumEarnAndPrftPaidAmt",
+      "path": "TotAccumEarnAndPrftPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEarnAndPrftPaidCYAmt",
+      "path": "TotalEarnAndPrftPaidCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOfTotalDistriPaidAmt",
+      "path": "TotalOfTotalDistriPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOfTotalEarnAndPrftPaidAmt",
+      "path": "TotalOfTotalEarnAndPrftPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOthThanEarnAndPrftPaidAmt",
+      "path": "TotalOthThanEarnAndPrftPaidAmt",
+      "type": "usd"
+    }
+  ]
+}

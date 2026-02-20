@@ -1,0 +1,251 @@
+{
+  "form_id": "IRS1120FScheduleS",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AnyShrFrgnStkIssdBearerFormInd",
+      "path": "AnyShrFrgnStkIssdBearerFormInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicableAuthorityTxt",
+      "path": "ApplicableAuthorityTxt",
+      "type": "string"
+    },
+    {
+      "name": "BearerSharesMaintReliedInd",
+      "path": "BearerSharesMaintReliedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CFCDirectlyHeldUSPersonsInd",
+      "path": "CFCDirectlyHeldUSPersonsInd",
+      "type": "bool"
+    },
+    {
+      "name": "CFCStockOwnershipTestInd",
+      "path": "CFCStockOwnershipTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "CapitalGainsAmt",
+      "path": "CapitalGainsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharterIncomeShipOrAircraftAmt",
+      "path": "CharterIncomeShipOrAircraftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharterIncomeShipOrArcrftAmt",
+      "path": "CharterIncomeShipOrArcrftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ClassStockInformationDsc",
+      "path": "ClassStockInformationDsc",
+      "type": "unknown"
+    },
+    {
+      "name": "StockClassDesc",
+      "path": "ClassStockInformationDsc/StockClassDesc",
+      "type": "string"
+    },
+    {
+      "name": "DaysFrgnCorpStkCloselyHeldCnt",
+      "path": "DaysFrgnCorpStkCloselyHeldCnt",
+      "type": "int"
+    },
+    {
+      "name": "DaysShareholdersOwnedStockCnt",
+      "path": "DaysShareholdersOwnedStockCnt",
+      "type": "int"
+    },
+    {
+      "name": "DomesticLawInd",
+      "path": "DomesticLawInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstimateUsedInd",
+      "path": "EstimateUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExchangeOfNotesInd",
+      "path": "ExchangeOfNotesInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignCorpCapitalGainsAmt",
+      "path": "ForeignCorpCapitalGainsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignCorpJointVentureIncmAmt",
+      "path": "ForeignCorpJointVentureIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignCountryCd",
+      "path": "ForeignCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "FrgnCorporationWasCFCPrdTxt",
+      "path": "FrgnCorporationWasCFCPrdTxt",
+      "type": "string"
+    },
+    {
+      "name": "IncdtlCharterOrDryLsIncmAmt",
+      "path": "IncdtlCharterOrDryLsIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncdtlCharterOrDryLsIncmFAmt",
+      "path": "IncdtlCharterOrDryLsIncmFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncdtlContainerRelatedIncmAmt",
+      "path": "IncdtlContainerRelatedIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncdtlContainerRltdIncmAmt",
+      "path": "IncdtlContainerRltdIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncmCarriagePassengerCargoAmt",
+      "path": "IncmCarriagePassengerCargoAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncmCarriagePassengersCargoAmt",
+      "path": "IncmCarriagePassengersCargoAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncmIncdtlIntntlShipArcrftFAmt",
+      "path": "IncmIncdtlIntntlShipArcrftFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncmIncdtlIntntlShipsArcrftAmt",
+      "path": "IncmIncdtlIntntlShipsArcrftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeFromJointVentureAmt",
+      "path": "IncomeFromJointVentureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeShipOrAircraftAmt",
+      "path": "IncomeShipOrAircraftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeShipOrLeaseOfAircraftAmt",
+      "path": "IncomeShipOrLeaseOfAircraftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxConventionInd",
+      "path": "IncomeTaxConventionInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoBearerSharesReliedInd",
+      "path": "NoBearerSharesReliedInd",
+      "type": "bool"
+    },
+    {
+      "name": "OutstandingSharesMaintainedPct",
+      "path": "OutstandingSharesMaintainedPct",
+      "type": "decimal"
+    },
+    {
+      "name": "OutstandingSharesOwnedPct",
+      "path": "OutstandingSharesOwnedPct",
+      "type": "decimal"
+    },
+    {
+      "name": "PubliclyTradedTestInd",
+      "path": "PubliclyTradedTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedShrStkOwnrTestInd",
+      "path": "QualifiedShrStkOwnrTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "ShareholdersVoteInd",
+      "path": "ShareholdersVoteInd",
+      "type": "bool"
+    },
+    {
+      "name": "ShrOwnMorevalueOfOutstdShrInd",
+      "path": "ShrOwnMorevalueOfOutstdShrInd",
+      "type": "bool"
+    },
+    {
+      "name": "StockHeldShareholderPrd",
+      "path": "StockHeldShareholderPrd",
+      "type": "unknown"
+    },
+    {
+      "name": "StockListedSecurityMarketNm",
+      "path": "StockListedSecurityMarketNm",
+      "type": "string"
+    },
+    {
+      "name": "StockTradedCountryCd",
+      "path": "StockTradedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotQualifiedShrRegs18834b1Cnt",
+      "path": "TotQualifiedShrRegs18834b1Cnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalOutstandingSharesOwnedPct",
+      "path": "TotalOutstandingSharesOwnedPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalPctOfValueSharesOwnedRt",
+      "path": "TotalPctOfValueSharesOwnedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalPctOfValueStockOwnedRt",
+      "path": "TotalPctOfValueStockOwnedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalQualifiedShareholdersCnt",
+      "path": "TotalQualifiedShareholdersCnt",
+      "type": "int"
+    },
+    {
+      "name": "USPersonsHeldStockPeriodTxt",
+      "path": "USPersonsHeldStockPeriodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ValueSharesOwnedQlfyUSPrsnPct",
+      "path": "ValueSharesOwnedQlfyUSPrsnPct",
+      "type": "decimal"
+    },
+    {
+      "name": "ValueSharesOwnedUSPersonsPct",
+      "path": "ValueSharesOwnedUSPersonsPct",
+      "type": "decimal"
+    }
+  ]
+}

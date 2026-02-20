@@ -1,0 +1,1231 @@
+{
+  "form_id": "IRS4626",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AMTFTC1Amt",
+      "path": "AMTFTC1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "AMTFTC2Amt",
+      "path": "AMTFTC2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "AdjustedFrgnTxCyovPriorYrGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "AdjustedFrgnTxCyovPriorYrGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthPrecedingTYAmt",
+      "path": "AdjustedFrgnTxCyovPriorYrGrp/FourthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingTYAmt",
+      "path": "AdjustedFrgnTxCyovPriorYrGrp/SecondPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPrecedingTYAmt",
+      "path": "AdjustedFrgnTxCyovPriorYrGrp/ThirdPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "AdjustedFrgnTxCyovPriorYrGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentAAmt",
+      "path": "AdjustmentAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentBAmt",
+      "path": "AdjustmentBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentCAmt",
+      "path": "AdjustmentCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentDAmt",
+      "path": "AdjustmentDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentEAmt",
+      "path": "AdjustmentEAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentEDesc",
+      "path": "AdjustmentEDesc",
+      "type": "string"
+    },
+    {
+      "name": "AdjustmentFAmt",
+      "path": "AdjustmentFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentFDesc",
+      "path": "AdjustmentFDesc",
+      "type": "string"
+    },
+    {
+      "name": "AdjustmentGAmt",
+      "path": "AdjustmentGAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentGDesc",
+      "path": "AdjustmentGDesc",
+      "type": "string"
+    },
+    {
+      "name": "AdjustmentHAmt",
+      "path": "AdjustmentHAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentHDesc",
+      "path": "AdjustmentHDesc",
+      "type": "string"
+    },
+    {
+      "name": "AdjustmentIDesc",
+      "path": "AdjustmentIDesc",
+      "type": "string"
+    },
+    {
+      "name": "AdjustmentJDesc",
+      "path": "AdjustmentJDesc",
+      "type": "string"
+    },
+    {
+      "name": "AdjustmentKDesc",
+      "path": "AdjustmentKDesc",
+      "type": "string"
+    },
+    {
+      "name": "AllwblCFCAMTFrgnIncmTxsAmt",
+      "path": "AllwblCFCAMTFrgnIncmTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllwblCFCAMTFrgnIncmTxsGrp",
+      "path": "AllwblCFCAMTFrgnIncmTxsGrp",
+      "type": "group"
+    },
+    {
+      "name": "AFSICombinedPrecTYTestPrpsAmt",
+      "path": "ApplcblCorpDeterminationGrp/AFSICombinedPrecTYTestPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSICombinedPrecedingTYAmt",
+      "path": "ApplcblCorpDeterminationGrp/AFSICombinedPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorpMemFPMGSect59k2BInd",
+      "path": "ApplcblCorpDeterminationGrp/CorpMemFPMGSect59k2BInd",
+      "type": "bool"
+    },
+    {
+      "name": "AFSIAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AFSIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossAllEntBfrAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AFSNetIncmLossAllEntBfrAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossExcldEntAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AFSNetIncmLossExcldEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossOtherIncldEntAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AFSNetIncmLossOtherIncldEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentPAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AdjustmentPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentQAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AdjustmentQAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentRAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AdjustmentRAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentSAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AdjustmentSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregationDifferencesAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AggregationDifferencesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlaskaNativeCorporationsAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AlaskaNativeCorporationsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmountsNECUSTrdOrBusAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/AmountsNECUSTrdOrBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BankruptcyAndInsolvencyAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/BankruptcyAndInsolvencyAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainCnsldtEntriesAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/CertainCnsldtEntriesAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainCreditsAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/CertainCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainInsuranceCompanyAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/CertainInsuranceCompanyAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainTaxesAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/CertainTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CnsldtNetIncmLossPerAFSAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/CnsldtNetIncmLossPerAFSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorpNotIncldCnsldtReturnAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/CorpNotIncldCnsldtReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CoveredTransactionsAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/CoveredTransactionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinancialStmtDiffTYAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/FinancialStmtDiffTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeNECUSTradeOrBusAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/IncomeNECUSTradeOrBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageServicingIncomeAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/MortgageServicingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustments1Amt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/OtherAdjustments1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustments2Amt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/OtherAdjustments2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/OtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PatrDivPerUnitRtnAllocnAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/PatrDivPerUnitRtnAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProRataShrAdjCFCAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/ProRataShrAdjCFCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProRataShrIncmCFCUSShrAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/ProRataShrIncmCFCUSShrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedWirelessSpectrumAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/QualifiedWirelessSpectrumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpcfdAddnlNetIncmLossItemAAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/SpcfdAddnlNetIncmLossItemAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpcfdAddnlNetIncmLossItemBAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/SpcfdAddnlNetIncmLossItemBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecifiedAdjustmentAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/SpecifiedAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptEntSubjTxSect511Amt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/TaxExemptEntSubjTxSect511Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalAFSIAdjTestPrpsAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/TotalAFSIAdjTestPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAFSIBeforeAdjustmentsAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/TotalAFSIBeforeAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAFSITestPrpsAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/TotalAFSITestPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsAmt",
+      "path": "ApplcblCorpDeterminationGrp/FirstPrecYrAnnualAFSIGrp/TotalAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSIAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AFSIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossAllEntBfrAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AFSNetIncmLossAllEntBfrAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossExcldEntAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AFSNetIncmLossExcldEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossOtherIncldEntAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AFSNetIncmLossOtherIncldEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentPAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AdjustmentPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentQAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AdjustmentQAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentRAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AdjustmentRAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentSAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AdjustmentSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregationDifferencesAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AggregationDifferencesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlaskaNativeCorporationsAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AlaskaNativeCorporationsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmountsNECUSTrdOrBusAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/AmountsNECUSTrdOrBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BankruptcyAndInsolvencyAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/BankruptcyAndInsolvencyAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainCnsldtEntriesAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/CertainCnsldtEntriesAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainCreditsAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/CertainCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainInsuranceCompanyAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/CertainInsuranceCompanyAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainTaxesAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/CertainTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CnsldtNetIncmLossPerAFSAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/CnsldtNetIncmLossPerAFSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorpNotIncldCnsldtReturnAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/CorpNotIncldCnsldtReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CoveredTransactionsAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/CoveredTransactionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinancialStmtDiffTYAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/FinancialStmtDiffTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeNECUSTradeOrBusAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/IncomeNECUSTradeOrBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageServicingIncomeAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/MortgageServicingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustments1Amt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/OtherAdjustments1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustments2Amt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/OtherAdjustments2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/OtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PatrDivPerUnitRtnAllocnAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/PatrDivPerUnitRtnAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProRataShrAdjCFCAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/ProRataShrAdjCFCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProRataShrIncmCFCUSShrAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/ProRataShrIncmCFCUSShrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedWirelessSpectrumAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/QualifiedWirelessSpectrumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpcfdAddnlNetIncmLossItemAAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/SpcfdAddnlNetIncmLossItemAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpcfdAddnlNetIncmLossItemBAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/SpcfdAddnlNetIncmLossItemBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecifiedAdjustmentAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/SpecifiedAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptEntSubjTxSect511Amt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/TaxExemptEntSubjTxSect511Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalAFSIAdjTestPrpsAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/TotalAFSIAdjTestPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAFSIBeforeAdjustmentsAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/TotalAFSIBeforeAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAFSITestPrpsAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/TotalAFSITestPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsAmt",
+      "path": "ApplcblCorpDeterminationGrp/SecondPrecYrAnnualAFSIGrp/TotalAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSIAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AFSIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossAllEntBfrAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AFSNetIncmLossAllEntBfrAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossExcldEntAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AFSNetIncmLossExcldEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossOtherIncldEntAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AFSNetIncmLossOtherIncldEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentPAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AdjustmentPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentQAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AdjustmentQAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentRAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AdjustmentRAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentSAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AdjustmentSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregationDifferencesAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AggregationDifferencesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlaskaNativeCorporationsAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AlaskaNativeCorporationsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmountsNECUSTrdOrBusAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/AmountsNECUSTrdOrBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BankruptcyAndInsolvencyAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/BankruptcyAndInsolvencyAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainCnsldtEntriesAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/CertainCnsldtEntriesAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainCreditsAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/CertainCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainInsuranceCompanyAdjAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/CertainInsuranceCompanyAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainTaxesAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/CertainTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CnsldtNetIncmLossPerAFSAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/CnsldtNetIncmLossPerAFSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorpNotIncldCnsldtReturnAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/CorpNotIncldCnsldtReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CoveredTransactionsAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/CoveredTransactionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinancialStmtDiffTYAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/FinancialStmtDiffTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeNECUSTradeOrBusAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/IncomeNECUSTradeOrBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageServicingIncomeAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/MortgageServicingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustments1Amt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/OtherAdjustments1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustments2Amt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/OtherAdjustments2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/OtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PatrDivPerUnitRtnAllocnAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/PatrDivPerUnitRtnAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProRataShrAdjCFCAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/ProRataShrAdjCFCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProRataShrIncmCFCUSShrAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/ProRataShrIncmCFCUSShrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedWirelessSpectrumAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/QualifiedWirelessSpectrumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpcfdAddnlNetIncmLossItemAAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/SpcfdAddnlNetIncmLossItemAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpcfdAddnlNetIncmLossItemBAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/SpcfdAddnlNetIncmLossItemBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecifiedAdjustmentAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/SpecifiedAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptEntSubjTxSect511Amt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/TaxExemptEntSubjTxSect511Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalAFSIAdjTestPrpsAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/TotalAFSIAdjTestPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAFSIBeforeAdjustmentsAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/TotalAFSIBeforeAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAFSITestPrpsAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/TotalAFSITestPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThirdPrecYrAnnualAFSIGrp/TotalAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThrYrAvgAnnlAFSIAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThrYrAvgAnnlAFSIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThrYrAvgAnnlAFSIAtAboveLmtInd",
+      "path": "ApplcblCorpDeterminationGrp/ThrYrAvgAnnlAFSIAtAboveLmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "ThrYrAvgAnnlAFSIGrtrBillionInd",
+      "path": "ApplcblCorpDeterminationGrp/ThrYrAvgAnnlAFSIGrtrBillionInd",
+      "type": "bool"
+    },
+    {
+      "name": "ThrYrAvgAnnlAFSITestPrpsAmt",
+      "path": "ApplcblCorpDeterminationGrp/ThrYrAvgAnnlAFSITestPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSIAdjustmentSAmt",
+      "path": "CAMTGrp/AFSIAdjustmentSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSIAdjustmentTAmt",
+      "path": "CAMTGrp/AFSIAdjustmentTAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSIAdjustmentUAmt",
+      "path": "CAMTGrp/AFSIAdjustmentUAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSIAmt",
+      "path": "CAMTGrp/AFSIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSIBeforeFSNOLCarryoverAmt",
+      "path": "CAMTGrp/AFSIBeforeFSNOLCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossBfrAdjAmt",
+      "path": "CAMTGrp/AFSNetIncmLossBfrAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossExcldEntAmt",
+      "path": "CAMTGrp/AFSNetIncmLossExcldEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AFSNetIncmLossOtherIncldEntAmt",
+      "path": "CAMTGrp/AFSNetIncmLossOtherIncldEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Adjustment2bAmt",
+      "path": "CAMTGrp/Adjustment2bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlaskaNativeCorporationsAmt",
+      "path": "CAMTGrp/AlaskaNativeCorporationsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmountsNECUSTrdOrBusAmt",
+      "path": "CAMTGrp/AmountsNECUSTrdOrBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BankruptcyAndInsolvencyAdjAmt",
+      "path": "CAMTGrp/BankruptcyAndInsolvencyAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BaseAFSIMinimumTaxAmt",
+      "path": "CAMTGrp/BaseAFSIMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BaseErosionMinimumTaxAmt",
+      "path": "CAMTGrp/BaseErosionMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainCnsldtEntriesAdjAmt",
+      "path": "CAMTGrp/CertainCnsldtEntriesAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainCreditsAmt",
+      "path": "CAMTGrp/CertainCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainInsuranceCompanyAdjAmt",
+      "path": "CAMTGrp/CertainInsuranceCompanyAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CnsldtNetIncmLossPerAFSAmt",
+      "path": "CAMTGrp/CnsldtNetIncmLossPerAFSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CombinedTaxLiabilityAmt",
+      "path": "CAMTGrp/CombinedTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorpAlternativeMinimumTaxAmt",
+      "path": "CAMTGrp/CorpAlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorpDistriShrAFSIPrtshpAmt",
+      "path": "CAMTGrp/CorpDistriShrAFSIPrtshpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorpNotIncldCnsldtReturnAmt",
+      "path": "CAMTGrp/CorpNotIncldCnsldtReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CoveredTransactionsAmt",
+      "path": "CAMTGrp/CoveredTransactionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CvrBnftPlansSect56Ac11BAmt",
+      "path": "CAMTGrp/CvrBnftPlansSect56Ac11BAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "CAMTGrp/DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FSNOLAmt",
+      "path": "CAMTGrp/FSNOLAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinancialStmtDiffTYAmt",
+      "path": "CAMTGrp/FinancialStmtDiffTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageServicingIncomeAmt",
+      "path": "CAMTGrp/MortgageServicingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmt",
+      "path": "CAMTGrp/OtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PatrDivPerUnitRtnAllocnAmt",
+      "path": "CAMTGrp/PatrDivPerUnitRtnAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProRataShrIncmCFCUSShrAmt",
+      "path": "CAMTGrp/ProRataShrIncmCFCUSShrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedWirelessSpectrumAmt",
+      "path": "CAMTGrp/QualifiedWirelessSpectrumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularTaxLiabilityAmt",
+      "path": "CAMTGrp/RegularTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpcfdAddnlNetIncmLossItemCAmt",
+      "path": "CAMTGrp/SpcfdAddnlNetIncmLossItemCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpcfdAddnlNetIncmLossItemDAmt",
+      "path": "CAMTGrp/SpcfdAddnlNetIncmLossItemDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptEntSubjTxSect511Amt",
+      "path": "CAMTGrp/TaxExemptEntSubjTxSect511Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeMinimumTaxAmt",
+      "path": "CAMTGrp/TentativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsAmt",
+      "path": "CAMTGrp/TotalAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CFCAMTForeignTxCrLimitationAmt",
+      "path": "CFCAMTForeignTxCrLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainTaxesAmt",
+      "path": "CertainTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CtrlGrpTreatedSingleEmplrInd",
+      "path": "CtrlGrpTreatedSingleEmplrInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentITProvisionFederalAmt",
+      "path": "CurrentITProvisionFederalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentITProvisionForeignAmt",
+      "path": "CurrentITProvisionForeignAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferredITProvisionFederalAmt",
+      "path": "DeferredITProvisionFederalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferredITProvisionForeignAmt",
+      "path": "DeferredITProvisionForeignAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomCorpAMTFrgnIncmTxsAdjGrp",
+      "path": "DomCorpAMTFrgnIncmTxsAdjGrp",
+      "type": "group"
+    },
+    {
+      "name": "FPMGMemberInd",
+      "path": "FPMGMemberInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "ForeignTaxCarryoverCurrYrGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "ForeignTaxCarryoverCurrYrGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "ForeignTaxCarryoverPriorYrGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "ForeignTaxCarryoverPriorYrGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthPrecedingTYAmt",
+      "path": "ForeignTaxCarryoverPriorYrGrp/FourthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingTYAmt",
+      "path": "ForeignTaxCarryoverPriorYrGrp/SecondPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPrecedingTYAmt",
+      "path": "ForeignTaxCarryoverPriorYrGrp/ThirdPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "ForeignTaxCarryoverPriorYrGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "ForeignTaxCyovExprUnusedGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "ForeignTaxCyovExprUnusedGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "ForeignTaxCyovUsedGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "ForeignTaxCyovUsedGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthPrecedingTYAmt",
+      "path": "ForeignTaxCyovUsedGrp/FourthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingTYAmt",
+      "path": "ForeignTaxCyovUsedGrp/SecondPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPrecedingTYAmt",
+      "path": "ForeignTaxCyovUsedGrp/ThirdPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "ForeignTaxCyovUsedGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxYearAmt",
+      "path": "FrgnTaxCyovFollowingTaxYrGrp/CurrentTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "FrgnTaxCyovFollowingTaxYrGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "FrgnTaxCyovFollowingTaxYrGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthPrecedingTYAmt",
+      "path": "FrgnTaxCyovFollowingTaxYrGrp/FourthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingTYAmt",
+      "path": "FrgnTaxCyovFollowingTaxYrGrp/SecondPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPrecedingTYAmt",
+      "path": "FrgnTaxCyovFollowingTaxYrGrp/ThirdPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "FrgnTaxCyovFollowingTaxYrGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncmTxsEquityMthdInvstIncmAmt",
+      "path": "IncmTxsEquityMthdInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncmTxsOtherPlacesAmt",
+      "path": "IncmTxsOtherPlacesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MemCtrlGrpAndFPMGGroupMemGrp",
+      "path": "MemCtrlGrpAndFPMGGroupMemGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherForeignTaxCyovAdjGrp",
+      "path": "OtherForeignTaxCyovAdjGrp",
+      "type": "group"
+    },
+    {
+      "name": "ProRataShareCFCNetIncomeAmt",
+      "path": "ProRataShareCFCNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDomCorpAMTFrgnIncmTxsAmt",
+      "path": "TotDomCorpAMTFrgnIncmTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotForeignTxsCreditAllowedAmt",
+      "path": "TotForeignTxsCreditAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataCFCAMTFrgnIncmTxsAmt",
+      "path": "TotProRataCFCAMTFrgnIncmTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAMTFTCAmt",
+      "path": "TotalAMTFTCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentEAmt",
+      "path": "TotalAdjustmentEAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentFAmt",
+      "path": "TotalAdjustmentFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentGAmt",
+      "path": "TotalAdjustmentGAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentHAmt",
+      "path": "TotalAdjustmentHAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentIAmt",
+      "path": "TotalAdjustmentIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentJAmt",
+      "path": "TotalAdjustmentJAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentKAmt",
+      "path": "TotalAdjustmentKAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCFCAMTFrgnIncmTxsAmt",
+      "path": "TotalCFCAMTFrgnIncmTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCFCIncomeAmt",
+      "path": "TotalCFCIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalForeignIncomeTaxesAmt",
+      "path": "TotalForeignIncomeTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalForeignTaxesPaidOrAccrAmt",
+      "path": "TotalForeignTaxesPaidOrAccrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FifthPrecedingTYAmt",
+      "path": "TotalOtherForeignTaxCyovAdjGrp/FifthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstPrecedingTYAmt",
+      "path": "TotalOtherForeignTaxCyovAdjGrp/FirstPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthPrecedingTYAmt",
+      "path": "TotalOtherForeignTaxCyovAdjGrp/FourthPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingTYAmt",
+      "path": "TotalOtherForeignTaxCyovAdjGrp/SecondPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPrecedingTYAmt",
+      "path": "TotalOtherForeignTaxCyovAdjGrp/ThirdPrecedingTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "TotalOtherForeignTaxCyovAdjGrp/TotalAmt",
+      "type": "usd"
+    }
+  ]
+}

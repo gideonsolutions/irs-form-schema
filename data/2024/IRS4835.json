@@ -1,0 +1,256 @@
+{
+  "form_id": "IRS4835",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "ActivelyParticipatedInd",
+      "path": "ActivelyParticipatedInd",
+      "type": "bool"
+    },
+    {
+      "name": "AgriculturalProgramPymtAmt",
+      "path": "AgriculturalProgramPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgriculturalProgramPymtTxblAmt",
+      "path": "AgriculturalProgramPymtTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllInvestmentIsAtRiskInd",
+      "path": "AllInvestmentIsAtRiskInd",
+      "type": "bool"
+    },
+    {
+      "name": "CCCLoanReportedElectionAmt",
+      "path": "CCCLoanReportedElectionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CCCLoansForfeitedAmt",
+      "path": "CCCLoansForfeitedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CCCLoansForfeitedTaxableAmt",
+      "path": "CCCLoansForfeitedTaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CarAndTruckExpensesAmt",
+      "path": "CarAndTruckExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChemicalExpenseAmt",
+      "path": "ChemicalExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConservationExpenseAmt",
+      "path": "ConservationExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CooperativeDistriTxblAmt",
+      "path": "CooperativeDistriTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CooperativeDistributionsAmt",
+      "path": "CooperativeDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CropInsProcAndDsstrPymtAmt",
+      "path": "CropInsProcAndDsstrPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CropInsProcAndDsstrPymtTxblAmt",
+      "path": "CropInsProcAndDsstrPymtTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CropInsProcDefrdPrevTYAmt",
+      "path": "CropInsProcDefrdPrevTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CustomHireExpenseAmt",
+      "path": "CustomHireExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeprecAndSect179ExpnsDedAmt",
+      "path": "DeprecAndSect179ExpnsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ElectionDeferCropInsProcInd",
+      "path": "ElectionDeferCropInsProcInd",
+      "type": "bool"
+    },
+    {
+      "name": "EmployeeBenefitProgramAmt",
+      "path": "EmployeeBenefitProgramAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FarmRentalDeductibleLossAmt",
+      "path": "FarmRentalDeductibleLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FeedPurchasedExpenseAmt",
+      "path": "FeedPurchasedExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FertilizerAndLimeExpenseAmt",
+      "path": "FertilizerAndLimeExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FreightAndTruckingExpenseAmt",
+      "path": "FreightAndTruckingExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GasolineFuelAndOilExpenseAmt",
+      "path": "GasolineFuelAndOilExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossFarmRentalIncomeAmt",
+      "path": "GrossFarmRentalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceAmt",
+      "path": "InsuranceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LaborHiredExpenseAmt",
+      "path": "LaborHiredExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LivestockAndCropIncomeAmt",
+      "path": "LivestockAndCropIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MachineryAndEquipmentRentAmt",
+      "path": "MachineryAndEquipmentRentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageInterestPaidBanksAmt",
+      "path": "MortgageInterestPaidBanksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageInterestPaidOtherAmt",
+      "path": "MortgageInterestPaidOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@attachmentIndicatorCd",
+      "path": "MortgageInterestPaidOtherAmt/@attachmentIndicatorCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetFarmRentalIncomeOrLossAmt",
+      "path": "NetFarmRentalIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@passiveActivityLossLiteralCd",
+      "path": "NetFarmRentalIncomeOrLossAmt/@passiveActivityLossLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "OthIncmIncludingGasFuelTxCrAmt",
+      "path": "OthIncmIncludingGasFuelTxCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherBusinessPropertyRentAmt",
+      "path": "OtherBusinessPropertyRentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpense",
+      "path": "OtherExpense",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherExpenseDetail",
+      "path": "OtherExpenseDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "PensionProfitSharingPlansAmt",
+      "path": "PensionProfitSharingPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepairsAndMaintenanceAmt",
+      "path": "RepairsAndMaintenanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section263AIndicatorCd",
+      "path": "Section263AIndicatorCd",
+      "type": "enum"
+    },
+    {
+      "name": "SeedAndPlantExpenseAmt",
+      "path": "SeedAndPlantExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SomeInvestmentIsNotAtRiskInd",
+      "path": "SomeInvestmentIsNotAtRiskInd",
+      "type": "bool"
+    },
+    {
+      "name": "StorageAndWarehousingExpnsAmt",
+      "path": "StorageAndWarehousingExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SuppliesAmt",
+      "path": "SuppliesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExpenseAmt",
+      "path": "TaxExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesAmt",
+      "path": "TotalExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UtilitiesAmt",
+      "path": "UtilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VtrnryBreedingMedicineExpnsAmt",
+      "path": "VtrnryBreedingMedicineExpnsAmt",
+      "type": "usd"
+    }
+  ]
+}

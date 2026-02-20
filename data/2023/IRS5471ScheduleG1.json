@@ -1,0 +1,146 @@
+{
+  "form_id": "IRS5471ScheduleG1",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AcquisitionPriceMethodInd",
+      "path": "AcquisitionPriceMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CompClmNotTrtdAsIntngblDevInd",
+      "path": "CompClmNotTrtdAsIntngblDevInd",
+      "type": "bool"
+    },
+    {
+      "name": "CompClmTrtdAsIntngblDevAmt",
+      "path": "CompClmTrtdAsIntngblDevAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ComparableUncontrolledTransInd",
+      "path": "ComparableUncontrolledTransInd",
+      "type": "bool"
+    },
+    {
+      "name": "CostSharingArrangementDesc",
+      "path": "CostSharingArrangementDesc",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ForeignCorporationEIN",
+      "path": "ForeignCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "FrgnCorpBecamePartcpCostShrInd",
+      "path": "FrgnCorpBecamePartcpCostShrInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnPartcpShrBnftCSAPct",
+      "path": "FrgnPartcpShrBnftCSAPct",
+      "type": "decimal"
+    },
+    {
+      "name": "IncomeMethodInd",
+      "path": "IncomeMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "IntngblDevCostsAmt",
+      "path": "IntngblDevCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntngblDevCostsPartcpShrAmt",
+      "path": "IntngblDevCostsPartcpShrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MarketCapitalizationMethodInd",
+      "path": "MarketCapitalizationMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PartcpCostShrPriorSpcfdDateInd",
+      "path": "PartcpCostShrPriorSpcfdDateInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PlatformContributionAmt",
+      "path": "PlatformContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionInd",
+      "path": "PlatformContributionInd",
+      "type": "bool"
+    },
+    {
+      "name": "ResidualProfitSplitMethodInd",
+      "path": "ResidualProfitSplitMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "StockBasedCompDedClaimedAmt",
+      "path": "StockBasedCompDedClaimedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnspecifiedMethodsInd",
+      "path": "UnspecifiedMethodsInd",
+      "type": "bool"
+    }
+  ]
+}

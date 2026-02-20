@@ -1,0 +1,206 @@
+{
+  "form_id": "IRS8862",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AOTCClaimedInd",
+      "path": "AOTCClaimedInd",
+      "type": "bool"
+    },
+    {
+      "name": "AOTCStudentInformationGrp",
+      "path": "AOTCStudentInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "EligibleStudentInd",
+      "path": "AOTCStudentInformationGrp/EligibleStudentInd",
+      "type": "bool"
+    },
+    {
+      "name": "PriorYearCreditClaimedInd",
+      "path": "AOTCStudentInformationGrp/PriorYearCreditClaimedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "AOTCStudentInformationGrp/StudentName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "AOTCStudentInformationGrp/StudentName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "CTCACTCChildInformationGrp",
+      "path": "CTCACTCChildInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "CTCACTCChildInformationGrp/ChildFirstAndLastName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "CTCACTCChildInformationGrp/ChildFirstAndLastName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "DependentInd",
+      "path": "CTCACTCChildInformationGrp/DependentInd",
+      "type": "bool"
+    },
+    {
+      "name": "LiveWithChildOverHalfYearInd",
+      "path": "CTCACTCChildInformationGrp/LiveWithChildOverHalfYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifyingChildInd",
+      "path": "CTCACTCChildInformationGrp/QualifyingChildInd",
+      "type": "bool"
+    },
+    {
+      "name": "USCitizenOrNationalInd",
+      "path": "CTCACTCChildInformationGrp/USCitizenOrNationalInd",
+      "type": "bool"
+    },
+    {
+      "name": "CTCACTCODCClaimedInd",
+      "path": "CTCACTCODCClaimedInd",
+      "type": "bool"
+    },
+    {
+      "name": "EICClaimedInd",
+      "path": "EICClaimedInd",
+      "type": "bool"
+    },
+    {
+      "name": "EICEligClmIncmIncorrectRptInd",
+      "path": "EICEligClmIncmIncorrectRptInd",
+      "type": "bool"
+    },
+    {
+      "name": "EICEligClmLiveWithOthPersonGrp",
+      "path": "EICEligClmLiveWithPrsnChld2Grp/EICEligClmLiveWithOthPersonGrp",
+      "type": "group"
+    },
+    {
+      "name": "EICEligClmLiveWithOthPersonGrp",
+      "path": "EICEligClmLiveWithPrsnChld3Grp/EICEligClmLiveWithOthPersonGrp",
+      "type": "group"
+    },
+    {
+      "name": "EICEligClmQlfyChldOfOtherInd",
+      "path": "EICEligClmQlfyChldOfOtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "FilerWithQualifyingChildGrp",
+      "path": "FilerWithQualifyingChildGrp",
+      "type": "group"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "FilerWithQualifyingChildGrp/ChildFirstAndLastName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "FilerWithQualifyingChildGrp/ChildFirstAndLastName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "LiveInUSDayCnt",
+      "path": "FilerWithQualifyingChildGrp/LiveInUSDayCnt",
+      "type": "int"
+    },
+    {
+      "name": "ODCPersonInformationGrp",
+      "path": "ODCPersonInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "DependentInd",
+      "path": "ODCPersonInformationGrp/DependentInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "ODCPersonInformationGrp/PersonFullName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "ODCPersonInformationGrp/PersonFullName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "USCitizenOrNationalInd",
+      "path": "ODCPersonInformationGrp/USCitizenOrNationalInd",
+      "type": "bool"
+    },
+    {
+      "name": "AgeNum",
+      "path": "PrimaryNoQualifyingChildGrp/AgeNum",
+      "type": "string"
+    },
+    {
+      "name": "MainHomeUSDayCnt",
+      "path": "PrimaryNoQualifyingChildGrp/MainHomeUSDayCnt",
+      "type": "int"
+    },
+    {
+      "name": "OtherPersonClaimDependentInd",
+      "path": "PrimaryNoQualifyingChildGrp/OtherPersonClaimDependentInd",
+      "type": "bool"
+    },
+    {
+      "name": "LiveWithChildAddrGrp",
+      "path": "QlfyChildMoreThan1PersonGrp/LiveWithChildAddrGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherPersonLiveWithChildGrp",
+      "path": "QlfyChildMoreThan1PersonGrp/OtherPersonLiveWithChildGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherPersonInformationGrp",
+      "path": "QlfyChildMoreThan1PersonGrp/OtherPersonLiveWithChildGrp/OtherPersonInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "SameInformationChild1Ind",
+      "path": "QlfyChildMoreThan1PersonGrp/SameInformationChild1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "QualifyingChildInd",
+      "path": "QualifyingChildInd",
+      "type": "bool"
+    },
+    {
+      "name": "AgeNum",
+      "path": "SpouseNoQualifyingChildGrp/AgeNum",
+      "type": "string"
+    },
+    {
+      "name": "MainHomeUSDayCnt",
+      "path": "SpouseNoQualifyingChildGrp/MainHomeUSDayCnt",
+      "type": "int"
+    },
+    {
+      "name": "OtherPersonClaimDependentInd",
+      "path": "SpouseNoQualifyingChildGrp/OtherPersonClaimDependentInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxYr",
+      "path": "TaxYr",
+      "type": "unknown"
+    }
+  ]
+}

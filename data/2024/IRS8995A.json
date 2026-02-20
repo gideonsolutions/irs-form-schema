@@ -1,0 +1,181 @@
+{
+  "form_id": "IRS8995A",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdjustedTaxableIncomeAmt",
+      "path": "AdjustedTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DPADSect199AgAllocAgricHortAmt",
+      "path": "DPADSect199AgAllocAgricHortAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingStatusPhaseInRangeCd",
+      "path": "FilingStatusPhaseInRangeCd",
+      "type": "enum"
+    },
+    {
+      "name": "FilingStatusThresholdCd",
+      "path": "FilingStatusThresholdCd",
+      "type": "enum"
+    },
+    {
+      "name": "IncomeLimitationAmt",
+      "path": "IncomeLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalGainAmt",
+      "path": "NetCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYQlfyREITDivPTPLossCfwdAmt",
+      "path": "PYQlfyREITDivPTPLossCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PhaseInPct",
+      "path": "PhaseInPct",
+      "type": "decimal"
+    },
+    {
+      "name": "QBIDedBeforeDPADSect199AgAmt",
+      "path": "QBIDedBeforeDPADSect199AgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QBIDedBfrIncomeLimitationAmt",
+      "path": "QBIDedBfrIncomeLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QBIDeductionInformationGrp",
+      "path": "QBIDeductionInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "AllcblShrUBIAQlfyProp025PctAmt",
+      "path": "QBIDeductionInformationGrp/AllcblShrUBIAQlfyProp025PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocableShareUBIAQlfyPropAmt",
+      "path": "QBIDeductionInformationGrp/AllocableShareUBIAQlfyPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocableShareW2Wages25PctAmt",
+      "path": "QBIDeductionInformationGrp/AllocableShareW2Wages25PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocableShareW2Wages50PctAmt",
+      "path": "QBIDeductionInformationGrp/AllocableShareW2Wages50PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocableShareW2WagesAmt",
+      "path": "QBIDeductionInformationGrp/AllocableShareW2WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrtrAllcblShrW2WageQlfyPropAmt",
+      "path": "QBIDeductionInformationGrp/GrtrAllcblShrW2WageQlfyPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PatronReductionAmt",
+      "path": "QBIDeductionInformationGrp/PatronReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QBI20PctLessGrtrAllcblShareAmt",
+      "path": "QBIDeductionInformationGrp/QBI20PctLessGrtrAllcblShareAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QBIAfterPhaseInReductionAmt",
+      "path": "QBIDeductionInformationGrp/QBIAfterPhaseInReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QBIComponentAmt",
+      "path": "QBIDeductionInformationGrp/QBIComponentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QBIDedBeforePatronReductionAmt",
+      "path": "QBIDeductionInformationGrp/QBIDedBeforePatronReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyBusinessIncome20PctAmt",
+      "path": "QBIDeductionInformationGrp/QlfyBusinessIncome20PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBusinessIncomeAmt",
+      "path": "QBIDeductionInformationGrp/QualifiedBusinessIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllcblW2WgsQlfyPropPctAmt",
+      "path": "QBIDeductionInformationGrp/TotalAllcblW2WgsQlfyPropPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPhaseInReductionAmt",
+      "path": "QBIDeductionInformationGrp/TotalPhaseInReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "W2WageQlfyPropLimitationAmt",
+      "path": "QBIDeductionInformationGrp/W2WageQlfyPropLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyREITDivPTPIncomeLossAmt",
+      "path": "QlfyREITDivPTPIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedAmt",
+      "path": "QualifiedBusinessIncomeDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "REITPTPComponentAmt",
+      "path": "REITPTPComponentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TXIBfrQBIDedLessThresholdAmt",
+      "path": "TXIBfrQBIDedLessThresholdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeBeforeQBIDedAmt",
+      "path": "TaxableIncomeBeforeQBIDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyREITDivPTPIncomeAmt",
+      "path": "TotQlfyREITDivPTPIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyREITDivPTPLossCfwdAmt",
+      "path": "TotQlfyREITDivPTPLossCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQBIComponentAmt",
+      "path": "TotalQBIComponentAmt",
+      "type": "usd"
+    }
+  ]
+}

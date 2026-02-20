@@ -1,0 +1,96 @@
+{
+  "form_id": "IRS2210F",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CurrentYearTaxAfterCreditsAmt",
+      "path": "CurrentYearTaxAfterCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearTaxAmt",
+      "path": "CurrentYearTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearTaxCalculatedAmt",
+      "path": "CurrentYearTaxCalculatedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarlierOfPaymentOrTaxDueDt",
+      "path": "EarlierOfPaymentOrTaxDueDt",
+      "type": "date"
+    },
+    {
+      "name": "EstTaxPaymentsAndOtherTaxesAmt",
+      "path": "EstTaxPaymentsAndOtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "JointReturnInd",
+      "path": "JointReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetTaxDueAmt",
+      "path": "NetTaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PenaltyAmt",
+      "path": "PenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@requestedPenaltyWaiverAmt",
+      "path": "PenaltyAmt/@requestedPenaltyWaiverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PenaltyDayCnt",
+      "path": "PenaltyDayCnt",
+      "type": "int"
+    },
+    {
+      "name": "PenaltyWaiverRequestInd",
+      "path": "PenaltyWaiverRequestInd",
+      "type": "bool"
+    },
+    {
+      "name": "PriorYearTaxAmt",
+      "path": "PriorYearTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundableCreditsAmt",
+      "path": "RefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredAnnualPaymentAmt",
+      "path": "RequiredAnnualPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAfterCrAndOtherTaxAmt",
+      "path": "TotalTaxAfterCrAndOtherTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnderpaymentAmt",
+      "path": "UnderpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingTaxesAmt",
+      "path": "WithholdingTaxesAmt",
+      "type": "usd"
+    }
+  ]
+}

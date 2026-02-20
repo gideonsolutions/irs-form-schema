@@ -1,0 +1,196 @@
+{
+  "form_id": "IRS8805",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AllocableECTIAmt",
+      "path": "AllocableECTIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocableECTIIncldGrossIncmAmt",
+      "path": "BeneficiaryInformationGrp/AllocableECTIIncldGrossIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BeneficiaryInformationGrp/BeneficiaryBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BeneficiaryInformationGrp/BeneficiaryBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "BeneficiaryPersonNm",
+      "path": "BeneficiaryInformationGrp/BeneficiaryPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "BeneficiaryInformationGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "BeneficiaryInformationGrp/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "MissingSSNEINReasonCd",
+      "path": "BeneficiaryInformationGrp/MissingSSNEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "SSN",
+      "path": "BeneficiaryInformationGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TotalAllowedTaxCreditAmt",
+      "path": "BeneficiaryInformationGrp/TotalAllowedTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USAddress",
+      "path": "BeneficiaryInformationGrp/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ECTIExemptInd",
+      "path": "ECTIExemptInd",
+      "type": "bool"
+    },
+    {
+      "name": "OwnIntGreaterOnePartnershipInd",
+      "path": "OwnIntGreaterOnePartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnershipEIN",
+      "path": "PartnershipEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PartnershipForeignAddress",
+      "path": "PartnershipForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PartnershipMissingEINReasonCd",
+      "path": "PartnershipMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PartnershipName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PartnershipName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PartnershipUSAddress",
+      "path": "PartnershipUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "SameAsAboveCd",
+      "path": "SameAsAboveCd",
+      "type": "enum"
+    },
+    {
+      "name": "AccountNum",
+      "path": "Sect1446WTForeignPartnerGrp/AccountNum",
+      "type": "string"
+    },
+    {
+      "name": "ForeignCountryOrUSPossessionCd",
+      "path": "Sect1446WTForeignPartnerGrp/ForeignCountryOrUSPossessionCd",
+      "type": "enum"
+    },
+    {
+      "name": "MissingSSNEINReasonCd",
+      "path": "Sect1446WTForeignPartnerGrp/MissingSSNEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PartnerEIN",
+      "path": "Sect1446WTForeignPartnerGrp/PartnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PartnerForeignAddress",
+      "path": "Sect1446WTForeignPartnerGrp/PartnerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "Sect1446WTForeignPartnerGrp/PartnerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "Sect1446WTForeignPartnerGrp/PartnerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PartnerPersonNm",
+      "path": "Sect1446WTForeignPartnerGrp/PartnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PartnerSSN",
+      "path": "Sect1446WTForeignPartnerGrp/PartnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "PartnerTypeCd",
+      "path": "Sect1446WTForeignPartnerGrp/PartnerTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "PartnerUSAddress",
+      "path": "Sect1446WTForeignPartnerGrp/PartnerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "Section1446WithholdingAgentGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "Section1446WithholdingAgentGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "Section1446WithholdingAgentGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "Section1446WithholdingAgentGrp/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxPeriodBeginDt",
+      "path": "TaxPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxPeriodEndDt",
+      "path": "TaxPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalAllowedTaxCreditAmt",
+      "path": "TotalAllowedTaxCreditAmt",
+      "type": "usd"
+    }
+  ]
+}

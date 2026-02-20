@@ -1,0 +1,61 @@
+{
+  "form_id": "IRS8888",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BankAccountTypeCd",
+      "path": "DirectDepositInfoGroup/BankAccountTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DirectDepositInfoGroup/DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "DirectDepositRefundAmt",
+      "path": "DirectDepositInfoGroup/DirectDepositRefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "DirectDepositInfoGroup/RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "RefundByCheckAmt",
+      "path": "RefundByCheckAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundUsedForBondPurchasesAmt",
+      "path": "RefundUsedForBondPurchasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeneficiaryInd",
+      "path": "SavingsBondPurchaseInfoGrp/BeneficiaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "BondCoOwnerOrBeneficiaryNm",
+      "path": "SavingsBondPurchaseInfoGrp/BondCoOwnerOrBeneficiaryNm",
+      "type": "string"
+    },
+    {
+      "name": "BondOwnerNm",
+      "path": "SavingsBondPurchaseInfoGrp/BondOwnerNm",
+      "type": "string"
+    },
+    {
+      "name": "BondPurchaseAmt",
+      "path": "SavingsBondPurchaseInfoGrp/BondPurchaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllocationOfRefundAmt",
+      "path": "TotalAllocationOfRefundAmt",
+      "type": "usd"
+    }
+  ]
+}

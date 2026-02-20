@@ -1,0 +1,111 @@
+{
+  "form_id": "IRS1040NRScheduleP",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "FrgnPrtnrIntPrtshpDuringTYGrp",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp",
+      "type": "group"
+    },
+    {
+      "name": "GainLossSect897gAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/GainLossSect897gAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcgnzEffCnnctCapGainLossAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/RcgnzEffCnnctCapGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcgnzEffCnnctLTCapGainLossAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/RcgnzEffCnnctLTCapGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcgnzEffCnnctOrdnryGainLossAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/RcgnzEffCnnctOrdnryGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealizedAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/RealizedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section705OutsideBasisAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/Section705OutsideBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecifiedAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/SpecifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotEffCnnctOrdnryGain751Amt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotEffCnnctOrdnryGain751Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotEffCnnctSect1h6Sect1250Amt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotEffCnnctSect1h6Sect1250Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOrdinaryGainLossSect751Amt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotOrdinaryGainLossSect751Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOutsideCapitalGainLossAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotOutsideCapitalGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOutsideCollectiblesGainAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotOutsideCollectiblesGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOutsideUnrcptr1250GainAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotOutsideUnrcptr1250GainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEffCnnctCapGainNon751Amt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotalEffCnnctCapGainNon751Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEffCnnctCapitalGainsAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotalEffCnnctCapitalGainsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEffCnnctSect1h5AssetsAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotalEffCnnctSect1h5AssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOutsideCapitalGainsAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotalOutsideCapitalGainsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOutsideGainLossAmt",
+      "path": "FrgnPrtnrIntPrtshpDuringTYGrp/TotalOutsideGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipIntTrnsfrTotCnt",
+      "path": "PartnershipIntTrnsfrTotCnt",
+      "type": "int"
+    },
+    {
+      "name": "PartnershipIntTrnsfrTotRlzdAmt",
+      "path": "PartnershipIntTrnsfrTotRlzdAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "form_id": "IRS8827",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AllowedCreditsAmt",
+      "path": "AllowedCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BaseErosionMinimumTaxAmt",
+      "path": "BaseErosionMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CombinedTaxLiabilityAmt",
+      "path": "CombinedTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ComputationOfMinimumTaxCreditStmt",
+      "path": "ComputationOfMinimumTaxCreditStmt",
+      "type": "unknown"
+    },
+    {
+      "name": "CurrentYearMinimumTaxCreditAmt",
+      "path": "CurrentYearMinimumTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LmtLessTentativeMinimumTaxAmt",
+      "path": "LmtLessTentativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinimumTaxCreditCarryfowardAmt",
+      "path": "MinimumTaxCreditCarryfowardAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYCorpAlternativeMinimumTaxAmt",
+      "path": "PYCorpAlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularTaxLiabilityAmt",
+      "path": "RegularTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section383Ind",
+      "path": "Section383Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Section384Ind",
+      "path": "Section384Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Section53c1LimitationAmt",
+      "path": "Section53c1LimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeMinimumTaxAmt",
+      "path": "TentativeMinimumTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "form_id": "IRS1065ScheduleB2",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "PartnerListGrp",
+      "path": "PartnerListGrp",
+      "type": "group"
+    },
+    {
+      "name": "SCorpShareholderListGrp",
+      "path": "SCorpShareholderListGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalK1IssuedCnt",
+      "path": "TotalK1IssuedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalSchK1IssuedPrtshpCnt",
+      "path": "TotalSchK1IssuedPrtshpCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalSchK1IssuedSCorpPrtnrCnt",
+      "path": "TotalSchK1IssuedSCorpPrtnrCnt",
+      "type": "int"
+    }
+  ]
+}

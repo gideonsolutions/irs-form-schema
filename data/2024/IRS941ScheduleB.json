@@ -1,0 +1,16 @@
+{
+  "form_id": "IRS941ScheduleB",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "TaxLiabilityQtrMonthlyDetail",
+      "path": "TaxLiabilityQtrMonthlyDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalQuarterTaxLiabilityAmt",
+      "path": "TotalQuarterTaxLiabilityAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "form_id": "IRS4684",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "NetBusinessPropertyLossAmt",
+      "path": "                               BusinessProperties                               /NetBusinessPropertyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@seeAttachedStatementCd",
+      "path": "               BusinessProperties               /NetBusinessPropertyLossAmt/@seeAttachedStatementCd",
+      "type": "enum"
+    },
+    {
+      "name": "               PersonalUseProperties",
+      "path": "               PersonalUseProperties",
+      "type": "unknown"
+    },
+    {
+      "name": "FairMarketValueBeforeTheftAmt",
+      "path": "             PersonalUseProperties /FairMarketValueBeforeTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyMinusInsuranceValueAmt",
+      "path": "             PersonalUseProperties/PropertyMinusInsuranceValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             ShortTermTheftProperty",
+      "path": "             ShortTermTheftProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "LongTermPropIncomePlusGainAmt",
+      "path": "          LongTermPropIncomePlusGainGrp/LongTermPropIncomePlusGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "         LongTermTheftProperty",
+      "path": "         LongTermTheftProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "NetBusinessPropertyLossAmt",
+      "path": " BusinessProperties               /NetBusinessPropertyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@revenueProcedure200920Cd",
+      "path": "@revenueProcedure200920Cd",
+      "type": "enum"
+    },
+    {
+      "name": "@revenueProcedure201036Cd",
+      "path": "@revenueProcedure201036Cd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessProperties",
+      "path": "BusinessProperties",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessProperties ",
+      "path": "BusinessProperties ",
+      "type": "unknown"
+    },
+    {
+      "name": "CostOrAdjustedBasisAmt",
+      "path": "BusinessProperties                              /CostOrAdjustedBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueAfterTheftAmt",
+      "path": "BusinessProperties                              /FairMarketValueAfterTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueBeforeTheftAmt",
+      "path": "BusinessProperties                              /FairMarketValueBeforeTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainFromCasualtyOrTheftAmt",
+      "path": "BusinessProperties                              /GainFromCasualtyOrTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFairMarketValueAmt",
+      "path": "BusinessProperties                              /NetFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOrAdjustedBasisAmt",
+      "path": "BusinessProperties                             /CostOrAdjustedBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueAfterTheftAmt",
+      "path": "BusinessProperties                             /FairMarketValueAfterTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueBeforeTheftAmt",
+      "path": "BusinessProperties                             /FairMarketValueBeforeTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainFromCasualtyOrTheftAmt",
+      "path": "BusinessProperties                             /GainFromCasualtyOrTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceOrOthReimbursementAmt",
+      "path": "BusinessProperties                             /InsuranceOrOthReimbursementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetBusinessPropertyLossAmt",
+      "path": "BusinessProperties                             /NetBusinessPropertyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFairMarketValueAmt",
+      "path": "BusinessProperties                             /NetFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrOfCostOrNetFairMrktVlAmt",
+      "path": "BusinessProperties                             /SmllrOfCostOrNetFairMrktVlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueAfterTheftAmt",
+      "path": "BusinessProperties                            /FairMarketValueAfterTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainFromCasualtyOrTheftAmt",
+      "path": "BusinessProperties                            /GainFromCasualtyOrTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFairMarketValueAmt",
+      "path": "BusinessProperties                            /NetFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrOfCostOrNetFairMrktVlAmt",
+      "path": "BusinessProperties                            /SmllrOfCostOrNetFairMrktVlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainFromCasualtyOrTheftAmt",
+      "path": "BusinessProperties                 /GainFromCasualtyOrTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetBusinessPropertyLossAmt",
+      "path": "BusinessProperties                /NetBusinessPropertyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetBusinessPropertyLossAmt",
+      "path": "BusinessProperties               /NetBusinessPropertyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@seeAttachedStatementCd",
+      "path": "BusinessProperties               /NetBusinessPropertyLossAmt/@seeAttachedStatementCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetBusinessPropertyLossAmt",
+      "path": "BusinessProperties              /NetBusinessPropertyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainFromCasualtyOrTheftAmt",
+      "path": "BusinessProperties /GainFromCasualtyOrTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "               NetBusinessPropertyLossAmt",
+      "path": "BusinessProperties/               NetBusinessPropertyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceOrOthReimbursementAmt",
+      "path": "BusinessProperties/InsuranceOrOthReimbursementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetBusinessPropertyLossAmt",
+      "path": "BusinessProperties/NetBusinessPropertyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "         @seeAttachedStatementCd",
+      "path": "BusinessProperties/NetBusinessPropertyLossAmt/         @seeAttachedStatementCd",
+      "type": "enum"
+    },
+    {
+      "name": "@seeAttachedStatementCd",
+      "path": "BusinessProperties/NetBusinessPropertyLossAmt/@seeAttachedStatementCd",
+      "type": "enum"
+    },
+    {
+      "name": "CalcAdjGroIncmMnsTotNetLossAmt",
+      "path": "CalcAdjGroIncmMnsTotNetLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CasualtyOrTheftGainFrom4797Amt",
+      "path": "CasualtyOrTheftGainFrom4797Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CasualtyOrTheftLossLimitAmt",
+      "path": "CasualtyOrTheftLossLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FEMADisasterDeclarationNum",
+      "path": "FEMADisasterDeclarationNum",
+      "type": "string"
+    },
+    {
+      "name": "FedDclrDsstrLossElectGrp",
+      "path": "FedDclrDsstrLossElectGrp",
+      "type": "group"
+    },
+    {
+      "name": "USAddress",
+      "path": "FedDclrDsstrLossElectGrp/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FedDclrDsstrLossPrElectRvkGrp",
+      "path": "FedDclrDsstrLossPrElectRvkGrp",
+      "type": "group"
+    },
+    {
+      "name": "FederallyDeclaredDisasterDesc",
+      "path": "FederallyDeclaredDisasterDesc",
+      "type": "string"
+    },
+    {
+      "name": "FederallyDeclaredDisasterInd",
+      "path": "FederallyDeclaredDisasterInd",
+      "type": "bool"
+    },
+    {
+      "name": "             PassiveActivityLossLiteralCd",
+      "path": "LongTermPropIncomePlusGainGrp/             PassiveActivityLossLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "LongTermPropIncomeProdTotAmt",
+      "path": "LongTermPropIncomeProdTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "          LongTermPropNetGainOrLossAmt",
+      "path": "LongTermPropNetGainOrLossGrp/          LongTermPropNetGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveActivityLossLiteralCd",
+      "path": "LongTermPropNetGainOrLossGrp/PassiveActivityLossLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "           LongTermPropIncomeProdTotAmt",
+      "path": "LongTermPropertyIncomeTotalGrp/           LongTermPropIncomeProdTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveActivityLossLiteralCd",
+      "path": "LongTermPropertyIncomeTotalGrp/PassiveActivityLossLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "LongTermPropertyTotalLossesAmt",
+      "path": "LongTermPropertyTotalLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LongTermTheftProperty",
+      "path": "LongTermTheftProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "LongTermTotalGainsTheftAmt",
+      "path": "LongTermTotalGainsTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LongTermTradeOrBusinessTotAmt",
+      "path": "LongTermTradeOrBusinessTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCasualtyOrTheftLossAmt",
+      "path": "NetCasualtyOrTheftLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalUseProperties",
+      "path": "PersonalUseProperties",
+      "type": "unknown"
+    },
+    {
+      "name": "InsuranceOrOthReimbursementAmt",
+      "path": "PersonalUseProperties                            /InsuranceOrOthReimbursementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOrOtherBasisAmt",
+      "path": "PersonalUseProperties                           /CostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueBeforeTheftAmt",
+      "path": "PersonalUseProperties                           /FairMarketValueBeforeTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceOrOthReimbursementAmt",
+      "path": "PersonalUseProperties                           /InsuranceOrOthReimbursementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFairMarketValueAmt",
+      "path": "PersonalUseProperties                           /NetFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyMinusInsuranceValueAmt",
+      "path": "PersonalUseProperties                           /PropertyMinusInsuranceValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrOfAdjOrNetFairMrktVlAmt",
+      "path": "PersonalUseProperties                           /SmllrOfAdjOrNetFairMrktVlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOrOtherBasisAmt",
+      "path": "PersonalUseProperties                          /CostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueAfterTheftAmt",
+      "path": "PersonalUseProperties                          /FairMarketValueAfterTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueBeforeTheftAmt",
+      "path": "PersonalUseProperties                          /FairMarketValueBeforeTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainFromCasualtyOrTheftAmt",
+      "path": "PersonalUseProperties                          /GainFromCasualtyOrTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceOrOthReimbursementAmt",
+      "path": "PersonalUseProperties                          /InsuranceOrOthReimbursementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFairMarketValueAmt",
+      "path": "PersonalUseProperties                          /NetFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyMinusInsuranceValueAmt",
+      "path": "PersonalUseProperties                          /PropertyMinusInsuranceValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrOfAdjOrNetFairMrktVlAmt",
+      "path": "PersonalUseProperties                          /SmllrOfAdjOrNetFairMrktVlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceOrOthReimbursementAmt",
+      "path": "PersonalUseProperties              /InsuranceOrOthReimbursementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyMinusInsuranceValueAmt",
+      "path": "PersonalUseProperties              /PropertyMinusInsuranceValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrOfAdjOrNetFairMrktVlAmt",
+      "path": "PersonalUseProperties              /SmllrOfAdjOrNetFairMrktVlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceOrOthReimbursementAmt",
+      "path": "PersonalUseProperties             /InsuranceOrOthReimbursementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFairMarketValueAmt",
+      "path": "PersonalUseProperties             /NetFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrOfAdjOrNetFairMrktVlAmt",
+      "path": "PersonalUseProperties             /SmllrOfAdjOrNetFairMrktVlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             GainFromCasualtyOrTheftAmt",
+      "path": "PersonalUseProperties /             GainFromCasualtyOrTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "               InsuranceOrOthReimbursementAmt",
+      "path": "PersonalUseProperties/               InsuranceOrOthReimbursementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "              FairMarketValueBeforeTheftAmt",
+      "path": "PersonalUseProperties/              FairMarketValueBeforeTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             InsuranceOrOthReimbursementAmt",
+      "path": "PersonalUseProperties/             InsuranceOrOthReimbursementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             SmllrOfAdjOrNetFairMrktVlAmt",
+      "path": "PersonalUseProperties/             SmllrOfAdjOrNetFairMrktVlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOrOtherBasisAmt",
+      "path": "PersonalUseProperties/CostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueAfterTheftAmt",
+      "path": "PersonalUseProperties/FairMarketValueAfterTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueBeforeTheftAmt",
+      "path": "PersonalUseProperties/FairMarketValueBeforeTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainFromCasualtyOrTheftAmt",
+      "path": "PersonalUseProperties/GainFromCasualtyOrTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFairMarketValueAmt",
+      "path": "PersonalUseProperties/NetFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RevenueProcedure200920Grp",
+      "path": "RevenueProcedure200920Grp",
+      "type": "group"
+    },
+    {
+      "name": "ShortTermPropIncomeProdTotAmt",
+      "path": "ShortTermPropIncomeProdTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "          ShortTermPropNetGainOrLossAmt",
+      "path": "ShortTermPropNetGainOrLossGrp/          ShortTermPropNetGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveActivityLossLiteralCd",
+      "path": "ShortTermPropNetGainOrLossGrp/PassiveActivityLossLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "            PassiveActivityLossLiteralCd",
+      "path": "ShortTermPropertyIncTotalGrp/            PassiveActivityLossLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "          ShortTermPropIncomeProdTotAmt",
+      "path": "ShortTermPropertyIncTotalGrp/          ShortTermPropIncomeProdTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ShortTermTheftProperty",
+      "path": "ShortTermTheftProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "ShortTermTotalGainsTheftAmt",
+      "path": "ShortTermTotalGainsTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TenPercentOfAGIAmt",
+      "path": "TenPercentOfAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotShortTermTradeOrBusinessAmt",
+      "path": "TotShortTermTradeOrBusinessAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBusPropertyTheftLossAmt",
+      "path": "TotalBusPropertyTheftLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCasualtyAndTheftGainAmt",
+      "path": "TotalCasualtyAndTheftGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLossLessTotalTheftGainAmt",
+      "path": "TotalLossLessTotalTheftGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetCasualtyOrTheftLossAmt",
+      "path": "TotalNetCasualtyOrTheftLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPrsnlPropertyTheftLossAmt",
+      "path": "TotalPrsnlPropertyTheftLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTheftGainLessTotalLossAmt",
+      "path": "TotalTheftGainLessTotalLossAmt",
+      "type": "usd"
+    }
+  ]
+}

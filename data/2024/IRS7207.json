@@ -1,0 +1,696 @@
+{
+  "form_id": "IRS7207",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdvncManufacturingProdCrAmt",
+      "path": "AdvncManufacturingProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdvncMfrPrdCrOthEntitiesAmt",
+      "path": "AdvncMfrPrdCrOthEntitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AluminumConvertedCostsAmt",
+      "path": "AluminumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AluminumPurifiedCostsAmt",
+      "path": "AluminumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AntimonyConvertedCostsAmt",
+      "path": "AntimonyConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AntimonyPurifiedCostsAmt",
+      "path": "AntimonyPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplcblCriticalMineralsCrAmt",
+      "path": "ApplcblCriticalMineralsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArsenicPurifiedCostsAmt",
+      "path": "ArsenicPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BaritePurifiedCostsAmt",
+      "path": "BaritePurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "BatteryCellGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "BatteryCellGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "BatteryModNotUseBatteryCellGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "BatteryModNotUseBatteryCellGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "BatteryModUseBatteryCellGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "BatteryModUseBatteryCellGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BerylliumConvertedCostsAmt",
+      "path": "BerylliumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BerylliumPurifiedCostsAmt",
+      "path": "BerylliumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BismuthPurifiedCostsAmt",
+      "path": "BismuthPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "BladeGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "BladeGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "CentralInverterGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "CentralInverterGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CeriumConvertedCostsAmt",
+      "path": "CeriumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CeriumPurifiedCostsAmt",
+      "path": "CeriumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CesiumConvertedCostsAmt",
+      "path": "CesiumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CesiumPurifiedCostsAmt",
+      "path": "CesiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChromiumConvertedCostsAmt",
+      "path": "ChromiumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChromiumPurifiedCostsAmt",
+      "path": "ChromiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CobaltConvertedCostsAmt",
+      "path": "CobaltConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CobaltPurifiedCostsAmt",
+      "path": "CobaltPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "CommercialInverterGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "CommercialInverterGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "DistributedWindInverterGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "DistributedWindInverterGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DysprosiumConvertedCostsAmt",
+      "path": "DysprosiumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DysprosiumPurifiedCostsAmt",
+      "path": "DysprosiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostsIncurredAmt",
+      "path": "ElectrodeActiveMaterialsGrp/CostsIncurredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "ElectrodeActiveMaterialsGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ErbiumPurifiedCostsAmt",
+      "path": "ErbiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateOrTrustAllocatedBenefAmt",
+      "path": "EstateOrTrustAllocatedBenefAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateTrustAdvncMfrProdCrAmt",
+      "path": "EstateTrustAdvncMfrProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EuropiumConvertedCostsAmt",
+      "path": "EuropiumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EuropiumPurifiedCostsAmt",
+      "path": "EuropiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt ",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine1Txt ",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FluorsparConvertedCostsAmt",
+      "path": "FluorsparConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FluorsparPurifiedCostsAmt",
+      "path": "FluorsparPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GadoliniumConvertedCostsAmt",
+      "path": "GadoliniumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GadoliniumPurifiedCostsAmt",
+      "path": "GadoliniumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GalliumPurifiedCostsAmt",
+      "path": "GalliumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GermaniumConvertedCostsAmt",
+      "path": "GermaniumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GermaniumPurifiedCostsAmt",
+      "path": "GermaniumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GraphitePurifiedCostsAmt",
+      "path": "GraphitePurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HafniumPurifiedCostsAmt",
+      "path": "HafniumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HolmiumPurifiedCostsAmt",
+      "path": "HolmiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndiumCnvrtIndiumOxideCostsAmt",
+      "path": "IndiumCnvrtIndiumOxideCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndiumConvertedCostsAmt",
+      "path": "IndiumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndiumPurifiedCostsAmt",
+      "path": "IndiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IridiumPurifiedCostsAmt",
+      "path": "IridiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LanthanumPurifiedCostsAmt",
+      "path": "LanthanumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LithiumConvertedCostsAmt",
+      "path": "LithiumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LithiumPurifiedCostsAmt",
+      "path": "LithiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LutetiumPurifiedCostsAmt",
+      "path": "LutetiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MagnesiumPurifiedCostsAmt",
+      "path": "MagnesiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ManganeseConvertedCostsAmt",
+      "path": "ManganeseConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ManganesePurifiedCostsAmt",
+      "path": "ManganesePurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "MicroinverterGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "MicroinverterGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "NacelleGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "NacelleGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NeodymiumCnvrtNeodymiumOxdAmt",
+      "path": "NeodymiumCnvrtNeodymiumOxdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NeodymiumConvertedCostAmt",
+      "path": "NeodymiumConvertedCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NeodymiumPurifiedCostsAmt",
+      "path": "NeodymiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NickelConvertedCostsAmt",
+      "path": "NickelConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NickelPurifiedCostsAmt",
+      "path": "NickelPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NiobiumConvertedCostsAmt",
+      "path": "NiobiumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NiobiumPurifiedCostsAmt",
+      "path": "NiobiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "OffshoreWindFndtnFloatPltfGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "OffshoreWindFndtnFloatPltfGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "OffshoreWindFndtnFxdPltfGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "OffshoreWindFndtnFxdPltfGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "OffshoreWindVesselsGrp",
+      "path": "OffshoreWindVesselsGrp",
+      "type": "group"
+    },
+    {
+      "name": "PalladiumPurifiedCostsAmt",
+      "path": "PalladiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "PhotovoltaicCellGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "PhotovoltaicCellGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "PhotovoltaicWaferGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "PhotovoltaicWaferGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "PlatinumPurifiedCostsAmt",
+      "path": "PlatinumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "PolymericBacksheetGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "PolymericBacksheetGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "PraseodymiumPurifiedCostsAmt",
+      "path": "PraseodymiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RelatedOffshoreWindVesselCrAmt",
+      "path": "RelatedOffshoreWindVesselCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "ResidentialInverterGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "ResidentialInverterGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "RhodiumPurifiedCostsAmt",
+      "path": "RhodiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RubidiumPurifiedCostsAmt",
+      "path": "RubidiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RutheniumPurifiedCostsAmt",
+      "path": "RutheniumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SamariumPurifiedCostsAmt",
+      "path": "SamariumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScandiumPurifiedCostsAmt",
+      "path": "ScandiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section45Xa3BElectionInd",
+      "path": "Section45Xa3BElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section48CEligiblePropertyInd",
+      "path": "Section48CEligiblePropertyInd",
+      "type": "bool"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "SolarGradePolysiliconGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "SolarGradePolysiliconGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "SolarModuleGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "SolarModuleGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "StructuralFastenerGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "StructuralFastenerGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TantalumPurifiedCostsAmt",
+      "path": "TantalumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TelluriumConvertedCostsAmt",
+      "path": "TelluriumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TelluriumPurifiedCostsAmt",
+      "path": "TelluriumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TerbiumPurifiedCostsAmt",
+      "path": "TerbiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThuliumPurifiedCostsAmt",
+      "path": "ThuliumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TinPurifiedAlphaEmsnRtCostsAmt",
+      "path": "TinPurifiedAlphaEmsnRtCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TinPurifiedCostsAmt",
+      "path": "TinPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TitaniumPurifiedCostsAmt",
+      "path": "TitaniumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "TorqueTubeGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "TorqueTubeGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalCostsAmt",
+      "path": "TotalCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSalesPriceAmt",
+      "path": "TotalSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "TowerGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "TowerGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TungstenConvertedCostsAmt",
+      "path": "TungstenConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "UtilityInverterGrp/CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnitsProducedQty",
+      "path": "UtilityInverterGrp/UnitsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "VanadiumConvertedCostsAmt",
+      "path": "VanadiumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "YtterbiumPurifiedCostsAmt",
+      "path": "YtterbiumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "YttriumConvertedCostsAmt",
+      "path": "YttriumConvertedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "YttriumPurifiedCostsAmt",
+      "path": "YttriumPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ZincPurifiedCostsAmt",
+      "path": "ZincPurifiedCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ZirconiumPurifiedCostsAmt",
+      "path": "ZirconiumPurifiedCostsAmt",
+      "type": "usd"
+    }
+  ]
+}

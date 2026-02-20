@@ -1,0 +1,31 @@
+{
+  "form_id": "IRS965B",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AmendedInd",
+      "path": "AmendedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Net965TaxLiabInstalElectGrp",
+      "path": "Net965TaxLiabInstalElectGrp",
+      "type": "group"
+    },
+    {
+      "name": "Net965TaxLiabInstalElectGrp ",
+      "path": "Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp ",
+      "type": "unknown"
+    },
+    {
+      "name": "NetSection965TaxLiabPaidAmt",
+      "path": "NetSection965TaxLiabPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection965TaxLiabUnpaidAmt",
+      "path": "NetSection965TaxLiabUnpaidAmt",
+      "type": "usd"
+    }
+  ]
+}

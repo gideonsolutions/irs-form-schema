@@ -1,0 +1,56 @@
+{
+  "form_id": "IRS1118AMT",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "CorporationEIN",
+      "path": "CorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "CorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "CorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignIncGeneralCategoryInd",
+      "path": "ForeignIncGeneralCategoryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncPassiveCategoryInd",
+      "path": "ForeignIncPassiveCategoryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncResourcedTreatyInd",
+      "path": "ForeignIncResourcedTreatyInd",
+      "type": "bool"
+    },
+    {
+      "name": "@countryCd",
+      "path": "ForeignIncResourcedTreatyInd/@countryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignIncSection901jInd",
+      "path": "ForeignIncSection901jInd",
+      "type": "bool"
+    },
+    {
+      "name": "@sanctionedCountryCd",
+      "path": "ForeignIncSection901jInd/@sanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "form_id": "IRS8994",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "EmplrCrPdFamilyMedLeaveAmt",
+      "path": "EmplrCrPdFamilyMedLeaveAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmplrCrPrtshpSCorpAmt",
+      "path": "EmplrCrPrtshpSCorpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaidFamilyMedLeaveInd",
+      "path": "PaidFamilyMedLeaveInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotPaidFamilyMedicalLeaveCrAmt",
+      "path": "TotPaidFamilyMedicalLeaveCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WrttnPlcy2WksPdFamMedLvInd",
+      "path": "WrttnPlcy2WksPdFamMedLvInd",
+      "type": "bool"
+    },
+    {
+      "name": "WrttnPlcyPdFamMedLv50PctInd",
+      "path": "WrttnPlcyPdFamMedLv50PctInd",
+      "type": "bool"
+    },
+    {
+      "name": "WrttnPolicyNoninterferenceInd",
+      "path": "WrttnPolicyNoninterferenceInd",
+      "type": "bool"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "form_id": "IRS8840",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AppLawfulPermanentResidentInd",
+      "path": "AppLawfulPermanentResidentInd",
+      "type": "bool"
+    },
+    {
+      "name": "AutomobileLocationCountryCd",
+      "path": "AutomobileLocationCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "AutomobileRegdCountryCd",
+      "path": "AutomobileRegdCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusActyLocOthThanTaxHomeInd",
+      "path": "BusActyLocOthThanTaxHomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusActyLocOthThanTxHmCountryCd",
+      "path": "BusActyLocOthThanTxHmCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "CitizenCountryCd",
+      "path": "CitizenCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "CloserConnectionCountryCd",
+      "path": "CloserConnectionCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "CloserConnectionFrgnCntryInd",
+      "path": "CloserConnectionFrgnCntryInd",
+      "type": "bool"
+    },
+    {
+      "name": "DocumentLocationCountryCd",
+      "path": "DocumentLocationCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "DriversLicenseIssdCountryCd",
+      "path": "DriversLicenseIssdCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "FamilyLocationCountryCd",
+      "path": "FamilyLocationCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "FirstDayPYTaxHomeCountryCd",
+      "path": "FirstDayPYTaxHomeCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignTaxResidenceCountryCd",
+      "path": "ForeignTaxResidenceCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "FormW8BENOrOtherW8CompletedInd",
+      "path": "FormW8BENOrOtherW8CompletedInd",
+      "type": "bool"
+    },
+    {
+      "name": "FormW9CompletedInd",
+      "path": "FormW9CompletedInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncomeFromUSSourceInd",
+      "path": "IncomeFromUSSourceInd",
+      "type": "bool"
+    },
+    {
+      "name": "InvestmentLocationCountryCd",
+      "path": "InvestmentLocationCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "LocRemainderPYTaxHomeCountryCd",
+      "path": "LocRemainderPYTaxHomeCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "MajorityIncomeDerivedCountryCd",
+      "path": "MajorityIncomeDerivedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "MultiplePermanentHomeGrp",
+      "path": "MultiplePermanentHomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "PermanentHomeCountryCd",
+      "path": "MultiplePermanentHomeGrp/PermanentHomeCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ShortExplanationTxt",
+      "path": "MultiplePermanentHomeGrp/ShortExplanationTxt",
+      "type": "string"
+    },
+    {
+      "name": "OthUSOfficialFormCompletedInd",
+      "path": "OthUSOfficialFormCompletedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PassportIssuedGrp",
+      "path": "PassportIssuedGrp",
+      "type": "group"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PassportIssuedGrp/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "PassportNum",
+      "path": "PassportIssuedGrp/PassportNum",
+      "type": "string"
+    },
+    {
+      "name": "PermanentHomeCountryCd",
+      "path": "PermanentHomeCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonalBelongingsLocCountryCd",
+      "path": "PersonalBelongingsLocCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "PhysicallyPresUSPYDayCnt",
+      "path": "PhysicallyPresUSPYDayCnt",
+      "type": "int"
+    },
+    {
+      "name": "PhysicallyPresUSPYLess1DayCnt",
+      "path": "PhysicallyPresUSPYLess1DayCnt",
+      "type": "int"
+    },
+    {
+      "name": "PhysicallyPresUSPYLess2DayCnt",
+      "path": "PhysicallyPresUSPYLess2DayCnt",
+      "type": "int"
+    },
+    {
+      "name": "PrsnlBankingActyLocCountryCd",
+      "path": "PrsnlBankingActyLocCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "QlfyFrgnNationalHealthPlanInd",
+      "path": "QlfyFrgnNationalHealthPlanInd",
+      "type": "bool"
+    },
+    {
+      "name": "RegisteredToVoteCountryCd",
+      "path": "RegisteredToVoteCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SndDriversLicenseIssdCountryCd",
+      "path": "SndDriversLicenseIssdCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxHomeCountryCd",
+      "path": "TaxHomeCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxResidentInternalLawCntryInd",
+      "path": "TaxResidentInternalLawCntryInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxReturnFldTaxHomeCountryInd",
+      "path": "TaxReturnFldTaxHomeCountryInd",
+      "type": "bool"
+    },
+    {
+      "name": "USImmigrationStatusGrp",
+      "path": "USImmigrationStatusGrp",
+      "type": "group"
+    },
+    {
+      "name": "EnteredUSDt",
+      "path": "USImmigrationStatusGrp/EnteredUSDt",
+      "type": "date"
+    },
+    {
+      "name": "child::*",
+      "path": "USImmigrationStatusGrp/child::*",
+      "type": "unknown"
+    }
+  ]
+}

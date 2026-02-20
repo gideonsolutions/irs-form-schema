@@ -1,0 +1,1871 @@
+{
+  "form_id": "IRS1120LScheduleM3",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjRecnclIncmStmtYrToTYAmt",
+      "path": "AdjRecnclIncmStmtYrToTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentToEliminateTransAmt",
+      "path": "AdjustmentToEliminateTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CUSIPNum",
+      "path": "CUSIPNum",
+      "type": "string"
+    },
+    {
+      "name": "ConsolidatedReturnInd",
+      "path": "ConsolidatedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorpIncmStmtRestated5PrecInd",
+      "path": "CorpIncmStmtRestated5PrecInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorpPrepCertAuditedIncmStmtInd",
+      "path": "CorpPrepCertAuditedIncmStmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorporationFiledSECForm10KInd",
+      "path": "CorporationFiledSECForm10KInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorporationIncmStmtRestatedInd",
+      "path": "CorporationIncmStmtRestatedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorporationPreparedIncmStmtInd",
+      "path": "CorporationPreparedIncmStmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorporationVtngComStkPubTrdInd",
+      "path": "CorporationVtngComStkPubTrdInd",
+      "type": "bool"
+    },
+    {
+      "name": "DormantSubsidiariesSchAttInd",
+      "path": "DormantSubsidiariesSchAttInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "EntIncldOtherIncludibleAstAmt",
+      "path": "EntIncldOtherIncludibleAstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EntIncldOtherIncludibleLiabAmt",
+      "path": "EntIncldOtherIncludibleLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EntIncldWorldwideCnsldtAstAmt",
+      "path": "EntIncldWorldwideCnsldtAstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EntIncldWorldwideCnsldtLiabAmt",
+      "path": "EntIncldWorldwideCnsldtLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EntRmvdNonincludblFrgnLiabAmt",
+      "path": "EntRmvdNonincludblFrgnLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EntRmvdNonincludibleFrgnAstAmt",
+      "path": "EntRmvdNonincludibleFrgnAstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EntRmvdNonincludibleUSAstAmt",
+      "path": "EntRmvdNonincludibleUSAstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EntRmvdNonincludibleUSLiabAmt",
+      "path": "EntRmvdNonincludibleUSLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmortizationImpairmentGoodwill",
+      "path": "ExpenseDeductionItems/AmortizationImpairmentGoodwill",
+      "type": "unknown"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/AmortizationImpairmentGoodwill/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/AmortizationImpairmentGoodwill/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/AmortizationImpairmentGoodwill/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/AmortizationImpairmentGoodwill/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/AmortzAcquisReorgStartupCosts/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/AmortzAcquisReorgStartupCosts/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/AmortzAcquisReorgStartupCosts/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/AmortzAcquisReorgStartupCosts/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/AmortzDefrdAcquisCostsGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/AmortzDefrdAcquisCostsGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/AmortzDefrdAcquisCostsGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/BadDebtExpnsAgencyBalWrttnOff/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/BadDebtExpnsAgencyBalWrttnOff/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/BadDebtExpnsAgencyBalWrttnOff/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/BadDebtExpnsAgencyBalWrttnOff/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/CapitalizationDefrdAcquisCosts/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/CapitalizationDefrdAcquisCosts/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CapitalizationDefrdAcquisCosts/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/ChangeAllOthSect807cTxRsrvGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/ChangeAllOthSect807cTxRsrvGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/ChangeAllOthSect807cTxRsrvGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ChangeAllOthSect807cTxRsrvGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/ChangeSection807c1TaxRsrvsGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/ChangeSection807c1TaxRsrvsGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/ChangeSection807c1TaxRsrvsGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ChangeSection807c1TaxRsrvsGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/ChangeSection807c2TaxRsrvsGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/ChangeSection807c2TaxRsrvsGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/ChangeSection807c2TaxRsrvsGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ChangeSection807c2TaxRsrvsGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/CharitableContriIntangibleProp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/CharitableContriIntangibleProp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/CharitableContriIntangibleProp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CharitableContriIntangibleProp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/CharitableContriLimitationCfwd/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/CharitableContriLimitationCfwd/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CharitableContriLimitationCfwd/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/CharitbleContriCashTngblProp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/CharitbleContriCashTngblProp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/CharitbleContriCashTngblProp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CharitbleContriCashTngblProp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/CompWithSect162mLimitation/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/CompWithSect162mLimitation/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/CompWithSect162mLimitation/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CompWithSect162mLimitation/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConsolidatedEliminationsInd",
+      "path": "ExpenseDeductionItems/ConsolidatedEliminationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ConsolidatedGroupInd",
+      "path": "ExpenseDeductionItems/ConsolidatedGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/CorpOwnedLifeInsurancePremiums/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/CorpOwnedLifeInsurancePremiums/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/CorpOwnedLifeInsurancePremiums/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CorpOwnedLifeInsurancePremiums/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAcquisReOrgCostsGrp",
+      "path": "ExpenseDeductionItems/CurrentYearAcquisReOrgCostsGrp",
+      "type": "group"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/CurrentYearAcquisReOrgCostsGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/CurrentYearAcquisReOrgCostsGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/CurrentYearAcquisReOrgCostsGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CurrentYearAcquisReOrgCostsGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/DeferredCompensation/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/DeferredCompensation/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/DeferredCompensation/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/DeferredCompensation/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/DepreciationGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/DepreciationGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/DepreciationGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/DepreciationGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EquityBasedCompensationGrp",
+      "path": "ExpenseDeductionItems/EquityBasedCompensationGrp",
+      "type": "group"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/EquityBasedCompensationGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/EquityBasedCompensationGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/EquityBasedCompensationGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/EquityBasedCompensationGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/FinesAndPenalties/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/FinesAndPenalties/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/FinesAndPenalties/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/FinesAndPenalties/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/ForeignCurrentIncomeTaxExpense/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/ForeignCurrentIncomeTaxExpense/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/ForeignCurrentIncomeTaxExpense/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ForeignCurrentIncomeTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/ForeignDeferredIncmTaxExpense/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/ForeignDeferredIncmTaxExpense/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ForeignDeferredIncmTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/ForeignWithholdingTaxes/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/ForeignWithholdingTaxes/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/ForeignWithholdingTaxes/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ForeignWithholdingTaxes/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseForm8916AGrp",
+      "path": "ExpenseDeductionItems/InterestExpenseForm8916AGrp",
+      "type": "group"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/InterestExpenseForm8916AGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/InterestExpenseForm8916AGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/InterestExpenseForm8916AGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/InterestExpenseForm8916AGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Is1120GroupInd",
+      "path": "ExpenseDeductionItems/Is1120GroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "Is1120LEliminationsInd",
+      "path": "ExpenseDeductionItems/Is1120LEliminationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "Is1120LGroupInd",
+      "path": "ExpenseDeductionItems/Is1120LGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/JudgmentsDamagesAwardsSmlrCost/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/JudgmentsDamagesAwardsSmlrCost/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/JudgmentsDamagesAwardsSmlrCost/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/JudgmentsDamagesAwardsSmlrCost/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/MealsAndEntertainmentGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/MealsAndEntertainmentGrp/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/MealsAndEntertainmentGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/MealsAndEntertainmentGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "ExpenseDeductionItems/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "Mixed1120LPCGroupInd",
+      "path": "ExpenseDeductionItems/Mixed1120LPCGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/OtherAmortzImpairmentWriteOffs/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/OtherAmortzImpairmentWriteOffs/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/OtherAmortzImpairmentWriteOffs/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/OtherAmortzImpairmentWriteOffs/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpnsDedItemsDifferences",
+      "path": "ExpenseDeductionItems/OtherExpnsDedItemsDifferences",
+      "type": "unknown"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/OtherExpnsDedItemsDifferences/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/OtherExpnsDedItemsDifferences/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/OtherExpnsDedItemsDifferences/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/OtherExpnsDedItemsDifferences/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/OtherPostRetirementBenefits/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/OtherPostRetirementBenefits/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/OtherPostRetirementBenefits/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/OtherPostRetirementBenefits/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/ParachutePayments/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/ParachutePayments/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/ParachutePayments/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ParachutePayments/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ParentCorporationInd",
+      "path": "ExpenseDeductionItems/ParentCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/PensionAndProfitSharing/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/PensionAndProfitSharing/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/PensionAndProfitSharing/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/PensionAndProfitSharing/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/PurchaseVersusLease/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/PurchaseVersusLease/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/PurchaseVersusLease/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/PurchaseVersusLease/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/ResearchAndDevelopmentCosts/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/ResearchAndDevelopmentCosts/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/ResearchAndDevelopmentCosts/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ResearchAndDevelopmentCosts/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/Sect807fAdjChgComputingRsrvGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/Sect807fAdjChgComputingRsrvGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/Sect807fAdjChgComputingRsrvGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section118Exclusion",
+      "path": "ExpenseDeductionItems/Section118Exclusion",
+      "type": "unknown"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/Section118Exclusion/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/Section118Exclusion/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/Section118Exclusion/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/Section118Exclusion/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/Section807a2BTaxReservesAmtGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/Section807a2BTaxReservesAmtGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/Section807a2BTaxReservesAmtGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/Section846AmountGrp/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/Section846AmountGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/Section846AmountGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/StateLocalCurrIncomeTaxExpense/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/StateLocalCurrIncomeTaxExpense/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/StateLocalCurrIncomeTaxExpense/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/StateLocalCurrIncomeTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/StateLocalDefrdIncmTaxExpense/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/StateLocalDefrdIncmTaxExpense/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/StateLocalDefrdIncmTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ExpenseDeductionItems/SubsidiaryBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ExpenseDeductionItems/SubsidiaryBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "SubsidiaryCorporationInd",
+      "path": "ExpenseDeductionItems/SubsidiaryCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "SubsidiaryEIN",
+      "path": "ExpenseDeductionItems/SubsidiaryEIN",
+      "type": "ein"
+    },
+    {
+      "name": "DeductionPerTaxReturnAmt",
+      "path": "ExpenseDeductionItems/TotalExpenseDeductionItems/DeductionPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/TotalExpenseDeductionItems/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/TotalExpenseDeductionItems/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/TotalExpenseDeductionItems/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/USCurrentIncomeTaxExpense/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/USCurrentIncomeTaxExpense/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/USCurrentIncomeTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensePerIncomeStmtAmt",
+      "path": "ExpenseDeductionItems/USDeferredIncomeTaxExpense/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/USDeferredIncomeTaxExpense/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/USDeferredIncomeTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConsolidatedGroupInd",
+      "path": "ExpenseDeductionItemsGrp/ConsolidatedGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "GAAPInd",
+      "path": "GAAPInd",
+      "type": "bool"
+    },
+    {
+      "name": "IFRSInd",
+      "path": "IFRSInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/AbandonmentLosses/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/AbandonmentLosses/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/AbandonmentLosses/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/AccrualBondDiscountGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/AccrualBondDiscountGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/AccrualBondDiscountGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/AccrualBondDiscountGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/AmortizationIntMaintReserveGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/AmortizationIntMaintReserveGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/AmortizationIntMaintReserveGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/CapLossLimitationAndCfwdUsed/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/CapLossLimitationAndCfwdUsed/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/CapLossLimitationAndCfwdUsed/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConsolidatedEliminationsInd",
+      "path": "IncomeLossItems/ConsolidatedEliminationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ConsolidatedGroupInd",
+      "path": "IncomeLossItems/ConsolidatedGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/DeferredUncollectedPremiumsGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/DeferredUncollectedPremiumsGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/DeferredUncollectedPremiumsGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/GainLossReportedOnForm4797/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/GainLossReportedOnForm4797/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GainLossReportedOnForm4797/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/GrossCapitalGainsFromSchD/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/GrossCapitalGainsFromSchD/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GrossCapitalGainsFromSchD/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/GrossCapitalLossesFromSchD/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/GrossCapitalLossesFromSchD/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GrossCapitalLossesFromSchD/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossForeignDistriPrevTaxed",
+      "path": "IncomeLossItems/GrossForeignDistriPrevTaxed",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/GrossForeignDistriPrevTaxed/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/GrossForeignDistriPrevTaxed/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GrossForeignDistriPrevTaxed/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossFrgnDividendsNotPrevTaxed",
+      "path": "IncomeLossItems/GrossFrgnDividendsNotPrevTaxed",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/GrossFrgnDividendsNotPrevTaxed/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/GrossFrgnDividendsNotPrevTaxed/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/GrossFrgnDividendsNotPrevTaxed/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GrossFrgnDividendsNotPrevTaxed/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossUpForeignTaxesDeemedPd",
+      "path": "IncomeLossItems/GrossUpForeignTaxesDeemedPd",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/GrossUpForeignTaxesDeemedPd/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/GrossUpForeignTaxesDeemedPd/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GrossUpForeignTaxesDeemedPd/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/HedgingTransactions/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/HedgingTransactions/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/HedgingTransactions/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/HedgingTransactions/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/IncmStmtGainLossDisposAst/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/IncmStmtGainLossDisposAst/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncmStmtGainLossDisposAst/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossEquityMethodFrgnCorp",
+      "path": "IncomeLossItems/IncomeLossEquityMethodFrgnCorp",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/IncomeLossEquityMethodFrgnCorp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossEquityMethodFrgnCorp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossEquityMethodFrgnCorp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossEquityMethodUSCorp",
+      "path": "IncomeLossItems/IncomeLossEquityMethodUSCorp",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/IncomeLossEquityMethodUSCorp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossEquityMethodUSCorp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossEquityMethodUSCorp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossForeignPartnerships",
+      "path": "IncomeLossItems/IncomeLossForeignPartnerships",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/IncomeLossForeignPartnerships/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/IncomeLossForeignPartnerships/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossForeignPartnerships/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossForeignPartnerships/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPassThroughEntities",
+      "path": "IncomeLossItems/IncomeLossPassThroughEntities",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/IncomeLossPassThroughEntities/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/IncomeLossPassThroughEntities/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossPassThroughEntities/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossPassThroughEntities/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossUSPartnerships",
+      "path": "IncomeLossItems/IncomeLossUSPartnerships",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/IncomeLossUSPartnerships/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/IncomeLossUSPartnerships/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossUSPartnerships/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossUSPartnerships/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestIncomeForm8916AGrp",
+      "path": "IncomeLossItems/InterestIncomeForm8916AGrp",
+      "type": "group"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/InterestIncomeForm8916AGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/InterestIncomeForm8916AGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/InterestIncomeForm8916AGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/InterestIncomeForm8916AGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Is1120LEliminationsInd",
+      "path": "IncomeLossItems/Is1120LEliminationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "Is1120LGroupInd",
+      "path": "IncomeLossItems/Is1120LGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "ItemsRelatedReportableTransGrp",
+      "path": "IncomeLossItems/ItemsRelatedReportableTransGrp",
+      "type": "group"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/ItemsRelatedReportableTransGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/ItemsRelatedReportableTransGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/ItemsRelatedReportableTransGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/ItemsRelatedReportableTransGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/MarkToMarketIncomeLoss/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/MarkToMarketIncomeLoss/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/MarkToMarketIncomeLoss/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/MarkToMarketIncomeLoss/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/MarketDiscountReclsGrp/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/MarketDiscountReclsGrp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/MarketDiscountReclsGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinorityInterestIncludibleCorp",
+      "path": "IncomeLossItems/MinorityInterestIncludibleCorp",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/MinorityInterestIncludibleCorp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/MinorityInterestIncludibleCorp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/MinorityInterestIncludibleCorp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "IncomeLossItems/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "Mixed1120LPCGroupInd",
+      "path": "IncomeLossItems/Mixed1120LPCGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/MixedGroupsAllOthers/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/MixedGroupsAllOthers/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/MixedGroupsAllOthers/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/MixedGroupsAllOthers/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/OrigIssueDiscountOthImputedInt/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/OrigIssueDiscountOthImputedInt/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/OrigIssueDiscountOthImputedInt/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/OrigIssueDiscountOthImputedInt/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/OthGainLossDisposAssets/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/OthGainLossDisposAssets/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/OthGainLossDisposAssets/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthIncmLossItemsDifferences",
+      "path": "IncomeLossItems/OthIncmLossItemsDifferences",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/OthIncmLossItemsDifferences/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/OthIncmLossItemsDifferences/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/OthIncmLossItemsDifferences/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/OthIncmLossItemsDifferences/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/OtherItemsNoDifferences/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomePerIncomeStatementAmt",
+      "path": "IncomeLossItems/OtherItemsNoDifferences/IncomePerIncomeStatementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/PCInsSubgroupRecnclTotals/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/PCInsSubgroupRecnclTotals/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/PCInsSubgroupRecnclTotals/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/PCInsSubgroupRecnclTotals/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ParentCorporationInd",
+      "path": "IncomeLossItems/ParentCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/ReconciliationTotals/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/ReconciliationTotals/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/ReconciliationTotals/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/ReconciliationTotals/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/SalesVersusLease/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/SalesVersusLease/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/SalesVersusLease/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/SalesVersusLease/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/Section481aAdjustments/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/Section481aAdjustments/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/Section481aAdjustments/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/SubgroupReconciliationTotals/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/SubgroupReconciliationTotals/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/SubgroupReconciliationTotals/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/SubgroupReconciliationTotals/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubpartFQEFSimilarIncmInclsn",
+      "path": "IncomeLossItems/SubpartFQEFSimilarIncmInclsn",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/SubpartFQEFSimilarIncmInclsn/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/SubpartFQEFSimilarIncmInclsn/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/SubpartFQEFSimilarIncmInclsn/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "IncomeLossItems/SubsidiaryBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "IncomeLossItems/SubsidiaryBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "SubsidiaryCorporationInd",
+      "path": "IncomeLossItems/SubsidiaryCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "SubsidiaryEIN",
+      "path": "IncomeLossItems/SubsidiaryEIN",
+      "type": "ein"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/TotalExpenseDeductionItems/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/TotalExpenseDeductionItems/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/TotalExpenseDeductionItems/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/TotalExpenseDeductionItems/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeLossItems",
+      "path": "IncomeLossItems/TotalIncomeLossItems",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/TotalIncomeLossItems/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/TotalIncomeLossItems/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/TotalIncomeLossItems/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/TotalIncomeLossItems/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USDivNotEliminatedTaxConsol",
+      "path": "IncomeLossItems/USDivNotEliminatedTaxConsol",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/USDivNotEliminatedTaxConsol/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/USDivNotEliminatedTaxConsol/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/USDivNotEliminatedTaxConsol/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/USDivNotEliminatedTaxConsol/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WorthlessStockLosses",
+      "path": "IncomeLossItems/WorthlessStockLosses",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeLossPerTaxReturnAmt",
+      "path": "IncomeLossItems/WorthlessStockLosses/IncomeLossPerTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/WorthlessStockLosses/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/WorthlessStockLosses/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeStatementBeginningDt",
+      "path": "IncomeStatementBeginningDt",
+      "type": "date"
+    },
+    {
+      "name": "IncomeStatementEndingDt",
+      "path": "IncomeStatementEndingDt",
+      "type": "date"
+    },
+    {
+      "name": "IntercompanyDivAdjToRecnclAmt",
+      "path": "IntercompanyDivAdjToRecnclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "Mixed1120LPCGroupInd",
+      "path": "Mixed1120LPCGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetIncmNonincludibleFrgnEntAmt",
+      "path": "NetIncmNonincludibleFrgnEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncmOthIncludibleFrgnEntAmt",
+      "path": "NetIncmOthIncludibleFrgnEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeLossPerIncomeStmtAmt",
+      "path": "NetIncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeNonincludibleUSEntAmt",
+      "path": "NetIncomeNonincludibleUSEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeOthIncludibleUSEntAmt",
+      "path": "NetIncomeOthIncludibleUSEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetLossNonincludibleFrgnEntAmt",
+      "path": "NetLossNonincludibleFrgnEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetLossNonincludibleUSEntAmt",
+      "path": "NetLossNonincludibleUSEntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetLossOtherIncludibleCorpAmt",
+      "path": "NetLossOtherIncludibleCorpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonConsolidatedReturnInd",
+      "path": "NonConsolidatedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherAdjustmentsToReconcileAmt",
+      "path": "OtherAdjustmentsToReconcileAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@methodOfAccountingOtherDesc",
+      "path": "OtherInd/@methodOfAccountingOtherDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherStatutoryAcctToRecnclAmt",
+      "path": "OtherStatutoryAcctToRecnclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StatutoryInd",
+      "path": "StatutoryInd",
+      "type": "bool"
+    },
+    {
+      "name": "StockSymbolCd",
+      "path": "StockSymbolCd",
+      "type": "enum"
+    },
+    {
+      "name": "WorldwideCnsldtNetIncmLossAmt",
+      "path": "WorldwideCnsldtNetIncmLossAmt",
+      "type": "usd"
+    }
+  ]
+}

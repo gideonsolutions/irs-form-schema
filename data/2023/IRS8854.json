@@ -1,0 +1,406 @@
+{
+  "form_id": "IRS8854",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AddressLine1Txt",
+      "path": "AfterExptrtMailAddrPhoneGrp//AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "AfterExptrtMailAddrPhoneGrp//AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "AfterExptrtMailAddrPhoneGrp/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "CountryCd",
+      "path": "AfterExptrtMailAddrPhoneGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "AfterExptrtMailAddrPhoneGrp/ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "USAddress",
+      "path": "AfterExptrtMailAddrPhoneGrp/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "USTelephoneNum",
+      "path": "AfterExptrtMailAddrPhoneGrp/USTelephoneNum",
+      "type": "string"
+    },
+    {
+      "name": "EligDeferredCompItemsDistriDtl",
+      "path": "AnnualExptrtStmtBfrSpcfdYrGrp/EligDeferredCompItemsDistriDtl",
+      "type": "unknown"
+    },
+    {
+      "name": "EligDeferredCompItemsDistriInd",
+      "path": "AnnualExptrtStmtBfrSpcfdYrGrp/EligDeferredCompItemsDistriInd",
+      "type": "bool"
+    },
+    {
+      "name": "NongrantorTrustDistriDtl",
+      "path": "AnnualExptrtStmtBfrSpcfdYrGrp/NongrantorTrustDistriDtl",
+      "type": "unknown"
+    },
+    {
+      "name": "NongrantorTrustDistriInd",
+      "path": "AnnualExptrtStmtBfrSpcfdYrGrp/NongrantorTrustDistriInd",
+      "type": "bool"
+    },
+    {
+      "name": "PropTaxDeferredPYFrm8854Grp",
+      "path": "AnnualExptrtStmtBfrSpcfdYrGrp/PropTaxDeferredPYFrm8854Grp",
+      "type": "group"
+    },
+    {
+      "name": "AnnualExptrtStmtBfrSpcfdYrInd",
+      "path": "AnnualExptrtStmtBfrSpcfdYrInd",
+      "type": "bool"
+    },
+    {
+      "name": "CountryCitizenshipGrp",
+      "path": "CountryCitizenshipGrp",
+      "type": "group"
+    },
+    {
+      "name": "DualCitizenBirthUSOthCntryInd",
+      "path": "ExpatriationInformationGrp/DualCitizenBirthUSOthCntryInd",
+      "type": "bool"
+    },
+    {
+      "name": "InCompliance5PrecTaxYearInd",
+      "path": "ExpatriationInformationGrp/InCompliance5PrecTaxYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetWorthOnExptrtDateAmt",
+      "path": "ExpatriationInformationGrp/NetWorthOnExptrtDateAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USIncomeTax1stYearBfrExptrtAmt",
+      "path": "ExpatriationInformationGrp/USIncomeTax1stYearBfrExptrtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USIncomeTax2ndYearBfrExptrtAmt",
+      "path": "ExpatriationInformationGrp/USIncomeTax2ndYearBfrExptrtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USIncomeTax3rdYearBfrExptrtAmt",
+      "path": "ExpatriationInformationGrp/USIncomeTax3rdYearBfrExptrtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USIncomeTax4thYearBfrExptrtAmt",
+      "path": "ExpatriationInformationGrp/USIncomeTax4thYearBfrExptrtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USIncomeTax5thYearBfrExptrtAmt",
+      "path": "ExpatriationInformationGrp/USIncomeTax5thYearBfrExptrtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USResNoMoreThan10Of15YrInd",
+      "path": "ExpatriationInformationGrp/USResNoMoreThan10Of15YrInd",
+      "type": "bool"
+    },
+    {
+      "name": "Under18USResLessThan10YrInd",
+      "path": "ExpatriationInformationGrp/Under18USResLessThan10YrInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExptrtNotifLongTermDualResDt",
+      "path": "ExptrtNotifLongTermDualResGrp/ExptrtNotifLongTermDualResDt",
+      "type": "date"
+    },
+    {
+      "name": "ExptrtNotifLongTermDualResInd",
+      "path": "ExptrtNotifLongTermDualResGrp/ExptrtNotifLongTermDualResInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExptrtNotifLongTermResidentInd",
+      "path": "ExptrtNotifLongTermResidentGrp/ExptrtNotifLongTermResidentInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExptrtNotifToDeptHomelandSecDt",
+      "path": "ExptrtNotifLongTermResidentGrp/ExptrtNotifToDeptHomelandSecDt",
+      "type": "date"
+    },
+    {
+      "name": "ExptrtNotifToDeptOfStateDt",
+      "path": "ExptrtNotificationCitizenGrp/ExptrtNotifToDeptOfStateDt",
+      "type": "date"
+    },
+    {
+      "name": "ExptrtNotificationCitizenInd",
+      "path": "ExptrtNotificationCitizenGrp/ExptrtNotificationCitizenInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxDeferSect877AbElectionInd",
+      "path": "ExptrtTaxDeferralGrp/TaxDeferSect877AbElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxEligibleForDeferralAmt",
+      "path": "ExptrtTaxDeferralGrp/TaxEligibleForDeferralAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxWithSect877AaAmt",
+      "path": "ExptrtTaxDeferralGrp/TotalTaxWithSect877AaAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxWithoutSect877AaAmt",
+      "path": "ExptrtTaxDeferralGrp/TotalTaxWithoutSect877AaAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignResidenceAddress",
+      "path": "ForeignResidenceAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ForeignResidenceAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ForeignResidenceAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ForeignResidenceAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignTaxResidenceCountryCd",
+      "path": "ForeignTaxResidenceCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "InitialExptrtStmtBalSheetGrp",
+      "path": "InitialExptrtStmtBalSheetGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessPropertyInUSGrp",
+      "path": "InitialExptrtStmtBalSheetGrp//BusinessPropertyInUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessPropertyOutsideUSGrp",
+      "path": "InitialExptrtStmtBalSheetGrp//BusinessPropertyOutsideUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "IntangiblesUsedInUSGrp",
+      "path": "InitialExptrtStmtBalSheetGrp//IntangiblesUsedInUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "IntangiblesUsedOutsideUSGrp",
+      "path": "InitialExptrtStmtBalSheetGrp//IntangiblesUsedOutsideUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "LoansToForeignPersonsGrp",
+      "path": "InitialExptrtStmtBalSheetGrp//LoansToForeignPersonsGrp",
+      "type": "group"
+    },
+    {
+      "name": "LoansToUSPersonsGrp",
+      "path": "InitialExptrtStmtBalSheetGrp//LoansToUSPersonsGrp",
+      "type": "group"
+    },
+    {
+      "name": "RealPropertyLocatedInUSGrp",
+      "path": "InitialExptrtStmtBalSheetGrp//RealPropertyLocatedInUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "RealPropertyLocatedOutsdUSGrp",
+      "path": "InitialExptrtStmtBalSheetGrp//RealPropertyLocatedOutsdUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "CashIncludingBankDepositsGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/CashIncludingBankDepositsGrp",
+      "type": "group"
+    },
+    {
+      "name": "InstallmentObligLiabilityAmt",
+      "path": "InitialExptrtStmtBalSheetGrp/InstallmentObligLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageLiabilityAmt",
+      "path": "InitialExptrtStmtBalSheetGrp/MortgageLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MrktblStockSecIssdByUSCoGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/MrktblStockSecIssdByUSCoGrp",
+      "type": "group"
+    },
+    {
+      "name": "MrktblStockSecIssdFrgnCoGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/MrktblStockSecIssdFrgnCoGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetWorthAmt",
+      "path": "InitialExptrtStmtBalSheetGrp/NetWorthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonmrktblStockSecIssdFrgnCoGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/NonmrktblStockSecIssdFrgnCoGrp",
+      "type": "group"
+    },
+    {
+      "name": "NonmrktblStockSecIssdUSCoGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/NonmrktblStockSecIssdUSCoGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherLiabilityAmt",
+      "path": "InitialExptrtStmtBalSheetGrp/OtherLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PensionFromSrvcPerfInUSGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/PensionFromSrvcPerfInUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "PensionFromSrvcPerfOutsdUSGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/PensionFromSrvcPerfOutsdUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "SepStateStockIssdFrgnCoGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/SepStateStockIssdFrgnCoGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityDesc",
+      "path": "InitialExptrtStmtBalSheetGrp/SepStateStockIssdFrgnCoGrp/ForeignEntityDesc",
+      "type": "string"
+    },
+    {
+      "name": "TotAssetsHeldByTrSect671679Grp",
+      "path": "InitialExptrtStmtBalSheetGrp/TotAssetsHeldByTrSect671679Grp",
+      "type": "group"
+    },
+    {
+      "name": "TotNongrantorTrBnfclIntGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/TotNongrantorTrBnfclIntGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalAssetsDetail",
+      "path": "InitialExptrtStmtBalSheetGrp/TotalAssetsDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalLiabilityAmt",
+      "path": "InitialExptrtStmtBalSheetGrp/TotalLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAssetsNotIncludedGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/TotalOtherAssetsNotIncludedGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalPartnershipInterestGrp",
+      "path": "InitialExptrtStmtBalSheetGrp/TotalPartnershipInterestGrp",
+      "type": "group"
+    },
+    {
+      "name": "InitialExptrtStmtSpcfdYrInd",
+      "path": "InitialExptrtStmtSpcfdYrInd",
+      "type": "bool"
+    },
+    {
+      "name": "LawfulPermanentResidentDt",
+      "path": "LawfulPermanentResidentDt",
+      "type": "date"
+    },
+    {
+      "name": "EligibleDeferredCompItemsInd",
+      "path": "PropertyOwnedDtExpatriationGrp/EligibleDeferredCompItemsInd",
+      "type": "bool"
+    },
+    {
+      "name": "IneligibleDeferredCompItemsInd",
+      "path": "PropertyOwnedDtExpatriationGrp/IneligibleDeferredCompItemsInd",
+      "type": "bool"
+    },
+    {
+      "name": "MarkToMarketPropertySaleGrp",
+      "path": "PropertyOwnedDtExpatriationGrp/MarkToMarketPropertySaleGrp",
+      "type": "group"
+    },
+    {
+      "name": "NongrantorTrustInterestInd",
+      "path": "PropertyOwnedDtExpatriationGrp/NongrantorTrustInterestInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section877AElectionInd",
+      "path": "PropertyOwnedDtExpatriationGrp/Section877AElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecifiedTaxDeferredAccountInd",
+      "path": "PropertyOwnedDtExpatriationGrp/SpecifiedTaxDeferredAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotGainAfterAllocationExclAmt",
+      "path": "PropertyOwnedDtExpatriationGrp/TotGainAfterAllocationExclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainOrLossAmt",
+      "path": "PropertyOwnedDtExpatriationGrp/TotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeferredAmt",
+      "path": "PropertyOwnedDtExpatriationGrp/TotalTaxDeferredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USCitizenByBirthInd",
+      "path": "USCitizenByBirthInd",
+      "type": "bool"
+    },
+    {
+      "name": "USCitizenByNaturalizationInd",
+      "path": "USCitizenByNaturalizationInd",
+      "type": "bool"
+    }
+  ]
+}

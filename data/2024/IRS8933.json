@@ -1,0 +1,451 @@
+{
+  "form_id": "IRS8933",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AddnlEquipInstalledInd",
+      "path": "AddnlEquipInstalledInd",
+      "type": "bool"
+    },
+    {
+      "name": "AggregationRqrCrbnCptrInd",
+      "path": "AggregationRqrCrbnCptrInd",
+      "type": "bool"
+    },
+    {
+      "name": "AllOtherCOSCElectClmAmt",
+      "path": "AllOtherCOSCElectClmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowPartiesClmSomeOrAllCrInd",
+      "path": "AllowPartiesClmSomeOrAllCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "AnnlzdCarbonOxdEmissionsQty",
+      "path": "AnnlzdCarbonOxdEmissionsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AnnlzdCarbonOxdEmsnCptrQty",
+      "path": "AnnlzdCarbonOxdEmsnCptrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AnnlzdCrbnOxdFrstYrEmsnRqrInd",
+      "path": "AnnlzdCrbnOxdFrstYrEmsnRqrInd",
+      "type": "bool"
+    },
+    {
+      "name": "AnnlzdFrstYrCrbnOxdCptrRqrInd",
+      "path": "AnnlzdFrstYrCrbnOxdCptrRqrInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplcblFcltyElectSect45Qf6Ind",
+      "path": "ApplcblFcltyElectSect45Qf6Ind",
+      "type": "bool"
+    },
+    {
+      "name": "AttestExceptionMetInd",
+      "path": "AttestExceptionMetInd",
+      "type": "bool"
+    },
+    {
+      "name": "AttestmentLetterAttachedInd",
+      "path": "AttestmentLetterAttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CaptureQualifiedCarbonOxideInd",
+      "path": "CaptureQualifiedCarbonOxideInd",
+      "type": "bool"
+    },
+    {
+      "name": "CarbonCaptureCapacityQty",
+      "path": "CarbonCaptureCapacityQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CarbonCaptureEquipOwnerInd",
+      "path": "CarbonCaptureEquipOwnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "CarbonCapturedDACFacilityInd",
+      "path": "CarbonCapturedDACFacilityInd",
+      "type": "bool"
+    },
+    {
+      "name": "CarbonCptrEquipPlcdSrvcDtInd",
+      "path": "CarbonCptrEquipPlcdSrvcDtInd",
+      "type": "bool"
+    },
+    {
+      "name": "CarbonDioxideCptrEquipQty",
+      "path": "CarbonDioxideCptrEquipQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CarbonDioxideQty",
+      "path": "CarbonDioxideQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CarbonMonoxideCptrEquipQty",
+      "path": "CarbonMonoxideCptrEquipQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CarbonMonoxideQty",
+      "path": "CarbonMonoxideQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CarbonOxideEmissionsQty",
+      "path": "CarbonOxideEmissionsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimingCreditAuthorityTxt",
+      "path": "ClaimingCreditAuthorityTxt",
+      "type": "string"
+    },
+    {
+      "name": "CptrQlfyCrbnOxdDisposStorInd",
+      "path": "CptrQlfyCrbnOxdDisposStorInd",
+      "type": "bool"
+    },
+    {
+      "name": "CrbnOxdSqstrtnCrRcptrAmt",
+      "path": "CrbnOxdSqstrtnCrRcptrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditAmt",
+      "path": "CreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DirectAirCaptureInd",
+      "path": "DirectAirCaptureInd",
+      "type": "bool"
+    },
+    {
+      "name": "DispInjctUtlzQlfyCrbnOxdInd",
+      "path": "DispInjctUtlzQlfyCrbnOxdInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectTPClmCrbnOxdSqstrtnCrInd",
+      "path": "ElectTPClmCrbnOxdSqstrtnCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectricityGeneratingInd",
+      "path": "ElectricityGeneratingInd",
+      "type": "bool"
+    },
+    {
+      "name": "FMVPreExistCarbonCptrEquipAmt",
+      "path": "FMVPreExistCarbonCptrEquipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityConstructionStartDt",
+      "path": "FacilityConstructionStartDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityEPAeGGRTIdNum",
+      "path": "FacilityEPAeGGRTIdNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityTypeDesc",
+      "path": "FacilityTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "InvstPplnNewCrbnCptrEquipInd",
+      "path": "InvstPplnNewCrbnCptrEquipInd",
+      "type": "bool"
+    },
+    {
+      "name": "InvstTransPipelineAmt",
+      "path": "InvstTransPipelineAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LCAInd",
+      "path": "LCAInd",
+      "type": "bool"
+    },
+    {
+      "name": "CreditElectedAmt",
+      "path": "LargestCOSCElectClmGrp/CreditElectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditRateAmt",
+      "path": "LargestCOSCElectClmGrp/CreditRateAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "LargestCOSCElectClmGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "MetricTonsCapturedQty",
+      "path": "LargestCOSCElectClmGrp/MetricTonsCapturedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NewCarbonCptrEquipInvstAmt",
+      "path": "NewCarbonCptrEquipInvstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PWARequirementMetInd",
+      "path": "PWARequirementMetInd",
+      "type": "bool"
+    },
+    {
+      "name": "PhysclDisposCptrQlfyCrbnOxdInd",
+      "path": "PhysclDisposCptrQlfyCrbnOxdInd",
+      "type": "bool"
+    },
+    {
+      "name": "PlcdSrvcDtCrbnCptrEquipRuleInd",
+      "path": "PlcdSrvcDtCrbnCptrEquipRuleInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProcCrbnDxdOrOthGasInd",
+      "path": "ProcCrbnDxdOrOthGasInd",
+      "type": "bool"
+    },
+    {
+      "name": "CreditRateOrApplicableDolAmt",
+      "path": "QlfyCrbnOxdDACNotUsedDispGrp/CreditRateOrApplicableDolAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncreasedCreditAmt",
+      "path": "QlfyCrbnOxdDACNotUsedDispGrp/IncreasedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MetricTonsCapturedCreditAmt",
+      "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCapturedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MetricTonsCapturedQty",
+      "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCapturedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrAnotherClmCrQty",
+      "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCptrAnotherClmCrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrAnotherPersonQty",
+      "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCptrAnotherPersonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrTaxpayerQty",
+      "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCptrTaxpayerQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrTotMnsClmCrQty",
+      "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCptrTotMnsClmCrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrTotQty",
+      "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCptrTotQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditRateOrApplicableDolAmt",
+      "path": "QlfyCrbnOxdDACPhysclUtlzGrp/CreditRateOrApplicableDolAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncreasedCreditAmt",
+      "path": "QlfyCrbnOxdDACPhysclUtlzGrp/IncreasedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MetricTonsCapturedCreditAmt",
+      "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCapturedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MetricTonsCapturedQty",
+      "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCapturedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrAnotherClmCrQty",
+      "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCptrAnotherClmCrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrAnotherPersonQty",
+      "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCptrAnotherPersonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrTaxpayerQty",
+      "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCptrTaxpayerQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrTotMnsClmCrQty",
+      "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCptrTotMnsClmCrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrTotQty",
+      "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCptrTotQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditRateOrApplicableDolAmt",
+      "path": "QlfyCrbnOxdDACUsedInjectantGrp/CreditRateOrApplicableDolAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncreasedCreditAmt",
+      "path": "QlfyCrbnOxdDACUsedInjectantGrp/IncreasedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MetricTonsCapturedCreditAmt",
+      "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCapturedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MetricTonsCapturedQty",
+      "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCapturedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrAnotherClmCrQty",
+      "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCptrAnotherClmCrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrAnotherPersonQty",
+      "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCptrAnotherPersonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrTaxpayerQty",
+      "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCptrTaxpayerQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrTotMnsClmCrQty",
+      "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCptrTotMnsClmCrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MetricTonsCptrTotQty",
+      "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCptrTotQty",
+      "type": "unknown"
+    },
+    {
+      "name": "QlfyCrbnOxdTrtryInjctStorInd",
+      "path": "QlfyCrbnOxdTrtryInjctStorInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyCrbnOxdUtlzSect45Qf5Ind",
+      "path": "QlfyCrbnOxdUtlzSect45Qf5Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Sect45Qb3RtsApplcblDolAmtInd",
+      "path": "Sect45Qb3RtsApplcblDolAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "TPElectClmCrbnOxdSqstrtnCrInd",
+      "path": "TPElectClmCrbnOxdSqstrtnCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotLargestCOSCElectClaimAmt",
+      "path": "TotLargestCOSCElectClaimAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotMtrcTonsCrbnOxdCptrEquipQty",
+      "path": "TotMtrcTonsCrbnOxdCptrEquipQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCOSCElectClmAmt",
+      "path": "TotalCOSCElectClmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalMetricTonsCrbnOxdCptrQty",
+      "path": "TotalMetricTonsCrbnOxdCptrQty",
+      "type": "unknown"
+    }
+  ]
+}

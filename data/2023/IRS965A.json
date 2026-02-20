@@ -1,0 +1,51 @@
+{
+  "form_id": "IRS965A",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AmendedInd",
+      "path": "AmendedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Net965TaxLiabInstalElectGrp",
+      "path": "Net965TaxLiabInstalElectGrp",
+      "type": "group"
+    },
+    {
+      "name": "Net965TaxLiabInstalElectGrp ",
+      "path": "Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp |$FormData/Net965TaxLiabInstalElectGrp ",
+      "type": "unknown"
+    },
+    {
+      "name": "NetSection965TaxLiabPaidAmt",
+      "path": "NetSection965TaxLiabPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection965TaxLiabUnpaidAmt",
+      "path": "NetSection965TaxLiabUnpaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SCorpDeferredNet965TaxLiabGrp",
+      "path": "SCorpDeferredNet965TaxLiabGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotSCorpDefrdNet965TaxLiabAmt",
+      "path": "TotSCorpDefrdNet965TaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSect965DeferredTaxLiabAmt",
+      "path": "TotalSCorpNet965TaxCmptGrp/NetSect965DeferredTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SCorpNet965TaxComputationGrp",
+      "path": "TotalSCorpNet965TaxCmptGrp/SCorpNet965TaxComputationGrp",
+      "type": "group"
+    }
+  ]
+}

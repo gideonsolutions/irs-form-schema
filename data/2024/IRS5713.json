@@ -1,0 +1,376 @@
+{
+  "form_id": "IRS5713",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdditionalSpaceRequiredInd",
+      "path": "AdditionalSpaceRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddnlByctReqAndAgrmtIncldInd",
+      "path": "AddnlByctReqAndAgrmtIncldInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddnlInfoNonlistByctIsraelInd",
+      "path": "AddnlInfoNonlistByctIsraelInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddnlInfoOprNonIsrlByctCtryInd",
+      "path": "AddnlInfoOprNonIsrlByctCtryInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgrRefrainDoingBusByctCtryInd",
+      "path": "AgrRefrainDoingBusByctCtryInd",
+      "type": "bool"
+    },
+    {
+      "name": "AgreeRefrainDoingBusCoRNOInd",
+      "path": "AgreeRefrainDoingBusCoRNOInd",
+      "type": "bool"
+    },
+    {
+      "name": "AgreeRefrainDoingBusUSPrsnInd",
+      "path": "AgreeRefrainDoingBusUSPrsnInd",
+      "type": "bool"
+    },
+    {
+      "name": "AgreeRefrainEmplgIndivRNOInd",
+      "path": "AgreeRefrainEmplgIndivRNOInd",
+      "type": "bool"
+    },
+    {
+      "name": "AgreeRefrainShippingProdInd",
+      "path": "AgreeRefrainShippingProdInd",
+      "type": "bool"
+    },
+    {
+      "name": "BoycottRequestsAndAgreements",
+      "path": "BoycottRequestsAndAgreements",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimForeignTaxCreditInd",
+      "path": "ClaimForeignTaxCreditInd",
+      "type": "bool"
+    },
+    {
+      "name": "CommonTaxYearBeginDt",
+      "path": "CommonTaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "CommonTaxYearEndDt",
+      "path": "CommonTaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ControlCorpReportableOprInd",
+      "path": "ControlCorpReportableOprInd",
+      "type": "bool"
+    },
+    {
+      "name": "ControlledPrsnReportableOprInd",
+      "path": "ControlledPrsnReportableOprInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorporationInd",
+      "path": "CorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorporationMissingEINReasonCd",
+      "path": "CorporationMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "CorporationName",
+      "path": "CorporationName",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "CorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "CorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CorporationParticipateByctInd",
+      "path": "CorporationParticipateByctInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeferralEarnCtrlFrgnCorpAmt",
+      "path": "DeferralEarnCtrlFrgnCorpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferralICDISCIncomeAmt",
+      "path": "DeferralICDISCIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployerIdentificationNum",
+      "path": "EmployerIdentificationNum",
+      "type": "string"
+    },
+    {
+      "name": "EstateInd",
+      "path": "EstateInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExtraterritorialExclGroIncmInd",
+      "path": "ExtraterritorialExclGroIncmInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExtraterritorialExclIncomeAmt",
+      "path": "ExtraterritorialExclIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FSCExemptForeignTradeIncomeAmt",
+      "path": "FSCExemptForeignTradeIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignSalesCorporationInd",
+      "path": "ForeignSalesCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FormFiledTypeCd",
+      "path": "FormFiledTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "FrgnCorpControlledFrgnCorpInd",
+      "path": "FrgnCorpControlledFrgnCorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "InactivePrincipalBusActyCd",
+      "path": "InactivePrincipalBusActyCd",
+      "type": "enum"
+    },
+    {
+      "name": "IndividualInd",
+      "path": "IndividualInd",
+      "type": "bool"
+    },
+    {
+      "name": "OperationsCountryByctIsraelInd",
+      "path": "OperationsCountryByctIsraelInd",
+      "type": "bool"
+    },
+    {
+      "name": "OperationsNonIsraelByctCtryInd",
+      "path": "OperationsNonIsraelByctCtryInd",
+      "type": "bool"
+    },
+    {
+      "name": "OprInCtryBoycottingIsrael",
+      "path": "OprInCtryBoycottingIsrael",
+      "type": "unknown"
+    },
+    {
+      "name": "OprInNonIsraelBoycottingCtry",
+      "path": "OprInNonIsraelBoycottingCtry",
+      "type": "unknown"
+    },
+    {
+      "name": "OprInNonlistedCtryByctIsrael",
+      "path": "OprInNonlistedCtryByctIsrael",
+      "type": "unknown"
+    },
+    {
+      "name": "OprNonlistedCtryByctIsraelInd",
+      "path": "OprNonlistedCtryByctIsraelInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "OwnICDISCStockInd",
+      "path": "OwnICDISCStockInd",
+      "type": "bool"
+    },
+    {
+      "name": "OwnerTrustReportableOprInd",
+      "path": "OwnerTrustReportableOprInd",
+      "type": "bool"
+    },
+    {
+      "name": "ParticipateBoycottInd",
+      "path": "ParticipateBoycottInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnershipAndCorporationGrp",
+      "path": "PartnershipAndCorporationGrp",
+      "type": "group"
+    },
+    {
+      "name": "PartnershipInd",
+      "path": "PartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnershipReportableOprInd",
+      "path": "PartnershipReportableOprInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnershipsOrdinaryIncomeAmt",
+      "path": "PartnershipsOrdinaryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipsTotalAssetAmt",
+      "path": "PartnershipsTotalAssetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonParticipateBoycottInd",
+      "path": "PersonParticipateBoycottInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityDesc",
+      "path": "PrincipalBusinessActivityDesc",
+      "type": "string"
+    },
+    {
+      "name": "PrincipalProductCodeDesc",
+      "path": "PrincipalProductCodeDesc",
+      "type": "string"
+    },
+    {
+      "name": "PrincipalProductDesc",
+      "path": "PrincipalProductDesc",
+      "type": "string"
+    },
+    {
+      "name": "ReqParticipateBoycottInd",
+      "path": "ReqParticipateBoycottInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReqRefrainDoingBusByctCtryInd",
+      "path": "ReqRefrainDoingBusByctCtryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReqRefrainDoingBusUSPrsnInd",
+      "path": "ReqRefrainDoingBusUSPrsnInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequestRefrainDoingBusCoRNOInd",
+      "path": "RequestRefrainDoingBusCoRNOInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequestRefrainEmplgIndivRNOInd",
+      "path": "RequestRefrainEmplgIndivRNOInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequestRefrainShippingProdInd",
+      "path": "RequestRefrainShippingProdInd",
+      "type": "bool"
+    },
+    {
+      "name": "ServiceCenterWhereRetFiledCd",
+      "path": "ServiceCenterWhereRetFiledCd",
+      "type": "enum"
+    },
+    {
+      "name": "ShrFrgnCorpReportableOprInd",
+      "path": "ShrFrgnCorpReportableOprInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxableIncomeLossBfrNOLDedAmt",
+      "path": "TaxableIncomeLossBfrNOLDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAssetsAmt",
+      "path": "TotalAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEstateOrTrustIncomeAmt",
+      "path": "TotalEstateOrTrustIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrustInd",
+      "path": "TrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "USAddress/ZIPCd",
+      "type": "enum"
+    }
+  ]
+}

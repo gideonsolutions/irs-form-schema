@@ -1,0 +1,861 @@
+{
+  "form_id": "IRS990ScheduleH",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AllHospitalsPolicyInd",
+      "path": "AllHospitalsPolicyInd",
+      "type": "bool"
+    },
+    {
+      "name": "AnnualCommunityBnftReportInd",
+      "path": "AnnualCommunityBnftReportInd",
+      "type": "bool"
+    },
+    {
+      "name": "BadDebtExpenseAmt",
+      "path": "BadDebtExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BadDebtExpenseAttributableAmt",
+      "path": "BadDebtExpenseAttributableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BadDebtExpenseReportedInd",
+      "path": "BadDebtExpenseReportedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "CashAndInKindContributionsGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "CashAndInKindContributionsGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "CashAndInKindContributionsGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "CashAndInKindContributionsGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "CashAndInKindContributionsGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "CashAndInKindContributionsGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "CoalitionBuildingGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "CoalitionBuildingGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "CoalitionBuildingGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "CoalitionBuildingGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "CoalitionBuildingGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "CoalitionBuildingGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "CommunityHealthServicesGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "CommunityHealthServicesGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "CommunityHealthServicesGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "CommunityHealthServicesGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "CommunityHealthServicesGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "CommunityHealthServicesGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "CommunitySupportGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "CommunitySupportGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "CommunitySupportGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "CommunitySupportGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "CommunitySupportGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "CommunitySupportGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "CostOfCareReimbursedByMedcrAmt",
+      "path": "CostOfCareReimbursedByMedcrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostAccountingSystemInd",
+      "path": "CostingMethodologyUsedGrp/CostAccountingSystemInd",
+      "type": "bool"
+    },
+    {
+      "name": "CostToChargeRatioInd",
+      "path": "CostingMethodologyUsedGrp/CostToChargeRatioInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherInd",
+      "path": "CostingMethodologyUsedGrp/OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "DiscountedCareOtherPct",
+      "path": "DiscountedCareOthPercentageGrp/DiscountedCareOtherPct",
+      "type": "decimal"
+    },
+    {
+      "name": "OtherInd",
+      "path": "DiscountedCareOthPercentageGrp/OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "EconomicDevelopmentGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "EconomicDevelopmentGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "EconomicDevelopmentGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "EconomicDevelopmentGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "EconomicDevelopmentGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "EconomicDevelopmentGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "EnvironmentalImprovementsGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "EnvironmentalImprovementsGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "EnvironmentalImprovementsGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "EnvironmentalImprovementsGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "EnvironmentalImprovementsGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "EnvironmentalImprovementsGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ExpensesExceedBudgetInd",
+      "path": "ExpensesExceedBudgetInd",
+      "type": "bool"
+    },
+    {
+      "name": "FPGReferenceDiscountedCareInd",
+      "path": "FPGReferenceDiscountedCareInd",
+      "type": "bool"
+    },
+    {
+      "name": "FPGReferenceFreeCareInd",
+      "path": "FPGReferenceFreeCareInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityNum",
+      "path": "FacilityNum",
+      "type": "string"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "FinancialAssistanceAtCostTyp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "FinancialAssistanceAtCostTyp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "FinancialAssistanceAtCostTyp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "FinancialAssistanceAtCostTyp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "FinancialAssistanceAtCostTyp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "FinancialAssistanceAtCostTyp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "FinancialAssistanceBudgetInd",
+      "path": "FinancialAssistanceBudgetInd",
+      "type": "bool"
+    },
+    {
+      "name": "FinancialAssistancePolicyInd",
+      "path": "FinancialAssistancePolicyInd",
+      "type": "bool"
+    },
+    {
+      "name": "FinancialAssistancePrvsnInd",
+      "path": "FinancialAssistancePrvsnInd",
+      "type": "bool"
+    },
+    {
+      "name": "FreeCareMedicallyIndigentInd",
+      "path": "FreeCareMedicallyIndigentInd",
+      "type": "bool"
+    },
+    {
+      "name": "FreeCareOtherPct",
+      "path": "FreeCareOthPercentageGrp/FreeCareOtherPct",
+      "type": "decimal"
+    },
+    {
+      "name": "OtherInd",
+      "path": "FreeCareOthPercentageGrp/OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "HealthImprovementAdvocacyGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "HealthImprovementAdvocacyGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "HealthImprovementAdvocacyGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "HealthImprovementAdvocacyGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "HealthImprovementAdvocacyGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "HealthImprovementAdvocacyGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "HealthProfessionsEducationGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "HealthProfessionsEducationGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "HealthProfessionsEducationGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "HealthProfessionsEducationGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "HealthProfessionsEducationGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "HealthProfessionsEducationGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "HospitalFacilitiesCnt",
+      "path": "HospitalFacilitiesCnt",
+      "type": "int"
+    },
+    {
+      "name": "HospitalFacilitiesGrp",
+      "path": "HospitalFacilitiesGrp",
+      "type": "group"
+    },
+    {
+      "name": "HospitalFcltyPoliciesPrctcGrp",
+      "path": "HospitalFcltyPoliciesPrctcGrp",
+      "type": "group"
+    },
+    {
+      "name": "IndivHospitalTailoredPolicyInd",
+      "path": "IndivHospitalTailoredPolicyInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "LeadershipDevelopmentGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "LeadershipDevelopmentGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "LeadershipDevelopmentGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "LeadershipDevelopmentGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "LeadershipDevelopmentGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "LeadershipDevelopmentGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ManagementCoAndJntVenturesGrp",
+      "path": "ManagementCoAndJntVenturesGrp",
+      "type": "group"
+    },
+    {
+      "name": "MedicareSurplusOrShortfallAmt",
+      "path": "MedicareSurplusOrShortfallAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MostHospitalsPolicyInd",
+      "path": "MostHospitalsPolicyInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityNum",
+      "path": "OthHlthCareFcltsNotHospitalGrp/FacilityNum",
+      "type": "string"
+    },
+    {
+      "name": "OthHlthCareFcltsGrp",
+      "path": "OthHlthCareFcltsNotHospitalGrp/OthHlthCareFcltsGrp",
+      "type": "group"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "OtherCommuntityBuildingActyGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "OtherCommuntityBuildingActyGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "OtherCommuntityBuildingActyGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "OtherCommuntityBuildingActyGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "OtherCommuntityBuildingActyGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "OtherCommuntityBuildingActyGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "Percent100Ind",
+      "path": "Percent100Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Percent150Ind",
+      "path": "Percent150Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Percent200DInd",
+      "path": "Percent200DInd",
+      "type": "bool"
+    },
+    {
+      "name": "Percent200Ind",
+      "path": "Percent200Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Percent250Ind",
+      "path": "Percent250Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Percent300Ind",
+      "path": "Percent300Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Percent350Ind",
+      "path": "Percent350Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Percent400Ind",
+      "path": "Percent400Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "PhysicalImprvAndHousingGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "PhysicalImprvAndHousingGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "PhysicalImprvAndHousingGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "PhysicalImprvAndHousingGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "PhysicalImprvAndHousingGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "PhysicalImprvAndHousingGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ReimbursedByMedicareAmt",
+      "path": "ReimbursedByMedicareAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReportPublicallyAvailableInd",
+      "path": "ReportPublicallyAvailableInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "ResearchGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "ResearchGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "ResearchGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "ResearchGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "ResearchGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "ResearchGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "SubsidizedHealthServicesGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "SubsidizedHealthServicesGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "SubsidizedHealthServicesGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "SubsidizedHealthServicesGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "SubsidizedHealthServicesGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "SubsidizedHealthServicesGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "SupplementalInformationDetail",
+      "path": "SupplementalInformationDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "SupplementalInformationGrp",
+      "path": "SupplementalInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "TotalCommunityBenefitsGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "TotalCommunityBenefitsGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "TotalCommunityBenefitsGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "TotalCommunityBenefitsGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "TotalCommunityBenefitsGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "TotalCommunityBenefitsGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "TotalCommuntityBuildingActyGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "TotalCommuntityBuildingActyGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "TotalCommuntityBuildingActyGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "TotalCommuntityBuildingActyGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "TotalCommuntityBuildingActyGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "TotalCommuntityBuildingActyGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "TotalFinancialAssistanceTyp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "TotalFinancialAssistanceTyp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "TotalFinancialAssistanceTyp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "TotalFinancialAssistanceTyp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "TotalFinancialAssistanceTyp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "TotalFinancialAssistanceTyp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "TotalOtherBenefitsGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "TotalOtherBenefitsGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "TotalOtherBenefitsGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "TotalOtherBenefitsGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "TotalOtherBenefitsGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "TotalOtherBenefitsGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "UnableToProvideCareInd",
+      "path": "UnableToProvideCareInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "UnreimbursedCostsGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "UnreimbursedCostsGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "UnreimbursedCostsGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "UnreimbursedCostsGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "UnreimbursedCostsGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "UnreimbursedCostsGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "UnreimbursedMedicaidGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "UnreimbursedMedicaidGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "UnreimbursedMedicaidGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "UnreimbursedMedicaidGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "UnreimbursedMedicaidGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "UnreimbursedMedicaidGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ActivitiesOrProgramsCnt",
+      "path": "WorkforceDevelopmentGrp/ActivitiesOrProgramsCnt",
+      "type": "int"
+    },
+    {
+      "name": "DirectOffsettingRevenueAmt",
+      "path": "WorkforceDevelopmentGrp/DirectOffsettingRevenueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCommunityBenefitExpnsAmt",
+      "path": "WorkforceDevelopmentGrp/NetCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonsServedCnt",
+      "path": "WorkforceDevelopmentGrp/PersonsServedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCommunityBenefitExpnsAmt",
+      "path": "WorkforceDevelopmentGrp/TotalCommunityBenefitExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensePct",
+      "path": "WorkforceDevelopmentGrp/TotalExpensePct",
+      "type": "decimal"
+    },
+    {
+      "name": "WrittenDebtCollectionPolicyInd",
+      "path": "WrittenDebtCollectionPolicyInd",
+      "type": "bool"
+    },
+    {
+      "name": "WrittenPolicyInd",
+      "path": "WrittenPolicyInd",
+      "type": "bool"
+    }
+  ]
+}

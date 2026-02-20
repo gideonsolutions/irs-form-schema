@@ -1,0 +1,206 @@
+{
+  "form_id": "IRS8926",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AddnlAdjsTxblIncmOrLossAmt",
+      "path": "AddnlAdjsTxblIncmOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBasisOthCorpAstsEOYAmt",
+      "path": "AdjustedBasisOthCorpAstsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedTaxableIncomeAmt",
+      "path": "AdjustedTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowableNetInterestExpenseAmt",
+      "path": "AllowableNetInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorporationIndebtednessEOYAmt",
+      "path": "CorporationIndebtednessEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorporationMoneyEOYAmt",
+      "path": "CorporationMoneyEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtToEquityRt",
+      "path": "DebtToEquityRt",
+      "type": "decimal"
+    },
+    {
+      "name": "DeprecAmortzDpltnDedTakenAmt",
+      "path": "DeprecAmortzDpltnDedTakenAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DisqlfyIntDsallwSect163jAmt",
+      "path": "DisqlfyIntDsallwSect163jAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DisqualifiedIntToRltdPrsnAmt",
+      "path": "DisqualifiedIntToRltdPrsnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DisregardAffltOwnStkAdjBssAmt",
+      "path": "DisregardAffltOwnStkAdjBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DisregardAffltOwnStkInd",
+      "path": "DisregardAffltOwnStkInd",
+      "type": "bool"
+    },
+    {
+      "name": "DsqlfyIntIndbtSubjToDsqlfyGAmt",
+      "path": "DsqlfyIntIndbtSubjToDsqlfyGAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessInterestExpenseAmt",
+      "path": "ExcessInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessLimitationForCurrYrAmt",
+      "path": "ExcessLimitationForCurrYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessLmtCfddToNextTaxYrAmt",
+      "path": "ExcessLmtCfddToNextTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FiftyPctOfAdjTxblIncomeAmt",
+      "path": "FiftyPctOfAdjTxblIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FiledForSec1504aAfflGroupInd",
+      "path": "FiledForSec1504aAfflGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignSubsidiaryStkAdjBssAmt",
+      "path": "ForeignSubsidiaryStkAdjBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignSubsidiaryStockInd",
+      "path": "ForeignSubsidiaryStockInd",
+      "type": "bool"
+    },
+    {
+      "name": "IntByTxblREITSbsdrySect856lAmt",
+      "path": "IntByTxblREITSbsdrySect856lAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntDedDsallw163jCFNextTYAmt",
+      "path": "IntDedDsallw163jCFNextTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntPdOrAccruedIncld163jCfwdAmt",
+      "path": "IntPdOrAccruedIncld163jCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntangibleAssetsAdjustedBssAmt",
+      "path": "IntangibleAssetsAdjustedBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntangibleAssetsInd",
+      "path": "IntangibleAssetsInd",
+      "type": "bool"
+    },
+    {
+      "name": "InterestIncludibleGrossIncmAmt",
+      "path": "InterestIncludibleGrossIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetInterestExpenseAmt",
+      "path": "NetInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RelatedPersonInformation",
+      "path": "RelatedPersonInformation",
+      "type": "unknown"
+    },
+    {
+      "name": "SETYTotRevNAdjBAstLsIndbtAmt",
+      "path": "SETYTotRevNAdjBAstLsIndbtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect172NOLTakenAmt",
+      "path": "Sect172NOLTakenAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section199DeductionTakenAmt",
+      "path": "Section199DeductionTakenAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumCorpETYRevNdAdjBsAstAmt",
+      "path": "SumCorpETYRevNdAdjBsAstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumPctAdjTxIncNUnExLmCryFwdAmt",
+      "path": "SumPctAdjTxIncNUnExLmCryFwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangibleAssetsForeignCntryInd",
+      "path": "TangibleAssetsForeignCntryInd",
+      "type": "bool"
+    },
+    {
+      "name": "TangibleAstsFrgnCntryAdjBssAmt",
+      "path": "TangibleAstsFrgnCntryAdjBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncOrLossBfrSect163jAmt",
+      "path": "TaxableIncOrLossBfrSect163jAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDsIntPdOrAcNTxREITPdOrAcAmt",
+      "path": "TotDsIntPdOrAcNTxREITPdOrAcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDisqualifiedInterestAmt",
+      "path": "TotalDisqualifiedInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnsdExLmtCfddFromPrior2YrsAmt",
+      "path": "UnsdExLmtCfddFromPrior2YrsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedExcessLimitCarriedFwdAmt",
+      "path": "UnusedExcessLimitCarriedFwdAmt",
+      "type": "usd"
+    }
+  ]
+}

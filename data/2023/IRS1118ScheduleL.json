@@ -1,0 +1,96 @@
+{
+  "form_id": "IRS1118ScheduleL",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AnnualRptgContestedTaxesGrp",
+      "path": "AnnualRptgContestedTaxesGrp",
+      "type": "group"
+    },
+    {
+      "name": "ChgInclsnTxsPdAccrDmdCrClmGrp",
+      "path": "ChgInclsnTxsPdAccrDmdCrClmGrp",
+      "type": "group"
+    },
+    {
+      "name": "ChgUSTxLiabilityGrp",
+      "path": "ChgUSTxLiabilityGrp",
+      "type": "group"
+    },
+    {
+      "name": "CorporationEIN",
+      "path": "CorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "CorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "CorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "DecrAmtFrgnTaxesPdAccruedGrp",
+      "path": "DecrAmtFrgnTaxesPdAccruedGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalRefundInUSDollarsAmt",
+      "path": "DecrAmtFrgnTaxesPdAccruedGrp/TotalRefundInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRevisedTaxPaidAccruedAmt",
+      "path": "DecrAmtFrgnTaxesPdAccruedGrp/TotalRevisedTaxPaidAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxOriginalAmdRetAmt",
+      "path": "DecrAmtFrgnTaxesPdAccruedGrp/TotalTaxOriginalAmdRetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncrAmtFrgnTaxesAccruedGrp",
+      "path": "IncrAmtFrgnTaxesAccruedGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalAddnlTaxUSDollarsAmt",
+      "path": "IncrAmtFrgnTaxesAccruedGrp/TotalAddnlTaxUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRevisedTaxAccruedAmt",
+      "path": "IncrAmtFrgnTaxesAccruedGrp/TotalRevisedTaxAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxOriginalAmdRetAmt",
+      "path": "IncrAmtFrgnTaxesAccruedGrp/TotalTaxOriginalAmdRetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "Section19055eElectionInd",
+      "path": "Section19055eElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TreatyCountryCd",
+      "path": "TreatyCountryCd",
+      "type": "enum"
+    }
+  ]
+}

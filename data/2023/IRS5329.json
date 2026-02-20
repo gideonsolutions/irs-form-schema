@@ -1,0 +1,316 @@
+{
+  "form_id": "IRS5329",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "ABLEExcessContriCYAmt",
+      "path": "ABLEExcessContriCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ABLEExcessContribTaxAmt",
+      "path": "ABLEExcessContribTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "ArcherMSAExContriPYWthdrwAmt",
+      "path": "ArcherMSAExContriPYWthdrwAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSAExcessContriAdjAmt",
+      "path": "ArcherMSAExcessContriAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSAExcessContriCYAmt",
+      "path": "ArcherMSAExcessContriCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSAExcessContriCreditAmt",
+      "path": "ArcherMSAExcessContriCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSAExcessContriPrYrAmt",
+      "path": "ArcherMSAExcessContriPrYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSAExcessContriTotalAmt",
+      "path": "ArcherMSAExcessContriTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ESADistriIncludedInCYAmt",
+      "path": "ESADistriIncludedInCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ESAExcessContriAdjustmentAmt",
+      "path": "ESAExcessContriAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ESAExcessContriCYAmt",
+      "path": "ESAExcessContriCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ESAExcessContriCreditAmt",
+      "path": "ESAExcessContriCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ESAExcessContriPYWthdrwAmt",
+      "path": "ESAExcessContriPYWthdrwAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ESAExcessContriPriorYearAmt",
+      "path": "ESAExcessContriPriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ESAExcessContriTotalAmt",
+      "path": "ESAExcessContriTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarlyDistriExceptionReasonCd",
+      "path": "EarlyDistriExceptionReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "EarlyDistriNotSubjectToTaxAmt",
+      "path": "EarlyDistriNotSubjectToTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarlyDistriSubjectToTaxAmt",
+      "path": "EarlyDistriSubjectToTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarlyDistributionsAmt",
+      "path": "EarlyDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducAcctDistriNotSubjToTaxAmt",
+      "path": "EducAcctDistriNotSubjToTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducAcctDistriSubjectToTaxAmt",
+      "path": "EducAcctDistriSubjectToTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducAcctDistributionAmt",
+      "path": "EducAcctDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducIRADistributionsTaxAmt",
+      "path": "EducIRADistributionsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducIRAExcessContribTaxAmt",
+      "path": "EducIRAExcessContribTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAExcessContriAdjustmentAmt",
+      "path": "HSAExcessContriAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAExcessContriCreditAmt",
+      "path": "HSAExcessContriCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAExcessContriCurrentYearAmt",
+      "path": "HSAExcessContriCurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAExcessContriPYAdjustedAmt",
+      "path": "HSAExcessContriPYAdjustedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAExcessContriPriorYearAmt",
+      "path": "HSAExcessContriPriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAExcessContriTotalAmt",
+      "path": "HSAExcessContriTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAExcessContribTaxAmt",
+      "path": "HSAExcessContribTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRADistriIncludedInIncomeAmt",
+      "path": "IRADistriIncludedInIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRAEarlyDistributionsTaxAmt",
+      "path": "IRAEarlyDistributionsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRAExcessContriAdjustmentAmt",
+      "path": "IRAExcessContriAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRAExcessContriCreditAmt",
+      "path": "IRAExcessContriCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRAExcessContriCurrentYearAmt",
+      "path": "IRAExcessContriCurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRAExcessContriPrYrAdjustAmt",
+      "path": "IRAExcessContriPrYrAdjustAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRAExcessContriPriorYearAmt",
+      "path": "IRAExcessContriPriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRAExcessContriTotalAmt",
+      "path": "IRAExcessContriTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRAExcessContriWithdrawnAmt",
+      "path": "IRAExcessContriWithdrawnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRAExcessContribTaxAmt",
+      "path": "IRAExcessContribTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MSAExcessContribTaxAmt",
+      "path": "MSAExcessContribTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "QlfyRetirePlanActualDistriAmt",
+      "path": "QlfyRetirePlanActualDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyRetirePlanExcessAccumAmt",
+      "path": "QlfyRetirePlanExcessAccumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@waiveTaxOnExAccumQRPStmtAmt",
+      "path": "QlfyRetirePlanExcessAccumAmt/@waiveTaxOnExAccumQRPStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@waiveTaxOnExAccumQRPStmtCd",
+      "path": "QlfyRetirePlanExcessAccumAmt/@waiveTaxOnExAccumQRPStmtCd",
+      "type": "enum"
+    },
+    {
+      "name": "QlfyRetirePlanMinRqrDistriAmt",
+      "path": "QlfyRetirePlanMinRqrDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RateRedRequirementsMetInd",
+      "path": "RateRedRequirementsMetInd",
+      "type": "bool"
+    },
+    {
+      "name": "RothIRADistriIncludedInCYAmt",
+      "path": "RothIRADistriIncludedInCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RothIRAExcessContriAdjustAmt",
+      "path": "RothIRAExcessContriAdjustAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RothIRAExcessContriCYAmt",
+      "path": "RothIRAExcessContriCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RothIRAExcessContriCreditAmt",
+      "path": "RothIRAExcessContriCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RothIRAExcessContriPYWthdrwAmt",
+      "path": "RothIRAExcessContriPYWthdrwAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RothIRAExcessContriPriorYrAmt",
+      "path": "RothIRAExcessContriPriorYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RothIRAExcessContriTotalAmt",
+      "path": "RothIRAExcessContriTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RothIRAExcessContribTaxAmt",
+      "path": "RothIRAExcessContribTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RtmntAnntyExcessContribTaxAmt",
+      "path": "RtmntAnntyExcessContribTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TaxableArcherMSADistriAmt",
+      "path": "TaxableArcherMSADistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableHSADistributionAmt",
+      "path": "TaxableHSADistributionAmt",
+      "type": "usd"
+    }
+  ]
+}

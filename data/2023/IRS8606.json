@@ -1,0 +1,171 @@
+{
+  "form_id": "IRS8606",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BasisInCnvrtQlfyRtrPlanAmt",
+      "path": "BasisInCnvrtQlfyRtrPlanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistriRothIRALessBasisCnvrtAmt",
+      "path": "DistriRothIRALessBasisCnvrtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form8606IRANamelineTxt",
+      "path": "Form8606IRANamelineTxt",
+      "type": "string"
+    },
+    {
+      "name": "NetBasisInRothIRAContriAmt",
+      "path": "NetBasisInRothIRAContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetQlfyFirstTimeHmByrExpnssAmt",
+      "path": "NetQlfyFirstTimeHmByrExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRABasisForPYAmt",
+      "path": "NondedIRABasisForPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRACurrTYIRAPlusRllvrAmt",
+      "path": "NondedIRACurrTYIRAPlusRllvrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRACurrTYNondedContriAmt",
+      "path": "NondedIRACurrTYNondedContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRANontxCnvrtAmt",
+      "path": "NondedIRANontxCnvrtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRANontxOfWthdrwAmt",
+      "path": "NondedIRANontxOfWthdrwAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRANontxWthdrwUncnvrtAmt",
+      "path": "NondedIRANontxWthdrwUncnvrtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRANotCnvrtLessRllvrAmt",
+      "path": "NondedIRANotCnvrtLessRllvrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRAPostTaxYrContriAmt",
+      "path": "NondedIRAPostTaxYrContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRAQlfyDisasterDistriAmt",
+      "path": "NondedIRAQlfyDisasterDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRATYCombinedIRAValueAmt",
+      "path": "NondedIRATYCombinedIRAValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRATaxYearBasisRt",
+      "path": "NondedIRATaxYearBasisRt",
+      "type": "decimal"
+    },
+    {
+      "name": "NondedIRATaxYearNetBasisAmt",
+      "path": "NondedIRATaxYearNetBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRATaxableAmt",
+      "path": "NondedIRATaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRATotRllvrWthdrwVlAmt",
+      "path": "NondedIRATotRllvrWthdrwVlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRATotalIRABasisAmt",
+      "path": "NondedIRATotalIRABasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRATotalIRAValueAmt",
+      "path": "NondedIRATotalIRAValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIRATxpyrWithIRASSN",
+      "path": "NondedIRATxpyrWithIRASSN",
+      "type": "tin"
+    },
+    {
+      "name": "NondedIRAWthdrwLessRllvrAmt",
+      "path": "NondedIRAWthdrwLessRllvrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyFirstTimeHmByrExpensesAmt",
+      "path": "QlfyFirstTimeHmByrExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@waiveTaxOnExAccumQRPStmtAmt",
+      "path": "QlfyRetirePlanExcessAccumAmt/@waiveTaxOnExAccumQRPStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@waiveTaxOnExAccumQRPStmtCd",
+      "path": "QlfyRetirePlanExcessAccumAmt/@waiveTaxOnExAccumQRPStmtCd",
+      "type": "enum"
+    },
+    {
+      "name": "ROTHIRAContributionBasisAmt",
+      "path": "ROTHIRAContributionBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RothIRAQlfyDisasterDistriAmt",
+      "path": "RothIRAQlfyDisasterDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIRAConversionAmt",
+      "path": "TaxableIRAConversionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIRADistributionAmt",
+      "path": "TaxableIRADistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNonQlfyDistriFromRothIRAAmt",
+      "path": "TotNonQlfyDistriFromRothIRAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIRAConvertedToRothAmt",
+      "path": "TotalIRAConvertedToRothAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TraditionalIRABasisAmt",
+      "path": "TraditionalIRABasisAmt",
+      "type": "usd"
+    }
+  ]
+}

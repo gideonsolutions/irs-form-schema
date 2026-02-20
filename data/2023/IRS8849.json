@@ -1,0 +1,41 @@
+{
+  "form_id": "IRS8849",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "Schedule1AttachedInd",
+      "path": "Schedule1AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Schedule2AttachedInd",
+      "path": "Schedule2AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Schedule3AttachedInd",
+      "path": "Schedule3AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Schedule5AttachedInd",
+      "path": "Schedule5AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Schedule6AttachedInd",
+      "path": "Schedule6AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Schedule8AttachedInd",
+      "path": "Schedule8AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    }
+  ]
+}

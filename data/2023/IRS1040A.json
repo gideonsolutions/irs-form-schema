@@ -1,0 +1,621 @@
+{
+  "form_id": "IRS1040A",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AGILessDeductionsAmt",
+      "path": "AGILessDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalChildTaxCreditAmt",
+      "path": "AdditionalChildTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeMinimumTaxAmt",
+      "path": "AlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@alternativeMinimumTaxCd",
+      "path": "AlternativeMinimumTaxAmt/@alternativeMinimumTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "AppliedToEsTaxAmt",
+      "path": "AppliedToEsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BankAccountTypeCd",
+      "path": "BankAccountTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "CapitalGainLossAmt",
+      "path": "CapitalGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildTaxCreditAmt",
+      "path": "ChildTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChldNotLivingWithYouCnt",
+      "path": "ChldNotLivingWithYouCnt",
+      "type": "int"
+    },
+    {
+      "name": "ChldWhoLivedWithYouCnt",
+      "path": "ChldWhoLivedWithYouCnt",
+      "type": "int"
+    },
+    {
+      "name": "CombatZoneCd",
+      "path": "CombatZoneCd",
+      "type": "enum"
+    },
+    {
+      "name": "@combatZoneDt",
+      "path": "CombatZoneCd/@combatZoneDt",
+      "type": "date"
+    },
+    {
+      "name": "CommPropStateRtnInd",
+      "path": "CommPropStateRtnInd",
+      "type": "bool"
+    },
+    {
+      "name": "CreditForChildAndDepdCareAmt",
+      "path": "CreditForChildAndDepdCareAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditForElderlyOrDisabledAmt",
+      "path": "CreditForElderlyOrDisabledAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DaytimePhoneNum",
+      "path": "DaytimePhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "DependentDetail",
+      "path": "DependentDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "EICEligibilityLiteralCd",
+      "path": "EICEligibilityLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "EarnedIncomeCreditAmt",
+      "path": "EarnedIncomeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducationCreditAmt",
+      "path": "EducationCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EducatorExpensesAmt",
+      "path": "EducatorExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EsPenaltyAmt",
+      "path": "EsPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPaymentsAmt",
+      "path": "EstimatedTaxPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@divorcedLiteralCd",
+      "path": "EstimatedTaxPaymentsAmt/@divorcedLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "@divorcedSpouseSSN",
+      "path": "EstimatedTaxPaymentsAmt/@divorcedSpouseSSN",
+      "type": "tin"
+    },
+    {
+      "name": "ExcessSocSecAndTier1RRTATaxAmt",
+      "path": "ExcessSocSecAndTier1RRTATaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@excessSocSecAndTier1RRTATaxCd",
+      "path": "ExcessSocSecAndTier1RRTATaxAmt/@excessSocSecAndTier1RRTATaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExemptPrimaryInd",
+      "path": "ExemptPrimaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExemptSpouseInd",
+      "path": "ExemptSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExemptSpouseNameControlTxt",
+      "path": "ExemptSpouseNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "ExemptSpouseNm",
+      "path": "ExemptSpouseNm",
+      "type": "string"
+    },
+    {
+      "name": "ExemptionsAmt",
+      "path": "ExemptionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignEmployerPensionCd",
+      "path": "ForeignEmployerPensionCd",
+      "type": "enum"
+    },
+    {
+      "name": "Form8888Ind",
+      "path": "Form8888Ind",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCareRspnsCoverageInd",
+      "path": "HealthCareRspnsCoverageInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCareRspnsPenaltyAmt",
+      "path": "HealthCareRspnsPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRADeductionAmt",
+      "path": "IRADeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRADeductionCd",
+      "path": "IRADeductionCd",
+      "type": "enum"
+    },
+    {
+      "name": "IRADistributionsAmt",
+      "path": "IRADistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRADistributionsLiteralCd",
+      "path": "IRADistributionsLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "IndividualReturnFilingStatusCd",
+      "path": "IndividualReturnFilingStatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "MustItemizeInd",
+      "path": "MustItemizeInd",
+      "type": "bool"
+    },
+    {
+      "name": "NRALiteralCd",
+      "path": "NRALiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "NonPaidPreparerCd",
+      "path": "NonPaidPreparerCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontxCombatPayElectionAmt",
+      "path": "NontxCombatPayElectionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OptionalForeignTelephoneNum",
+      "path": "OptionalForeignTelephoneNum",
+      "type": "string"
+    },
+    {
+      "name": "OrdinaryDividendsAmt",
+      "path": "OrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDependentsListedCnt",
+      "path": "OtherDependentsListedCnt",
+      "type": "int"
+    },
+    {
+      "name": "OverpaidAmt",
+      "path": "OverpaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OwedAmt",
+      "path": "OwedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PECFPrimaryInd",
+      "path": "PECFPrimaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "PECFSpouseInd",
+      "path": "PECFSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "PriorYearEarnedIncomeAmt",
+      "path": "PYEarnedIncmAdditonalChldTxGrp/PriorYearEarnedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearEarnedIncomeCd",
+      "path": "PYEarnedIncmAdditonalChldTxGrp/PriorYearEarnedIncomeCd",
+      "type": "enum"
+    },
+    {
+      "name": "PriorYearEarnedIncomeAmt",
+      "path": "PYEarnedIncmEICGrp/PriorYearEarnedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearEarnedIncomeCd",
+      "path": "PYEarnedIncmEICGrp/PriorYearEarnedIncomeCd",
+      "type": "enum"
+    },
+    {
+      "name": "PensionsAnnuitiesAmt",
+      "path": "PensionsAnnuitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalRepresentativeInd",
+      "path": "PersonalRepresentativeInd",
+      "type": "bool"
+    },
+    {
+      "name": "PowerOfAttorneyNm",
+      "path": "PowerOfAttorneyNm",
+      "type": "string"
+    },
+    {
+      "name": "PowerOfAttorneySignedByInd",
+      "path": "PowerOfAttorneySignedByInd",
+      "type": "bool"
+    },
+    {
+      "name": "PremiumTaxCreditTaxLiabAmt",
+      "path": "PremiumTaxCreditTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Primary65OrOlderInd",
+      "path": "Primary65OrOlderInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrimaryBlindInd",
+      "path": "PrimaryBlindInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrimaryDeathDt",
+      "path": "PrimaryDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "PrimaryOccupationTxt",
+      "path": "PrimaryOccupationTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProtectiveSec108iELCRecordInd",
+      "path": "ProtectiveSec108iELCRecordInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedDividendsAmt",
+      "path": "QualifiedDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifyingHOHNm",
+      "path": "QualifyingHOHNm",
+      "type": "string"
+    },
+    {
+      "name": "QualifyingHOHSSN",
+      "path": "QualifyingHOHSSN",
+      "type": "tin"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "QualifyingPersonName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "QualifyingPersonName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "QualifyingPersonSSN",
+      "path": "QualifyingPersonSSN",
+      "type": "tin"
+    },
+    {
+      "name": "ReconciledPremiumTaxCreditAmt",
+      "path": "ReconciledPremiumTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundProductCd",
+      "path": "RefundProductCd",
+      "type": "enum"
+    },
+    {
+      "name": "RefundProductCodeTxt",
+      "path": "RefundProductCodeTxt",
+      "type": "string"
+    },
+    {
+      "name": "RefundableAmerOppCreditAmt",
+      "path": "RefundableAmerOppCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequestForExtensionAmt",
+      "path": "RequestForExtensionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@requestForExtensionCd",
+      "path": "RequestForExtensionAmt/@requestForExtensionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "RtrSavingsContributionsCrAmt",
+      "path": "RtrSavingsContributionsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocSecBnftAmt",
+      "path": "SocSecBnftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@socSecBnftCd",
+      "path": "SocSecBnftAmt/@socSecBnftCd",
+      "type": "enum"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "SpecialProcessingCodeTxt",
+      "path": "SpecialProcessingCodeTxt",
+      "type": "string"
+    },
+    {
+      "name": "SpecialProcessingLiteralCd",
+      "path": "SpecialProcessingLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "Spouse65OrOlderInd",
+      "path": "Spouse65OrOlderInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpouseBlindInd",
+      "path": "SpouseBlindInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpouseDeathDt",
+      "path": "SpouseDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "SpouseNm",
+      "path": "SpouseNm",
+      "type": "string"
+    },
+    {
+      "name": "SpouseOccupationTxt",
+      "path": "SpouseOccupationTxt",
+      "type": "string"
+    },
+    {
+      "name": "StudentLoanInterestDedAmt",
+      "path": "StudentLoanInterestDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SurvivingSpouseInd",
+      "path": "SurvivingSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptInterestAmt",
+      "path": "TaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLessCreditsAmt",
+      "path": "TaxLessCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableForeignPensionsTotalAmt",
+      "path": "TaxableForeignPensionsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIRAAmt",
+      "path": "TaxableIRAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableSocSecAmt",
+      "path": "TaxableSocSecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsAmt",
+      "path": "TotalAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBoxesCheckedCnt",
+      "path": "TotalBoxesCheckedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalCreditsAmt",
+      "path": "TotalCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExemptPrimaryAndSpouseCnt",
+      "path": "TotalExemptPrimaryAndSpouseCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalExemptionsCnt",
+      "path": "TotalExemptionsCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalItemizedOrStandardDedAmt",
+      "path": "TotalItemizedOrStandardDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@modifiedStandardDeductionInd",
+      "path": "TotalItemizedOrStandardDedAmt/@modifiedStandardDeductionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxBeforeCrAndOthTaxesAmt",
+      "path": "TotalTaxBeforeCrAndOthTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxablePensionsAmt",
+      "path": "TotalTaxablePensionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@pensionsAnnuitiesLiteralCd",
+      "path": "TotalTaxablePensionsAmt/@pensionsAnnuitiesLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "TuitionAndFeesDedAmt",
+      "path": "TuitionAndFeesDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnemploymentCompAmt",
+      "path": "UnemploymentCompAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@repaymentAmt",
+      "path": "UnemploymentCompAmt/@repaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@repaymentCd",
+      "path": "UnemploymentCompAmt/@repaymentCd",
+      "type": "enum"
+    },
+    {
+      "name": "WagesSalariesAndTipsAmt",
+      "path": "WagesSalariesAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@wagesNotShownLitOnlyCd",
+      "path": "WagesSalariesAndTipsAmt/@wagesNotShownLitOnlyCd",
+      "type": "enum"
+    },
+    {
+      "name": "WithholdingTaxAmt",
+      "path": "WithholdingTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

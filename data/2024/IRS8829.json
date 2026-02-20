@@ -1,0 +1,306 @@
+{
+  "form_id": "IRS8829",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AllowableHomeBusExpnssSchCAmt",
+      "path": "AllowableHomeBusExpnssSchCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowableHomeDepreciationAmt",
+      "path": "AllowableHomeDepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowableIndrDeductedExpnssAmt",
+      "path": "AllowableIndrDeductedExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowableOperatingExpensesAmt",
+      "path": "AllowableOperatingExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllwblExCsltyLossesDeprecAmt",
+      "path": "AllwblExCsltyLossesDeprecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllwblIndrNondeductedExpnssAmt",
+      "path": "AllwblIndrNondeductedExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BasisOfBuildingAmt",
+      "path": "BasisOfBuildingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessBasisOfBuildingAmt",
+      "path": "BusinessBasisOfBuildingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessHoursPct",
+      "path": "BusinessHoursPct",
+      "type": "decimal"
+    },
+    {
+      "name": "BusinessPct",
+      "path": "BusinessPct",
+      "type": "decimal"
+    },
+    {
+      "name": "BusinessSquareFeetPct",
+      "path": "BusinessSquareFeetPct",
+      "type": "decimal"
+    },
+    {
+      "name": "BusinessUseHoursCnt",
+      "path": "BusinessUseHoursCnt",
+      "type": "int"
+    },
+    {
+      "name": "BusinessUseSquareFeetCnt",
+      "path": "BusinessUseSquareFeetCnt",
+      "type": "int"
+    },
+    {
+      "name": "CasualtyLossPortionAmt",
+      "path": "CasualtyLossPortionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CasualtyLossesAndDeprecNetAmt",
+      "path": "CasualtyLossesAndDeprecNetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CasualtyLossesDirectAmt",
+      "path": "CasualtyLossesDirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CasualtyLossesIndirectAmt",
+      "path": "CasualtyLossesIndirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CsltyLossesAndDeprecLimitAmt",
+      "path": "CsltyLossesAndDeprecLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CyovExCsltyLossesAndDeprecAmt",
+      "path": "CyovExCsltyLossesAndDeprecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleMortgageIntDirectAmt",
+      "path": "DeductibleMortgageIntDirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleMortgageIntIndrAmt",
+      "path": "DeductibleMortgageIntIndrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationPct",
+      "path": "DepreciationPct",
+      "type": "decimal"
+    },
+    {
+      "name": "DirectAndIndirectExpnsSubtlAmt",
+      "path": "DirectAndIndirectExpnsSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DirectDeductedExpnssSubtlAmt",
+      "path": "DirectDeductedExpnssSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DirectNondeductedSubtotalAmt",
+      "path": "DirectNondeductedSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessCasualtyLossesAmt",
+      "path": "ExcessCasualtyLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessCsltyLossesAndDeprecAmt",
+      "path": "ExcessCsltyLossesAndDeprecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessMortgageIntDirectAmt",
+      "path": "ExcessMortgageIntDirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessMortgageIntIndirectAmt",
+      "path": "ExcessMortgageIntIndirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessRealEstateTxsDirectAmt",
+      "path": "ExcessRealEstateTxsDirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessRealEstateTxsIndirectAmt",
+      "path": "ExcessRealEstateTxsIndirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FormScheduleNumber",
+      "path": "FormScheduleNumber",
+      "type": "unknown"
+    },
+    {
+      "name": "HomeAdjBasisOrFairMarketAmt",
+      "path": "HomeAdjBasisOrFairMarketAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HomeBusinessGainOrLossAmt",
+      "path": "HomeBusinessGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HomeBusinessIncomeAmt",
+      "path": "HomeBusinessIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndirectDeductedExpnssSubtlAmt",
+      "path": "IndirectDeductedExpnssSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndirectNondeductedSubtotalAmt",
+      "path": "IndirectNondeductedSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceDirectAmt",
+      "path": "InsuranceDirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceIndirectAmt",
+      "path": "InsuranceIndirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NameOfProprietor",
+      "path": "NameOfProprietor",
+      "type": "unknown"
+    },
+    {
+      "name": "NondeductibleNetExpensesAmt",
+      "path": "NondeductibleNetExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OperatingExpensesAmt",
+      "path": "OperatingExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OperatingExpensesCarryoverAmt",
+      "path": "OperatingExpensesCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpensesDirectAmt",
+      "path": "OtherExpensesDirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpensesIndirectAmt",
+      "path": "OtherExpensesIndirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProprietorNm",
+      "path": "ProprietorNm",
+      "type": "string"
+    },
+    {
+      "name": "RealEstateTaxesDirectAmt",
+      "path": "RealEstateTaxesDirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealEstateTaxesIndirectAmt",
+      "path": "RealEstateTaxesIndirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentDirectAmt",
+      "path": "RentDirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentIndirectAmt",
+      "path": "RentIndirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepairsAndMaintDirectAmt",
+      "path": "RepairsAndMaintDirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepairsAndMaintIndirectAmt",
+      "path": "RepairsAndMaintIndirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SocialSecurityNumber",
+      "path": "SocialSecurityNumber",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalAllowableExpensesAmt",
+      "path": "TotalAllowableExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAreaOfHomeCnt",
+      "path": "TotalAreaOfHomeCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalHoursAvailableCnt",
+      "path": "TotalHoursAvailableCnt",
+      "type": "int"
+    },
+    {
+      "name": "UtilitiesDirectAmt",
+      "path": "UtilitiesDirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UtilitiesIndirectAmt",
+      "path": "UtilitiesIndirectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ValueOfLandAmt",
+      "path": "ValueOfLandAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "form_id": "IRS9465",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdditionalBalanceDueAmt",
+      "path": "AdditionalBalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Age65OrOlderHouseholdCnt",
+      "path": "Age65OrOlderHouseholdCnt",
+      "type": "int"
+    },
+    {
+      "name": "BankAccountNum",
+      "path": "BankAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "BusIATaxYrDt",
+      "path": "BusIATaxYrDt",
+      "type": "date"
+    },
+    {
+      "name": "CalculatedMonthlyPymtAmt",
+      "path": "CalculatedMonthlyPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CanNotIncreasePaymentInd",
+      "path": "CanNotIncreasePaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "CarPaymentCnt",
+      "path": "CarPaymentCnt",
+      "type": "int"
+    },
+    {
+      "name": "ChildOrDependentCareExpenseAmt",
+      "path": "ChildOrDependentCareExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CourtOrderedPaymentDedInd",
+      "path": "CourtOrderedPaymentDedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CourtOrderedPaymentInd",
+      "path": "CourtOrderedPaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "DependentsClaimedCnt",
+      "path": "DependentsClaimedCnt",
+      "type": "int"
+    },
+    {
+      "name": "F9465TaxReturnTypeCd",
+      "path": "F9465TaxReturnTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "HealthInsuranceInd",
+      "path": "HealthInsuranceInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthInsurancePremiumDedInd",
+      "path": "HealthInsurancePremiumDedInd",
+      "type": "bool"
+    },
+    {
+      "name": "BestTimeToCallAtHomeTxt",
+      "path": "HomePhoneGrp/BestTimeToCallAtHomeTxt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "HomePhoneGrp/ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "HomePhoneGrp/PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "IATaxYrDt",
+      "path": "IATaxYrDt",
+      "type": "date"
+    },
+    {
+      "name": "MaritalStatusMarriedInd",
+      "path": "MaritalStatusMarriedInd",
+      "type": "bool"
+    },
+    {
+      "name": "MaritalStatusSingleInd",
+      "path": "MaritalStatusSingleInd",
+      "type": "bool"
+    },
+    {
+      "name": "MthlyCourtOrderedPaymentAmt",
+      "path": "MthlyCourtOrderedPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MthlyHealthInsurancePremiumAmt",
+      "path": "MthlyHealthInsurancePremiumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NewAddressInd",
+      "path": "NewAddressInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoElectronicPaymentInd",
+      "path": "NoElectronicPaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "PaymentAmt",
+      "path": "PaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentDueAmt",
+      "path": "PaymentDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentDueDayNum",
+      "path": "PaymentDueDayNum",
+      "type": "string"
+    },
+    {
+      "name": "PayrollDeductionAgreementInd",
+      "path": "PayrollDeductionAgreementInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "PersonFullName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "PersonFullName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "PrimaryNameControlTxt",
+      "path": "PrimaryNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "PrimaryNetIncomePerPayPrdAmt",
+      "path": "PrimaryNetIncomePerPayPrdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrimaryPdOnceAMonthInd",
+      "path": "PrimaryPdOnceAMonthInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrimaryPdOnceAWeekInd",
+      "path": "PrimaryPdOnceAWeekInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrimaryPdOnceEveryTwoWeeksInd",
+      "path": "PrimaryPdOnceEveryTwoWeeksInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrimaryPdTwiceAMonthInd",
+      "path": "PrimaryPdTwiceAMonthInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrimaryResidenceCountyNm",
+      "path": "PrimaryResidenceCountyNm",
+      "type": "string"
+    },
+    {
+      "name": "PrimarySSN",
+      "path": "PrimarySSN",
+      "type": "tin"
+    },
+    {
+      "name": "RevisedMonthlyPaymentAmt",
+      "path": "RevisedMonthlyPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "ShareHouseholdExpnsWithSpsInd",
+      "path": "ShareHouseholdExpnsWithSpsInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "SpouseName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "SpouseName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "SpouseNameControlTxt",
+      "path": "SpouseNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "SpouseNetIncomePerPayPrdAmt",
+      "path": "SpouseNetIncomePerPayPrdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpousePdOnceAMonthInd",
+      "path": "SpousePdOnceAMonthInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpousePdOnceAWeekInd",
+      "path": "SpousePdOnceAWeekInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpousePdOnceEveryTwoWeeksInd",
+      "path": "SpousePdOnceEveryTwoWeeksInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpousePdTwiceAMonthInd",
+      "path": "SpousePdTwiceAMonthInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpouseSSN",
+      "path": "SpouseSSN",
+      "type": "tin"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxPeriodBeginDt",
+      "path": "TaxPeriodDetailGrp/TaxPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxPeriodEndDt",
+      "path": "TaxPeriodDetailGrp/TaxPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalBalanceDueAmt",
+      "path": "TotalBalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDueAmt",
+      "path": "TotalTaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleCnt",
+      "path": "VehicleCnt",
+      "type": "int"
+    },
+    {
+      "name": "BestTimeToCallAtWorkTxt",
+      "path": "WorkPhoneGrp/BestTimeToCallAtWorkTxt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "WorkPhoneGrp/ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "WorkPhoneGrp/PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "TelephoneNumberExtensionNum",
+      "path": "WorkPhoneGrp/TelephoneNumberExtensionNum",
+      "type": "string"
+    }
+  ]
+}

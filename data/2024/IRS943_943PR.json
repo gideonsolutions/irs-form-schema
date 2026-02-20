@@ -1,0 +1,231 @@
+{
+  "form_id": "IRS943_943PR",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AddnlMedicareTaxWithholdingAmt",
+      "path": "AddnlMedicareTaxWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "COBRAPremiumSubsidyRcpntCnt",
+      "path": "COBRAPremiumSubsidyRcpntCnt",
+      "type": "int"
+    },
+    {
+      "name": "CrtnBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "path": "CrtnBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrtnBrgnAgrmtQlfySLWgsAftrAmt",
+      "path": "CrtnBrgnAgrmtQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAdjustmentAmt",
+      "path": "CurrentYearAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeCnt",
+      "path": "EmployeeCnt",
+      "type": "int"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FutureFilingNotRequiredInd",
+      "path": "FutureFilingNotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "MedicareTaxCashWagesAmt",
+      "path": "MedicareTaxCashWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicareTaxWithheldAmt",
+      "path": "MedicareTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MonthlyScheduleDepositorInd",
+      "path": "MonthlyScheduleDepositorInd",
+      "type": "bool"
+    },
+    {
+      "name": "NrfdblCOBRAPremiumSubsidyAmt",
+      "path": "NrfdblCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCrQlfySLFMLWagesAftrAmt",
+      "path": "NrfdblCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCrQlfySLFMLWagesAmt",
+      "path": "NrfdblCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplyOverpaymentNextReturnInd",
+      "path": "OverpaymentGrp/ApplyOverpaymentNextReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "OverpaidAmt",
+      "path": "OverpaymentGrp/OverpaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundOverpaymentInd",
+      "path": "OverpaymentGrp/RefundOverpaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorAddressInd",
+      "path": "PriorAddressInd",
+      "type": "bool"
+    },
+    {
+      "name": "QHPExpnssQlfyFMLWgsAftrAmt",
+      "path": "QHPExpnssQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssQlfySLWgsAftrAmt",
+      "path": "QHPExpnssQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssSSQlfyPdFMLWageAmt",
+      "path": "QHPExpnssSSQlfyPdFMLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssSSQlfyPdSLWageAmt",
+      "path": "QHPExpnssSSQlfyPdSLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyFMLWgsAftrAmt",
+      "path": "QlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfySLWgsAftrAmt",
+      "path": "QlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCOBRAPremiumSubsidyAmt",
+      "path": "RfdblCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCrQlfySLFMLWagesAftrAmt",
+      "path": "RfdblCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCrQlfySLFMLWagesAmt",
+      "path": "RfdblCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SemiweeklyScheduleDepositorInd",
+      "path": "SemiweeklyScheduleDepositorInd",
+      "type": "bool"
+    },
+    {
+      "name": "SocialSecurityQlfyPdFMLTaxAmt",
+      "path": "SocialSecurityQlfyPdFMLTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityQlfyPdFMLWageAmt",
+      "path": "SocialSecurityQlfyPdFMLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityQlfyPdSLTaxAmt",
+      "path": "SocialSecurityQlfyPdSLTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityQlfyPdSLWageAmt",
+      "path": "SocialSecurityQlfyPdSLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxAmt",
+      "path": "SocialSecurityTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxCashWagesAmt",
+      "path": "SocialSecurityTaxCashWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityMonthlyDetailGrp",
+      "path": "TaxLiabilityMonthlyDetailGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotMedcrTaxCashWagesAddnlWhAmt",
+      "path": "TotMedcrTaxCashWagesAddnlWhAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonrefundableCreditsAmt",
+      "path": "TotalNonrefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentRefundableCrAmt",
+      "path": "TotalPaymentRefundableCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAfterAdjustmentAmt",
+      "path": "TotalTaxAfterAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxBeforeAdjustmentAmt",
+      "path": "TotalTaxBeforeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLiabilityAmt",
+      "path": "TotalTaxLiabilityAmt",
+      "type": "usd"
+    }
+  ]
+}

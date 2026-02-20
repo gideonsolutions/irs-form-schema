@@ -1,0 +1,26 @@
+{
+  "form_id": "IRS973",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "DescribeChangesInOutstdStkTxt",
+      "path": "DescribeChangesInOutstdStkTxt",
+      "type": "string"
+    },
+    {
+      "name": "DescribeUnequalTreatmentTxt",
+      "path": "DescribeUnequalTreatmentTxt",
+      "type": "string"
+    },
+    {
+      "name": "StockEntitledToCumDivTxt",
+      "path": "StockEntitledToCumDivTxt",
+      "type": "string"
+    },
+    {
+      "name": "StockInformation",
+      "path": "StockInformation",
+      "type": "unknown"
+    }
+  ]
+}

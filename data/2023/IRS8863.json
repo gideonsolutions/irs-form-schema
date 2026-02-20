@@ -1,0 +1,31 @@
+{
+  "form_id": "IRS8863",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AmericanOpportunityCreditGroup",
+      "path": "AmericanOpportunityCreditGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "LifetimeLearningCreditGroup",
+      "path": "LifetimeLearningCreditGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "NonrefundableEducationCrGroup",
+      "path": "NonrefundableEducationCrGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "RefundableAmerOppCreditGroup",
+      "path": "RefundableAmerOppCreditGroup",
+      "type": "unknown"
+    },
+    {
+      "name": "StudentAndEducationalInstnGrp",
+      "path": "StudentAndEducationalInstnGrp",
+      "type": "group"
+    }
+  ]
+}

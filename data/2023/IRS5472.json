@@ -1,0 +1,981 @@
+{
+  "form_id": "IRS5472",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AllSlsGeneralPropGrossRcptsAmt",
+      "path": "AllSlsGeneralPropGrossRcptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllSlsIntngblPropGrossRcptsAmt",
+      "path": "AllSlsIntngblPropGrossRcptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BaseErosionPaymentAmt",
+      "path": "BaseErosionPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BaseErosionTaxBenefitAmt",
+      "path": "BaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BorrowedBegngBal50000LessCd",
+      "path": "BorrowedBegngBal50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "BorrowedBegngBalAmt",
+      "path": "BorrowedBegngBalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BorrowedEndingBal50000LessCd",
+      "path": "BorrowedEndingBal50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "BorrowedEndingBalAmt",
+      "path": "BorrowedEndingBalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BorrowedMonthlyAverageAmt",
+      "path": "BorrowedMonthlyAverageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsPaid50000LessCd",
+      "path": "CommissionsPaid50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "CommissionsPaidAmt",
+      "path": "CommissionsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsReceived50000LessCd",
+      "path": "CommissionsReceived50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "CommissionsReceivedAmt",
+      "path": "CommissionsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingArrangementGrp",
+      "path": "CostSharingArrangementGrp",
+      "type": "group"
+    },
+    {
+      "name": "CostSharingPaid50000LessCd",
+      "path": "CostSharingPaid50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "CostSharingPaidAmt",
+      "path": "CostSharingPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostSharingRcvd50000LessCd",
+      "path": "CostSharingRcvd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "CostSharingReceivedAmt",
+      "path": "CostSharingReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Direct25PctFrgnShareholderInfo",
+      "path": "Direct25PctFrgnShareholderInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "CtznOrgIncorporationCountryCd",
+      "path": "Direct25PctFrgnShareholderInfo/CtznOrgIncorporationCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "EIN",
+      "path": "Direct25PctFrgnShareholderInfo/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FTIN",
+      "path": "Direct25PctFrgnShareholderInfo/FTIN",
+      "type": "unknown"
+    },
+    {
+      "name": "FilesIncmTaxResidentCountryCd",
+      "path": "Direct25PctFrgnShareholderInfo/FilesIncmTaxResidentCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "Direct25PctFrgnShareholderInfo/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "Direct25PctFrgnShareholderInfo/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "Direct25PctFrgnShareholderInfo/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "Direct25PctFrgnShareholderInfo/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "Direct25PctFrgnShareholderInfo/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "Direct25PctFrgnShareholderInfo/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "Direct25PctFrgnShareholderInfo/ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "Direct25PctFrgnShareholderInfo/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalPlaceOfBusCountryCd",
+      "path": "Direct25PctFrgnShareholderInfo/PrincipalPlaceOfBusCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SSN",
+      "path": "Direct25PctFrgnShareholderInfo/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "Direct25PctFrgnShareholderInfo/ShareholderName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "Direct25PctFrgnShareholderInfo/ShareholderName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "Direct25PctFrgnShareholderInfo/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "Direct25PctFrgnShareholderInfo/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "Direct25PctFrgnShareholderInfo/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "Direct25PctFrgnShareholderInfo/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "Direct25PctFrgnShareholderInfo/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "FDIIBenefitsClaimInd",
+      "path": "FDIIBenefitsClaimInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignServiceGrossReceiptsAmt",
+      "path": "ForeignServiceGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnOwnUSDERptgCorpTransInd",
+      "path": "FrgnOwnUSDERptgCorpTransInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnPrntCorpPartcpCostShrInd",
+      "path": "FrgnPrntCorpPartcpCostShrInd",
+      "type": "bool"
+    },
+    {
+      "name": "GoodsCostGrtrThanCustomsVlInd",
+      "path": "GoodsCostGrtrThanCustomsVlInd",
+      "type": "bool"
+    },
+    {
+      "name": "ImportGoodsForeignRltdPartyInd",
+      "path": "ImportGoodsForeignRltdPartyInd",
+      "type": "bool"
+    },
+    {
+      "name": "InsReinsPremPd50000LessCd",
+      "path": "InsReinsPremPd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "InsReinsPremPdAmt",
+      "path": "InsReinsPremPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsReinsPremRcvd50000LessCd",
+      "path": "InsReinsPremRcvd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "InsReinsPremRcvdAmt",
+      "path": "InsReinsPremRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestPaid50000LessCd",
+      "path": "InterestPaid50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "InterestPaidAmt",
+      "path": "InterestPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestReceived50000LessCd",
+      "path": "InterestReceived50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "InterestReceivedAmt",
+      "path": "InterestReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesPaidAmt",
+      "path": "LoanGuaranteeFeesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGuaranteeFeesRcvdAmt",
+      "path": "LoanGuaranteeFeesRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanGurntFeesPd50000LessCd",
+      "path": "LoanGurntFeesPd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "LoanGurntFeesRcvd50000LessCd",
+      "path": "LoanGurntFeesRcvd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "LoanedBeginningBal50000LessCd",
+      "path": "LoanedBeginningBal50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "LoanedBeginningBalAmt",
+      "path": "LoanedBeginningBalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanedEndingBalance50000LessCd",
+      "path": "LoanedEndingBalance50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "LoanedEndingBalanceAmt",
+      "path": "LoanedEndingBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanedMonthlyAverageAmt",
+      "path": "LoanedMonthlyAverageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIntRoyaltyUndSect267AAmt",
+      "path": "NondedIntRoyaltyUndSect267AAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedIntRoyaltyUndSect267AInd",
+      "path": "NondedIntRoyaltyUndSect267AInd",
+      "type": "bool"
+    },
+    {
+      "name": "NonmonetaryAndLessThanFullInd",
+      "path": "NonmonetaryAndLessThanFullInd",
+      "type": "bool"
+    },
+    {
+      "name": "OthTransactionsRcvd50000LessCd",
+      "path": "OthTransactionsRcvd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "OthTransactionsRcvdAmt",
+      "path": "OthTransactionsRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTransactionsPd50000LessCd",
+      "path": "OtherTransactionsPd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherTransactionsPdAmt",
+      "path": "OtherTransactionsPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContriPaid50000LessCd",
+      "path": "PlatformContriPaid50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "PlatformContriRcvd50000LessCd",
+      "path": "PlatformContriRcvd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "PlatformContributionPaidAmt",
+      "path": "PlatformContributionPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlatformContributionRcvdAmt",
+      "path": "PlatformContributionRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsPrchs50000LessCd",
+      "path": "PropertyRightsPrchs50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "PropertyRightsPrchsAmt",
+      "path": "PropertyRightsPrchsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyRightsSales50000LessCd",
+      "path": "PropertyRightsSales50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "PropertyRightsSalesAmt",
+      "path": "PropertyRightsSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReasonableEstimateUsedInd",
+      "path": "ReasonableEstimateUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "RelatedPartyInfo/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FTIN",
+      "path": "RelatedPartyInfo/FTIN",
+      "type": "unknown"
+    },
+    {
+      "name": "FilesIncmTaxResidentCountryCd",
+      "path": "RelatedPartyInfo/FilesIncmTaxResidentCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RelatedPartyInfo/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RelatedPartyInfo/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "RelatedPartyInfo/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "RelatedPartyInfo/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "RelatedPartyInfo/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "RelatedPartyInfo/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "RelatedPartyInfo/ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "RelatedPartyInfo/ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "ForeignPersonInd",
+      "path": "RelatedPartyInfo/ForeignPersonInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignShareholder25PercentInd",
+      "path": "RelatedPartyInfo/ForeignShareholder25PercentInd",
+      "type": "bool"
+    },
+    {
+      "name": "InactivePrincipalBusActyCd",
+      "path": "RelatedPartyInfo/InactivePrincipalBusActyCd",
+      "type": "enum"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "RelatedPartyInfo/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "RelatedPartyInfo/PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityDesc",
+      "path": "RelatedPartyInfo/PrincipalBusinessActivityDesc",
+      "type": "string"
+    },
+    {
+      "name": "PrincipalPlaceOfBusCountryCd",
+      "path": "RelatedPartyInfo/PrincipalPlaceOfBusCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "Related25PercentForeignShrInd",
+      "path": "RelatedPartyInfo/Related25PercentForeignShrInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "RelatedPartyInfo/RelatedPartyName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "RelatedPartyInfo/RelatedPartyName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "RelatedReportingCorporationInd",
+      "path": "RelatedPartyInfo/RelatedReportingCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "RelatedPartyInfo/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RelatedPartyInfo/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RelatedPartyInfo/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "RelatedPartyInfo/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "RelatedPartyInfo/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "RelatedPartyInfo/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "USPersonInd",
+      "path": "RelatedPartyInfo/USPersonInd",
+      "type": "bool"
+    },
+    {
+      "name": "RentsPaid50000LessCd",
+      "path": "RentsPaid50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "RentsPaidAmt",
+      "path": "RentsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsReceived50000LessCd",
+      "path": "RentsReceived50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "RentsReceivedAmt",
+      "path": "RentsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConsolidatedFilingForm5472Ind",
+      "path": "ReportingCorporationInfo/ConsolidatedFilingForm5472Ind",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ReportingCorporationInfo/CorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ReportingCorporationInfo/CorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "ReportingCorporationInfo/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FilesIncmTaxResidentCountryCd",
+      "path": "ReportingCorporationInfo/FilesIncmTaxResidentCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ReportingCorporationInfo/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ReportingCorporationInfo/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ReportingCorporationInfo/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ReportingCorporationInfo/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "ReportingCorporationInfo/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ReportingCorporationInfo/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "FrgnOwnUSDECorpInd",
+      "path": "ReportingCorporationInfo/FrgnOwnUSDECorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnPrsnOwn50PctTotVoteOrVlInd",
+      "path": "ReportingCorporationInfo/FrgnPrsnOwn50PctTotVoteOrVlInd",
+      "type": "bool"
+    },
+    {
+      "name": "InactivePrincipalBusActyCd",
+      "path": "ReportingCorporationInfo/InactivePrincipalBusActyCd",
+      "type": "enum"
+    },
+    {
+      "name": "IncorporationCountryCd",
+      "path": "ReportingCorporationInfo/IncorporationCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "IncorporationDt",
+      "path": "ReportingCorporationInfo/IncorporationDt",
+      "type": "date"
+    },
+    {
+      "name": "InitialYrRptgFilingForm5472Ind",
+      "path": "ReportingCorporationInfo/InitialYrRptgFilingForm5472Ind",
+      "type": "bool"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "ReportingCorporationInfo/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "ReportingCorporationInfo/PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityDesc",
+      "path": "ReportingCorporationInfo/PrincipalBusinessActivityDesc",
+      "type": "string"
+    },
+    {
+      "name": "PrincipalPlaceOfBusCountryCd",
+      "path": "ReportingCorporationInfo/PrincipalPlaceOfBusCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalAssetsAmt",
+      "path": "ReportingCorporationInfo/TotalAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCSAAttachedForm5472Cnt",
+      "path": "ReportingCorporationInfo/TotalCSAAttachedForm5472Cnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalForm5472FiledCnt",
+      "path": "ReportingCorporationInfo/TotalForm5472FiledCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalValueGrossPaymentsAmt",
+      "path": "ReportingCorporationInfo/TotalValueGrossPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalVlGroPymtRptAll5472Amt",
+      "path": "ReportingCorporationInfo/TotalVlGroPymtRptAll5472Amt",
+      "type": "usd"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ReportingCorporationInfo/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ReportingCorporationInfo/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ReportingCorporationInfo/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "ReportingCorporationInfo/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "ReportingCorporationInfo/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "RltdPrtyIndebtnessAmt",
+      "path": "RltdPrtyIndebtnessAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RltdPrtyLoansFnddDistriInd",
+      "path": "RltdPrtyLoansFnddDistriInd",
+      "type": "bool"
+    },
+    {
+      "name": "RoyaltiesPaid50000LessCd",
+      "path": "RoyaltiesPaid50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "RoyaltiesPaidAmt",
+      "path": "RoyaltiesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RoyaltiesReceived50000LessCd",
+      "path": "RoyaltiesReceived50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "RoyaltiesReceivedAmt",
+      "path": "RoyaltiesReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RtIntSafeHavenRegsAFRInd",
+      "path": "RtIntSafeHavenRegsAFRInd",
+      "type": "bool"
+    },
+    {
+      "name": "SafeHavenRtRegsRtIntAFRInd",
+      "path": "SafeHavenRtRegsRtIntAFRInd",
+      "type": "bool"
+    },
+    {
+      "name": "SrgtFrgnCorpUndSect7874a2BInd",
+      "path": "SrgtFrgnCorpUndSect7874a2BInd",
+      "type": "bool"
+    },
+    {
+      "name": "StockOfTheForeignCorporation",
+      "path": "StockOfTheForeignCorporation",
+      "type": "unknown"
+    },
+    {
+      "name": "StockPurchasesTrade50000LessCd",
+      "path": "StockPurchasesTrade50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "StockPurchasesTradeAmt",
+      "path": "StockPurchasesTradeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockSalesTrade50000LessCd",
+      "path": "StockSalesTrade50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "StockSalesTradeAmt",
+      "path": "StockSalesTradeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SupportingDocumentsExstUSInd",
+      "path": "SupportingDocumentsExstUSInd",
+      "type": "bool"
+    },
+    {
+      "name": "TangiblePropPrchs50000LessCd",
+      "path": "TangiblePropPrchs50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "TangiblePropPrchsAmt",
+      "path": "TangiblePropPrchsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertySalesAmt",
+      "path": "TangiblePropertySalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TangiblePropertySls50000LessCd",
+      "path": "TangiblePropertySls50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "TechSrvcCompRcvd50000LessCd",
+      "path": "TechSrvcCompRcvd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "TechnicalSrvcCompPd50000LessCd",
+      "path": "TechnicalSrvcCompPd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "TechnicalSrvcCompPdAmt",
+      "path": "TechnicalSrvcCompPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TechnicalSrvcCompRcvdAmt",
+      "path": "TechnicalSrvcCompRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDerivativePaymentsAmt",
+      "path": "TotalDerivativePaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalReceived50000LessCd",
+      "path": "TotalReceived50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalReceivedAmt",
+      "path": "TotalReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTransactionsPd50000LessCd",
+      "path": "TotalTransactionsPd50000LessCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalTransactionsPdAmt",
+      "path": "TotalTransactionsPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TransDistriAcquisitionsAmt",
+      "path": "TransDistriAcquisitionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "USShareholdersOfForeignCorp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "UltimateIndr25PctFrgnShrInfo",
+      "path": "UltimateIndr25PctFrgnShrInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "CtznOrgIncorporationCountryCd",
+      "path": "UltimateIndr25PctFrgnShrInfo/CtznOrgIncorporationCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "EIN",
+      "path": "UltimateIndr25PctFrgnShrInfo/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FTIN",
+      "path": "UltimateIndr25PctFrgnShrInfo/FTIN",
+      "type": "unknown"
+    },
+    {
+      "name": "FilesIncmTaxResidentCountryCd",
+      "path": "UltimateIndr25PctFrgnShrInfo/FilesIncmTaxResidentCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "UltimateIndr25PctFrgnShrInfo/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "UltimateIndr25PctFrgnShrInfo/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "UltimateIndr25PctFrgnShrInfo/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "UltimateIndr25PctFrgnShrInfo/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "UltimateIndr25PctFrgnShrInfo/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "UltimateIndr25PctFrgnShrInfo/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "UltimateIndr25PctFrgnShrInfo/ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "UltimateIndr25PctFrgnShrInfo/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalPlaceOfBusCountryCd",
+      "path": "UltimateIndr25PctFrgnShrInfo/PrincipalPlaceOfBusCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SSN",
+      "path": "UltimateIndr25PctFrgnShrInfo/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "UltimateIndr25PctFrgnShrInfo/ShareholderName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "UltimateIndr25PctFrgnShrInfo/ShareholderName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "UltimateIndr25PctFrgnShrInfo/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "UltimateIndr25PctFrgnShrInfo/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "UltimateIndr25PctFrgnShrInfo/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "UltimateIndr25PctFrgnShrInfo/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "UltimateIndr25PctFrgnShrInfo/USAddress/ZIPCd",
+      "type": "enum"
+    }
+  ]
+}

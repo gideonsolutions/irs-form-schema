@@ -1,0 +1,141 @@
+{
+  "form_id": "IRS8838P",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "EIN",
+      "path": "BusinessConsentGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "BusinessConsentGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "BusinessConsentGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "BusinessConsentGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "BusinessConsentGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "BusinessConsentGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "BusinessConsentGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "BusinessConsentGrp/MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessConsentGrp/TaxpayerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessConsentGrp/TaxpayerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "BusinessConsentGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "BusinessConsentGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "BusinessConsentGrp/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "BusinessConsentGrp/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "BusinessConsentGrp/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExpirationDt",
+      "path": "ContriNotSubjGainDeferralGrp/ExpirationDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "ContriNotSubjGainDeferralGrp/TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ContributionDt",
+      "path": "ContributionDt",
+      "type": "date"
+    },
+    {
+      "name": "ExpirationDt",
+      "path": "GainDeferralContributionGrp/FederalIncmTxDueAllocnBookGrp/ExpirationDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "GainDeferralContributionGrp/FederalIncmTxDueAllocnBookGrp/TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ExpirationDt",
+      "path": "GainDeferralContributionGrp/FederalIncmTxDueGainRlzdGrp/ExpirationDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "GainDeferralContributionGrp/FederalIncmTxDueGainRlzdGrp/TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "TransfereeEIN",
+      "path": "TransfereeEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransfereeName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransfereeName/BusinessNameLine2Txt",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "form_id": "IRS2439",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CapitalGainSect1202Amt",
+      "path": "CapitalGainSect1202Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Collectibles28PercentGainAmt",
+      "path": "Collectibles28PercentGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorrectedInd",
+      "path": "CorrectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "RICOrREITEIN",
+      "path": "RICOrREITEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RICOrREITForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RICOrREITForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "RICOrREITForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "RICOrREITForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "RICOrREITForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "RICOrREITForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RICOrREITUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RICOrREITUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "RICOrREITUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "RICOrREITUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "RICOrREITUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "RegInvstCoOrReInvstTrustName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "RegInvstCoOrReInvstTrustName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ShareholderBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ShareholderBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderEIN",
+      "path": "ShareholderEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ShareholderForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ShareholderForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ShareholderForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ShareholderForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "ShareholderForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ShareholderForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderMissingEINReasonCd",
+      "path": "ShareholderMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ShareholderPersonNm",
+      "path": "ShareholderPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderSSN",
+      "path": "ShareholderSSN",
+      "type": "tin"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ShareholderUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ShareholderUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ShareholderUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "ShareholderUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "ShareholderUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxPaidByRICOrREITAmt",
+      "path": "TaxPaidByRICOrREITAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxPeriodBeginDt",
+      "path": "TaxPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxPeriodEndDt",
+      "path": "TaxPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalUndistributedLTCapGainAmt",
+      "path": "TotalUndistributedLTCapGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrecapturedSection1250GainAmt",
+      "path": "UnrecapturedSection1250GainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VoidInd",
+      "path": "VoidInd",
+      "type": "bool"
+    }
+  ]
+}

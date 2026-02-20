@@ -1,0 +1,766 @@
+{
+  "form_id": "IRS8849Schedule1",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "EmployerIdentificationNumber",
+      "path": "EmployerIdentificationNumber",
+      "type": "unknown"
+    },
+    {
+      "name": "Amt",
+      "path": "ExpDyedFuelsGasBlendstocks/ExportedDyedDieselFuel/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "ExpDyedFuelsGasBlendstocks/ExportedDyedDieselFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "ExpDyedFuelsGasBlendstocks/ExportedDyedDieselFuel/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ExpDyedFuelsGasBlendstocks/ExportedDyedDieselFuel/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "ExpDyedFuelsGasBlendstocks/ExportedDyedKerosene/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "ExpDyedFuelsGasBlendstocks/ExportedDyedKerosene/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "ExpDyedFuelsGasBlendstocks/ExportedDyedKerosene/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ExpDyedFuelsGasBlendstocks/ExportedDyedKerosene/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "KeroseneUsedInAviation/CommercialAviationTaxedAt219/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "KeroseneUsedInAviation/CommercialAviationTaxedAt219/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "KeroseneUsedInAviation/CommercialAviationTaxedAt219/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "KeroseneUsedInAviation/CommercialAviationTaxedAt219/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "KeroseneUsedInAviation/CommercialAviationTaxedAt244/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "KeroseneUsedInAviation/CommercialAviationTaxedAt244/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "KeroseneUsedInAviation/CommercialAviationTaxedAt244/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "KeroseneUsedInAviation/CommercialAviationTaxedAt244/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "KeroseneUsedInAviation/LUSTTaxAviationUseForeignTrade/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "KeroseneUsedInAviation/LUSTTaxAviationUseForeignTrade/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "KeroseneUsedInAviation/LUSTTaxAviationUseForeignTrade/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "KeroseneUsedInAviation/LUSTTaxAviationUseForeignTrade/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt219/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt219/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt219/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt219/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt219/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt244/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt244/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt244/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt244/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt244/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "MissingEINReason",
+      "path": "MissingEINReason",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "NameOfEmployer/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "NameOfEmployer/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "NontxCNG",
+      "path": "NontaxableUseOfAlternativeFuel/NontxCNG",
+      "type": "unknown"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxCNG/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxCNG/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxCNG/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxCNG/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxCNG/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontxLNG",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLNG",
+      "type": "unknown"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLNG/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLNG/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLNG/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLNG/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLNG/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontxLiquefiedGasFromBiomass",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass",
+      "type": "unknown"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontxLiquefiedHydrogen",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen",
+      "type": "unknown"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontxLiquefiedPetroleumGas",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas",
+      "type": "unknown"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontxLiquidFuelFromBiomass",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass",
+      "type": "unknown"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontxLiquidFuelFromCoal",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal",
+      "type": "unknown"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontxPSeriesFuelCredit",
+      "path": "NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit",
+      "type": "unknown"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "NontaxableUseOfAviationGas/CommercialAviation/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontaxableUseOfAviationGas/CommercialAviation/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontaxableUseOfAviationGas/CommercialAviation/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAviationGas/CommercialAviation/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "NontaxableUseOfAviationGas/LUSTTaxAviationUseForeignTrade/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontaxableUseOfAviationGas/LUSTTaxAviationUseForeignTrade/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontaxableUseOfAviationGas/LUSTTaxAviationUseForeignTrade/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAviationGas/LUSTTaxAviationUseForeignTrade/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "NontaxableUseOfAviationGas/NontaxableAviationGasExported/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontaxableUseOfAviationGas/NontaxableAviationGasExported/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontaxableUseOfAviationGas/NontaxableAviationGasExported/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseOfAviationGas/NontaxableAviationGasExported/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "OtherNontaxableUseAviation",
+      "path": "NontaxableUseOfAviationGas/OtherNontaxableUseAviation",
+      "type": "unknown"
+    },
+    {
+      "name": "Gasoline",
+      "path": "NontaxableUseOfGasoline/Gasoline",
+      "type": "unknown"
+    },
+    {
+      "name": "GasolineExported",
+      "path": "NontaxableUseOfGasoline/GasolineExported",
+      "type": "unknown"
+    },
+    {
+      "name": "AllwblNontxUseUndyedDslFuel",
+      "path": "NontaxableUseUndyedDieselFuel/AllwblNontxUseUndyedDslFuel",
+      "type": "unknown"
+    },
+    {
+      "name": "Amt",
+      "path": "NontaxableUseUndyedDieselFuel/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Amt",
+      "path": "NontaxableUseUndyedDieselFuel/ExportedFuel/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontaxableUseUndyedDieselFuel/ExportedFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontaxableUseUndyedDieselFuel/ExportedFuel/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseUndyedDieselFuel/ExportedFuel/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "NontaxableUseUndyedDieselFuel/NontaxUndyedDslFuelUseInTrains/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontaxableUseUndyedDieselFuel/NontaxUndyedDslFuelUseInTrains/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontaxableUseUndyedDieselFuel/NontaxUndyedDslFuelUseInTrains/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseUndyedDieselFuel/NontaxUndyedDslFuelUseInTrains/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontaxableUseUndyedDieselFuel/NontxFuelUseFarmingPurposes/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontaxableUseUndyedDieselFuel/NontxFuelUseFarmingPurposes/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseUndyedDieselFuel/NontxFuelUseFarmingPurposes/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "NontaxableUseUndyedDieselFuel/NontxFuelUseIntrctyAndLclBuses/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontaxableUseUndyedDieselFuel/NontxFuelUseIntrctyAndLclBuses/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontaxableUseUndyedDieselFuel/NontxFuelUseIntrctyAndLclBuses/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontaxableUseUndyedDieselFuel/NontxFuelUseIntrctyAndLclBuses/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "UndyedDieselUseExceptionInd",
+      "path": "NontaxableUseUndyedDieselFuel/UndyedDieselUseExceptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Amt",
+      "path": "NontxDieselWaterFuelEmulsion/ExportedFuel/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontxDieselWaterFuelEmulsion/ExportedFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontxDieselWaterFuelEmulsion/ExportedFuel/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontxDieselWaterFuelEmulsion/ExportedFuel/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontxUseDslWaterFuel",
+      "path": "NontxDieselWaterFuelEmulsion/NontxUseDslWaterFuel",
+      "type": "unknown"
+    },
+    {
+      "name": "FuelTaxLocalBusCd",
+      "path": "NontxDieselWaterFuelEmulsion/NontxUseDslWaterFuel/FuelUseTypeCd5Detail/FuelTaxLocalBusCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontxDieselWaterFuelEmulsion/NontxUseDslWaterFuel/FuelUseTypeCd5Detail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontxDieselWaterFuelEmulsion/NontxUseDslWaterFuel/FuelUseTypeCd5Detail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontxDieselWaterFuelEmulsion/NontxUseDslWaterFuel/OtherFuelUseDetail/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontxDieselWaterFuelEmulsion/NontxUseDslWaterFuel/OtherFuelUseDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "NontxUseUndyedKeroseneNotAvn/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Amt",
+      "path": "NontxUseUndyedKeroseneNotAvn/ExportedFuel/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontxUseUndyedKeroseneNotAvn/ExportedFuel/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontxUseUndyedKeroseneNotAvn/ExportedFuel/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontxUseUndyedKeroseneNotAvn/ExportedFuel/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "NontaxUndyedKrsnNotAvnTxd244",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontaxUndyedKrsnNotAvnTxd244",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxFuelUseFarmingPurposes/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxFuelUseFarmingPurposes/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxFuelUseFarmingPurposes/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxFuelUseIntrctyAndLclBuses/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxFuelUseIntrctyAndLclBuses/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxFuelUseIntrctyAndLclBuses/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxFuelUseIntrctyAndLclBuses/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd044/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd044/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd044/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd044/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd044/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd219/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd219/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd219/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfFuelTypeCd",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd219/NontaxableUseOfFuelTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "Rt",
+      "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd219/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "UndyedKeroseneUseExceptionInd",
+      "path": "NontxUseUndyedKeroseneNotAvn/UndyedKeroseneUseExceptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalRefundAmt",
+      "path": "TotalRefundAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "form_id": "IRS2210",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AGIPeriodAAmt",
+      "path": "AGIPeriodAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AGIPeriodBAmt",
+      "path": "AGIPeriodBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AGIPeriodCAmt",
+      "path": "AGIPeriodCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AGIPeriodDAmt",
+      "path": "AGIPeriodDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccumulatedAdjustedTaxBAmt",
+      "path": "AccumulatedAdjustedTaxBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccumulatedAdjustedTaxCAmt",
+      "path": "AccumulatedAdjustedTaxCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccumulatedAdjustedTaxDAmt",
+      "path": "AccumulatedAdjustedTaxDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActuallyWithheldInd",
+      "path": "ActuallyWithheldInd",
+      "type": "bool"
+    },
+    {
+      "name": "AggregateDeductionAAmt",
+      "path": "AggregateDeductionAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregateDeductionBAmt",
+      "path": "AggregateDeductionBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregateDeductionCAmt",
+      "path": "AggregateDeductionCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregateDeductionDAmt",
+      "path": "AggregateDeductionDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregateTaxDueAAmt",
+      "path": "AggregateTaxDueAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregateTaxDueBAmt",
+      "path": "AggregateTaxDueBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregateTaxDueCAmt",
+      "path": "AggregateTaxDueCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregateTaxDueDAmt",
+      "path": "AggregateTaxDueDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowedCreditsAAmt",
+      "path": "AllowedCreditsAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowedCreditsBAmt",
+      "path": "AllowedCreditsBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowedCreditsCAmt",
+      "path": "AllowedCreditsCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowedCreditsDAmt",
+      "path": "AllowedCreditsDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualPaymentBasedOnPriorYrAmt",
+      "path": "AnnualPaymentBasedOnPriorYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedIncomeAAmt",
+      "path": "AnnualizedIncomeAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedIncomeBAmt",
+      "path": "AnnualizedIncomeBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedIncomeCAmt",
+      "path": "AnnualizedIncomeCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedIncomeDAmt",
+      "path": "AnnualizedIncomeDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedIncomeInstallAAmt",
+      "path": "AnnualizedIncomeInstallAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedIncomeInstallBAmt",
+      "path": "AnnualizedIncomeInstallBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedIncomeInstallCAmt",
+      "path": "AnnualizedIncomeInstallCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedIncomeInstallDAmt",
+      "path": "AnnualizedIncomeInstallDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedIncomeMethodInd",
+      "path": "AnnualizedIncomeMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "AnnualizedItemizedDedAAmt",
+      "path": "AnnualizedItemizedDedAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedItemizedDedBAmt",
+      "path": "AnnualizedItemizedDedBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedItemizedDedCAmt",
+      "path": "AnnualizedItemizedDedCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedItemizedDedDAmt",
+      "path": "AnnualizedItemizedDedDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableTaxDueAAmt",
+      "path": "ApplicableTaxDueAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableTaxDueBAmt",
+      "path": "ApplicableTaxDueBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableTaxDueCAmt",
+      "path": "ApplicableTaxDueCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicableTaxDueDAmt",
+      "path": "ApplicableTaxDueDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedOverpaymentBAmt",
+      "path": "AppliedOverpaymentBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedOverpaymentCAmt",
+      "path": "AppliedOverpaymentCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedOverpaymentDAmt",
+      "path": "AppliedOverpaymentDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedUnderpaymentCAmt",
+      "path": "AppliedUnderpaymentCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearTaxAfterCreditsAmt",
+      "path": "CurrentYearTaxAfterCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearTaxAmt",
+      "path": "CurrentYearTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearTaxCalculatedAmt",
+      "path": "CurrentYearTaxCalculatedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPdAndWithheldAAmt",
+      "path": "EstimatedTaxPdAndWithheldAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPdAndWithheldBAmt",
+      "path": "EstimatedTaxPdAndWithheldBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPdAndWithheldCAmt",
+      "path": "EstimatedTaxPdAndWithheldCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPdAndWithheldDAmt",
+      "path": "EstimatedTaxPdAndWithheldDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptionClaimedAAmt",
+      "path": "ExemptionClaimedAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptionClaimedBAmt",
+      "path": "ExemptionClaimedBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptionClaimedCAmt",
+      "path": "ExemptionClaimedCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptionClaimedDAmt",
+      "path": "ExemptionClaimedDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentDeductionAAmt",
+      "path": "InstallmentDeductionAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentDeductionBAmt",
+      "path": "InstallmentDeductionBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentDeductionCAmt",
+      "path": "InstallmentDeductionCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentDeductionDAmt",
+      "path": "InstallmentDeductionDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentTaxAAmt",
+      "path": "InstallmentTaxAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentTaxBAmt",
+      "path": "InstallmentTaxBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentTaxCAmt",
+      "path": "InstallmentTaxCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InstallmentTaxDAmt",
+      "path": "InstallmentTaxDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ItemizedDeductionsAAmt",
+      "path": "ItemizedDeductionsAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ItemizedDeductionsBAmt",
+      "path": "ItemizedDeductionsBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ItemizedDeductionsCAmt",
+      "path": "ItemizedDeductionsCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ItemizedDeductionsDAmt",
+      "path": "ItemizedDeductionsDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "JointReturnInd",
+      "path": "JointReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetIncomeAAmt",
+      "path": "NetIncomeAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeBAmt",
+      "path": "NetIncomeBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeCAmt",
+      "path": "NetIncomeCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeDAmt",
+      "path": "NetIncomeDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTaxDueAAmt",
+      "path": "NetTaxDueAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTaxDueAmt",
+      "path": "NetTaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTaxDueBAmt",
+      "path": "NetTaxDueBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTaxDueCAmt",
+      "path": "NetTaxDueCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTaxDueDAmt",
+      "path": "NetTaxDueDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesAAmt",
+      "path": "OtherTaxesAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesBAmt",
+      "path": "OtherTaxesBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesCAmt",
+      "path": "OtherTaxesCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesDAmt",
+      "path": "OtherTaxesDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentBAmt",
+      "path": "OverpaymentBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentCAmt",
+      "path": "OverpaymentCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OwePenaltyInd",
+      "path": "OwePenaltyInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedAAmt",
+      "path": "QualifiedBusinessIncomeDedAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedBAmt",
+      "path": "QualifiedBusinessIncomeDedBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedCAmt",
+      "path": "QualifiedBusinessIncomeDedCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedDAmt",
+      "path": "QualifiedBusinessIncomeDedDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundableCreditsAmt",
+      "path": "RefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredAnnualPaymentAmt",
+      "path": "RequiredAnnualPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredInstallmentAAmt",
+      "path": "RequiredInstallmentAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredInstallmentBAmt",
+      "path": "RequiredInstallmentBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredInstallmentCAmt",
+      "path": "RequiredInstallmentCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredInstallmentDAmt",
+      "path": "RequiredInstallmentDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReturnStandardDeductionAAmt",
+      "path": "ReturnStandardDeductionAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReturnStandardDeductionBAmt",
+      "path": "ReturnStandardDeductionBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReturnStandardDeductionCAmt",
+      "path": "ReturnStandardDeductionCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReturnStandardDeductionDAmt",
+      "path": "ReturnStandardDeductionDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SEWorksheetByQtr",
+      "path": "SEWorksheetByQtr",
+      "type": "unknown"
+    },
+    {
+      "name": "AnnualizedSelfEmploymentTxAAmt",
+      "path": "SEWorksheetByQtr/AnnualizedSelfEmploymentTxAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedSelfEmploymentTxBAmt",
+      "path": "SEWorksheetByQtr/AnnualizedSelfEmploymentTxBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedSelfEmploymentTxCAmt",
+      "path": "SEWorksheetByQtr/AnnualizedSelfEmploymentTxCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualizedSelfEmploymentTxDAmt",
+      "path": "SEWorksheetByQtr/AnnualizedSelfEmploymentTxDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxBeforeCreditsAAmt",
+      "path": "TaxBeforeCreditsAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxBeforeCreditsBAmt",
+      "path": "TaxBeforeCreditsBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxBeforeCreditsCAmt",
+      "path": "TaxBeforeCreditsCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxBeforeCreditsDAmt",
+      "path": "TaxBeforeCreditsDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxDueAAmt",
+      "path": "TaxDueAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxDueBAmt",
+      "path": "TaxDueBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxDueCAmt",
+      "path": "TaxDueCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxDueDAmt",
+      "path": "TaxDueDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxToBeAppliedCAmt",
+      "path": "TaxToBeAppliedCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxToBeAppliedDAmt",
+      "path": "TaxToBeAppliedDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAAmt",
+      "path": "TaxableIncomeAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeBAmt",
+      "path": "TaxableIncomeBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeCAmt",
+      "path": "TaxableIncomeCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeDAmt",
+      "path": "TaxableIncomeDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesDueColumnCAmt",
+      "path": "TaxesDueColumnCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesDueColumnDAmt",
+      "path": "TaxesDueColumnDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeTaxAAmt",
+      "path": "TentativeTaxAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeTaxBAmt",
+      "path": "TentativeTaxBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeTaxCAmt",
+      "path": "TentativeTaxCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeTaxDAmt",
+      "path": "TentativeTaxDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPenaltyAmt",
+      "path": "TotalPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@waivedLiteralRegularMethodCd",
+      "path": "TotalPenaltyAmt/@waivedLiteralRegularMethodCd",
+      "type": "enum"
+    },
+    {
+      "name": "@waivedRegularMethodAmt",
+      "path": "TotalPenaltyAmt/@waivedRegularMethodAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnderpaymentBAmt",
+      "path": "UnderpaymentBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnderpaymentCAmt",
+      "path": "UnderpaymentCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnderpaymentDAmt",
+      "path": "UnderpaymentDAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WaiverOfEntirePenaltyInd",
+      "path": "WaiverOfEntirePenaltyInd",
+      "type": "bool"
+    },
+    {
+      "name": "WaiverOfPartOfPenaltyInd",
+      "path": "WaiverOfPartOfPenaltyInd",
+      "type": "bool"
+    },
+    {
+      "name": "WithholdingTaxesAmt",
+      "path": "WithholdingTaxesAmt",
+      "type": "usd"
+    }
+  ]
+}

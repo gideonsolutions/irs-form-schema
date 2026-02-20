@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS8923",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AllowableTrainingCostsAmt",
+      "path": "AllowableTrainingCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilerEIN",
+      "path": "FilerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FilerSSN",
+      "path": "FilerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "MineRescueTrainingCreditsAmt",
+      "path": "MineRescueTrainingCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditsandCostsAmt",
+      "path": "TotalCreditsandCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTrainingCostsAmt",
+      "path": "TotalTrainingCostsAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,731 @@
+{
+  "form_id": "IRS4136",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AgriBiodieselMixtureCreditAmt",
+      "path": "AgriBiodieselMixtureCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgriBiodieselMixtureGallonsQty",
+      "path": "AgriBiodieselMixtureGallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AlcoholFuelCrRegistrationNum",
+      "path": "AlcoholFuelCrRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "AlternativeFuelRegistrationNum",
+      "path": "AlternativeFuelRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "AviationGasolineCreditAmt",
+      "path": "AviationGasolineCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AviationGasolineGallonsQty",
+      "path": "AviationGasolineGallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AviationNontxGasCrAmt",
+      "path": "AviationNontxGasCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AviationNontxUseGasGalsQty",
+      "path": "AviationNontxUseGasGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BiodieselMixtureCreditAmt",
+      "path": "BiodieselMixtureCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BiodieselMixtureGallonsQty",
+      "path": "BiodieselMixtureGallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BiodieselRnwblRegistrationNum",
+      "path": "BiodieselRnwblRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "BlndrCrUseDslWtrEmulsionCrAmt",
+      "path": "BlndrCrUseDslWtrEmulsionCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BlndrCrUseDslWtrEmulsionQty",
+      "path": "BlndrCrUseDslWtrEmulsionQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BusNontxCompressedNaturalGas",
+      "path": "BusNontxCompressedNaturalGas",
+      "type": "unknown"
+    },
+    {
+      "name": "BusNontxLiqFuelDerFromBiomass",
+      "path": "BusNontxLiqFuelDerFromBiomass",
+      "type": "unknown"
+    },
+    {
+      "name": "BusNontxLiqfdFuelDerFromCoal",
+      "path": "BusNontxLiqfdFuelDerFromCoal",
+      "type": "unknown"
+    },
+    {
+      "name": "BusNontxLiquefiedGasDerBiomass",
+      "path": "BusNontxLiquefiedGasDerBiomass",
+      "type": "unknown"
+    },
+    {
+      "name": "BusNontxLiquefiedNaturalGas",
+      "path": "BusNontxLiquefiedNaturalGas",
+      "type": "unknown"
+    },
+    {
+      "name": "BusNontxLiquifiedHydrogen",
+      "path": "BusNontxLiquifiedHydrogen",
+      "type": "unknown"
+    },
+    {
+      "name": "BusNontxLiquifiedPetroleumGas",
+      "path": "BusNontxLiquifiedPetroleumGas",
+      "type": "unknown"
+    },
+    {
+      "name": "BusNontxPSeriesFuels",
+      "path": "BusNontxPSeriesFuels",
+      "type": "unknown"
+    },
+    {
+      "name": "BusNontxUseDieselWtrEmulsion",
+      "path": "BusNontxUseDieselWtrEmulsion",
+      "type": "unknown"
+    },
+    {
+      "name": "BusUseOfUndyedDieselCreditAmt",
+      "path": "BusUseOfUndyedDieselCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusUseOfUndyedDieselGalsQty",
+      "path": "BusUseOfUndyedDieselGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BusUseOfUndyedKeroseneCrAmt",
+      "path": "BusUseOfUndyedKeroseneCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusUseOfUndyedKeroseneGalsQty",
+      "path": "BusUseOfUndyedKeroseneGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CompressedGasBiomassCreditAmt",
+      "path": "CompressedGasBiomassCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompressedGasBiomassGGEQty",
+      "path": "CompressedGasBiomassGGEQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CompressedNaturalGasCreditAmt",
+      "path": "CompressedNaturalGasCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompressedNaturalGasGalsQty",
+      "path": "CompressedNaturalGasGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditCardIssrRegistrationNum",
+      "path": "CreditCardIssrRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "DieselWtrBlndgRegistrationNum",
+      "path": "DieselWtrBlndgRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "DslFuelSoldStLocalGovtCrAmt",
+      "path": "DslFuelSoldStLocalGovtCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DslFuelSoldStLocalGovtGalsQty",
+      "path": "DslFuelSoldStLocalGovtGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ExpNontxAviationGasCrAmt",
+      "path": "ExpNontxAviationGasCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpNontxAviationGasGalsQty",
+      "path": "ExpNontxAviationGasGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ExpNontxUseDslWtrEmulsionCrAmt",
+      "path": "ExpNontxUseDslWtrEmulsionCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpNontxUseDslWtrEmulsionQty",
+      "path": "ExpNontxUseDslWtrEmulsionQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ExpUndyedDieselFuelCreditAmt",
+      "path": "ExpUndyedDieselFuelCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpUndyedDieselFuelGalsQty",
+      "path": "ExpUndyedDieselFuelGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ExportedDyedDieselFuelCrAmt",
+      "path": "ExportedDyedDieselFuelCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExportedDyedDieselFuelGalsQty",
+      "path": "ExportedDyedDieselFuelGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ExportedDyedKeroseneCreditAmt",
+      "path": "ExportedDyedKeroseneCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExportedDyedKeroseneGallonsQty",
+      "path": "ExportedDyedKeroseneGallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ExportedNontxUseGasGalsQty",
+      "path": "ExportedNontxUseGasGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ExportedNontxUseOfGasCrAmt",
+      "path": "ExportedNontxUseOfGasCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExportedUndyedKeroseneCrAmt",
+      "path": "ExportedUndyedKeroseneCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExportedUndyedKeroseneGalsQty",
+      "path": "ExportedUndyedKeroseneGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "FarmPrpsUndyedDslFuelCrAmt",
+      "path": "FarmPrpsUndyedDslFuelCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FarmPrpsUndyedDslFuelGalsQty",
+      "path": "FarmPrpsUndyedDslFuelGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "FarmPrpsUndyedKeroseneCrAmt",
+      "path": "FarmPrpsUndyedKeroseneCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FarmPrpsUndyedKeroseneGalsQty",
+      "path": "FarmPrpsUndyedKeroseneGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "FarmingPurposesGasolineGalsQty",
+      "path": "FarmingPurposesGasolineGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KeroseneForAvnRegistrationNum",
+      "path": "KeroseneForAvnRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "KeroseneUsedInAvnTxd219CrAmt",
+      "path": "KeroseneUsedInAvnTxd219CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KeroseneUsedInAvnTxd219GalsQty",
+      "path": "KeroseneUsedInAvnTxd219GalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KeroseneUsedInAvnTxd244CrAmt",
+      "path": "KeroseneUsedInAvnTxd244CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KeroseneUsedInAvnTxd244GalsQty",
+      "path": "KeroseneUsedInAvnTxd244GalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "KrsnAvnSoldStLocalGovtCrAmt",
+      "path": "KrsnAvnSoldStLocalGovtCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KrsnAvnSoldStLocalGovtGalsQty",
+      "path": "KrsnAvnSoldStLocalGovtGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "@keroseneTaxRateCd",
+      "path": "KrsnAvnSoldStLocalGovtGalsQty/@keroseneTaxRateCd",
+      "type": "enum"
+    },
+    {
+      "name": "KrsnFuelSoldStLocalGovtCrAmt",
+      "path": "KrsnFuelSoldStLocalGovtCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KrsnFuelSoldStLocalGovtGalsQty",
+      "path": "KrsnFuelSoldStLocalGovtGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LUSTTxAvnFuelFrgnTradeCrAmt",
+      "path": "LUSTTxAvnFuelFrgnTradeCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LUSTTxAvnFuelFrgnTradeGalsQty",
+      "path": "LUSTTxAvnFuelFrgnTradeGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LUSTTxKrsnAvnFrgnTrdCrAmt",
+      "path": "LUSTTxKrsnAvnFrgnTrdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LUSTTxKrsnAvnFrgnTrdGalsQty",
+      "path": "LUSTTxKrsnAvnFrgnTrdGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LUSTTxSlsKrsnAvnFrgnTrdCrAmt",
+      "path": "LUSTTxSlsKrsnAvnFrgnTrdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LUSTTxSlsKrsnAvnFrgnTrdGalsQty",
+      "path": "LUSTTxSlsKrsnAvnFrgnTrdGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LiquefiedGasDerBiomassCrAmt",
+      "path": "LiquefiedGasDerBiomassCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LiquefiedGasDerBiomassGalsQty",
+      "path": "LiquefiedGasDerBiomassGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LiquefiedNaturalGasCreditAmt",
+      "path": "LiquefiedNaturalGasCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LiquefiedNaturalGasGallonsQty",
+      "path": "LiquefiedNaturalGasGallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LiquefiedPetroleumGasCrAmt",
+      "path": "LiquefiedPetroleumGasCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LiquefiedPetroleumGasGalsQty",
+      "path": "LiquefiedPetroleumGasGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LiquidFuelDerBiomassCrAmt",
+      "path": "LiquidFuelDerBiomassCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LiquidFuelDerBiomassGalsQty",
+      "path": "LiquidFuelDerBiomassGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LiquidFuelDerFromCoalCreditAmt",
+      "path": "LiquidFuelDerFromCoalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LiquidFuelDerFromCoalGalsQty",
+      "path": "LiquidFuelDerFromCoalGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NonTxKrsnUsedInAvnTxd219",
+      "path": "NonTxKrsnUsedInAvnTxd219",
+      "type": "unknown"
+    },
+    {
+      "name": "NonTxKrsnUsedInAvnTxd219CrAmt",
+      "path": "NonTxKrsnUsedInAvnTxd219CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonTxKrsnUsedInAvnTxd244",
+      "path": "NonTxKrsnUsedInAvnTxd244",
+      "type": "unknown"
+    },
+    {
+      "name": "NonTxKrsnUsedInAvnTxd244CrAmt",
+      "path": "NonTxKrsnUsedInAvnTxd244CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontaxLiqFuelDerFromBiomass",
+      "path": "NontaxLiqFuelDerFromBiomass",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfGasolineCrAmt",
+      "path": "NontaxableUseOfGasolineCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontaxableUseOfUndyedDiesel",
+      "path": "NontaxableUseOfUndyedDiesel",
+      "type": "unknown"
+    },
+    {
+      "name": "NontaxableUseOfUndyedKerosene",
+      "path": "NontaxableUseOfUndyedKerosene",
+      "type": "unknown"
+    },
+    {
+      "name": "NontxCompressedNaturalGas",
+      "path": "NontxCompressedNaturalGas",
+      "type": "unknown"
+    },
+    {
+      "name": "NontxCompressedNaturalGasCrAmt",
+      "path": "NontxCompressedNaturalGasCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxLiqFuelDerBiomassCrAmt",
+      "path": "NontxLiqFuelDerBiomassCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxLiqfdFuelDerFromCoalCrAmt",
+      "path": "NontxLiqfdFuelDerFromCoalCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxLiqfdFuelDerivedFromCoal",
+      "path": "NontxLiqfdFuelDerivedFromCoal",
+      "type": "unknown"
+    },
+    {
+      "name": "NontxLiquefiedGasBiomass",
+      "path": "NontxLiquefiedGasBiomass",
+      "type": "unknown"
+    },
+    {
+      "name": "NontxLiquefiedGasBiomassCrAmt",
+      "path": "NontxLiquefiedGasBiomassCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxLiquefiedHydrogenCrAmt",
+      "path": "NontxLiquefiedHydrogenCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxLiquefiedNaturalGas",
+      "path": "NontxLiquefiedNaturalGas",
+      "type": "unknown"
+    },
+    {
+      "name": "NontxLiquefiedNaturalGasCrAmt",
+      "path": "NontxLiquefiedNaturalGasCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxLiquefiedPtrlmGasCrAmt",
+      "path": "NontxLiquefiedPtrlmGasCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxLiquifiedHydrogen",
+      "path": "NontxLiquifiedHydrogen",
+      "type": "unknown"
+    },
+    {
+      "name": "NontxLiquifiedPetroleumGas",
+      "path": "NontxLiquifiedPetroleumGas",
+      "type": "unknown"
+    },
+    {
+      "name": "NontxPSeriesFuels",
+      "path": "NontxPSeriesFuels",
+      "type": "unknown"
+    },
+    {
+      "name": "NontxPSeriesFuelsCreditAmt",
+      "path": "NontxPSeriesFuelsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxUseDieselWaterEmulsion",
+      "path": "NontxUseDieselWaterEmulsion",
+      "type": "unknown"
+    },
+    {
+      "name": "NontxUseDieselWtrEmulsionCrAmt",
+      "path": "NontxUseDieselWtrEmulsionCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxUseUndyedKrsnTxd044CrAmt",
+      "path": "NontxUseUndyedKrsnTxd044CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxUseUndyedKrsnTxd219",
+      "path": "NontxUseUndyedKrsnTxd219",
+      "type": "unknown"
+    },
+    {
+      "name": "NontxUseUndyedKrsnTxd219CrAmt",
+      "path": "NontxUseUndyedKrsnTxd219CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxUseUndyedKrsnTxdAt044",
+      "path": "NontxUseUndyedKrsnTxdAt044",
+      "type": "unknown"
+    },
+    {
+      "name": "OffHwyBusUseGasolineGalsQty",
+      "path": "OffHwyBusUseGasolineGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherNontaxableUseOfGasoline",
+      "path": "OtherNontaxableUseOfGasoline",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherNontaxableUseTaxedAt219",
+      "path": "OtherNontaxableUseTaxedAt219",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherNontaxableUseTaxedAt244",
+      "path": "OtherNontaxableUseTaxedAt244",
+      "type": "unknown"
+    },
+    {
+      "name": "PSeriesFuelsCreditAmt",
+      "path": "PSeriesFuelsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PSeriesFuelsGallonsQty",
+      "path": "PSeriesFuelsGallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "RenewableDieselMixtureCrAmt",
+      "path": "RenewableDieselMixtureCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RenewableDieselMixtureGalsQty",
+      "path": "RenewableDieselMixtureGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SalesUndyedDieselExceptionInd",
+      "path": "SalesUndyedDieselExceptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "SlsKrsnNnxmptUseInAvnCrAmt",
+      "path": "SlsKrsnNnxmptUseInAvnCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SlsKrsnNnxmptUseInAvnGalsQty",
+      "path": "SlsKrsnNnxmptUseInAvnGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SlsKrsnOthNontxTxd219CrAmt",
+      "path": "SlsKrsnOthNontxTxd219CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SlsKrsnOthNontxTxd244CrAmt",
+      "path": "SlsKrsnOthNontxTxd244CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SlsKrsnUsedInAvnTxd219CrAmt",
+      "path": "SlsKrsnUsedInAvnTxd219CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SlsKrsnUsedInAvnTxd219GalsQty",
+      "path": "SlsKrsnUsedInAvnTxd219GalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SlsKrsnUsedInAvnTxd244CrAmt",
+      "path": "SlsKrsnUsedInAvnTxd244CrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SlsKrsnUsedInAvnTxd244GalsQty",
+      "path": "SlsKrsnUsedInAvnTxd244GalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SlsUndyedDieselUseBusCrAmt",
+      "path": "SlsUndyedDieselUseBusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SlsUndyedDieselUseBusGalsQty",
+      "path": "SlsUndyedDieselUseBusGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SlsUndyedDslStLclGovtGalsQty",
+      "path": "SlsUndyedDslStLclGovtGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SlsUndyedDslUseStLclGovtCrAmt",
+      "path": "SlsUndyedDslUseStLclGovtCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SlsUndyedKeroseneExceptionInd",
+      "path": "SlsUndyedKeroseneExceptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "SlsUndyedKrsnBlockPumpCrAmt",
+      "path": "SlsUndyedKrsnBlockPumpCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SlsUndyedKrsnBlockPumpGalsQty",
+      "path": "SlsUndyedKrsnBlockPumpGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SlsUndyedKrsnStLclGovtGalsQty",
+      "path": "SlsUndyedKrsnStLclGovtGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SlsUndyedKrsnUseBusCrAmt",
+      "path": "SlsUndyedKrsnUseBusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SlsUndyedKrsnUseBusGalsQty",
+      "path": "SlsUndyedKrsnUseBusGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SustainableAviationFuelCrAmt",
+      "path": "SustainableAviationFuelCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "SustainableAviationFuelDetail/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SustainableAviationFuelDetail/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalFuelTaxCreditAmt",
+      "path": "TotalFuelTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrainUseOfUndyedDieselCrAmt",
+      "path": "TrainUseOfUndyedDieselCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrainUseOfUndyedDieselGalsQty",
+      "path": "TrainUseOfUndyedDieselGalsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "UndyedDieselRegistrationNum",
+      "path": "UndyedDieselRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "UndyedDieselUseExceptionInd",
+      "path": "UndyedDieselUseExceptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "UndyedKeroseneRegistrationNum",
+      "path": "UndyedKeroseneRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "UndyedKeroseneUseExceptionInd",
+      "path": "UndyedKeroseneUseExceptionInd",
+      "type": "bool"
+    }
+  ]
+}

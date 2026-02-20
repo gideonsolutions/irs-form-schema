@@ -1,0 +1,241 @@
+{
+  "form_id": "IRS1120SchedulePH",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdditionsLessDeductionsAmt",
+      "path": "AdditionsLessDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnuitiesAmt",
+      "path": "AnnuitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommonStockOwnedPercentRt",
+      "path": "CommonStockOwnedPercentRt",
+      "type": "decimal"
+    },
+    {
+      "name": "CompensationCorpPropUseAmt",
+      "path": "CompensationCorpPropUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConsentDividendsAmt",
+      "path": "ConsentDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionsDedUnder545b5Amt",
+      "path": "ContributionsDedUnder545b5Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionsDeductedAmt",
+      "path": "ContributionsDeductedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CopyrightRoyaltiesAmt",
+      "path": "CopyrightRoyaltiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionDividendsPaidAmt",
+      "path": "DeductionDividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DivCyov1stAnd2ndPrecTaxYrsAmt",
+      "path": "DivCyov1stAnd2ndPrecTaxYrsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DivPaidAfterEndOfTaxYearAmt",
+      "path": "DivPaidAfterEndOfTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendAmt",
+      "path": "DividendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendLessExcldDividendAmt",
+      "path": "DividendLessExcldDividendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsIncludibleIncmAmt",
+      "path": "EstatesTrustsIncludibleIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessExpensesDeprec545b6Amt",
+      "path": "ExcessExpensesDeprec545b6Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessExpensesDepreciationGrp",
+      "path": "ExcessExpensesDepreciationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ExcludedDividendAmt",
+      "path": "ExcludedDividendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludedInterestAmt",
+      "path": "ExcludedInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxNetCapitalGainAmt",
+      "path": "IncomeTaxNetCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestAmt",
+      "path": "InterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestLessExcldInterestAmt",
+      "path": "InterestLessExcldInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MineralOilGasRoyaltiesAdjAmt",
+      "path": "MineralOilGasRoyaltiesAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MineralOilGasRoyaltiesAmt",
+      "path": "MineralOilGasRoyaltiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MineralOilGasRyltsLessAdjAmt",
+      "path": "MineralOilGasRyltsLessAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalGainAmt",
+      "path": "NetCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalGainLessIncomeTaxAmt",
+      "path": "NetCapitalGainLessIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossPrecTYDedAmt",
+      "path": "NetOperatingLossPrecTYDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesNotDeductedAmt",
+      "path": "OtherTaxesNotDeductedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PSCReceivedAndSaleAmt",
+      "path": "PSCReceivedAndSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalHoldingCompanyIncmAmt",
+      "path": "PersonalHoldingCompanyIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalHoldingCompanyTaxAmt",
+      "path": "PersonalHoldingCompanyTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PreferredStockOwnedPercentRt",
+      "path": "PreferredStockOwnedPercentRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ProducedFilmRentsAmt",
+      "path": "ProducedFilmRentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsAdjustmentAmt",
+      "path": "RentsAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsLessRentsAdjustmentAmt",
+      "path": "RentsLessRentsAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsReceivedAmt",
+      "path": "RentsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RoyaltiesReceivedAmt",
+      "path": "RoyaltiesReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockOwnrRqrUndSect542a2Grp",
+      "path": "StockOwnrRqrUndSect542a2Grp",
+      "type": "group"
+    },
+    {
+      "name": "TaxableDistributionAmt",
+      "path": "TaxableDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableDividendsPaidAmt",
+      "path": "TaxableDividendsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeNetOprLossAmt",
+      "path": "TaxableIncomeNetOprLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionsAmt",
+      "path": "TotalDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section545cAmt",
+      "path": "TotalDeductionsAmt/@section545cAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section545cCd",
+      "path": "TotalDeductionsAmt/@section545cCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalExcessExpensesDeprecAmt",
+      "path": "TotalExcessExpensesDeprecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetAdditionsAmt",
+      "path": "TotalNetAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UndistributedPHCIncomeAmt",
+      "path": "UndistributedPHCIncomeAmt",
+      "type": "usd"
+    }
+  ]
+}

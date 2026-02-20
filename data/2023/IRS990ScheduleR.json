@@ -1,0 +1,136 @@
+{
+  "form_id": "IRS990ScheduleR",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AssetExchangeInd",
+      "path": "AssetExchangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "AssetPurchaseFromOtherOrgInd",
+      "path": "AssetPurchaseFromOtherOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "AssetSaleToOtherOrgInd",
+      "path": "AssetSaleToOtherOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "DivRelatedOrganizationInd",
+      "path": "DivRelatedOrganizationInd",
+      "type": "bool"
+    },
+    {
+      "name": "GiftGrntCapContriFromOthOrgInd",
+      "path": "GiftGrntCapContriFromOthOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "GiftGrntOrCapContriToOthOrgInd",
+      "path": "GiftGrntOrCapContriToOthOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "IdDisregardedEntitiesGrp",
+      "path": "IdDisregardedEntitiesGrp",
+      "type": "group"
+    },
+    {
+      "name": "IdRelatedOrgTxblCorpTrGrp",
+      "path": "IdRelatedOrgTxblCorpTrGrp",
+      "type": "group"
+    },
+    {
+      "name": "IdRelatedOrgTxblPartnershipGrp",
+      "path": "IdRelatedOrgTxblPartnershipGrp",
+      "type": "group"
+    },
+    {
+      "name": "IdRelatedTaxExemptOrgGrp",
+      "path": "IdRelatedTaxExemptOrgGrp",
+      "type": "group"
+    },
+    {
+      "name": "LoansOrGuaranteesFromOthOrgInd",
+      "path": "LoansOrGuaranteesFromOthOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "LoansOrGuaranteesToOtherOrgInd",
+      "path": "LoansOrGuaranteesToOtherOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "PaidEmployeesSharingInd",
+      "path": "PaidEmployeesSharingInd",
+      "type": "bool"
+    },
+    {
+      "name": "PerformOfServicesByOtherOrgInd",
+      "path": "PerformOfServicesByOtherOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "PerformOfServicesForOthOrgInd",
+      "path": "PerformOfServicesForOthOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReceiptOfIntAnntsRntsRyltsInd",
+      "path": "ReceiptOfIntAnntsRntsRyltsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReimbursementPaidByOtherOrgInd",
+      "path": "ReimbursementPaidByOtherOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReimbursementPaidToOtherOrgInd",
+      "path": "ReimbursementPaidToOtherOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "RentalOfFacilitiesToOthOrgInd",
+      "path": "RentalOfFacilitiesToOthOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "RentalOfFcltsFromOthOrgInd",
+      "path": "RentalOfFcltsFromOthOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "SharingOfFacilitiesInd",
+      "path": "SharingOfFacilitiesInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupplementalInformationDetail",
+      "path": "SupplementalInformationDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "TransactionsRelatedOrgGrp",
+      "path": "TransactionsRelatedOrgGrp",
+      "type": "group"
+    },
+    {
+      "name": "TransferFromOtherOrgInd",
+      "path": "TransferFromOtherOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "TransferToOtherOrgInd",
+      "path": "TransferToOtherOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "UnrelatedOrgTxblPartnershipGrp",
+      "path": "UnrelatedOrgTxblPartnershipGrp",
+      "type": "group"
+    }
+  ]
+}

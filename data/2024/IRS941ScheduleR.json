@@ -1,0 +1,311 @@
+{
+  "form_id": "IRS941ScheduleR",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "COBRAPremiumSubsidyRcpntCnt",
+      "path": "AggregateEmployeeInfoGrp/COBRAPremiumSubsidyRcpntCnt",
+      "type": "int"
+    },
+    {
+      "name": "EmployeeCnt",
+      "path": "AggregateEmployeeInfoGrp/EmployeeCnt",
+      "type": "int"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "AggregateEmployeeInfoGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "AggregateEmployeeInfoGrp/PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnMedicareWagesTipsAmt",
+      "path": "AggregateEmployeeInfoGrp/TaxOnMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnUnreportedTips3121qAmt",
+      "path": "AggregateEmployeeInfoGrp/TaxOnUnreportedTips3121qAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "path": "AggregateEmployeeInfoGrp/TotBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBrgnAgrmtQlfySLWgsAftrAmt",
+      "path": "AggregateEmployeeInfoGrp/TotBrgnAgrmtQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQHPExpnssQlfyLvWgsAftrAmt",
+      "path": "AggregateEmployeeInfoGrp/TotQHPExpnssQlfyLvWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQHPExpnssSSQlfyPdSLFMLWgAmt",
+      "path": "AggregateEmployeeInfoGrp/TotQHPExpnssSSQlfyPdSLFMLWgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotSSQlfyPdSLFMLWageAmt",
+      "path": "AggregateEmployeeInfoGrp/TotSSQlfyPdSLFMLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCOBRAPremiumSubsidyAmt",
+      "path": "AggregateEmployeeInfoGrp/TotalCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCrQlfySLFMLWagesAftrAmt",
+      "path": "AggregateEmployeeInfoGrp/TotalCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCrQlfySLFMLWagesAmt",
+      "path": "AggregateEmployeeInfoGrp/TotalCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSSMdcrTaxAmt",
+      "path": "AggregateEmployeeInfoGrp/TotalSSMdcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSocialSecurityTaxTipAmt",
+      "path": "AggregateEmployeeInfoGrp/TotalSocialSecurityTaxTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "AggregateEmployeeInfoGrp/TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "AggregateEmployeeInfoGrp/TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "AggregateEmployeeInfoGrp/WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CPEOInd",
+      "path": "CPEOInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClientInformationGrp",
+      "path": "ClientInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherThirdPartyInd",
+      "path": "OtherThirdPartyInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section3504AgentInd",
+      "path": "Section3504AgentInd",
+      "type": "bool"
+    },
+    {
+      "name": "COBRAPremiumSubsidyRcpntCnt",
+      "path": "SubtotalForClientGrp/COBRAPremiumSubsidyRcpntCnt",
+      "type": "int"
+    },
+    {
+      "name": "EmployeeCnt",
+      "path": "SubtotalForClientGrp/EmployeeCnt",
+      "type": "int"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "SubtotalForClientGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "SubtotalForClientGrp/PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnMedicareWagesTipsAmt",
+      "path": "SubtotalForClientGrp/TaxOnMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnUnreportedTips3121qAmt",
+      "path": "SubtotalForClientGrp/TaxOnUnreportedTips3121qAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "path": "SubtotalForClientGrp/TotBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBrgnAgrmtQlfySLWgsAftrAmt",
+      "path": "SubtotalForClientGrp/TotBrgnAgrmtQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQHPExpnssQlfyLvWgsAftrAmt",
+      "path": "SubtotalForClientGrp/TotQHPExpnssQlfyLvWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQHPExpnssSSQlfyPdSLFMLWgAmt",
+      "path": "SubtotalForClientGrp/TotQHPExpnssSSQlfyPdSLFMLWgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotSSQlfyPdSLFMLWageAmt",
+      "path": "SubtotalForClientGrp/TotSSQlfyPdSLFMLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCOBRAPremiumSubsidyAmt",
+      "path": "SubtotalForClientGrp/TotalCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCrQlfySLFMLWagesAftrAmt",
+      "path": "SubtotalForClientGrp/TotalCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCrQlfySLFMLWagesAmt",
+      "path": "SubtotalForClientGrp/TotalCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSSMdcrTaxAmt",
+      "path": "SubtotalForClientGrp/TotalSSMdcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSocialSecurityTaxTipAmt",
+      "path": "SubtotalForClientGrp/TotalSocialSecurityTaxTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "SubtotalForClientGrp/TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "SubtotalForClientGrp/TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "SubtotalForClientGrp/WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "COBRAPremiumSubsidyRcpntCnt",
+      "path": "TotalAggregateAndClientInfoGrp/COBRAPremiumSubsidyRcpntCnt",
+      "type": "int"
+    },
+    {
+      "name": "EmployeeCnt",
+      "path": "TotalAggregateAndClientInfoGrp/EmployeeCnt",
+      "type": "int"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "TotalAggregateAndClientInfoGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "TotalAggregateAndClientInfoGrp/PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnMedicareWagesTipsAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TaxOnMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnUnreportedTips3121qAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TaxOnUnreportedTips3121qAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBrgnAgrmtQlfySLWgsAftrAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotBrgnAgrmtQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQHPExpnssQlfyLvWgsAftrAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotQHPExpnssQlfyLvWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQHPExpnssSSQlfyPdSLFMLWgAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotQHPExpnssSSQlfyPdSLFMLWgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotSSQlfyPdSLFMLWageAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotSSQlfyPdSLFMLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCOBRAPremiumSubsidyAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotalCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCrQlfySLFMLWagesAftrAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotalCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCrQlfySLFMLWagesAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotalCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSSMdcrTaxAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotalSSMdcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSocialSecurityTaxTipAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotalSocialSecurityTaxTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "TotalAggregateAndClientInfoGrp/TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "TotalAggregateAndClientInfoGrp/WagesAmt",
+      "type": "usd"
+    }
+  ]
+}

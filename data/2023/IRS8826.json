@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS8826",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "EligExpendAndMinDifferenceAmt",
+      "path": "EligExpendAndMinDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpandSCorpDisabledAcsCrAmt",
+      "path": "PrtshpandSCorpDisabledAcsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpandSCorpReportAmt",
+      "path": "PrtshpandSCorpReportAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ShareOfCreditAmt",
+      "path": "ShareOfCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerFromDifferenceOrMaxAmt",
+      "path": "SmallerFromDifferenceOrMaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEligibleAccessExpendAmt",
+      "path": "TotalEligibleAccessExpendAmt",
+      "type": "usd"
+    }
+  ]
+}

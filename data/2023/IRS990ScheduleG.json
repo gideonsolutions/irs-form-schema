@@ -1,0 +1,676 @@
+{
+  "form_id": "IRS990ScheduleG",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AgrmtProfFundraisingActyInd",
+      "path": "AgrmtProfFundraisingActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "AllStatesCd",
+      "path": "AllStatesCd",
+      "type": "enum"
+    },
+    {
+      "name": "CharitableDistributionRqrInd",
+      "path": "CharitableDistributionRqrInd",
+      "type": "bool"
+    },
+    {
+      "name": "CntrctWith3rdPrtyForGameRevInd",
+      "path": "CntrctWith3rdPrtyForGameRevInd",
+      "type": "bool"
+    },
+    {
+      "name": "DistributedAmt",
+      "path": "DistributedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmailSolicitationsInd",
+      "path": "EmailSolicitationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExplanationIfNoTxt",
+      "path": "ExplanationIfNoTxt",
+      "type": "string"
+    },
+    {
+      "name": "ExplanationIfYesTxt",
+      "path": "ExplanationIfYesTxt",
+      "type": "string"
+    },
+    {
+      "name": "FundraiserActivityInfoGrp",
+      "path": "FundraiserActivityInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "CashPrizesEvent1Amt",
+      "path": "FundraisingEventInformationGrp/CashPrizesEvent1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CashPrizesEvent2Amt",
+      "path": "FundraisingEventInformationGrp/CashPrizesEvent2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CashPrizesOtherEventsAmt",
+      "path": "FundraisingEventInformationGrp/CashPrizesOtherEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashPrizesTotalEventsAmt",
+      "path": "FundraisingEventInformationGrp/CashPrizesTotalEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContriEvent1Amt",
+      "path": "FundraisingEventInformationGrp/CharitableContriEvent1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContriEvent2Amt",
+      "path": "FundraisingEventInformationGrp/CharitableContriEvent2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContriOtherEventsAmt",
+      "path": "FundraisingEventInformationGrp/CharitableContriOtherEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContributionsTotAmt",
+      "path": "FundraisingEventInformationGrp/CharitableContributionsTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DirectExpenseSummaryEventsAmt",
+      "path": "FundraisingEventInformationGrp/DirectExpenseSummaryEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EntertainmentEvent1Amt",
+      "path": "FundraisingEventInformationGrp/EntertainmentEvent1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EntertainmentEvent2Amt",
+      "path": "FundraisingEventInformationGrp/EntertainmentEvent2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EntertainmentOtherEventsAmt",
+      "path": "FundraisingEventInformationGrp/EntertainmentOtherEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EntertainmentTotalEventsAmt",
+      "path": "FundraisingEventInformationGrp/EntertainmentTotalEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Event1Nm",
+      "path": "FundraisingEventInformationGrp/Event1Nm",
+      "type": "string"
+    },
+    {
+      "name": "Event2Nm",
+      "path": "FundraisingEventInformationGrp/Event2Nm",
+      "type": "string"
+    },
+    {
+      "name": "FoodAndBeverageEvent1Amt",
+      "path": "FundraisingEventInformationGrp/FoodAndBeverageEvent1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FoodAndBeverageEvent2Amt",
+      "path": "FundraisingEventInformationGrp/FoodAndBeverageEvent2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FoodAndBeverageOtherEventsAmt",
+      "path": "FundraisingEventInformationGrp/FoodAndBeverageOtherEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FoodAndBeverageTotalEventsAmt",
+      "path": "FundraisingEventInformationGrp/FoodAndBeverageTotalEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsEvent1Amt",
+      "path": "FundraisingEventInformationGrp/GrossReceiptsEvent1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsEvent2Amt",
+      "path": "FundraisingEventInformationGrp/GrossReceiptsEvent2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsOtherEventsAmt",
+      "path": "FundraisingEventInformationGrp/GrossReceiptsOtherEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsTotalAmt",
+      "path": "FundraisingEventInformationGrp/GrossReceiptsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRevenueEvent1Amt",
+      "path": "FundraisingEventInformationGrp/GrossRevenueEvent1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRevenueEvent2Amt",
+      "path": "FundraisingEventInformationGrp/GrossRevenueEvent2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRevenueOtherEventsAmt",
+      "path": "FundraisingEventInformationGrp/GrossRevenueOtherEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRevenueTotalEventsAmt",
+      "path": "FundraisingEventInformationGrp/GrossRevenueTotalEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeSummaryAmt",
+      "path": "FundraisingEventInformationGrp/NetIncomeSummaryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonCashPrizesEvent1Amt",
+      "path": "FundraisingEventInformationGrp/NonCashPrizesEvent1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "NonCashPrizesEvent2Amt",
+      "path": "FundraisingEventInformationGrp/NonCashPrizesEvent2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "NonCashPrizesOtherEventsAmt",
+      "path": "FundraisingEventInformationGrp/NonCashPrizesOtherEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonCashPrizesTotalEventsAmt",
+      "path": "FundraisingEventInformationGrp/NonCashPrizesTotalEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthDirectExpnssOtherEventsAmt",
+      "path": "FundraisingEventInformationGrp/OthDirectExpnssOtherEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthDirectExpnssTotalEventsAmt",
+      "path": "FundraisingEventInformationGrp/OthDirectExpnssTotalEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDirectExpensesEvent1Amt",
+      "path": "FundraisingEventInformationGrp/OtherDirectExpensesEvent1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDirectExpensesEvent2Amt",
+      "path": "FundraisingEventInformationGrp/OtherDirectExpensesEvent2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherEventsTotalCnt",
+      "path": "FundraisingEventInformationGrp/OtherEventsTotalCnt",
+      "type": "int"
+    },
+    {
+      "name": "RentFacilityCostsEvent1Amt",
+      "path": "FundraisingEventInformationGrp/RentFacilityCostsEvent1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "RentFacilityCostsEvent2Amt",
+      "path": "FundraisingEventInformationGrp/RentFacilityCostsEvent2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "RentFcltyCostsOtherEventsAmt",
+      "path": "FundraisingEventInformationGrp/RentFcltyCostsOtherEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentFcltyCostsTotalEventsAmt",
+      "path": "FundraisingEventInformationGrp/RentFcltyCostsTotalEventsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashPrizesBingoAmt",
+      "path": "GamingInformationGrp/CashPrizesBingoAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashPrizesOtherGamingAmt",
+      "path": "GamingInformationGrp/CashPrizesOtherGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashPrizesPullTabsAmt",
+      "path": "GamingInformationGrp/CashPrizesPullTabsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashPrizesTotalGamingAmt",
+      "path": "GamingInformationGrp/CashPrizesTotalGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DirectExpenseSummaryGamingAmt",
+      "path": "GamingInformationGrp/DirectExpenseSummaryGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRevenueBingoAmt",
+      "path": "GamingInformationGrp/GrossRevenueBingoAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRevenueOtherGamingAmt",
+      "path": "GamingInformationGrp/GrossRevenueOtherGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRevenuePullTabsAmt",
+      "path": "GamingInformationGrp/GrossRevenuePullTabsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRevenueTotalGamingAmt",
+      "path": "GamingInformationGrp/GrossRevenueTotalGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetGamingIncomeSummaryAmt",
+      "path": "GamingInformationGrp/NetGamingIncomeSummaryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonCashPrizesBingoAmt",
+      "path": "GamingInformationGrp/NonCashPrizesBingoAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonCashPrizesOtherGamingAmt",
+      "path": "GamingInformationGrp/NonCashPrizesOtherGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonCashPrizesPullTabsAmt",
+      "path": "GamingInformationGrp/NonCashPrizesPullTabsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonCashPrizesTotalGamingAmt",
+      "path": "GamingInformationGrp/NonCashPrizesTotalGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthDirectExpnssOtherGamingAmt",
+      "path": "GamingInformationGrp/OthDirectExpnssOtherGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthDirectExpnssTotalGamingAmt",
+      "path": "GamingInformationGrp/OthDirectExpnssTotalGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDirectExpensesBingoAmt",
+      "path": "GamingInformationGrp/OtherDirectExpensesBingoAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDirectExpensesPullTabsAmt",
+      "path": "GamingInformationGrp/OtherDirectExpensesPullTabsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentFacilityCostsBingoAmt",
+      "path": "GamingInformationGrp/RentFacilityCostsBingoAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentFacilityCostsPullTabsAmt",
+      "path": "GamingInformationGrp/RentFacilityCostsPullTabsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentFcltyCostsOtherGamingAmt",
+      "path": "GamingInformationGrp/RentFcltyCostsOtherGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentFcltyCostsTotalGamingAmt",
+      "path": "GamingInformationGrp/RentFcltyCostsTotalGamingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VolunteerLaborBingoInd",
+      "path": "GamingInformationGrp/VolunteerLaborBingoInd",
+      "type": "bool"
+    },
+    {
+      "name": "VolunteerLaborBingoPct",
+      "path": "GamingInformationGrp/VolunteerLaborBingoPct",
+      "type": "decimal"
+    },
+    {
+      "name": "VolunteerLaborOtherGamingInd",
+      "path": "GamingInformationGrp/VolunteerLaborOtherGamingInd",
+      "type": "bool"
+    },
+    {
+      "name": "VolunteerLaborOtherGamingPct",
+      "path": "GamingInformationGrp/VolunteerLaborOtherGamingPct",
+      "type": "decimal"
+    },
+    {
+      "name": "VolunteerLaborPullTabsInd",
+      "path": "GamingInformationGrp/VolunteerLaborPullTabsInd",
+      "type": "bool"
+    },
+    {
+      "name": "VolunteerLaborPullTabsPct",
+      "path": "GamingInformationGrp/VolunteerLaborPullTabsPct",
+      "type": "decimal"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "GamingManagerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "GamingManagerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "GamingManagerCompensationAmt",
+      "path": "GamingManagerCompensationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GamingManagerIsDirectorOfcrInd",
+      "path": "GamingManagerIsDirectorOfcrInd",
+      "type": "bool"
+    },
+    {
+      "name": "GamingManagerIsEmployeeInd",
+      "path": "GamingManagerIsEmployeeInd",
+      "type": "bool"
+    },
+    {
+      "name": "GamingManagerIsIndCntrctInd",
+      "path": "GamingManagerIsIndCntrctInd",
+      "type": "bool"
+    },
+    {
+      "name": "GamingManagerPersonNm",
+      "path": "GamingManagerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "GamingManagerServicesProvTxt",
+      "path": "GamingManagerServicesProvTxt",
+      "type": "string"
+    },
+    {
+      "name": "GamingOtherFacilityPct",
+      "path": "GamingOtherFacilityPct",
+      "type": "decimal"
+    },
+    {
+      "name": "GamingOwnFacilityPct",
+      "path": "GamingOwnFacilityPct",
+      "type": "decimal"
+    },
+    {
+      "name": "GamingRevenueReceivedByOrgAmt",
+      "path": "GamingRevenueReceivedByOrgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GamingRevenueRtnBy3PrtyAmt",
+      "path": "GamingRevenueRtnBy3PrtyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GamingWithNonmembersInd",
+      "path": "GamingWithNonmembersInd",
+      "type": "bool"
+    },
+    {
+      "name": "InPersonSolicitationsInd",
+      "path": "InPersonSolicitationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "IndividualWithBooksNm",
+      "path": "IndividualWithBooksNm",
+      "type": "string"
+    },
+    {
+      "name": "LicenseSuspendedEtcInd",
+      "path": "LicenseSuspendedEtcInd",
+      "type": "bool"
+    },
+    {
+      "name": "LicensedInd",
+      "path": "LicensedInd",
+      "type": "bool"
+    },
+    {
+      "name": "LicensedStatesCd",
+      "path": "LicensedStatesCd",
+      "type": "enum"
+    },
+    {
+      "name": "MailSolicitationsInd",
+      "path": "MailSolicitationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "MemberOfOtherEntityInd",
+      "path": "MemberOfOtherEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PersonsWithBooksForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PersonsWithBooksForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PersonsWithBooksForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PersonsWithBooksForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "PersonsWithBooksForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "PersonsWithBooksForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PersonsWithBooksName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PersonsWithBooksName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PersonsWithBooksUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PersonsWithBooksUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PersonsWithBooksUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "PersonsWithBooksUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "PersonsWithBooksUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "PhoneSolicitationsInd",
+      "path": "PhoneSolicitationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "SolicitationOfGovtGrantsInd",
+      "path": "SolicitationOfGovtGrantsInd",
+      "type": "bool"
+    },
+    {
+      "name": "SolicitationOfNonGovtGrantsInd",
+      "path": "SolicitationOfNonGovtGrantsInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecialFundraisingEventsInd",
+      "path": "SpecialFundraisingEventsInd",
+      "type": "bool"
+    },
+    {
+      "name": "StatesWhereGamingConductedCd",
+      "path": "StatesWhereGamingConductedCd",
+      "type": "enum"
+    },
+    {
+      "name": "SupplementalInformationDetail",
+      "path": "SupplementalInformationDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1",
+      "path": "ThirdPartyBusinessName/BusinessNameLine1",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine2",
+      "path": "ThirdPartyBusinessName/BusinessNameLine2",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ThirdPartyForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ThirdPartyForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ThirdPartyForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ThirdPartyForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "ThirdPartyForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ThirdPartyForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ThirdPartyPersonNm",
+      "path": "ThirdPartyPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ThirdPartyUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ThirdPartyUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ThirdPartyUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "ThirdPartyUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "ThirdPartyUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalGrossReceiptsAmt",
+      "path": "TotalGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetToOrganizationAmt",
+      "path": "TotalNetToOrganizationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRetainedByContractorsAmt",
+      "path": "TotalRetainedByContractorsAmt",
+      "type": "usd"
+    }
+  ]
+}

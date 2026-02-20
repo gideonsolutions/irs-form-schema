@@ -1,0 +1,166 @@
+{
+  "form_id": "IRS8936ScheduleA",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AcqCmrclClnVehUseNotResaleInd",
+      "path": "AcqCmrclClnVehUseNotResaleInd",
+      "type": "bool"
+    },
+    {
+      "name": "AcqPrevOwnVehUseNotResaleInd",
+      "path": "AcqPrevOwnVehUseNotResaleInd",
+      "type": "bool"
+    },
+    {
+      "name": "AcqVehUseOrLeaseNotResaleInd",
+      "path": "AcqVehUseOrLeaseNotResaleInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessInvestmentUseAmt",
+      "path": "BusinessInvestmentUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvestmentUsePct",
+      "path": "BusinessInvestmentUsePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ClaimedAsDependentInd",
+      "path": "ClaimedAsDependentInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClnVehSalePriceMoreSpcfdAmtInd",
+      "path": "ClnVehSalePriceMoreSpcfdAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "MaxQlfyCmrclCleanVehCrAmt",
+      "path": "MaxQlfyCmrclCleanVehCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSect179ExpenseDedAmt",
+      "path": "NetSect179ExpenseDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSect179ExpenseDedPctAmt",
+      "path": "NetSect179ExpenseDedPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrevOwnClnVehInServiceTYInd",
+      "path": "PrevOwnClnVehInServiceTYInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrevOwnedCleanVehCreditAmt",
+      "path": "PrevOwnedCleanVehCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrsnlUseNewCleanVehicleCrAmt",
+      "path": "PrsnlUseNewCleanVehicleCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyCmrclCleanVehicleCrAmt",
+      "path": "QlfyCmrclCleanVehicleCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyFuelCellMotorVehInd",
+      "path": "QlfyFuelCellMotorVehInd",
+      "type": "bool"
+    },
+    {
+      "name": "SalePriceAmt",
+      "path": "SalePriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SalePriceBySpecifiedPctAmt",
+      "path": "SalePriceBySpecifiedPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179ExpenseDeductionAmt",
+      "path": "Section179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentQlfyCmrclCleanVehicleCrAmt",
+      "path": "TentQlfyCmrclCleanVehicleCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCreditAmt",
+      "path": "TentativeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VIN",
+      "path": "VIN",
+      "type": "unknown"
+    },
+    {
+      "name": "VINNewClnVehInServiceTYInd",
+      "path": "VINNewClnVehInServiceTYInd",
+      "type": "bool"
+    },
+    {
+      "name": "VINQlfyCmrclClnVehInSrvcTYInd",
+      "path": "VINQlfyCmrclClnVehInSrvcTYInd",
+      "type": "bool"
+    },
+    {
+      "name": "VehOfCharSubjToAllwncDeprecInd",
+      "path": "VehOfCharSubjToAllwncDeprecInd",
+      "type": "bool"
+    },
+    {
+      "name": "VehicleCostOrOtherBasisAmt",
+      "path": "VehicleCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleMakeNameTxt",
+      "path": "VehicleDescriptionGrp/VehicleMakeNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "VehicleModelNameTxt",
+      "path": "VehicleDescriptionGrp/VehicleModelNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "VehicleModelYr",
+      "path": "VehicleDescriptionGrp/VehicleModelYr",
+      "type": "unknown"
+    },
+    {
+      "name": "VehicleIncrementalCostAmt",
+      "path": "VehicleIncrementalCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehiclePlacedInServiceDt",
+      "path": "VehiclePlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "VehiclePoweredByGasOrDieselInd",
+      "path": "VehiclePoweredByGasOrDieselInd",
+      "type": "bool"
+    },
+    {
+      "name": "VehicleUsedOutsideUSInd",
+      "path": "VehicleUsedOutsideUSInd",
+      "type": "bool"
+    }
+  ]
+}

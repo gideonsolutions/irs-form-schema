@@ -1,0 +1,121 @@
+{
+  "form_id": "IRS8891",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "CARetireCYUndistrIntIncAmt",
+      "path": "CARetireCYUndistrIntIncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CARetireCYUndistrQlfyDivAmt",
+      "path": "CARetireCYUndistrQlfyDivAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalendarYr",
+      "path": "CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "CanadaRegdRetireIncomeFundInd",
+      "path": "CanadaRegdRetireIncomeFundInd",
+      "type": "bool"
+    },
+    {
+      "name": "CanadaRegdRetireSavingPlanInd",
+      "path": "CanadaRegdRetireSavingPlanInd",
+      "type": "bool"
+    },
+    {
+      "name": "CanadaRetireCYContributionAmt",
+      "path": "CanadaRetireCYContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CanadaRetireCYDistributionAmt",
+      "path": "CanadaRetireCYDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CanadaRetireCYTxblDistriAmt",
+      "path": "CanadaRetireCYTxblDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CanadaRetireCYUndistrCapGnAmt",
+      "path": "CanadaRetireCYUndistrCapGnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CanadaRetireCYUndistrOrdDivAmt",
+      "path": "CanadaRetireCYUndistrOrdDivAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CanadaRetireCYUndistrOthIncAmt",
+      "path": "CanadaRetireCYUndistrOthIncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CanadaRetireEOYPlanBalanceAmt",
+      "path": "CanadaRetireEOYPlanBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CanadaRetirePlanAccountNum",
+      "path": "CanadaRetirePlanAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "CanadaRetirePlanAnnuitantInd",
+      "path": "CanadaRetirePlanAnnuitantInd",
+      "type": "bool"
+    },
+    {
+      "name": "CanadaRetirePlanBeneficiaryInd",
+      "path": "CanadaRetirePlanBeneficiaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "CanadaRetirePlanCustodianName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "CanadaRetirePlanCustodianName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CanadaRetireUndistrOthIncome",
+      "path": "CanadaRetireUndistrOthIncome",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "USAddress",
+      "path": "USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "USTaxDeferralElectPreviousInd",
+      "path": "USTaxDeferralElectPreviousInd",
+      "type": "bool"
+    },
+    {
+      "name": "USTaxDeferralElectionFirstYr",
+      "path": "USTaxDeferralElectionFirstYr",
+      "type": "unknown"
+    },
+    {
+      "name": "USTaxDeferralNewElectionInd",
+      "path": "USTaxDeferralNewElectionInd",
+      "type": "bool"
+    }
+  ]
+}

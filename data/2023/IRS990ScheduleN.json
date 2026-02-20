@@ -1,0 +1,76 @@
+{
+  "form_id": "IRS990ScheduleN",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AssetsDistributedInd",
+      "path": "AssetsDistributedInd",
+      "type": "bool"
+    },
+    {
+      "name": "AttorneyGeneralNotifiedInd",
+      "path": "AttorneyGeneralNotifiedInd",
+      "type": "bool"
+    },
+    {
+      "name": "BondLiabilitiesDischargedInd",
+      "path": "BondLiabilitiesDischargedInd",
+      "type": "bool"
+    },
+    {
+      "name": "BondsOutstandingInd",
+      "path": "BondsOutstandingInd",
+      "type": "bool"
+    },
+    {
+      "name": "DirectorOfSuccessorInd",
+      "path": "DirectorOfSuccessorInd",
+      "type": "bool"
+    },
+    {
+      "name": "DispositionOfAssetsDetail",
+      "path": "DispositionOfAssetsDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployeeOfSuccessorInd",
+      "path": "EmployeeOfSuccessorInd",
+      "type": "bool"
+    },
+    {
+      "name": "LiabilitiesPaidInd",
+      "path": "LiabilitiesPaidInd",
+      "type": "bool"
+    },
+    {
+      "name": "LiquidationOfAssetsTableGrp",
+      "path": "LiquidationOfAssetsTableGrp",
+      "type": "group"
+    },
+    {
+      "name": "LiquidationOfAssetsDetail",
+      "path": "LiquidationOfAssetsTableGrp/LiquidationOfAssetsDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "OwnerOfSuccessorInd",
+      "path": "OwnerOfSuccessorInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReceiveCompensationInd",
+      "path": "ReceiveCompensationInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequiredToNotifyAGInd",
+      "path": "RequiredToNotifyAGInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupplementalInformationDetail",
+      "path": "SupplementalInformationDetail",
+      "type": "unknown"
+    }
+  ]
+}

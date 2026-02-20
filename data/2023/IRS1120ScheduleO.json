@@ -1,0 +1,371 @@
+{
+  "form_id": "IRS1120ScheduleO",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AgreementExtendStatuteLimitDt",
+      "path": "AgreementExtendStatuteLimitDt",
+      "type": "date"
+    },
+    {
+      "name": "AgreementExtendStatuteLimitInd",
+      "path": "AgreementExtendStatuteLimitInd",
+      "type": "bool"
+    },
+    {
+      "name": "AmendCurrApportionmentPlanInd",
+      "path": "AmendCurrApportionmentPlanInd",
+      "type": "bool"
+    },
+    {
+      "name": "AmendPreviousAdptPlanTYEndDt",
+      "path": "AmendPreviousAdptPlanTYEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ApportionmentPlanAdoptionInd",
+      "path": "ApportionmentPlanAdoptionInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApportionmentPlanAdoptnTYEndDt",
+      "path": "ApportionmentPlanAdoptnTYEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ApportionmentPlanAdptTYEndDt",
+      "path": "ApportionmentPlanAdptTYEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ApportionmentPlanEffectInd",
+      "path": "ApportionmentPlanEffectInd",
+      "type": "bool"
+    },
+    {
+      "name": "BrotherSisterGroupInd",
+      "path": "BrotherSisterGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CombinedGroupInd",
+      "path": "CombinedGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorpMemberSinceDt",
+      "path": "CorpMemberSinceDt",
+      "type": "date"
+    },
+    {
+      "name": "CorpMemberToDt",
+      "path": "CorpMemberToDt",
+      "type": "date"
+    },
+    {
+      "name": "CorporateGroupMemberInd",
+      "path": "CorporateGroupMemberInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorporateMemberEntireYearInd",
+      "path": "CorporateMemberEntireYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FilersIncmTxApportionment15Amt",
+      "path": "IncomeTaxApportionmentGrp/FilersIncmTaxApportionment/FilersIncmTxApportionment15Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersIncmTxApportionment25Amt",
+      "path": "IncomeTaxApportionmentGrp/FilersIncmTaxApportionment/FilersIncmTxApportionment25Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersIncmTxApportionment34Amt",
+      "path": "IncomeTaxApportionmentGrp/FilersIncmTaxApportionment/FilersIncmTxApportionment34Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersIncmTxApportionment35Amt",
+      "path": "IncomeTaxApportionmentGrp/FilersIncmTaxApportionment/FilersIncmTxApportionment35Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersIncmTxApportionment3Amt",
+      "path": "IncomeTaxApportionmentGrp/FilersIncmTaxApportionment/FilersIncmTxApportionment3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersIncmTxApportionment5Amt",
+      "path": "IncomeTaxApportionmentGrp/FilersIncmTaxApportionment/FilersIncmTxApportionment5Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FlrTotMemIncmTxApportionmentAmt",
+      "path": "IncomeTaxApportionmentGrp/FilersIncmTaxApportionment/FlrTotMemIncmTxApportionmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxApportionment",
+      "path": "IncomeTaxApportionmentGrp/IncomeTaxApportionment",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalAllIncmTxApportionmentAmt",
+      "path": "IncomeTaxApportionmentGrp/TotalAllIncmTxApportionmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncmTxApportionment15Amt",
+      "path": "IncomeTaxApportionmentGrp/TotalIncmTxApportionment15Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncmTxApportionment25Amt",
+      "path": "IncomeTaxApportionmentGrp/TotalIncmTxApportionment25Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncmTxApportionment34Amt",
+      "path": "IncomeTaxApportionmentGrp/TotalIncmTxApportionment34Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncmTxApportionment35Amt",
+      "path": "IncomeTaxApportionmentGrp/TotalIncmTxApportionment35Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncmTxApportionment3Amt",
+      "path": "IncomeTaxApportionmentGrp/TotalIncmTxApportionment3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncmTxApportionment5Amt",
+      "path": "IncomeTaxApportionmentGrp/TotalIncmTxApportionment5Amt",
+      "type": "usd"
+    },
+    {
+      "name": "LifeInsuranceCompaniesOnlyInd",
+      "path": "LifeInsuranceCompaniesOnlyInd",
+      "type": "bool"
+    },
+    {
+      "name": "MemberApportionmentGrp",
+      "path": "MemberApportionmentGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalOtherAmt",
+      "path": "MemberApportionmentGrp//TotalOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPenaltyFailurePayEstTxAmt",
+      "path": "MemberApportionmentGrp//TotalPenaltyFailurePayEstTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxableIncome35Amt",
+      "path": "MemberApportionmentGrp//TotalTaxableIncome35Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FilerTaxYearEndDt",
+      "path": "MemberApportionmentGrp/FilerApportionment/FilerTaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "FilersAccumulatedEarningsCrAmt",
+      "path": "MemberApportionmentGrp/FilerApportionment/FilersAccumulatedEarningsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersOtherAmountDesc",
+      "path": "MemberApportionmentGrp/FilerApportionment/FilersOtherAmountDesc",
+      "type": "string"
+    },
+    {
+      "name": "FilersOtherAmt",
+      "path": "MemberApportionmentGrp/FilerApportionment/FilersOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersPenaltyFTPEstTxAmt",
+      "path": "MemberApportionmentGrp/FilerApportionment/FilersPenaltyFTPEstTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersTotalMemberTxablIncmAmt",
+      "path": "MemberApportionmentGrp/FilerApportionment/FilersTotalMemberTxablIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MemberApportionmentDetail",
+      "path": "MemberApportionmentGrp/MemberApportionmentDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalAccumulatedEarningsCrAmt",
+      "path": "MemberApportionmentGrp/TotalAccumulatedEarningsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAmt",
+      "path": "MemberApportionmentGrp/TotalOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPenaltyFailurePayEstTxAmt",
+      "path": "MemberApportionmentGrp/TotalPenaltyFailurePayEstTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxableIncomeAmt",
+      "path": "MemberApportionmentGrp/TotalTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NoApportionmentPlanInd",
+      "path": "NoApportionmentPlanInd",
+      "type": "bool"
+    },
+    {
+      "name": "OneYearRemainingStatuteLmtInd",
+      "path": "OneYearRemainingStatuteLmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "FilersAMTExemptionAmt",
+      "path": "OtherApportionmentsGrp/FilersOtherApportionments/FilersAMTExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersAccumulatedEarningsCrAmt",
+      "path": "OtherApportionmentsGrp/FilersOtherApportionments/FilersAccumulatedEarningsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersOtherAmountDesc",
+      "path": "OtherApportionmentsGrp/FilersOtherApportionments/FilersOtherAmountDesc",
+      "type": "string"
+    },
+    {
+      "name": "FilersOtherAmt",
+      "path": "OtherApportionmentsGrp/FilersOtherApportionments/FilersOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersPenaltyFTPEstTxAmt",
+      "path": "OtherApportionmentsGrp/FilersOtherApportionments/FilersPenaltyFTPEstTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersPhaseoutAMTExemptAmt",
+      "path": "OtherApportionmentsGrp/FilersOtherApportionments/FilersPhaseoutAMTExemptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherApportionments",
+      "path": "OtherApportionmentsGrp/OtherApportionments",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalAMTExemptionAmt",
+      "path": "OtherApportionmentsGrp/TotalAMTExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAccumulatedEarningsCrAmt",
+      "path": "OtherApportionmentsGrp/TotalAccumulatedEarningsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAmt",
+      "path": "OtherApportionmentsGrp/TotalOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPenaltyFailurePayEstTxAmt",
+      "path": "OtherApportionmentsGrp/TotalPenaltyFailurePayEstTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPhaseoutAMTExemptionAmt",
+      "path": "OtherApportionmentsGrp/TotalPhaseoutAMTExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ParentSubsidiaryGroupInd",
+      "path": "ParentSubsidiaryGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "ShortTaxYearExcludeDec31Ind",
+      "path": "ShortTaxYearExcludeDec31Ind",
+      "type": "bool"
+    },
+    {
+      "name": "StatuteLimitPurposesAssmntDt",
+      "path": "StatuteLimitPurposesAssmntDt",
+      "type": "date"
+    },
+    {
+      "name": "StatuteLimitationsDtThisYrInd",
+      "path": "StatuteLimitationsDtThisYrInd",
+      "type": "bool"
+    },
+    {
+      "name": "StatuteLimitationsExpirationDt",
+      "path": "StatuteLimitationsExpirationDt",
+      "type": "date"
+    },
+    {
+      "name": "TermCurrApportionPlanRqrInd",
+      "path": "TermCurrApportionPlanRqrInd",
+      "type": "bool"
+    },
+    {
+      "name": "TermCurrApportionPlnElectedInd",
+      "path": "TermCurrApportionPlnElectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "TermCurrApportionmentPlanInd",
+      "path": "TermCurrApportionmentPlanInd",
+      "type": "bool"
+    },
+    {
+      "name": "TermCurrPlanAdoptNewPlanDt",
+      "path": "TermCurrPlanAdoptNewPlanDt",
+      "type": "date"
+    },
+    {
+      "name": "TermCurrPlanAdoptNewPlanInd",
+      "path": "TermCurrPlanAdoptNewPlanInd",
+      "type": "bool"
+    }
+  ]
+}

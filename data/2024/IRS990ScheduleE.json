@@ -1,0 +1,126 @@
+{
+  "form_id": "IRS990ScheduleE",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "ComplianceProc75_50Explanation",
+      "path": "ComplianceProc75_50Explanation",
+      "type": "unknown"
+    },
+    {
+      "name": "ComplianceWithRevProc7550Ind",
+      "path": "ComplianceWithRevProc7550Ind",
+      "type": "bool"
+    },
+    {
+      "name": "DiscriminateRaceAdmissPlcyInd",
+      "path": "DiscriminateRaceAdmissPlcyInd",
+      "type": "bool"
+    },
+    {
+      "name": "DiscriminateRaceAthltProgInd",
+      "path": "DiscriminateRaceAthltProgInd",
+      "type": "bool"
+    },
+    {
+      "name": "DiscriminateRaceEducPlcyInd",
+      "path": "DiscriminateRaceEducPlcyInd",
+      "type": "bool"
+    },
+    {
+      "name": "DiscriminateRaceEmplmFcultyInd",
+      "path": "DiscriminateRaceEmplmFcultyInd",
+      "type": "bool"
+    },
+    {
+      "name": "DiscriminateRaceExplanation",
+      "path": "DiscriminateRaceExplanation",
+      "type": "unknown"
+    },
+    {
+      "name": "DiscriminateRaceOtherActyInd",
+      "path": "DiscriminateRaceOtherActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "DiscriminateRaceSchsInd",
+      "path": "DiscriminateRaceSchsInd",
+      "type": "bool"
+    },
+    {
+      "name": "DiscriminateRaceStdntsRghtsInd",
+      "path": "DiscriminateRaceStdntsRghtsInd",
+      "type": "bool"
+    },
+    {
+      "name": "DiscriminateRaceUseOfFcltsInd",
+      "path": "DiscriminateRaceUseOfFcltsInd",
+      "type": "bool"
+    },
+    {
+      "name": "GovernmentFinancialAid",
+      "path": "GovernmentFinancialAid",
+      "type": "unknown"
+    },
+    {
+      "name": "GovernmentFinancialAidRcvdInd",
+      "path": "GovernmentFinancialAidRcvdInd",
+      "type": "bool"
+    },
+    {
+      "name": "GovernmentFinancialAidRvkdInd",
+      "path": "GovernmentFinancialAidRvkdInd",
+      "type": "bool"
+    },
+    {
+      "name": "GovtFinancialAidExplanation",
+      "path": "GovtFinancialAidExplanation",
+      "type": "unknown"
+    },
+    {
+      "name": "MaintainCpyOfAllSolInd",
+      "path": "MaintainCpyOfAllSolInd",
+      "type": "bool"
+    },
+    {
+      "name": "MaintainCpyOfBrochuresEtcInd",
+      "path": "MaintainCpyOfBrochuresEtcInd",
+      "type": "bool"
+    },
+    {
+      "name": "MaintainRacialCompRecsInd",
+      "path": "MaintainRacialCompRecsInd",
+      "type": "bool"
+    },
+    {
+      "name": "MaintainScholarshipsRecsInd",
+      "path": "MaintainScholarshipsRecsInd",
+      "type": "bool"
+    },
+    {
+      "name": "NondiscriminatoryPolicyStmtInd",
+      "path": "NondiscriminatoryPolicyStmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrgDoesNotMaintainExplanation",
+      "path": "OrgDoesNotMaintainExplanation",
+      "type": "unknown"
+    },
+    {
+      "name": "PlcyPblczdViaBroadcastMediaInd",
+      "path": "PlcyPblczdViaBroadcastMediaInd",
+      "type": "bool"
+    },
+    {
+      "name": "PolicyStmtInBrochuresEtcInd",
+      "path": "PolicyStmtInBrochuresEtcInd",
+      "type": "bool"
+    },
+    {
+      "name": "PubViaBroadcastMediaExpln",
+      "path": "PubViaBroadcastMediaExpln",
+      "type": "unknown"
+    }
+  ]
+}

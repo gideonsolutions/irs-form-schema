@@ -1,0 +1,461 @@
+{
+  "form_id": "IRS4720",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "DisposeExcessHoldSubjectTaxInd",
+      "path": "DisposeExcessHoldSubjectTaxInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExchangeRateDesc",
+      "path": "ExchangeRateDesc",
+      "type": "string"
+    },
+    {
+      "name": "ForeignPrivateFoundationInd",
+      "path": "ForeignPrivateFoundationInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form5227Ind",
+      "path": "Form5227Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form990EZInd",
+      "path": "Form990EZInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form990Ind",
+      "path": "Form990Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form990PFInd",
+      "path": "Form990PFInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActsSelfDealingTaxCmptGrp",
+      "path": "IRS4720ScheduleA/ActsSelfDealingTaxCmptGrp",
+      "type": "group"
+    },
+    {
+      "name": "SumSelfDlngFndtnMgrTaxLiabGrp",
+      "path": "IRS4720ScheduleA/SumSelfDlngFndtnMgrTaxLiabGrp",
+      "type": "group"
+    },
+    {
+      "name": "SummarySelfDealerTaxLiabGrp",
+      "path": "IRS4720ScheduleA/SummarySelfDealerTaxLiabGrp",
+      "type": "group"
+    },
+    {
+      "name": "Taxable1Amt",
+      "path": "IRS4720ScheduleB/Taxable1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Taxable2Amt",
+      "path": "IRS4720ScheduleB/Taxable2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotUndistributedIncomeTaxAmt",
+      "path": "IRS4720ScheduleB/TotUndistributedIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUndistributedIncomeCYAmt",
+      "path": "IRS4720ScheduleB/TotalUndistributedIncomeCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRS4720ScheduleC",
+      "path": "IRS4720ScheduleC",
+      "type": "unknown"
+    },
+    {
+      "name": "TotExcessBusinessHoldingsTxAmt",
+      "path": "IRS4720ScheduleC/TotExcessBusinessHoldingsTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentsTaxComputationGrp",
+      "path": "IRS4720ScheduleD/InvestmentsTaxComputationGrp",
+      "type": "group"
+    },
+    {
+      "name": "InvstSumFndtnMgrTaxLiabGrp",
+      "path": "IRS4720ScheduleD/InvstSumFndtnMgrTaxLiabGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotInvstJrpdzChrtblPrpsTxAmt",
+      "path": "IRS4720ScheduleD/TotInvstJrpdzChrtblPrpsTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotTaxImposedManagerPrortAmt",
+      "path": "IRS4720ScheduleD/TotTaxImposedManagerPrortAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SummaryFndtnMgrTaxLiabGrp",
+      "path": "IRS4720ScheduleE/SummaryFndtnMgrTaxLiabGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxableExpendituresCmptTaxGrp",
+      "path": "IRS4720ScheduleE/TaxableExpendituresCmptTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotTaxImposedManagerPrortAmt",
+      "path": "IRS4720ScheduleE/TotTaxImposedManagerPrortAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotTaxableExpenditureTaxAmt",
+      "path": "IRS4720ScheduleE/TotTaxableExpenditureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PltclExpendituresCmptTaxGrp",
+      "path": "IRS4720ScheduleF/PltclExpendituresCmptTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "SummaryOrgFndtnMgrTaxLiabGrp",
+      "path": "IRS4720ScheduleF/SummaryOrgFndtnMgrTaxLiabGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotPoliticalExpenditureTaxAmt",
+      "path": "IRS4720ScheduleF/TotPoliticalExpenditureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotTaxImposedManagerPrortAmt",
+      "path": "IRS4720ScheduleF/TotTaxImposedManagerPrortAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExLbbyExpendMnsLbbyngNonTxAmt",
+      "path": "IRS4720ScheduleG/ExLbbyExpendMnsLbbyngNonTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExLbbyngGrassrootMnsNonTxAmt",
+      "path": "IRS4720ScheduleG/ExLbbyngGrassrootMnsNonTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessLobbyingExpenditureAmt",
+      "path": "IRS4720ScheduleG/ExcessLobbyingExpenditureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotExcessLobbyingExpendTxAmt",
+      "path": "IRS4720ScheduleG/TotExcessLobbyingExpendTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsqlfyLbbyngExpendCmptTaxGrp",
+      "path": "IRS4720ScheduleH/DsqlfyLbbyngExpendCmptTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "SummaryOrgMgrTaxLiabGrp",
+      "path": "IRS4720ScheduleH/SummaryOrgMgrTaxLiabGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotDsqlfyLbbyngExpendTaxAmt",
+      "path": "IRS4720ScheduleH/TotDsqlfyLbbyngExpendTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotTaxImposedManagerPrortAmt",
+      "path": "IRS4720ScheduleH/TotTaxImposedManagerPrortAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessBenefitTransTaxCmptGrp",
+      "path": "IRS4720ScheduleI/ExcessBenefitTransTaxCmptGrp",
+      "type": "group"
+    },
+    {
+      "name": "Summary501c3429MgrTaxLiabGrp",
+      "path": "IRS4720ScheduleI/Summary501c3429MgrTaxLiabGrp",
+      "type": "group"
+    },
+    {
+      "name": "SummaryDsqlfyPrsnTaxLiabGrp",
+      "path": "IRS4720ScheduleI/SummaryDsqlfyPrsnTaxLiabGrp",
+      "type": "group"
+    },
+    {
+      "name": "PTSTTxImposeTxExemptEntityGrp",
+      "path": "IRS4720ScheduleJ/PTSTTxImposeTxExemptEntityGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxImposedEntityManagerGrp",
+      "path": "IRS4720ScheduleJ/TaxImposedEntityManagerGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotProhibitedTaxShelterTaxAmt",
+      "path": "IRS4720ScheduleJ/TotProhibitedTaxShelterTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumTxLiabFundMgrPrortnPymtGrp",
+      "path": "IRS4720ScheduleK/SumTxLiabFundMgrPrortnPymtGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxableDistributionsTaxCmptGrp",
+      "path": "IRS4720ScheduleK/TaxableDistributionsTaxCmptGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotTaxImposedManagerPrortAmt",
+      "path": "IRS4720ScheduleK/TotTaxImposedManagerPrortAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotTaxableDistributionsTaxAmt",
+      "path": "IRS4720ScheduleK/TotTaxableDistributionsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DnrAdvisorRltdPrsnTaxLiabGrp",
+      "path": "IRS4720ScheduleL/DnrAdvisorRltdPrsnTaxLiabGrp",
+      "type": "group"
+    },
+    {
+      "name": "ProhibitedBenefitsTaxCmptGrp",
+      "path": "IRS4720ScheduleL/ProhibitedBenefitsTaxCmptGrp",
+      "type": "group"
+    },
+    {
+      "name": "SumTxLiabFundMgrPrortnPymtGrp",
+      "path": "IRS4720ScheduleL/SumTxLiabFundMgrPrortnPymtGrp",
+      "type": "group"
+    },
+    {
+      "name": "FailToMeetSection501r3Grp",
+      "path": "IRS4720ScheduleM/FailToMeetSection501r3Grp",
+      "type": "group"
+    },
+    {
+      "name": "HospitalFcltsFailCHNA501r3Num",
+      "path": "IRS4720ScheduleM/HospitalFcltsFailCHNA501r3Num",
+      "type": "string"
+    },
+    {
+      "name": "TotHospitalFcltsFail501r3TxAmt",
+      "path": "IRS4720ScheduleM/TotHospitalFcltsFail501r3TxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExExecutiveCompensationTaxGrp",
+      "path": "IRS4720ScheduleN/ExExecutiveCompensationTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotExcessExecutiveCompTaxAmt",
+      "path": "IRS4720ScheduleN/TotExcessExecutiveCompTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExRmnrtnPlusPrchtPymtAmt",
+      "path": "IRS4720ScheduleN/TotalExRmnrtnPlusPrchtPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdminExpensesAllocableIncmAmt",
+      "path": "IRS4720ScheduleO/ExcsTxNetInvstCollegeTotGrp/AdminExpensesAllocableIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainNetIncomeAmt",
+      "path": "IRS4720ScheduleO/ExcsTxNetInvstCollegeTotGrp/CapitalGainNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossInvestmentIncomeAmt",
+      "path": "IRS4720ScheduleO/ExcsTxNetInvstCollegeTotGrp/GrossInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetInvestmentIncomeAmt",
+      "path": "IRS4720ScheduleO/ExcsTxNetInvstCollegeTotGrp/NetInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdminExpensesAllocableIncmAmt",
+      "path": "IRS4720ScheduleO/FilingOrganizationGrp/AdminExpensesAllocableIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainNetIncomeAmt",
+      "path": "IRS4720ScheduleO/FilingOrganizationGrp/CapitalGainNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossInvestmentIncomeAmt",
+      "path": "IRS4720ScheduleO/FilingOrganizationGrp/GrossInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetInvestmentIncomeAmt",
+      "path": "IRS4720ScheduleO/FilingOrganizationGrp/NetInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RelatedOrganizationGrp",
+      "path": "IRS4720ScheduleO/RelatedOrganizationGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotNetInvestmentIncomeTaxAmt",
+      "path": "IRS4720ScheduleO/TotNetInvestmentIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MoreThanOne4720RequiredInd",
+      "path": "MoreThanOne4720RequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@otherReturnDesc",
+      "path": "OtherInd/@otherReturnDesc",
+      "type": "string"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCharitableRemainderTrTaxAmt",
+      "path": "TaxOnOrganizationGrp/TotCharitableRemainderTrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPersonalBnftCntrctPremTxAmt",
+      "path": "TaxOnOrganizationGrp/TotPersonalBnftCntrctPremTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TaxOnOrganizationGrp/TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/RelatedOrganizationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/RelatedOrganizationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TotDsqlfyLbbyngExpendTaxAmt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/TotDsqlfyLbbyngExpendTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotExcessBenefitTransactionAmt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/TotExcessBenefitTransactionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotInvstJrpdzChrtblPrpsTxAmt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/TotInvstJrpdzChrtblPrpsTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPoliticalExpenditureTaxAmt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/TotPoliticalExpenditureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProhibitedBenefitsTaxAmt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/TotProhibitedBenefitsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProhibitedTaxShelterTaxAmt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/TotProhibitedTaxShelterTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotSelfDealingTaxAmt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/TotSelfDealingTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotTaxableDistributionsTaxAmt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/TotTaxableDistributionsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotTaxableExpenditureTaxAmt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/TotTaxableExpenditureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USAddress",
+      "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/USAddress",
+      "type": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "form_id": "IRS8332",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "PersonFirstNm",
+      "path": "ChildFirstAndLastName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "ChildFirstAndLastName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "CustodialParentSSN",
+      "path": "CustodialParentSSN",
+      "type": "tin"
+    },
+    {
+      "name": "NoncustodialParentNm",
+      "path": "NoncustodialParentNm",
+      "type": "string"
+    },
+    {
+      "name": "NoncustodialParentSSN",
+      "path": "NoncustodialParentSSN",
+      "type": "tin"
+    },
+    {
+      "name": "AllFutureTaxYrLiteralCd",
+      "path": "RelClmExemptionCYAndFutYrsGrp/AllFutureTaxYrLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "CurrentTaxYr",
+      "path": "RelClmExemptionCYAndFutYrsGrp/CurrentTaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "FutureTaxYr",
+      "path": "RelClmExemptionCYAndFutYrsGrp/FutureTaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "AllFutureTaxYrLiteralCd",
+      "path": "RvkRelClmExemptionFutYrsGrp/AllFutureTaxYrLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "FutureTaxYr",
+      "path": "RvkRelClmExemptionFutYrsGrp/FutureTaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "SignatureDt",
+      "path": "SignatureDt",
+      "type": "date"
+    }
+  ]
+}

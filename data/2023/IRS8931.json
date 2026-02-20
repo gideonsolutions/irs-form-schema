@@ -1,0 +1,101 @@
+{
+  "form_id": "IRS8931",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "EstateTrustBenefAllocatedAmt",
+      "path": "EstateTrustBenefAllocatedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstateTrustCreditAmt",
+      "path": "EstateTrustCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnershipSCorpEstCreditAmt",
+      "path": "PartnershipSCorpEstCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyAgricChemicalsSecCostsGrp",
+      "path": "QlfyAgricChemicalsSecCostsGrp",
+      "type": "group"
+    },
+    {
+      "name": "AgriculturalChemicalsSecCrAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/AgriculturalChemicalsSecCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CmptrNtwrkSecImplementationAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/CmptrNtwrkSecImplementationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmplTrngChcks",
+      "path": "QlfyAgricChemicalsSecCostsGrp/EmplTrngChcks",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployeeTrainingChecksAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/EmployeeTrainingChecksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityMaximumCreditAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/FacilityMaximumCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LightingCameraRecSensorsAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/LightingCameraRecSensorsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LimitationPrvntAccessAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/LimitationPrvntAccessAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PercentQualifiedCostAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/PercentQualifiedCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PerimeterProtectionAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/PerimeterProtectionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecurityVulnerabilityAssmntAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/SecurityVulnerabilityAssmntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SiteSecurityPlanAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/SiteSecurityPlanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TagLockValveAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/TagLockValveAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQualifiedAgricChmclSecAmt",
+      "path": "QlfyAgricChemicalsSecCostsGrp/TotalQualifiedAgricChmclSecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReportCreditAmt",
+      "path": "ReportCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllFacilitiesAmt",
+      "path": "TotalAllFacilitiesAmt",
+      "type": "usd"
+    }
+  ]
+}

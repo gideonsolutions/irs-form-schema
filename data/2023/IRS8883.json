@@ -1,0 +1,456 @@
+{
+  "form_id": "IRS8883",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AGUBOrADSPAmt",
+      "path": "AGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcquisitionCostsOrSellCostsAmt",
+      "path": "AcquisitionCostsOrSellCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcquisitionDt",
+      "path": "AcquisitionDt",
+      "type": "date"
+    },
+    {
+      "name": "CFCAnyTimeDuringPrev5YrsInd",
+      "path": "CFCAnyTimeDuringPrev5YrsInd",
+      "type": "bool"
+    },
+    {
+      "name": "Cl1RedetermAllocnAGUBOrADSPAmt",
+      "path": "Cl1RedetermAllocnAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Cl2RedetermAllocnAGUBOrADSPAmt",
+      "path": "Cl2RedetermAllocnAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Cl3RedetermAllocnAGUBOrADSPAmt",
+      "path": "Cl3RedetermAllocnAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Cl4RedetermAllocnAGUBOrADSPAmt",
+      "path": "Cl4RedetermAllocnAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Cl5RedetermAllocnAGUBOrADSPAmt",
+      "path": "Cl5RedetermAllocnAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Cl6And7AllocnOfAGUBOrADSPAmt",
+      "path": "Cl6And7AllocnOfAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Cl6And7RedtrmAllocnAGUBADSPAmt",
+      "path": "Cl6And7RedtrmAllocnAGUBADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class1AllocnOfAGUBOrADSPAmt",
+      "path": "Class1AllocnOfAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class1FairMarketValueAmt",
+      "path": "Class1FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class1IncreaseDecreaseAmt",
+      "path": "Class1IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class1PrevPriceAllocationAmt",
+      "path": "Class1PrevPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class2AllocnOfAGUBOrADSPAmt",
+      "path": "Class2AllocnOfAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class2FairMarketValueAmt",
+      "path": "Class2FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class2IncreaseDecreaseAmt",
+      "path": "Class2IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class2PrevPriceAllocationAmt",
+      "path": "Class2PrevPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class3AllocnOfAGUBOrADSPAmt",
+      "path": "Class3AllocnOfAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class3FairMarketValueAmt",
+      "path": "Class3FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class3IncreaseDecreaseAmt",
+      "path": "Class3IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class3PrevPriceAllocationAmt",
+      "path": "Class3PrevPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class4AllocnOfAGUBOrADSPAmt",
+      "path": "Class4AllocnOfAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class4FairMarketValueAmt",
+      "path": "Class4FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class4IncreaseDecreaseAmt",
+      "path": "Class4IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class4PrevPriceAllocationAmt",
+      "path": "Class4PrevPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class5AllocnOfAGUBOrADSPAmt",
+      "path": "Class5AllocnOfAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class5FairMarketValueAmt",
+      "path": "Class5FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class5IncreaseDecreaseAmt",
+      "path": "Class5IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class5PrevPriceAllocationAmt",
+      "path": "Class5PrevPriceAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class6And7FairMarketValueAmt",
+      "path": "Class6And7FairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class6And7IncreaseDecreaseAmt",
+      "path": "Class6And7IncreaseDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Class6And7PrevPriceAllocnAmt",
+      "path": "Class6And7PrevPriceAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DISCInd",
+      "path": "DISCInd",
+      "type": "bool"
+    },
+    {
+      "name": "FiledDt",
+      "path": "FiledDt",
+      "type": "date"
+    },
+    {
+      "name": "FlrMemAffltGrpBfrAcquisDtInd",
+      "path": "FlrMemAffltGrpBfrAcquisDtInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnCorpControlledFrgnCorpInd",
+      "path": "FrgnCorpControlledFrgnCorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnCorpWithIncmGainOrLossInd",
+      "path": "FrgnCorpWithIncmGainOrLossInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncorporationCountryCd",
+      "path": "IncorporationCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "IncorporationStateCd",
+      "path": "IncorporationStateCd",
+      "type": "enum"
+    },
+    {
+      "name": "IncreaseOrDecreaseReasonsDsc",
+      "path": "IncreaseOrDecreaseReasonsDsc",
+      "type": "unknown"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NewTargetInd",
+      "path": "NewTargetInd",
+      "type": "bool"
+    },
+    {
+      "name": "OldTargetInd",
+      "path": "OldTargetInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherPartyEIN",
+      "path": "OtherPartyEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "OtherPartyForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "OtherPartyForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "OtherPartyForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "OtherPartyForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "OtherPartyForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "OtherPartyForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "OtherPartyMissingEINReasonCd",
+      "path": "OtherPartyMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OtherPartyName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OtherPartyName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "OtherPartySSN",
+      "path": "OtherPartySSN",
+      "type": "tin"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "OtherPartyUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "OtherPartyUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "OtherPartyUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "OtherPartyUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "OtherPartyUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "PFICPedigreedQualifiedFundInd",
+      "path": "PFICPedigreedQualifiedFundInd",
+      "type": "bool"
+    },
+    {
+      "name": "PassiveForeignInvestmestCoInd",
+      "path": "PassiveForeignInvestmestCoInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifyingForeignTargetInd",
+      "path": "QualifyingForeignTargetInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sect1504dOrSect953dElectionInd",
+      "path": "Sect1504dOrSect953dElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "StockPriceAmt",
+      "path": "StockPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockPurchaseDuring12MonthPct",
+      "path": "StockPurchaseDuring12MonthPct",
+      "type": "decimal"
+    },
+    {
+      "name": "StockPurchaseOnAcquisDtPct",
+      "path": "StockPurchaseOnAcquisDtPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TYWhichOrigForm8023Or8883Filed",
+      "path": "TYWhichOrigForm8023Or8883Filed",
+      "type": "unknown"
+    },
+    {
+      "name": "TargetCorporationEIN",
+      "path": "TargetCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TargetCorporationFrgnAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TargetCorporationFrgnAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TargetCorporationFrgnAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "TargetCorporationFrgnAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "TargetCorporationFrgnAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "TargetCorporationFrgnAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TargetCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TargetCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TargetCorporationUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TargetCorporationUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TargetCorporationUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "TargetCorporationUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "TargetCorporationUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "TargetLiabilitiesAmt",
+      "path": "TargetLiabilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotRedetermAllocnAGUBOrADSPAmt",
+      "path": "TotRedetermAllocnAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllocationOfAGUBOrADSPAmt",
+      "path": "TotalAllocationOfAGUBOrADSPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFairMarketValueAmt",
+      "path": "TotalFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOfPreviousPriceAllocnAmt",
+      "path": "TotalOfPreviousPriceAllocnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrgtMemAffltGrpBfrAcquisDtInd",
+      "path": "TrgtMemAffltGrpBfrAcquisDtInd",
+      "type": "bool"
+    },
+    {
+      "name": "ValidAndTimelyForm8023FiledInd",
+      "path": "ValidAndTimelyForm8023FiledInd",
+      "type": "bool"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "form_id": "IRS1040ScheduleLEP",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "LanguagePreferenceCd",
+      "path": "LanguagePreferenceCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    }
+  ]
+}

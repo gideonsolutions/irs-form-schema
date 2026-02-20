@@ -1,0 +1,346 @@
+{
+  "form_id": "IRS4797",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CurrentYearGrossProceedsAmt",
+      "path": "CurrentYearGrossProceedsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "Form4684LossAmt",
+      "path": "Form4684LossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainForm4684Amt",
+      "path": "GainForm4684Amt",
+      "type": "usd"
+    },
+    {
+      "name": "GainInstallmentSalesFrm6252Amt",
+      "path": "GainInstallmentSalesFrm6252Amt",
+      "type": "usd"
+    },
+    {
+      "name": "GainLossForm8824Amt",
+      "path": "GainLossForm8824Amt",
+      "type": "usd"
+    },
+    {
+      "name": "GainOthThanCasualtyOrTheftAmt",
+      "path": "GainOthThanCasualtyOrTheftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetGainAmt",
+      "path": "NetGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@notApplicableCd",
+      "path": "NetGainAmt/@notApplicableCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetGainLossForm4684Amt",
+      "path": "NetGainLossForm4684Amt",
+      "type": "usd"
+    },
+    {
+      "name": "NonrecapturedNet1231LossesAmt",
+      "path": "NonrecapturedNet1231LossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryGainLoss",
+      "path": "OrdinaryGainLoss",
+      "type": "unknown"
+    },
+    {
+      "name": "OrdinaryGainLossForm8824Amt",
+      "path": "OrdinaryGainLossForm8824Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryLossAmt",
+      "path": "OrdinaryLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdnryGainInstalSaleFrm6252Amt",
+      "path": "OrdnryGainInstalSaleFrm6252Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherGainLossAmt",
+      "path": "OtherGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartlDisposMACRSAstTotGainAmt",
+      "path": "PartlDisposMACRSAstTotGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartlDisposMACRSAstTotLossAmt",
+      "path": "PartlDisposMACRSAstTotLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveActivityLossLiteralCd",
+      "path": "PassiveActivityLossLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "PropGainNonrecapturedLossAmt",
+      "path": "PropGainNonrecapturedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDispositionGain",
+      "path": "PropertyDispositionGain",
+      "type": "unknown"
+    },
+    {
+      "name": "  CostOrOtherBasisExpenseSaleAmt",
+      "path": "PropertyDispositionGain/  CostOrOtherBasisExpenseSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": " Section1252PropertyAmt",
+      "path": "PropertyDispositionGain/ Section1252PropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcquiredDt",
+      "path": "PropertyDispositionGain/AcquiredDt",
+      "type": "date"
+    },
+    {
+      "name": "AddnlDepreciation1969To1976Amt",
+      "path": "PropertyDispositionGain/AddnlDepreciation1969To1976Amt",
+      "type": "usd"
+    },
+    {
+      "name": "AddnlDepreciationAfter1975Amt",
+      "path": "PropertyDispositionGain/AddnlDepreciationAfter1975Amt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBasisAmt",
+      "path": "PropertyDispositionGain/AdjustedBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplcblPctPaymentExcludedAmt",
+      "path": "PropertyDispositionGain/ApplcblPctPaymentExcludedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplcblPctSoilWtrClearExpnAmt",
+      "path": "PropertyDispositionGain/ApplcblPctSoilWtrClearExpnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicablePercentageAmt",
+      "path": "PropertyDispositionGain/ApplicablePercentageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOrOtherBasisExpenseSaleAmt",
+      "path": "PropertyDispositionGain/CostOrOtherBasisExpenseSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DateAcquiredInheritedCd",
+      "path": "PropertyDispositionGain/DateAcquiredInheritedCd",
+      "type": "enum"
+    },
+    {
+      "name": "DepreciationDepletionAllwAmt",
+      "path": "PropertyDispositionGain/DepreciationDepletionAllwAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainLessDeprecAfter1975Amt",
+      "path": "PropertyDispositionGain/GainLessDeprecAfter1975Amt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossSalesPriceAmt",
+      "path": "PropertyDispositionGain/GrossSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntangibleDrillingDevCostAmt",
+      "path": "PropertyDispositionGain/IntangibleDrillingDevCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "PropertyDispositionGain/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "Section1245DepreciationAllwAmt",
+      "path": "PropertyDispositionGain/Section1245DepreciationAllwAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1245PropertyAmt",
+      "path": "PropertyDispositionGain/Section1245PropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1250PropertyAmt",
+      "path": "PropertyDispositionGain/Section1250PropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1252PropertyAmt",
+      "path": "PropertyDispositionGain/Section1252PropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1254PropertyAmt",
+      "path": "PropertyDispositionGain/Section1254PropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1255PropertyAmt",
+      "path": "PropertyDispositionGain/Section1255PropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section291Amt",
+      "path": "PropertyDispositionGain/Section291Amt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrReducedGainAddnlDeprecAmt",
+      "path": "PropertyDispositionGain/SmllrReducedGainAddnlDeprecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SoilWaterLandClearExpenseAmt",
+      "path": "PropertyDispositionGain/SoilWaterLandClearExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SoldDt",
+      "path": "PropertyDispositionGain/SoldDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalGainAmt",
+      "path": "PropertyDispositionGain/TotalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VariousCd",
+      "path": "PropertyDispositionGain/VariousCd",
+      "type": "enum"
+    },
+    {
+      "name": "PropertySaleOrExchange",
+      "path": "PropertySaleOrExchange",
+      "type": "unknown"
+    },
+    {
+      "name": "Sect179DedDepreciationPYAmt",
+      "path": "Sect179DedDepreciationPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect179DedDepreciationPYAmt ",
+      "path": "Sect179DedDepreciationPYAmt ",
+      "type": "unknown"
+    },
+    {
+      "name": "Sect179RcmptDepreciationAmt",
+      "path": "Sect179RcmptDepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect179RcmptDepreciationAmt ",
+      "path": "Sect179RcmptDepreciationAmt ",
+      "type": "unknown"
+    },
+    {
+      "name": "Sect280DedDepreciationPYAmt",
+      "path": "Sect280DedDepreciationPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect280RcmptDepreciationAmt",
+      "path": "Sect280RcmptDepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect280RecaptureAmt",
+      "path": "Sect280RecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179RecaptureAmt",
+      "path": "Section179RecaptureAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179RecaptureAmt ",
+      "path": "Section179RecaptureAmt ",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalGainLossAmt",
+      "path": "TotalGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainsForAllPropertiesAmt",
+      "path": "TotalGainsForAllPropertiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOrdinaryGainLossAmt",
+      "path": "TotalOrdinaryGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPropertyGainLossAmt",
+      "path": "TotalPropertyGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSectionPropertyAmt",
+      "path": "TotalSectionPropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@notApplicableCd",
+      "path": "TotalSectionPropertyAmt/@notApplicableCd",
+      "type": "enum"
+    }
+  ]
+}

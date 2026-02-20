@@ -1,0 +1,156 @@
+{
+  "form_id": "IRS4563",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AmericanSamoaAbsenceGrp",
+      "path": "AmericanSamoaAbsenceGrp",
+      "type": "group"
+    },
+    {
+      "name": "BonaFideResidenceBeginDt",
+      "path": "BonaFideResidenceBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "BonaFideResidenceEndDt",
+      "path": "BonaFideResidenceEndDt",
+      "type": "date"
+    },
+    {
+      "name": "BusinessIncomeExclusionAmt",
+      "path": "BusinessIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainExclusionAmt",
+      "path": "CapitalGainExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContinueLiteralCd",
+      "path": "ContinueLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "EmployerForeignAddress",
+      "path": "EmployerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployerFurnishedQuartersInd",
+      "path": "EmployerFurnishedQuartersInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "EmployerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "EmployerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerOtherForeignAddress",
+      "path": "EmployerOtherForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FamilyInAmericanSamoaGrp",
+      "path": "FamilyInAmericanSamoaGrp",
+      "type": "group"
+    },
+    {
+      "name": "FamilyLivingWithYouInd",
+      "path": "FamilyInAmericanSamoaGrp/FamilyLivingWithYouInd",
+      "type": "bool"
+    },
+    {
+      "name": "FamilyLivingWithYouInd",
+      "path": "FamilyLivingWithYouInd",
+      "type": "bool"
+    },
+    {
+      "name": "FarmIncomeExclusionAmt",
+      "path": "FarmIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeExclusionAmt",
+      "path": "GrossIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HmMaintOutsdAmericanSamoaGrp",
+      "path": "HmMaintOutsdAmericanSamoaGrp",
+      "type": "group"
+    },
+    {
+      "name": "HmMaintOutsdAmericanSamoaInd",
+      "path": "HmMaintOutsdAmericanSamoaInd",
+      "type": "bool"
+    },
+    {
+      "name": "NameLine1Txt",
+      "path": "NameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "OrdinaryDividendsExclusionAmt",
+      "path": "OrdinaryDividendsExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeExclusionGrp",
+      "path": "OtherIncomeExclusionGrp",
+      "type": "group"
+    },
+    {
+      "name": "PurchasedHouseInd",
+      "path": "PurchasedHouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "RentalRealEstateIncomeExclAmt",
+      "path": "RentalRealEstateIncomeExclAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentedHouseInd",
+      "path": "RentedHouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "RentedRoomInd",
+      "path": "RentedRoomInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SelfEmployedCd",
+      "path": "SelfEmployedCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxableInterestExclusionAmt",
+      "path": "TaxableInterestExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherIncomeExclusionAmt",
+      "path": "TotalOtherIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesExclusionAmt",
+      "path": "WagesExclusionAmt",
+      "type": "usd"
+    }
+  ]
+}

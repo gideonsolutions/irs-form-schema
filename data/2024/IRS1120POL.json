@@ -1,0 +1,261 @@
+{
+  "form_id": "IRS1120POL",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AddressChangeInd",
+      "path": "AddressChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "BooksInCareOfTxt",
+      "path": "BooksInCareOfTxt",
+      "type": "string"
+    },
+    {
+      "name": "CYGenBusinessCreditAllowedAmt",
+      "path": "CYGenBusinessCreditAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CandidateNm",
+      "path": "CandidateNm",
+      "type": "string"
+    },
+    {
+      "name": "CapitalGainNetIncomeAmt",
+      "path": "CapitalGainNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendAmt",
+      "path": "DividendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ElectivePaymentAmt",
+      "path": "ElectivePaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpendedForExemptFunctionAmt",
+      "path": "ExpendedForExemptFunctionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalReturnInd",
+      "path": "FinalReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignAccountsQuestionInd",
+      "path": "ForeignAccountsQuestionInd",
+      "type": "bool"
+    },
+    {
+      "name": "@countryCd",
+      "path": "ForeignAccountsQuestionInd/@countryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTrustQuestionInd",
+      "path": "ForeignTrustQuestionInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossRentsAmt",
+      "path": "GrossRentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRoyaltiesAmt",
+      "path": "GrossRoyaltiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxAmt",
+      "path": "IncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestDeductionAmt",
+      "path": "InterestDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LocationOfBooksForeignAddress",
+      "path": "LocationOfBooksForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "LocationOfBooksUSAddress",
+      "path": "LocationOfBooksUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "NameChange",
+      "path": "NameChange",
+      "type": "unknown"
+    },
+    {
+      "name": "NetInvestmentIncomeAmt",
+      "path": "NetInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrganizationFormedDt",
+      "path": "OrganizationFormedDt",
+      "type": "date"
+    },
+    {
+      "name": "OtherCreditsAmt",
+      "path": "OtherCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeNonExemptExpendAmt",
+      "path": "OtherIncomeNonExemptExpendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "RentAmt",
+      "path": "RentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepairsAndMaintenanceAmt",
+      "path": "RepairsAndMaintenanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SalariesAndWagesAmt",
+      "path": "SalariesAndWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect501cOrgOrSegregatedFundInd",
+      "path": "Sect501cOrgOrSegregatedFundInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "Specific100DollarDeductionAmt",
+      "path": "Specific100DollarDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptInterestAmt",
+      "path": "TaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxPaidForm7004Amt",
+      "path": "TaxPaidForm7004Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxPaidOnUndistrCapGainsAmt",
+      "path": "TaxPaidOnUndistrCapGainsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncmBefore100DolDedAmt",
+      "path": "TaxableIncmBefore100DolDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesAndLicensesAmt",
+      "path": "TaxesAndLicensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditsAmt",
+      "path": "TotalCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionAmt",
+      "path": "TotalDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFuelTaxCreditAmt",
+      "path": "TotalFuelTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOrdinaryGainLossAmt",
+      "path": "TotalOrdinaryGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@qEVRecaptureAmt",
+      "path": "TotalTaxAmt/@qEVRecaptureAmt",
+      "type": "usd"
+    }
+  ]
+}

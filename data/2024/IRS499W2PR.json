@@ -1,0 +1,256 @@
+{
+  "form_id": "IRS499W2PR",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AgriculturalLaborSrvcPymtInd",
+      "path": "AgriculturalLaborSrvcPymtInd",
+      "type": "bool"
+    },
+    {
+      "name": "BirthDt",
+      "path": "BirthDt",
+      "type": "date"
+    },
+    {
+      "name": "CeaseOperationsDt",
+      "path": "CeaseOperationsDt",
+      "type": "date"
+    },
+    {
+      "name": "ChurchReligiousOrdSrvcPymtInd",
+      "path": "ChurchReligiousOrdSrvcPymtInd",
+      "type": "bool"
+    },
+    {
+      "name": "CommissionsAmt",
+      "path": "CommissionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionsToCODAPlansAmt",
+      "path": "ContributionsToCODAPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ControlNum",
+      "path": "ControlNum",
+      "type": "string"
+    },
+    {
+      "name": "DirectEmploymentPaymentInd",
+      "path": "DirectEmploymentPaymentGrp/DirectEmploymentPaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "DirectEmploymentPaymentGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "HoursWorkedQty",
+      "path": "DirectEmploymentPaymentGrp/HoursWorkedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DomesticServicesPaymentInd",
+      "path": "DomesticServicesPaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ElectronicFilingCnfrmNum",
+      "path": "ElectronicFilingCnfrmNum",
+      "type": "string"
+    },
+    {
+      "name": "EmployeeForeignAddress",
+      "path": "EmployeeForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployeeNameControlTxt",
+      "path": "EmployeeNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "EmployeeNm",
+      "path": "EmployeeNm",
+      "type": "string"
+    },
+    {
+      "name": "EmployeeReimbursedExpenseAmt",
+      "path": "EmployeeReimbursedExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeTipsAmt",
+      "path": "EmployeeTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeUSAddress",
+      "path": "EmployeeUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmployerEmailAddressTxt",
+      "path": "EmployerEmailAddressTxt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerForeignAddress",
+      "path": "EmployerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "EmployerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "EmployerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerNameControlTxt",
+      "path": "EmployerNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "EmployerTelephoneNum",
+      "path": "EmployerTelephoneNum",
+      "type": "string"
+    },
+    {
+      "name": "EmployerUSAddress",
+      "path": "EmployerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "EmplrSponsoredHealthCvrCostAmt",
+      "path": "EmplrSponsoredHealthCvrCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptSalariesPaidGrp",
+      "path": "ExemptSalariesPaidGrp",
+      "type": "group"
+    },
+    {
+      "name": "ExemptSalaryPaidAmt",
+      "path": "ExemptSalariesPaidGrp/ExemptSalaryPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptSalaryPaidCd",
+      "path": "ExemptSalariesPaidGrp/ExemptSalaryPaidCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExpenseAllowancesAmt",
+      "path": "ExpenseAllowancesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HealthProfessionalsPymtInd",
+      "path": "HealthProfessionalsPymtInd",
+      "type": "bool"
+    },
+    {
+      "name": "MedicareTaxWithheldAmt",
+      "path": "MedicareTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicareWagesAndTipsAmt",
+      "path": "MedicareWagesAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthSrvcSalaryPaymentConceptTxt",
+      "path": "OthSrvcSalaryPaymentConceptTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherPaymentsInd",
+      "path": "OtherPaymentsInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyPhysicianServicesPymtInd",
+      "path": "QlfyPhysicianServicesPymtInd",
+      "type": "bool"
+    },
+    {
+      "name": "RetirementFundAmt",
+      "path": "RetirementFundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SaveAndDoubleMonyProgContriAmt",
+      "path": "SaveAndDoubleMonyProgContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxAmt",
+      "path": "SocialSecurityTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTipsAmt",
+      "path": "SocialSecurityTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityWagesAmt",
+      "path": "SocialSecurityWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StandardOrNonStandardCd",
+      "path": "StandardOrNonStandardCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalCharitableContriAmt",
+      "path": "TotalCharitableContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedMedcrTaxOnTipsAmt",
+      "path": "UncollectedMedcrTaxOnTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedSocSecTaxOnTipsAmt",
+      "path": "UncollectedSocSecTaxOnTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingAmt",
+      "path": "WithholdingAmt",
+      "type": "usd"
+    }
+  ]
+}

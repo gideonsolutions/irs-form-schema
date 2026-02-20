@@ -1,0 +1,191 @@
+{
+  "form_id": "IRS7211",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdjCrRedDomContentBonusAmt",
+      "path": "AdjCrRedDomContentBonusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedCreditReductionAmt",
+      "path": "AdjustedCreditReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocatedToBeneficiariesAmt",
+      "path": "AllocatedToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcTaxExemptBondsPct",
+      "path": "CalcTaxExemptBondsPct",
+      "type": "decimal"
+    },
+    {
+      "name": "CleanElectricityProdCrAmt",
+      "path": "CleanElectricityProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalculatedCreditAmt",
+      "path": "CleanElectricityProdGrp/CalculatedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalendarYr",
+      "path": "CleanElectricityProdGrp/CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "InflationAdjustedCreditRtAmt",
+      "path": "CleanElectricityProdGrp/InflationAdjustedCreditRtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KilowattHrsQty",
+      "path": "CleanElectricityProdGrp/KilowattHrsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditBeforeReductionAmt",
+      "path": "CreditBeforeReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBeforeReductionFncAmt",
+      "path": "CreditBeforeReductionFncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditBeforeReductionPctAmt",
+      "path": "CreditBeforeReductionPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DOEControlNum",
+      "path": "DOEControlNum",
+      "type": "string"
+    },
+    {
+      "name": "DomesticContentBonusCreditAmt",
+      "path": "DomesticContentBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmissionsValueRcvdDOEInd",
+      "path": "EmissionsValueRcvdDOEInd",
+      "type": "bool"
+    },
+    {
+      "name": "EnergyCommunityBonusCreditAmt",
+      "path": "EnergyCommunityBonusCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsAndCoopsCreditAmt",
+      "path": "EstatesTrustsAndCoopsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityConstructionStartDt",
+      "path": "FacilityConstructionStartDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FcltyConstrBeganBfrSpcfdDtInd",
+      "path": "FcltyConstrBeganBfrSpcfdDtInd",
+      "type": "bool"
+    },
+    {
+      "name": "FcltyQlfyClmCrAltAmtNoInd",
+      "path": "FcltyQlfyClmCrAltAmtNoInd",
+      "type": "bool"
+    },
+    {
+      "name": "FcltyStsfyWgAprntcshpRqrInd",
+      "path": "FcltyStsfyWgAprntcshpRqrInd",
+      "type": "bool"
+    },
+    {
+      "name": "LCAModelInd",
+      "path": "LCAModelInd",
+      "type": "bool"
+    },
+    {
+      "name": "PhaseoutElectivePaymentPctAmt",
+      "path": "PhaseoutElectivePaymentPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProjectNetOutputUnder1MWInd",
+      "path": "ProjectNetOutputUnder1MWInd",
+      "type": "bool"
+    },
+    {
+      "name": "PropertyQualifyDomBonusCrInd",
+      "path": "PropertyQualifyDomBonusCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyEgyComBonusCrInd",
+      "path": "QlfyEgyComBonusCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "SmllrCrBfrReductionFncPctAmt",
+      "path": "SmllrCrBfrReductionFncPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllowedTaxCreditAmt",
+      "path": "TotalAllowedTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "TotalCreditAmt",
+      "type": "usd"
+    }
+  ]
+}

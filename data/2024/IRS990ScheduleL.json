@@ -1,0 +1,66 @@
+{
+  "form_id": "IRS990ScheduleL",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "BusTrInvolveInterestedPrsnGrp",
+      "path": "BusTrInvolveInterestedPrsnGrp",
+      "type": "group"
+    },
+    {
+      "name": "PersonNm",
+      "path": "BusTrInvolveInterestedPrsnGrp/NameOfInterested/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "DisqualifiedPersonExBnftTrGrp",
+      "path": "DisqualifiedPersonExBnftTrGrp",
+      "type": "group"
+    },
+    {
+      "name": "PersonNm",
+      "path": "DisqualifiedPersonExBnftTrGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "GrntAsstBnftInterestedPrsnGrp",
+      "path": "GrntAsstBnftInterestedPrsnGrp",
+      "type": "group"
+    },
+    {
+      "name": "PersonNm",
+      "path": "GrntAsstBnftInterestedPrsnGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "LoansBtwnOrgInterestedPrsnGrp",
+      "path": "LoansBtwnOrgInterestedPrsnGrp",
+      "type": "group"
+    },
+    {
+      "name": "PersonNm",
+      "path": "LoansBtwnOrgInterestedPrsnGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SupplementalInformationDetail",
+      "path": "SupplementalInformationDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxImposedAmt",
+      "path": "TaxImposedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxReimbursedAmt",
+      "path": "TaxReimbursedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBalanceDueAmt",
+      "path": "TotalBalanceDueAmt",
+      "type": "usd"
+    }
+  ]
+}

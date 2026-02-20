@@ -1,0 +1,91 @@
+{
+  "form_id": "IRS8974",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjSocialSecurityTaxTipAmt",
+      "path": "AdjSocialSecurityTaxTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CalcCrRdcngAgnstEmplrShrSSTAmt",
+      "path": "CalcCrRdcngAgnstEmplrShrSSTAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcEmplrShareMedcrTaxAmt",
+      "path": "CalcEmplrShareMedcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrAgnstEmplrShrSSTAmt",
+      "path": "CrAgnstEmplrShrSSTAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditForEmployerSSMedcrTxAmt",
+      "path": "CreditForEmployerSSMedcrTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "EmployerPayrollTaxElectionGrp",
+      "path": "EmployerPayrollTaxElectionGrp",
+      "type": "group"
+    },
+    {
+      "name": "MaxAllwblPayrollTaxCreditAmt",
+      "path": "MaxAllwblPayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section3121qInd",
+      "path": "Section3121qInd",
+      "type": "bool"
+    },
+    {
+      "name": "SocialSecurityTaxAmt",
+      "path": "SocialSecurityTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnMedicareWagesTipsAmt",
+      "path": "TaxOnMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnSocialSecurityTipsAmt",
+      "path": "TaxOnSocialSecurityTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPartySickPayInd",
+      "path": "ThirdPartySickPayInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalSocialSecurityTaxTipAmt",
+      "path": "TotalSocialSecurityTaxTipAmt",
+      "type": "usd"
+    }
+  ]
+}

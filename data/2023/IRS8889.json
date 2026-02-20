@@ -1,0 +1,136 @@
+{
+  "form_id": "IRS8889",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "HDHPCoverageAddnlTaxAmt",
+      "path": "HDHPCoverageAddnlTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HDHPCoverageFailFundDistriAmt",
+      "path": "HDHPCoverageFailFundDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HDHPCoverageFailPartialYrAmt",
+      "path": "HDHPCoverageFailPartialYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HDHPCoverageIncomeAmt",
+      "path": "HDHPCoverageIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HDHPFamilyCoverageInd",
+      "path": "HDHPFamilyCoverageInd",
+      "type": "bool"
+    },
+    {
+      "name": "HDHPSelfOnlyCoverageInd",
+      "path": "HDHPSelfOnlyCoverageInd",
+      "type": "bool"
+    },
+    {
+      "name": "HSAAddnlContributionAmt",
+      "path": "HSAAddnlContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAContributionAmt",
+      "path": "HSAContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSADistriAddnlPercentTaxAmt",
+      "path": "HSADistriAddnlPercentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSADistriAddnlPercentTaxExcInd",
+      "path": "HSADistriAddnlPercentTaxExcInd",
+      "type": "bool"
+    },
+    {
+      "name": "HSADistributionRolloverAmt",
+      "path": "HSADistributionRolloverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAEmployerContributionAmt",
+      "path": "HSAEmployerContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAFamilyDeductibleAmt",
+      "path": "HSAFamilyDeductibleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSALimitedAnnualDeductibleAmt",
+      "path": "HSALimitedAnnualDeductibleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSALimitedContributionAmt",
+      "path": "HSALimitedContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSALimitedDeductibleAllwdAmt",
+      "path": "HSALimitedDeductibleAllwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSALimitedGrossContributionAmt",
+      "path": "HSALimitedGrossContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSANetDistributionAmt",
+      "path": "HSANetDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HSAQualifiedFundingDistriAmt",
+      "path": "HSAQualifiedFundingDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "TaxableHSADistributionAmt",
+      "path": "TaxableHSADistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalArcherMSAContributionAmt",
+      "path": "TotalArcherMSAContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalHSAContributionAmt",
+      "path": "TotalHSAContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalHSADeductionAmt",
+      "path": "TotalHSADeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalHSADistributionAmt",
+      "path": "TotalHSADistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnreimbQualMedAndDentalExpAmt",
+      "path": "UnreimbQualMedAndDentalExpAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "form_id": "IRS945X",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "AdjRetWthldFedIncmTxInd",
+      "path": "AdjRetWthldFedIncmTxInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClaimInd",
+      "path": "ClaimInd",
+      "type": "bool"
+    },
+    {
+      "name": "BackupWithholdingAmt",
+      "path": "CorrRptDifference945XGrp/BackupWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "CorrRptDifference945XGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "CorrRptDifference945XGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorrUndrptOverreportedAmtInd",
+      "path": "CorrUndrptOverreportedAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorrectingReturnCalendarYrCd",
+      "path": "CorrectingReturnCalendarYrCd",
+      "type": "enum"
+    },
+    {
+      "name": "CorrectionsExplanationTxt",
+      "path": "CorrectionsExplanationTxt",
+      "type": "string"
+    },
+    {
+      "name": "ErrorsDiscoveredDt",
+      "path": "ErrorsDiscoveredDt",
+      "type": "date"
+    },
+    {
+      "name": "BackupWithholdingAmt",
+      "path": "OriginallyRptOrPrevCorr945XGrp/BackupWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "OriginallyRptOrPrevCorr945XGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BackupWithholdingAmt",
+      "path": "TotalCorrectedAmount945XGrp/BackupWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "TotalCorrectedAmount945XGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    }
+  ]
+}

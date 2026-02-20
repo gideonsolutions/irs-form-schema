@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS965Payment",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "BankAccountNum",
+      "path": "BankAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "BankAccountTypeCd",
+      "path": "BankAccountTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "PaymentAmt",
+      "path": "PaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequestedPaymentDt",
+      "path": "RequestedPaymentDt",
+      "type": "date"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxpayerDaytimePhoneNum",
+      "path": "TaxpayerDaytimePhoneNum",
+      "type": "string"
+    }
+  ]
+}

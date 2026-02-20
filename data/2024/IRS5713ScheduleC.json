@@ -1,0 +1,126 @@
+{
+  "form_id": "IRS5713ScheduleC",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DenialDfrlIntntlByctFactorRt",
+      "path": "DenialDfrlIntntlByctFactorRt",
+      "type": "decimal"
+    },
+    {
+      "name": "DenialDfrlSpcfcAttrblTxsAmt",
+      "path": "DenialDfrlSpcfcAttrblTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DenialExemptIntntlByctFactorRt",
+      "path": "DenialExemptIntntlByctFactorRt",
+      "type": "decimal"
+    },
+    {
+      "name": "DenialExemptSpcfcAttrblTxsAmt",
+      "path": "DenialExemptSpcfcAttrblTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DenialICDISCIntntlByctFactorRt",
+      "path": "DenialICDISCIntntlByctFactorRt",
+      "type": "decimal"
+    },
+    {
+      "name": "DenialICDISCSpcfcAttrblTxsAmt",
+      "path": "DenialICDISCSpcfcAttrblTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExmptFrgnTrdIncm1120FSCSchBAmt",
+      "path": "ExmptFrgnTrdIncm1120FSCSchBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FSCExemptForeignTradeIncomeAmt",
+      "path": "FSCExemptForeignTradeIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCreditReductionAmt",
+      "path": "ForeignTaxCreditReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form8873Amt",
+      "path": "Form8873Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnTaxCrBfr1116Or1118AdjAmt",
+      "path": "FrgnTaxCrBfr1116Or1118AdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntntlBoycottFactorMethodInd",
+      "path": "IntntlBoycottFactorMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProratedShareOfSect995b1FiAmt",
+      "path": "ProratedShareOfSect995b1FiAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProratedShrEPIncmFrgnCorpAmt",
+      "path": "ProratedShrEPIncmFrgnCorpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProratedShrTotIncmFrgnCorpAmt",
+      "path": "ProratedShrTotIncmFrgnCorpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrortShareICDISCByctIncmAmt",
+      "path": "PrortShareICDISCByctIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrortShrNonEPIncmFrgnCorpAmt",
+      "path": "PrortShrNonEPIncmFrgnCorpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrortShrSubpartFByctIncmAmt",
+      "path": "PrortShrSubpartFByctIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RedFrgnTrdIntntlByctFactorRt",
+      "path": "RedFrgnTrdIntntlByctFactorRt",
+      "type": "decimal"
+    },
+    {
+      "name": "RedFrgnTxCrSpcfcAttrblTxsAmt",
+      "path": "RedFrgnTxCrSpcfcAttrblTxsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionFrgnTxCrIntntlByctRt",
+      "path": "ReductionFrgnTxCrIntntlByctRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ReductionQlfyFrgnTrdIncmAmt",
+      "path": "ReductionQlfyFrgnTrdIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpcfcAttrblTxsAndIncmMethodInd",
+      "path": "SpcfcAttrblTxsAndIncmMethodInd",
+      "type": "bool"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "form_id": "IRS8839",
+  "tax_year": 2023,
+  "fields": [
+    {
+      "name": "*",
+      "path": "*",
+      "type": "unknown"
+    },
+    {
+      "name": "AdoptedChild",
+      "path": "AdoptedChild",
+      "type": "unknown"
+    },
+    {
+      "name": "AdoptionBnftAGIPctExpnsAmt",
+      "path": "AdoptedChild/AdoptionBnftAGIPctExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalculatedAdoptionCreditAmt",
+      "path": "AdoptedChild/CalculatedAdoptionCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludedBenefitsAmt",
+      "path": "AdoptedChild/ExcludedBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCalculatedAdoptionCreditAmt",
+      "path": "AdoptedChild/NetCalculatedAdoptionCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdoptionBenefitAdjModifAGIPct",
+      "path": "AdoptionBenefitAdjModifAGIPct",
+      "type": "decimal"
+    },
+    {
+      "name": "AdoptionBenefitsModifiedAGIAmt",
+      "path": "AdoptionBenefitsModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdoptionBnftModifAGIGrtrAmtInd",
+      "path": "AdoptionBnftModifAGIGrtrAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdoptionBnftModifAGILessLmtAmt",
+      "path": "AdoptionBnftModifAGILessLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdoptionCrModifAGIGrtrAmtInd",
+      "path": "AdoptionCrModifAGIGrtrAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdoptionCreditAdjModifAGIPct",
+      "path": "AdoptionCreditAdjModifAGIPct",
+      "type": "decimal"
+    },
+    {
+      "name": "AdoptionCreditAmt",
+      "path": "AdoptionCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdoptionCreditCfwdAmt",
+      "path": "AdoptionCreditCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdoptionCreditModifAGILimitAmt",
+      "path": "AdoptionCreditModifAGILimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdoptionCreditModifiedAGIAmt",
+      "path": "AdoptionCreditModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditLimitWorksheetAmt",
+      "path": "CreditLimitWorksheetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployerAdoptionBenefitsAmt",
+      "path": "EmployerAdoptionBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcldMoreThanEmplrAdptnBnftInd",
+      "path": "ExcldMoreThanEmplrAdptnBnftInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetAdoptionCreditCfwdAmt",
+      "path": "NetAdoptionCreditCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAdoptionCreditExclCfwdAmt",
+      "path": "NetAdoptionCreditExclCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableBenefitsAmt",
+      "path": "TaxableBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExcludedBenefitsAmt",
+      "path": "TotalExcludedBenefitsAmt",
+      "type": "usd"
+    }
+  ]
+}

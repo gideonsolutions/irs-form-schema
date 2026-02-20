@@ -1,0 +1,116 @@
+{
+  "form_id": "IRS8910",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "AltMotorVehAdjustedCreditAmt",
+      "path": "AltMotorVehAdjustedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltMotorVehCreditFromFormsAmt",
+      "path": "AltMotorVehCreditFromFormsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeMotorVehicleCrAmt",
+      "path": "AlternativeMotorVehicleCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvestmentUseGrp",
+      "path": "BusinessInvestmentUseGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessInvestmentUseAmt",
+      "path": "BusinessInvestmentUseGrp/BusinessInvestmentUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvestmentUsePct",
+      "path": "BusinessInvestmentUseGrp/BusinessInvestmentUsePct",
+      "type": "decimal"
+    },
+    {
+      "name": "BusinessInvstUsePartOfCrAmt",
+      "path": "BusinessInvstUsePartOfCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRS8910TentativeCreditGrp",
+      "path": "IRS8910TentativeCreditGrp",
+      "type": "group"
+    },
+    {
+      "name": "VehicleMakeNameTxt",
+      "path": "IRS8910TentativeCreditGrp /VehicleDescriptionGrp/VehicleMakeNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "VehicleModelNameTxt",
+      "path": "IRS8910TentativeCreditGrp /VehicleDescriptionGrp/VehicleModelNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "VehicleModelYr",
+      "path": "IRS8910TentativeCreditGrp /VehicleDescriptionGrp/VehicleModelYr",
+      "type": "unknown"
+    },
+    {
+      "name": "AltMotorVehTentativeCreditAmt",
+      "path": "IRS8910TentativeCreditGrp/AltMotorVehTentativeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VIN",
+      "path": "IRS8910TentativeCreditGrp/VIN",
+      "type": "unknown"
+    },
+    {
+      "name": "VehicleDescriptionGrp",
+      "path": "IRS8910TentativeCreditGrp/VehicleDescriptionGrp",
+      "type": "group"
+    },
+    {
+      "name": "VehicleMakeNameTxt",
+      "path": "IRS8910TentativeCreditGrp/VehicleDescriptionGrp/VehicleMakeNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "VehicleModelYr",
+      "path": "IRS8910TentativeCreditGrp/VehicleDescriptionGrp/VehicleModelYr",
+      "type": "unknown"
+    },
+    {
+      "name": "VehiclePlacedInServiceDt",
+      "path": "IRS8910TentativeCreditGrp/VehiclePlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "PersonalUsePartOfCreditAmt",
+      "path": "PersonalUsePartOfCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCreditForPrsnlUseAmt",
+      "path": "TentativeCreditForPrsnlUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBusinessInvestmentUseAmt",
+      "path": "TotalBusinessInvestmentUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxBeforeCrAndOthTaxesAmt",
+      "path": "TotalTaxBeforeCrAndOthTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTentativeCrForPrsnlUseAmt",
+      "path": "TotalTentativeCrForPrsnlUseAmt",
+      "type": "usd"
+    }
+  ]
+}

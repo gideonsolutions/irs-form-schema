@@ -1,0 +1,66 @@
+{
+  "form_id": "IRS8925",
+  "tax_year": 2024,
+  "fields": [
+    {
+      "name": "EmployeesWithoutValidCnsntQty",
+      "path": "EmployeesWithoutValidCnsntQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EndOfYearEmployeesInsuredQty",
+      "path": "EndOfYearEmployeesInsuredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EndOfYearEmployeesQty",
+      "path": "EndOfYearEmployeesQty",
+      "type": "unknown"
+    },
+    {
+      "name": "FilerEIN",
+      "path": "FilerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FilerSSN",
+      "path": "FilerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FilerShownOnReturnNm",
+      "path": "FilerShownOnReturnNm",
+      "type": "string"
+    },
+    {
+      "name": "PolicyHolderEIN",
+      "path": "PolicyHolderEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PolicyHolderNm",
+      "path": "PolicyHolderNm",
+      "type": "string"
+    },
+    {
+      "name": "PolicyHolderSSN",
+      "path": "PolicyHolderSSN",
+      "type": "tin"
+    },
+    {
+      "name": "TotalEOYInsuranceAmt",
+      "path": "TotalEOYInsuranceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TradeOrBusinessDesc",
+      "path": "TradeOrBusinessDesc",
+      "type": "string"
+    },
+    {
+      "name": "ValidConsentForEachEmployeeInd",
+      "path": "ValidConsentForEachEmployeeInd",
+      "type": "bool"
+    }
+  ]
+}
