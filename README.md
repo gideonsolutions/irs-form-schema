@@ -10,10 +10,17 @@ The IRS publishes MeF packages containing XSL stylesheets for every tax form. Th
 
 ```bash
 pip install -r requirements.txt
-python -m scraper.scrape
+python -m scraper.scrape            # TY2025 (default)
 ```
 
-This downloads the IRS MeF schema package (~10 MB), parses all XSL stylesheets for TY2025, and writes one JSON file per form to `data/2025/`.
+To scrape a different tax year:
+
+```python
+from scraper.scrape import scrape
+scrape(tax_year=2024)
+```
+
+The zip filename is derived automatically as `py{tax_year+1}r1.zip`.
 
 ## Output format
 
@@ -76,8 +83,10 @@ irs-form-schema/
 │   ├── extract.py         # Parse XSL files → extract field references per form
 │   └── scrape.py          # Main entry point: download, extract, classify, write
 ├── data/
-│   └── 2025/              # One JSON per form
-│       └── _index.json    # Summary of all forms
+│   ├── 2023/              # TY2023 — 387 forms
+│   ├── 2024/              # TY2024 — 398 forms
+│   └── 2025/              # TY2025 — 411 forms
+│       └── _index.json    # Summary of all forms (per year)
 ├── requirements.txt
 ├── LICENSE
 └── README.md
