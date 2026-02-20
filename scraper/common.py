@@ -8,7 +8,6 @@ from pathlib import Path
 import requests
 
 IRS_SCHEMA_BASE_URL = "https://www.irs.gov/pub/irs-schema"
-DEFAULT_ZIP = "py2026r1.zip"
 
 SUFFIX_TYPE_MAP = {
     "Amt": "usd",
@@ -37,7 +36,12 @@ def classify_field(name: str) -> str:
     return "unknown"
 
 
-def download_and_extract(zip_name: str = DEFAULT_ZIP, dest: Path | None = None) -> Path:
+def zip_name_for_year(tax_year: int) -> str:
+    """Return the IRS MeF zip filename for a given tax year."""
+    return f"py{tax_year + 1}r1.zip"
+
+
+def download_and_extract(zip_name: str, dest: Path | None = None) -> Path:
     """Download an IRS MeF schema zip and extract to a temp directory.
 
     Returns the path to the extraction directory.

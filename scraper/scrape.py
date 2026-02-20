@@ -6,7 +6,7 @@ import json
 import shutil
 from pathlib import Path
 
-from .common import DEFAULT_ZIP, download_and_extract
+from .common import download_and_extract, zip_name_for_year
 from .extract import extract_form
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -14,7 +14,6 @@ DATA_DIR = PROJECT_ROOT / "data"
 
 
 def scrape(
-    zip_name: str = DEFAULT_ZIP,
     tax_year: int = 2025,
     output_dir: Path | None = None,
 ) -> None:
@@ -24,6 +23,7 @@ def scrape(
     output_dir.mkdir(parents=True, exist_ok=True)
 
     # Download and extract
+    zip_name = zip_name_for_year(tax_year)
     tmp_dir = download_and_extract(zip_name)
 
     try:
