@@ -1,0 +1,381 @@
+{
+  "form_id": "IRS8933ScheduleD",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AllocationInd",
+      "path": "AllocationInd",
+      "type": "bool"
+    },
+    {
+      "name": "AllocnCrbnOxdRcptr1stPYGrp",
+      "path": "AllocnCrbnOxdRcptr1stPYGrp",
+      "type": "group"
+    },
+    {
+      "name": "MtrcTonsCrbnOxdQty",
+      "path": "AllocnCrbnOxdRcptr1stPYGrp/MtrcTonsCrbnOxdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsCrbnOxdRcptrQty",
+      "path": "AllocnCrbnOxdRcptr1stPYGrp/MtrcTonsCrbnOxdRcptrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "PriorYr",
+      "path": "AllocnCrbnOxdRcptr1stPYGrp/PriorYr",
+      "type": "unknown"
+    },
+    {
+      "name": "TotAllocMtrcTonsRcptrQty",
+      "path": "AllocnCrbnOxdRcptr1stPYGrp/TotAllocMtrcTonsRcptrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AllocnCrbnOxdRcptr2ndPYGrp",
+      "path": "AllocnCrbnOxdRcptr2ndPYGrp",
+      "type": "group"
+    },
+    {
+      "name": "MtrcTonsCrbnOxdQty",
+      "path": "AllocnCrbnOxdRcptr2ndPYGrp/MtrcTonsCrbnOxdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsCrbnOxdRcptrQty",
+      "path": "AllocnCrbnOxdRcptr2ndPYGrp/MtrcTonsCrbnOxdRcptrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "PriorYr",
+      "path": "AllocnCrbnOxdRcptr2ndPYGrp/PriorYr",
+      "type": "unknown"
+    },
+    {
+      "name": "TotAllocMtrcTonsRcptrQty",
+      "path": "AllocnCrbnOxdRcptr2ndPYGrp/TotAllocMtrcTonsRcptrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AllocnCrbnOxdRcptr3rdPYGrp",
+      "path": "AllocnCrbnOxdRcptr3rdPYGrp",
+      "type": "group"
+    },
+    {
+      "name": "MtrcTonsCrbnOxdQty",
+      "path": "AllocnCrbnOxdRcptr3rdPYGrp/MtrcTonsCrbnOxdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsCrbnOxdRcptrQty",
+      "path": "AllocnCrbnOxdRcptr3rdPYGrp/MtrcTonsCrbnOxdRcptrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "PriorYr",
+      "path": "AllocnCrbnOxdRcptr3rdPYGrp/PriorYr",
+      "type": "unknown"
+    },
+    {
+      "name": "TotAllocMtrcTonsRcptrQty",
+      "path": "AllocnCrbnOxdRcptr3rdPYGrp/TotAllocMtrcTonsRcptrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CarbonOxideInjectionBeginDt",
+      "path": "CarbonOxideInjectionBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "DetermRcptrCrbnOxdSupplierGrp",
+      "path": "DetermRcptrCrbnOxdSupplierGrp",
+      "type": "group"
+    },
+    {
+      "name": "EORInd",
+      "path": "EORInd",
+      "type": "bool"
+    },
+    {
+      "name": "EnhancedNaturalGasRcvryProjInd",
+      "path": "EnhancedNaturalGasRcvryProjInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityEPAeGGRTIdNum",
+      "path": "FacilityEPAeGGRTIdNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityNameAndLocationTxt",
+      "path": "FacilityNameAndLocationTxt",
+      "type": "string"
+    },
+    {
+      "name": "GeologicalDisposalSiteOwnerGrp",
+      "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp",
+      "type": "group"
+    },
+    {
+      "name": "FacilityOwnerBusinessName",
+      "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerBusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerForeignAddress",
+      "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityOwnerUSAddress",
+      "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "OperatingInterestPct",
+      "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp/OperatingInterestPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxYr",
+      "path": "GeologicalDisposalSite1stPYGrp/TaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "GeologicalDisposalSiteOwnerGrp",
+      "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp",
+      "type": "group"
+    },
+    {
+      "name": "FacilityOwnerBusinessName",
+      "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerBusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerForeignAddress",
+      "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityOwnerUSAddress",
+      "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "OperatingInterestPct",
+      "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp/OperatingInterestPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxYr",
+      "path": "GeologicalDisposalSite2ndPYGrp/TaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "GeologicalDisposalSiteOwnerGrp",
+      "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp",
+      "type": "group"
+    },
+    {
+      "name": "FacilityOwnerBusinessName",
+      "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerBusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerForeignAddress",
+      "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityOwnerUSAddress",
+      "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "OperatingInterestPct",
+      "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp/OperatingInterestPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxYr",
+      "path": "GeologicalDisposalSite3rdPYGrp/TaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "GeologicalDisposalSiteOwnerGrp",
+      "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp",
+      "type": "group"
+    },
+    {
+      "name": "FacilityOwnerBusinessName",
+      "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerBusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerForeignAddress",
+      "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityOwnerUSAddress",
+      "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "OperatingInterestPct",
+      "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp/OperatingInterestPct",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxYr",
+      "path": "GeologicalDisposalSiteCYGrp/TaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "GeologicalDisposalSiteInd",
+      "path": "GeologicalDisposalSiteInd",
+      "type": "bool"
+    },
+    {
+      "name": "MtrcTonsCrbnOxdLkdMgrtQty",
+      "path": "MtrcTonsCrbnOxdLkdMgrtQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsCrbnOxdLkdQty",
+      "path": "MtrcTonsCrbnOxdLkdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsCrbnOxdNotRcptrQty",
+      "path": "MtrcTonsCrbnOxdNotRcptrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OperatorBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OperatorBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "OperatorEIN",
+      "path": "OperatorEIN",
+      "type": "ein"
+    },
+    {
+      "name": "OthCoProjOperatorPurposeGrp",
+      "path": "OthCoProjOperatorPurposeGrp",
+      "type": "group"
+    },
+    {
+      "name": "PrevCertifiedProjectCertDt",
+      "path": "PrevCertifiedProjectCertDt",
+      "type": "date"
+    },
+    {
+      "name": "PrevCertifiedProjectNm",
+      "path": "PrevCertifiedProjectNm",
+      "type": "string"
+    },
+    {
+      "name": "RegulatoryAgenciesNameTxt",
+      "path": "RegulatoryAgenciesNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "SubjectToRecaptureQty",
+      "path": "SubjectToRecaptureQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotAllocnCrbnOxdRcptrGrp",
+      "path": "TotAllocnCrbnOxdRcptrGrp",
+      "type": "group"
+    },
+    {
+      "name": "MtrcTonsCrbnOxdRcptrQty",
+      "path": "TotAllocnCrbnOxdRcptrGrp/MtrcTonsCrbnOxdRcptrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotAllocMtrcTonsRcptrQty",
+      "path": "TotAllocnCrbnOxdRcptrGrp/TotAllocMtrcTonsRcptrQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotMtrcTonsCrbnOxdStorQty",
+      "path": "TotMtrcTonsCrbnOxdStorQty",
+      "type": "unknown"
+    }
+  ]
+}

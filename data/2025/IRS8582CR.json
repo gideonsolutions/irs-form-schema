@@ -1,0 +1,246 @@
+{
+  "form_id": "IRS8582CR",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "OtherCurrentYearAmt",
+      "path": "AllPassiveCreditGrp/OtherCurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherPriorUnallowedAmt",
+      "path": "AllPassiveCreditGrp/OtherPriorUnallowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherCreditsAmt",
+      "path": "AllPassiveCreditGrp/TotalOtherCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowedCreditsAmt",
+      "path": "AllowedCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DisposedPassiveActivityNm",
+      "path": "DisposedPassiveActivityNm",
+      "type": "string"
+    },
+    {
+      "name": "ElectToIncreaseBasisInd",
+      "path": "ElectToIncreaseBasisInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentYearCreditAmt",
+      "path": "LowIncomeCreditGrp/CurrentYearCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorUnallowedCreditAmt",
+      "path": "LowIncomeCreditGrp/PriorUnallowedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "LowIncomeCreditGrp/TotalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetPassiveIncomeTaxAmt",
+      "path": "NetPassiveIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "CurrentYearCreditAmt",
+      "path": "RehabilitationCreditGrp/CurrentYearCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorUnallowedCreditAmt",
+      "path": "RehabilitationCreditGrp/PriorUnallowedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "RehabilitationCreditGrp/TotalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearCreditAmt",
+      "path": "RentalCreditGrp/CurrentYearCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorUnallowedCreditAmt",
+      "path": "RentalCreditGrp/PriorUnallowedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "RentalCreditGrp/TotalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowedRentalRealtyLossAmt",
+      "path": "SpecialAllowActiveGrp/AllowedRentalRealtyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttributableTaxAmt",
+      "path": "SpecialAllowActiveGrp/AttributableTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIAmt",
+      "path": "SpecialAllowActiveGrp/ModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAGIAmt",
+      "path": "SpecialAllowActiveGrp/NetAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PercentNetAGIAmt",
+      "path": "SpecialAllowActiveGrp/PercentNetAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerAmt",
+      "path": "SpecialAllowActiveGrp/SmallerAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallestTaxAmt",
+      "path": "SpecialAllowActiveGrp/SmallestTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableAmt",
+      "path": "SpecialAllowActiveGrp/TaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalArcherMSADistributionAmt",
+      "path": "SpecialAllowActiveGrp/TotalArcherMSADistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedTaxAmt",
+      "path": "SpecialAllowLowIncomeGrp/AdjustedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttributableTaxAmt",
+      "path": "SpecialAllowLowIncomeGrp/AttributableTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditOrNetTaxAmt",
+      "path": "SpecialAllowLowIncomeGrp/CreditOrNetTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTaxAmt",
+      "path": "SpecialAllowLowIncomeGrp/NetTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallestTaxAmt",
+      "path": "SpecialAllowLowIncomeGrp/SmallestTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "SpecialAllowLowIncomeGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedTaxAmt",
+      "path": "SpecialAllowRehabGrp/AdjustedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AttributableTaxAmt",
+      "path": "SpecialAllowRehabGrp/AttributableTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditOrNetTaxAmt",
+      "path": "SpecialAllowRehabGrp/CreditOrNetTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIAmt",
+      "path": "SpecialAllowRehabGrp/ModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAGIAmt",
+      "path": "SpecialAllowRehabGrp/NetAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTaxAmt",
+      "path": "SpecialAllowRehabGrp/NetTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PercentNetAGIAmt",
+      "path": "SpecialAllowRehabGrp/PercentNetAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepeatedTaxAmt",
+      "path": "SpecialAllowRehabGrp/RepeatedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallestRehabTaxAmt",
+      "path": "SpecialAllowRehabGrp/SmallestRehabTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallestTaxAmt",
+      "path": "SpecialAllowRehabGrp/SmallestTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableAmt",
+      "path": "SpecialAllowRehabGrp/TaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalArcherMSADistributionAmt",
+      "path": "SpecialAllowRehabGrp/TotalArcherMSADistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditMinusTaxAmt",
+      "path": "SpecialAllowRehabGrp/TotalCreditMinusTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "TotalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditMinusTaxAmt",
+      "path": "TotalCreditMinusTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnallowedCreditReductionAmt",
+      "path": "UnallowedCreditReductionAmt",
+      "type": "usd"
+    }
+  ]
+}

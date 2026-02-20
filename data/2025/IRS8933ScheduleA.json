@@ -1,0 +1,121 @@
+{
+  "form_id": "IRS8933ScheduleA",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": " FacilityOwnerEIN",
+      "path": " FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": " FacilityOwnerSSN",
+      "path": " FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": " FacilityOwnerUSAddress",
+      "path": " FacilityOwnerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ContractExistsInd",
+      "path": "ContractExistsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContractOrAmendmentDt",
+      "path": "ContractOrAmendmentDt",
+      "type": "date"
+    },
+    {
+      "name": "EnhancedOilRecoveryProjOwnrInd",
+      "path": "EnhancedOilRecoveryProjOwnrInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityNameAndLocationTxt",
+      "path": "FacilityNameAndLocationTxt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityTypeDesc",
+      "path": "FacilityTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "GeologicDisposalSiteOwnrInd",
+      "path": "GeologicDisposalSiteOwnrInd",
+      "type": "bool"
+    },
+    {
+      "name": "MtrcTonsNonQlfyCrbnOxdRcvdQty",
+      "path": "MtrcTonsNonQlfyCrbnOxdRcvdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsNonQlfyCrbnOxdStorQty",
+      "path": "MtrcTonsNonQlfyCrbnOxdStorQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsQlfyCrbnOxdRcvdQty",
+      "path": "MtrcTonsQlfyCrbnOxdRcvdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsQlfyCrbnOxdRcvdStorQty",
+      "path": "MtrcTonsQlfyCrbnOxdRcvdStorQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SupplierEIN",
+      "path": "SupplierEIN",
+      "type": "ein"
+    },
+    {
+      "name": "SupplierExistsInd",
+      "path": "SupplierExistsInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "SupplierName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "SupplierName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TPElectClmCrbnOxdSqstrtnCrInd",
+      "path": "TPElectClmCrbnOxdSqstrtnCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotMtrcTonsQlfyCrbnOxdRcvdQty",
+      "path": "TotMtrcTonsQlfyCrbnOxdRcvdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotMtrcTonsQlfyCrbnOxdStorQty",
+      "path": "TotMtrcTonsQlfyCrbnOxdStorQty",
+      "type": "unknown"
+    }
+  ]
+}

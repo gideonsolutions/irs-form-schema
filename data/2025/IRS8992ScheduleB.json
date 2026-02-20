@@ -1,0 +1,131 @@
+{
+  "form_id": "IRS8992ScheduleB",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CFCAndUSShrLvlReportingAmtGrp",
+      "path": "CFCAndUSShrLvlReportingAmtGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotAlShrCnsldtSpcfdIntExpnsAmt",
+      "path": "TotAlShrCnsldtSpcfdIntExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAllcblShrCnsldtTestLossAmt",
+      "path": "TotAllcblShrCnsldtTestLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCnsldtTestedIntExpenseAmt",
+      "path": "TotCnsldtTestedIntExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCnsldtTestedIntIncomeAmt",
+      "path": "TotCnsldtTestedIntIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotGILTIAllocTestedIncmCFCAmt",
+      "path": "TotGILTIAllocTestedIncmCFCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrCFCTestedIncmAmt",
+      "path": "TotProRataShrCFCTestedIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrCFCTestedLossAmt",
+      "path": "TotProRataShrCFCTestedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrTestedIntExpnsAmt",
+      "path": "TotProRataShrTestedIntExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrTestedIntIncmAmt",
+      "path": "TotProRataShrTestedIntIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrTestedLossQBAIAmt",
+      "path": "TotProRataShrTestedLossQBAIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotShrGILTIAllocationRt",
+      "path": "TotShrGILTIAllocationRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalAggregateTestedIncomeAmt",
+      "path": "TotalAggregateTestedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAggregateTestedLossAmt",
+      "path": "TotalAggregateTestedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllcblShrCnsldtQBAIAmt",
+      "path": "TotalAllcblShrCnsldtQBAIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCnsldtSpcfdIntExpnsAmt",
+      "path": "TotalCnsldtSpcfdIntExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalConsolidatedQBAIAmt",
+      "path": "TotalConsolidatedQBAIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDTIRAmt",
+      "path": "TotalDTIRAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGILTIAllocationRt",
+      "path": "TotalGILTIAllocationRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalProRataShareQBAIAmt",
+      "path": "TotalProRataShareQBAIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTestedIncomeAmt",
+      "path": "TotalTestedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTestedInterestExpenseAmt",
+      "path": "TotalTestedInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTestedInterestIncomeAmt",
+      "path": "TotalTestedInterestIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTestedLossAmt",
+      "path": "TotalTestedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USShrLvlCalculationsGrp",
+      "path": "USShrLvlCalculationsGrp",
+      "type": "group"
+    }
+  ]
+}

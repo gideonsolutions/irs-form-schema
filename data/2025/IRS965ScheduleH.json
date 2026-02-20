@@ -1,0 +1,41 @@
+{
+  "form_id": "IRS965ScheduleH",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ApplicablePTEPct",
+      "path": "ApplicablePTEPct",
+      "type": "decimal"
+    },
+    {
+      "name": "DisallowedForeignTaxPTEAmt",
+      "path": "DisallowedForeignTaxPTEAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "Section965aInclusionAmt",
+      "path": "Section965aInclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section965cDeductionAmt",
+      "path": "Section965cDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotPTETaxesDeemedPaidAmt",
+      "path": "TotPTETaxesDeemedPaidAmt",
+      "type": "usd"
+    }
+  ]
+}

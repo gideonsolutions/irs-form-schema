@@ -1,0 +1,511 @@
+{
+  "form_id": "IRS990TScheduleA",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "DirectAdvertisingCostAmt",
+      "path": "             AdvertisingIncmPeriodicalGrp/DirectAdvertisingCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalSection263ACostsAmt",
+      "path": "AdditionalSection263ACostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdvertisingIncmPeriodicalGrp",
+      "path": "AdvertisingIncmPeriodicalGrp",
+      "type": "group"
+    },
+    {
+      "name": "             DirectAdvertisingCostAmt",
+      "path": "AdvertisingIncmPeriodicalGrp/             DirectAdvertisingCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdvertisingGainLossAmt",
+      "path": "AdvertisingIncmPeriodicalGrp/AdvertisingGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CirculationIncomeAmt",
+      "path": "AdvertisingIncmPeriodicalGrp/CirculationIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DirectAdvertisingCostAmt",
+      "path": "AdvertisingIncmPeriodicalGrp/DirectAdvertisingCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessReadershipCostsAmt",
+      "path": "AdvertisingIncmPeriodicalGrp/ExcessReadershipCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessReadershipCostsDedAmt",
+      "path": "AdvertisingIncmPeriodicalGrp/ExcessReadershipCostsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossAdvertisingIncomeAmt",
+      "path": "AdvertisingIncmPeriodicalGrp/GrossAdvertisingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReadershipCostsAmt",
+      "path": "AdvertisingIncmPeriodicalGrp/ReadershipCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BadDebtExpenseAmt",
+      "path": "BadDebtExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningOfYearInventoryAmt",
+      "path": "BeginningOfYearInventoryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainNetIncomeAmt",
+      "path": "CapitalGainNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalLossLimitationAmt",
+      "path": "CapitalLossLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfLaborAmt",
+      "path": "CostOfLaborAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferredCompensationPlanAmt",
+      "path": "DeferredCompensationPlanAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepletionAmt",
+      "path": "DepletionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationClmElsewhereAmt",
+      "path": "DepreciationClmElsewhereAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationNetAmt",
+      "path": "DepreciationNetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeBenefitProgramAmt",
+      "path": "EmployeeBenefitProgramAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndOfYearInventoryAmt",
+      "path": "EndOfYearInventoryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExploitedActivityDesc",
+      "path": "ExploitedActivityDesc",
+      "type": "string"
+    },
+    {
+      "name": "ExploitedActivityNetIncomeAmt",
+      "path": "ExploitedActivityNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExploitedConsolidatedActyCd",
+      "path": "ExploitedConsolidatedActyCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExploitedExcessExemptExpnssAmt",
+      "path": "ExploitedExcessExemptExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExploitedExemptActivityIncmAmt",
+      "path": "ExploitedExemptActivityIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExploitedExpnssCnnctUBIAmt",
+      "path": "ExploitedExpnssCnnctUBIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeActyNotUBIAmt",
+      "path": "GrossIncomeActyNotUBIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeActyNotUBIExpnsAmt",
+      "path": "GrossIncomeActyNotUBIExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossProfitAmt",
+      "path": "GrossProfitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsOrSalesAmt",
+      "path": "GrossReceiptsOrSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntAnntsRyltsRentCtrlOrgGrp",
+      "path": "IntAnntsRyltsRentCtrlOrgGrp",
+      "type": "group"
+    },
+    {
+      "name": "InterestDeductionAmt",
+      "path": "InterestDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryValuationMethodCd",
+      "path": "InventoryValuationMethodCd",
+      "type": "enum"
+    },
+    {
+      "name": "InvestmentIncmSect501c7917Grp",
+      "path": "InvestmentIncmSect501c7917Grp",
+      "type": "group"
+    },
+    {
+      "name": "ItmzdSupplementalInfoGrp",
+      "path": "ItmzdSupplementalInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetAdvertisingIncomeAmt",
+      "path": "NetAdvertisingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCtrlOrgIntAnntsRyltsRntsAmt",
+      "path": "NetCtrlOrgIntAnntsRyltsRntsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetExploitedActivityIncomeAmt",
+      "path": "NetExploitedActivityIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetGrossReceiptsOrSalesAmt",
+      "path": "NetGrossReceiptsOrSalesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetInvestmentIncomeAmt",
+      "path": "NetInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossDeductionAmt",
+      "path": "NetOperatingLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentIncomeAmt",
+      "path": "NetRentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetUnrelatedDebtFincdIncmAmt",
+      "path": "NetUnrelatedDebtFincdIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OfficerDirTrstCompGrp",
+      "path": "OfficerDirTrstCompGrp",
+      "type": "group"
+    },
+    {
+      "name": "OthInventoryValuationMethodCd",
+      "path": "OthInventoryValuationMethodCd",
+      "type": "enum"
+    },
+    {
+      "name": "@othInvntryValuationMethodDesc",
+      "path": "OthInventoryValuationMethodCd/@othInvntryValuationMethodDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherCostsAmt",
+      "path": "OtherCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrimaryDeathDt",
+      "path": "PrimaryDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "PurchasesAmt",
+      "path": "PurchasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentIncomePropertyGrp",
+      "path": "RentIncomePropertyGrp",
+      "type": "group"
+    },
+    {
+      "name": "DeductionsConnectedRentIncmAmt",
+      "path": "RentIncomePropertyGrp/DeductionsConnectedRentIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentPersonalPropertyAmt",
+      "path": "RentIncomePropertyGrp/RentPersonalPropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentRealPersonalPropertyAmt",
+      "path": "RentIncomePropertyGrp/RentRealPersonalPropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRentsByPropertyAmt",
+      "path": "RentIncomePropertyGrp/TotalRentsByPropertyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepairsAndMaintenanceAmt",
+      "path": "RepairsAndMaintenanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReturnsAndAllowancesAmt",
+      "path": "ReturnsAndAllowancesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SalariesAndWagesAmt",
+      "path": "SalariesAndWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section263ARulesApplyInd",
+      "path": "Section263ARulesApplyInd",
+      "type": "bool"
+    },
+    {
+      "name": "SequenceReferenceNum",
+      "path": "SequenceReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "SequenceTotalNum",
+      "path": "SequenceTotalNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxesAndLicensesAmt",
+      "path": "TaxesAndLicensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotExcessReadershipCostsDedAmt",
+      "path": "TotExcessReadershipCostsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNetUnrltTrdBusIncmAmt",
+      "path": "TotNetUnrltTrdBusIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotUnrltTrdBusIncmAmt",
+      "path": "TotUnrltTrdBusIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotUnrltTrdBusIncmExpnssAmt",
+      "path": "TotUnrltTrdBusIncmExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllocableDeductionsAmt",
+      "path": "TotalAllocableDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostGoodsSoldAmt",
+      "path": "TotalCostGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCtrlOrgDeductionAmt",
+      "path": "TotalCtrlOrgDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCtrlOrgPymtGrossIncmAmt",
+      "path": "TotalCtrlOrgPymtGrossIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionSetAsidesAmt",
+      "path": "TotalDeductionSetAsidesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionsAmt",
+      "path": "TotalDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDepreciationAmt",
+      "path": "TotalDepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDirectAdvertisingCostAmt",
+      "path": "TotalDirectAdvertisingCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDividendsReceivedDedAmt",
+      "path": "TotalDividendsReceivedDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossAdvertisingIncomeAmt",
+      "path": "TotalGrossAdvertisingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossDebtFinancedIncmAmt",
+      "path": "TotalGrossDebtFinancedIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInvestmentIncomeAmt",
+      "path": "TotalInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOrdinaryGainLossAmt",
+      "path": "TotalOrdinaryGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPrtshpSCorpIncomeAmt",
+      "path": "TotalPrtshpSCorpIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRentDeductionsAmt",
+      "path": "TotalRentDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRentIncomeAmt",
+      "path": "TotalRentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUnrelatedBusinessCompAmt",
+      "path": "TotalUnrelatedBusinessCompAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TradeOrBusinessDesc",
+      "path": "TradeOrBusinessDesc",
+      "type": "string"
+    },
+    {
+      "name": "UBIBeforeNOLDedAmt",
+      "path": "UBIBeforeNOLDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedDebtFinancedPropGrp",
+      "path": "UnrelatedDebtFinancedPropGrp",
+      "type": "group"
+    },
+    {
+      "name": "AllocableDeductionAmt",
+      "path": "UnrelatedDebtFinancedPropGrp/AllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AverageAcquisitionAdjBasisPct",
+      "path": "UnrelatedDebtFinancedPropGrp/AverageAcquisitionAdjBasisPct",
+      "type": "decimal"
+    },
+    {
+      "name": "AverageAcquisitionDebtAmt",
+      "path": "UnrelatedDebtFinancedPropGrp/AverageAcquisitionDebtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AverageAdjustedBasisAmt",
+      "path": "UnrelatedDebtFinancedPropGrp/AverageAdjustedBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeAmt",
+      "path": "UnrelatedDebtFinancedPropGrp/GrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeReportableAmt",
+      "path": "UnrelatedDebtFinancedPropGrp/GrossIncomeReportableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDebtFinancedDeductionAmt",
+      "path": "UnrelatedDebtFinancedPropGrp/OtherDebtFinancedDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StraightLineDepreciationDedAmt",
+      "path": "UnrelatedDebtFinancedPropGrp/StraightLineDepreciationDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDebtFinancedDeductionAmt",
+      "path": "UnrelatedDebtFinancedPropGrp/TotalDebtFinancedDeductionAmt",
+      "type": "usd"
+    }
+  ]
+}

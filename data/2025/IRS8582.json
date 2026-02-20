@@ -1,0 +1,196 @@
+{
+  "form_id": "IRS8582",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AllowedRentalRealtyLossAmt",
+      "path": "AllowedRentalRealtyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaximumAllowedIncomeAmt",
+      "path": "MaximumAllowedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIAmt",
+      "path": "ModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIDifferenceAmt",
+      "path": "ModifiedAGIDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOtherActivityAmt",
+      "path": "NetOtherActivityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalRealtyAmt",
+      "path": "NetRentalRealtyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherActivityIncomeAmt",
+      "path": "OtherActivityIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherActivityLossAmt",
+      "path": "OtherActivityLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYUnallowedRentalLossAmt",
+      "path": "PYUnallowedRentalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLossAmt",
+      "path": "ParentWrkshtAllowanceGrp/TotalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetSpecialAllowanceAmt",
+      "path": "ParentWrkshtAllowanceGrp/TotalNetSpecialAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSpecialAllowanceAmt",
+      "path": "ParentWrkshtAllowanceGrp/TotalSpecialAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WrkshtAllowanceGrp",
+      "path": "ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp",
+      "type": "group"
+    },
+    {
+      "name": "WrkshtCommercialGrp",
+      "path": "ParentWrkshtCommercialGrp/WrkshtCommercialGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalAllowedLossAmt",
+      "path": "ParentWrkshtListActivityGrp/TotalAllowedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLossAmt",
+      "path": "ParentWrkshtListActivityGrp/TotalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUnallowedLossAmt",
+      "path": "ParentWrkshtListActivityGrp/TotalUnallowedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WrkshtListActivityGrp",
+      "path": "ParentWrkshtListActivityGrp/WrkshtListActivityGrp",
+      "type": "group"
+    },
+    {
+      "name": "ParentWrkshtLossActivityGrp",
+      "path": "ParentWrkshtLossActivityGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalAllocationLossAmt",
+      "path": "ParentWrkshtLossGrp/TotalAllocationLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLossAmt",
+      "path": "ParentWrkshtLossGrp/TotalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WrkshtLossGrp",
+      "path": "ParentWrkshtLossGrp/WrkshtLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalOtherCurrentYearIncomeAmt",
+      "path": "ParentWrkshtPassiveGrp/TotalOtherCurrentYearIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherCurrentYearLossAmt",
+      "path": "ParentWrkshtPassiveGrp/TotalOtherCurrentYearLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherPYUnallowedAmt",
+      "path": "ParentWrkshtPassiveGrp/TotalOtherPYUnallowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WrkshtPassiveGrp",
+      "path": "ParentWrkshtPassiveGrp/WrkshtPassiveGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalCurrentYearNetIncomeAmt",
+      "path": "ParentWrkshtRentalActGrp/TotalCurrentYearNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentYearNetLossAmt",
+      "path": "ParentWrkshtRentalActGrp/TotalCurrentYearNetLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPriorYrRentalUnallowedAmt",
+      "path": "ParentWrkshtRentalActGrp/TotalPriorYrRentalUnallowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WrkshtRentalActGrp",
+      "path": "ParentWrkshtRentalActGrp/WrkshtRentalActGrp",
+      "type": "group"
+    },
+    {
+      "name": "PercentNetSpecialAllowanceAmt",
+      "path": "PercentNetSpecialAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearUnallowedOtherLossAmt",
+      "path": "PriorYearUnallowedOtherLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentalRealtyIncomeAmt",
+      "path": "RentalRealtyIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentalRealtyLossAmt",
+      "path": "RentalRealtyLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentalRealtyLossLimitAmt",
+      "path": "RentalRealtyLossLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLossesAllowedAmt",
+      "path": "TotalLossesAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPassiveActivityAmt",
+      "path": "TotalPassiveActivityAmt",
+      "type": "usd"
+    }
+  ]
+}

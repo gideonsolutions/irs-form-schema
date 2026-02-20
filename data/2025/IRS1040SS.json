@@ -1,0 +1,501 @@
+{
+  "form_id": "IRS1040SS",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ACTCAfterLimitAmt",
+      "path": "ACTCBonaFideResidentsGrp/ACTCAfterLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ACTCLimitAmt",
+      "path": "ACTCBonaFideResidentsGrp/ACTCLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ACTCOverPhaseOutLimitInd",
+      "path": "ACTCBonaFideResidentsGrp/ACTCOverPhaseOutLimitInd",
+      "type": "bool"
+    },
+    {
+      "name": "ACTCTaxClaimInd",
+      "path": "ACTCBonaFideResidentsGrp/ACTCTaxClaimInd",
+      "type": "bool"
+    },
+    {
+      "name": "ACTCTaxLimitAmt",
+      "path": "ACTCBonaFideResidentsGrp/ACTCTaxLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalChildTaxCreditAmt",
+      "path": "ACTCBonaFideResidentsGrp/AdditionalChildTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalMedicareTaxAmt",
+      "path": "ACTCBonaFideResidentsGrp/AdditionalMedicareTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddnlMedicareTaxWithholdingAmt",
+      "path": "ACTCBonaFideResidentsGrp/AddnlMedicareTaxWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingStatusThresholdCd",
+      "path": "ACTCBonaFideResidentsGrp/FilingStatusThresholdCd",
+      "type": "enum"
+    },
+    {
+      "name": "InitialACTCAmt",
+      "path": "ACTCBonaFideResidentsGrp/InitialACTCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MAGILessThresholdAmt",
+      "path": "ACTCBonaFideResidentsGrp/MAGILessThresholdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MAGIMoreThanThresholdInd",
+      "path": "ACTCBonaFideResidentsGrp/MAGIMoreThanThresholdInd",
+      "type": "bool"
+    },
+    {
+      "name": "MAGIMoreThanThresholdInd ",
+      "path": "ACTCBonaFideResidentsGrp/MAGIMoreThanThresholdInd ",
+      "type": "unknown"
+    },
+    {
+      "name": "ModifiedAGIAmt",
+      "path": "ACTCBonaFideResidentsGrp/ModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIPhaseOutAmt",
+      "path": "ACTCBonaFideResidentsGrp/ModifiedAGIPhaseOutAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OneHalfAddnlMedicareTaxAmt",
+      "path": "ACTCBonaFideResidentsGrp/OneHalfAddnlMedicareTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OneHalfSelfEmploymentTaxAmt",
+      "path": "ACTCBonaFideResidentsGrp/OneHalfSelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDependentCnt",
+      "path": "ACTCBonaFideResidentsGrp/OtherDependentCnt",
+      "type": "int"
+    },
+    {
+      "name": "OtherDependentCreditAmt",
+      "path": "ACTCBonaFideResidentsGrp/OtherDependentCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYSSMedcrAddnlMedcrTxWthldAmt",
+      "path": "ACTCBonaFideResidentsGrp/PYSSMedcrAddnlMedcrTxWthldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearEmploymentTaxCd",
+      "path": "ACTCBonaFideResidentsGrp/PriorYearEmploymentTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "PriorYearSelfEmploymentTaxAmt",
+      "path": "ACTCBonaFideResidentsGrp/PriorYearSelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearSelfEmploymentTaxCd",
+      "path": "ACTCBonaFideResidentsGrp/PriorYearSelfEmploymentTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "QlfyChildUnderAgeSSNCnt",
+      "path": "ACTCBonaFideResidentsGrp/QlfyChildUnderAgeSSNCnt",
+      "type": "int"
+    },
+    {
+      "name": "QlfyChildUnderAgeSSNLimtAmt",
+      "path": "ACTCBonaFideResidentsGrp/QlfyChildUnderAgeSSNLimtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyChildUnderAgeSSNLimtAmtLN7",
+      "path": "ACTCBonaFideResidentsGrp/QlfyChildUnderAgeSSNLimtAmtLN7",
+      "type": "unknown"
+    },
+    {
+      "name": "QualifyingChildInd",
+      "path": "ACTCBonaFideResidentsGrp/QualifyingChildInd",
+      "type": "bool"
+    },
+    {
+      "name": "SocSecMedicareTaxUnrptdTipAmt",
+      "path": "ACTCBonaFideResidentsGrp/SocSecMedicareTaxUnrptdTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSEAddnlMedicareTaxAmt",
+      "path": "ACTCBonaFideResidentsGrp/TotalSEAddnlMedicareTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSocSecAndMedcrWithheldAmt",
+      "path": "ACTCBonaFideResidentsGrp/TotalSocSecAndMedcrWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAfterLimitAmt",
+      "path": "ACTCBonaFideResidentsGrp/TotalTaxAfterLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLimitAmt",
+      "path": "ACTCBonaFideResidentsGrp/TotalTaxLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalWthldUncollUnrptdTaxAmt",
+      "path": "ACTCBonaFideResidentsGrp/TotalWthldUncollUnrptdTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedSocSecMedTaxAmt",
+      "path": "ACTCBonaFideResidentsGrp/UncollectedSocSecMedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedSocSecMedTaxGTLIAmt",
+      "path": "ACTCBonaFideResidentsGrp/UncollectedSocSecMedTaxGTLIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddlMedcrRRTTaxWithholdingAmt",
+      "path": "AddlMedcrRRTTaxWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalMedicareTaxCd",
+      "path": "AddnlMedicareTaxWithheldGrp/AdditionalMedicareTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddlMedcrRRTTaxWithholdingAmt",
+      "path": "AddnlMedicareTaxWithheldGrp/AddlMedcrRRTTaxWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedToEsTaxAmt",
+      "path": "AppliedToEsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BankAccountTypeCd",
+      "path": "BankAccountTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "ChangeDt",
+      "path": "ChangeDt",
+      "type": "date"
+    },
+    {
+      "name": "DeceasedInd",
+      "path": "DeceasedInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "EstimatedTaxPaymentsAmt",
+      "path": "EstimatedTaxPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExSocSecTaxWithheldAmt",
+      "path": "ExSocSecTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FarmingProfitLoss",
+      "path": "FarmingProfitLoss",
+      "type": "unknown"
+    },
+    {
+      "name": "FiledPursuantToSect30191002Ind",
+      "path": "FiledPursuantToSect30191002Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form8888Ind",
+      "path": "Form8888Ind",
+      "type": "bool"
+    },
+    {
+      "name": "FormerSpouseSSN",
+      "path": "FormerSpouseSSN",
+      "type": "tin"
+    },
+    {
+      "name": "HouseholdEmploymentTaxAmt",
+      "path": "HouseholdEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndividualReturnFilingStatusCd",
+      "path": "IndividualReturnFilingStatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "MoreDependentsInd",
+      "path": "MoreDependentsInd",
+      "type": "bool"
+    },
+    {
+      "name": "NRALiteralCd",
+      "path": "NRALiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "NonPaidPreparerCd",
+      "path": "NonPaidPreparerCd",
+      "type": "enum"
+    },
+    {
+      "name": "OverpaidAmt",
+      "path": "OverpaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OwedAmt",
+      "path": "OwedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalRepresentativeInd",
+      "path": "PersonalRepresentativeInd",
+      "type": "bool"
+    },
+    {
+      "name": "PowerOfAttorneyNm",
+      "path": "PowerOfAttorneyNm",
+      "type": "string"
+    },
+    {
+      "name": "PowerOfAttorneySignedByInd",
+      "path": "PowerOfAttorneySignedByInd",
+      "type": "bool"
+    },
+    {
+      "name": "Preparer",
+      "path": "Preparer",
+      "type": "unknown"
+    },
+    {
+      "name": "PrimaryDeathDt",
+      "path": "PrimaryDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "QualifyingChildInfoGrp",
+      "path": "QualifyingChildInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "QualifyingHOHNm",
+      "path": "QualifyingHOHNm",
+      "type": "string"
+    },
+    {
+      "name": "QualifyingHOHSSN",
+      "path": "QualifyingHOHSSN",
+      "type": "tin"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundProductCd",
+      "path": "RefundProductCd",
+      "type": "enum"
+    },
+    {
+      "name": "RefundProductCodeTxt",
+      "path": "RefundProductCodeTxt",
+      "type": "string"
+    },
+    {
+      "name": "RequestForExtensionAmt",
+      "path": "RequestForExtensionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "SelfEmploymentTaxAmt",
+      "path": "SelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmploymentTaxGrp",
+      "path": "SelfEmploymentTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "SocSecMedicareTaxUnrptdTipAmt",
+      "path": "SocSecMedicareTaxUnrptdTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "SpecialConditionTxt",
+      "path": "SpecialConditionTxt",
+      "type": "string"
+    },
+    {
+      "name": "SpouseDeathDt",
+      "path": "SpouseDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "SpouseNm",
+      "path": "SpouseNm",
+      "type": "string"
+    },
+    {
+      "name": "SurvivingSpouseInd",
+      "path": "SurvivingSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "ThirdPartyDesigneeInd",
+      "path": "ThirdPartyDesigneeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ThirdPartyDesigneeNm",
+      "path": "ThirdPartyDesigneeNm",
+      "type": "string"
+    },
+    {
+      "name": "ThirdPartyDesigneePIN",
+      "path": "ThirdPartyDesigneePIN",
+      "type": "string"
+    },
+    {
+      "name": "ThirdPartyDesigneePhoneNum",
+      "path": "ThirdPartyDesigneePhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "TotalAMRRTTaxAmt",
+      "path": "TotalAMRRTTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocSecMedicareTaxUnrptdTipAmt",
+      "path": "TotalOtherTaxAdditionsGrp/SocSecMedicareTaxUnrptdTipGrp/SocSecMedicareTaxUnrptdTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnTipsCd",
+      "path": "TotalOtherTaxAdditionsGrp/SocSecMedicareTaxUnrptdTipGrp/TaxOnTipsCd",
+      "type": "enum"
+    },
+    {
+      "name": "UncollectedSocSecMedTaxGTLIAmt",
+      "path": "TotalOtherTaxAdditionsGrp/UncollectedSocSecMedTaxGTLIGrp/UncollectedSocSecMedTaxGTLIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedTaxCd",
+      "path": "TotalOtherTaxAdditionsGrp/UncollectedSocSecMedTaxGTLIGrp/UncollectedTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "UncollectedSocSecMedTaxAmt",
+      "path": "TotalOtherTaxAdditionsGrp/UncollectedSocSecMedTaxGrp/UncollectedSocSecMedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedTaxCd",
+      "path": "TotalOtherTaxAdditionsGrp/UncollectedSocSecMedTaxGrp/UncollectedTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "UncollectedSocSecTaxOnTipsAmt",
+      "path": "TotalOtherTaxAdditionsGrp/UncollectedSocSecTaxOnTipsGrp/UncollectedSocSecTaxOnTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedTaxCd",
+      "path": "TotalOtherTaxAdditionsGrp/UncollectedSocSecTaxOnTipsGrp/UncollectedTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalOtherTaxesAmt",
+      "path": "TotalOtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@requestForExtensionAmt",
+      "path": "TotalPaymentsAmt/@requestForExtensionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@requestForExtensionCd",
+      "path": "TotalPaymentsAmt/@requestForExtensionCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedSocSecMedTaxAmt",
+      "path": "UncollectedSocSecMedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedSocSecMedTaxGTLIAmt",
+      "path": "UncollectedSocSecMedTaxGTLIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedSocSecTaxOnTipsAmt",
+      "path": "UncollectedSocSecTaxOnTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VirtualCurAcquiredDurTYInd",
+      "path": "VirtualCurAcquiredDurTYInd",
+      "type": "bool"
+    }
+  ]
+}

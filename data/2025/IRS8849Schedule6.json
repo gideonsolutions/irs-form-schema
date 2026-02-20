@@ -1,0 +1,46 @@
+{
+  "form_id": "IRS8849Schedule6",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "EarliestClaimDt",
+      "path": "EarliestClaimDt",
+      "type": "date"
+    },
+    {
+      "name": "EmployerIdentificationNumber",
+      "path": "EmployerIdentificationNumber",
+      "type": "unknown"
+    },
+    {
+      "name": "LatestClaimDt",
+      "path": "LatestClaimDt",
+      "type": "date"
+    },
+    {
+      "name": "MissingEINReason",
+      "path": "MissingEINReason",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "NameOfEmployer/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "NameOfEmployer/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "OtherClaimNotRptGrp",
+      "path": "OtherClaimNotRptOnOthFormsGrp/OtherClaimNotRptGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalRefundAmt",
+      "path": "TotalRefundAmt",
+      "type": "usd"
+    }
+  ]
+}

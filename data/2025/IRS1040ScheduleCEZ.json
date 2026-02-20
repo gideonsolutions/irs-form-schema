@@ -1,0 +1,111 @@
+{
+  "form_id": "IRS1040ScheduleCEZ",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdditionalVehicleInfoGrp",
+      "path": "AdditionalVehicleInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessForeignAddress",
+      "path": "BusinessForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "BusinessForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "BusinessForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "BusinessForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessUSAddress",
+      "path": "BusinessUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "BusinessUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "BusinessUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "NetProfitAmt",
+      "path": "NetProfitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentRqrFilingForm1099Ind",
+      "path": "PaymentRqrFilingForm1099Ind",
+      "type": "bool"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityDesc",
+      "path": "PrincipalBusinessActivityDesc",
+      "type": "string"
+    },
+    {
+      "name": "ProprietorNm",
+      "path": "ProprietorNm",
+      "type": "string"
+    },
+    {
+      "name": "RequiredForm1099FiledInd",
+      "path": "RequiredForm1099FiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "StatutoryEmployeeFromW2Ind",
+      "path": "StatutoryEmployeeFromW2Ind",
+      "type": "bool"
+    },
+    {
+      "name": "TotalGrossReceiptsAmt",
+      "path": "TotalGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherExpensesAmt",
+      "path": "TotalOtherExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnclassifiedBusinessActivityCd",
+      "path": "UnclassifiedBusinessActivityCd",
+      "type": "enum"
+    }
+  ]
+}

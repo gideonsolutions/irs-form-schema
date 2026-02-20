@@ -1,0 +1,116 @@
+{
+  "form_id": "IRS8908",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BssQlfyNewEgyEfficientHmInd",
+      "path": "BssQlfyNewEgyEfficientHmInd",
+      "type": "bool"
+    },
+    {
+      "name": "CertifierInformationGrp",
+      "path": "CertifierInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "EligibleContractorInd",
+      "path": "EligibleContractorInd",
+      "type": "bool"
+    },
+    {
+      "name": "EnergyEfficientHomeCreditAmt",
+      "path": "EnergyEfficientHomeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IssdEgyEfficiencySavCertInd",
+      "path": "IssdEgyEfficiencySavCertInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedHomesAddresses",
+      "path": "QualifiedHomesAddresses",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "QualifiedHomesAddresses/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TotCertifierCnt",
+      "path": "TotCertifierCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotHomesCertifiedCnt",
+      "path": "TotHomesCertifiedCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotQlfyEgyStarNotMetCertAmt",
+      "path": "TotQlfyEgyStarNotMetCertAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyEgyStarNotMetCertQty",
+      "path": "TotQlfyEgyStarNotMetCertQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotQlfyEgyStarNotMetNotCertAmt",
+      "path": "TotQlfyEgyStarNotMetNotCertAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyEgyStarNotMetNotCertQty",
+      "path": "TotQlfyEgyStarNotMetNotCertQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotQlfyEgyStarProgCertAmt",
+      "path": "TotQlfyEgyStarProgCertAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyEgyStarProgCertQty",
+      "path": "TotQlfyEgyStarProgCertQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotQlfyEgyStarProgNotCertAmt",
+      "path": "TotQlfyEgyStarProgNotCertAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyEgyStarProgNotCertQty",
+      "path": "TotQlfyEgyStarProgNotCertQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "TotalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalHomesMeetingStandardQty",
+      "path": "TotalHomesMeetingStandardQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalHomesStandardAmt",
+      "path": "TotalHomesStandardAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalManufactureHomesAmt",
+      "path": "TotalManufactureHomesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalMfrHmMeetingStdQty",
+      "path": "TotalMfrHmMeetingStdQty",
+      "type": "unknown"
+    }
+  ]
+}

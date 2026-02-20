@@ -1,0 +1,181 @@
+{
+  "form_id": "IRS1040Schedule8812",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ACTCTaxLiabiltyLimitAmt",
+      "path": "ACTCTaxLiabiltyLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalChildTaxCreditAmt",
+      "path": "AdditionalChildTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalIncomeAdjAmt",
+      "path": "AdditionalIncomeAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CTCODCAfterAGILimitAmt",
+      "path": "CTCODCAfterAGILimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CTCODCAmt",
+      "path": "CTCODCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CTCODCOverAGILimitInd",
+      "path": "CTCODCOverAGILimitInd",
+      "type": "bool"
+    },
+    {
+      "name": "ACTCAfterLimitAmt",
+      "path": "ClaimACTCAllFilersGrp/ACTCAfterLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ACTCBeforeLimitAmt",
+      "path": "ClaimACTCAllFilersGrp/ACTCBeforeLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcAmtFromRetPlusTaxWhldAmt",
+      "path": "ClaimACTCAllFilersGrp/CalcAmtFromRetPlusTaxWhldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcFromW2AndReturnAmt",
+      "path": "ClaimACTCAllFilersGrp/CalcFromW2AndReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalculatedDifferenceAmt",
+      "path": "ClaimACTCAllFilersGrp/CalculatedDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnedIncmMoreThanSpecifiedInd",
+      "path": "ClaimACTCAllFilersGrp/EarnedIncmMoreThanSpecifiedInd",
+      "type": "bool"
+    },
+    {
+      "name": "FromTaxReturnAmt",
+      "path": "ClaimACTCAllFilersGrp/FromTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FromW2Amt",
+      "path": "ClaimACTCAllFilersGrp/FromW2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "LargerCalcIncomeOrDiffAmt",
+      "path": "ClaimACTCAllFilersGrp/LargerCalcIncomeOrDiffAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetEarnedIncomeCalculatedAmt",
+      "path": "ClaimACTCAllFilersGrp/NetEarnedIncomeCalculatedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTotalEarnedIncomeAmt",
+      "path": "ClaimACTCAllFilersGrp/NetTotalEarnedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontaxableCombatPayAmt",
+      "path": "ClaimACTCAllFilersGrp/NontaxableCombatPayAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyChildUnderAgeSSNCnt",
+      "path": "ClaimACTCAllFilersGrp/QlfyChildUnderAgeSSNCnt",
+      "type": "int"
+    },
+    {
+      "name": "QlfyChildUnderAgeSSNLimtAmt",
+      "path": "ClaimACTCAllFilersGrp/QlfyChildUnderAgeSSNLimtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThreeOrMoreQlfyChildrenInd",
+      "path": "ClaimACTCAllFilersGrp/ThreeOrMoreQlfyChildrenInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalEarnedIncomeAmt",
+      "path": "ClaimACTCAllFilersGrp/TotalEarnedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessAdjGrossIncomeAmt",
+      "path": "ExcessAdjGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcldSect933PuertoRicoIncmAmt",
+      "path": "ExcldSect933PuertoRicoIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionAndDeductionSumAmt",
+      "path": "ExclusionAndDeductionSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingStatusThresholdCd",
+      "path": "FilingStatusThresholdCd",
+      "type": "enum"
+    },
+    {
+      "name": "GrossIncomeExclusionAmt",
+      "path": "GrossIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InitialCTCODCAmt",
+      "path": "InitialCTCODCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIAmt",
+      "path": "ModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIPhaseOutAmt",
+      "path": "ModifiedAGIPhaseOutAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDependentCnt",
+      "path": "OtherDependentCnt",
+      "type": "int"
+    },
+    {
+      "name": "OtherDependentCreditAmt",
+      "path": "OtherDependentCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyChildUnderAgeSSNCnt",
+      "path": "QlfyChildUnderAgeSSNCnt",
+      "type": "int"
+    },
+    {
+      "name": "QlfyChildUnderAgeSSNLimtAmt",
+      "path": "QlfyChildUnderAgeSSNLimtAmt",
+      "type": "usd"
+    }
+  ]
+}

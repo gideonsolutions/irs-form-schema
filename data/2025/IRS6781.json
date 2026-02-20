@@ -1,0 +1,111 @@
+{
+  "form_id": "IRS6781",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "Form1099BAdjustmentsAmt",
+      "path": "Form1099BAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainsFromStraddlesInfoGrp",
+      "path": "GainsFromStraddlesInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "LongTermCapitalGainAmt",
+      "path": "LongTermCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LongTermPortionOfGainAmt",
+      "path": "LongTermPortionOfGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LongTermPortionRcgnzLossAmt",
+      "path": "LongTermPortionRcgnzLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LossesFromStraddlesInfoGrp",
+      "path": "LossesFromStraddlesInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "MixedStraddleAccountInd",
+      "path": "MixedStraddleAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "MixedStraddleElectionInd",
+      "path": "MixedStraddleElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetGainAmt",
+      "path": "NetGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetGainAnd1099BAdjustmentsAmt",
+      "path": "NetGainAnd1099BAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetGainAndAdjPlusCarrybackAmt",
+      "path": "NetGainAndAdjPlusCarrybackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection1256ElectionInd",
+      "path": "NetSection1256ElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section1256CarriedBackAmt",
+      "path": "Section1256CarriedBackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1256CntrctsAcctInfoGrp",
+      "path": "Section1256CntrctsAcctInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "ShortTermCapitalGainAmt",
+      "path": "ShortTermCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ShortTermPortionOfGainAmt",
+      "path": "ShortTermPortionOfGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ShortTermPortionRcgnzLossAmt",
+      "path": "ShortTermPortionRcgnzLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StraddleByStraddleInd",
+      "path": "StraddleByStraddleInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalSection1256CntrctsGainAmt",
+      "path": "TotalSection1256CntrctsGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSection1256CntrctsLossAmt",
+      "path": "TotalSection1256CntrctsLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrcgnzdGainsLastDayPosOfTYGrp",
+      "path": "UnrcgnzdGainsLastDayPosOfTYGrp",
+      "type": "group"
+    }
+  ]
+}

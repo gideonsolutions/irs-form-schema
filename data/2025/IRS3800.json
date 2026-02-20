@@ -1,0 +1,876 @@
+{
+  "form_id": "IRS3800",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "*",
+      "path": "*",
+      "type": "unknown"
+    },
+    {
+      "name": "AdjustedExcessNetRegularTaxAmt",
+      "path": "AdjustedExcessNetRegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedNetIncomeTaxAmt",
+      "path": "AdjustedNetIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedRegTaxBeforeCreditAmt",
+      "path": "AdjustedRegTaxBeforeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllwGenAndEligSmllBusCfwdCrAmt",
+      "path": "AllwGenAndEligSmllBusCfwdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@carryforwardChgdOrRevsInd",
+      "path": "AllwGenAndEligSmllBusCfwdCrAmt/@carryforwardChgdOrRevsInd",
+      "type": "bool"
+    },
+    {
+      "name": "AllwGenAndEligSmllBusCybkCrAmt",
+      "path": "AllwGenAndEligSmllBusCybkCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllwGenBusCrFromNonPssvActyAmt",
+      "path": "AllwGenBusCrFromNonPssvActyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeMinimumTaxAmt",
+      "path": "AlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CAMTAndBEATInd",
+      "path": "CAMTAndBEATInd",
+      "type": "bool"
+    },
+    {
+      "name": "CYCfwdAllwCrEmplrAffctHrrcnGrp",
+      "path": "CYCfwdAllwCrEmplrAffctHrrcnGrp",
+      "type": "group"
+    },
+    {
+      "name": "CYCfwdAllwCrEmplrHsngGrp",
+      "path": "CYCfwdAllwCrEmplrHsngGrp",
+      "type": "group"
+    },
+    {
+      "name": "CYCfwdAllwCrHrrcnKtrnHsngGrp",
+      "path": "CYCfwdAllwCrHrrcnKtrnHsngGrp",
+      "type": "group"
+    },
+    {
+      "name": "CYCfwdAllwCrMwdDsstrEmplrGrp",
+      "path": "CYCfwdAllwCrMwdDsstrEmplrGrp",
+      "type": "group"
+    },
+    {
+      "name": "CYCfwdAllwCrTransAKPipelineGrp",
+      "path": "CYCfwdAllwCrTransAKPipelineGrp",
+      "type": "group"
+    },
+    {
+      "name": "CYCfwdAllwOtherBusCreditsGrp",
+      "path": "CYCfwdAllwOtherBusCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "CYCreditsNotAllwAgainstTMTAmt",
+      "path": "CYCreditsNotAllwAgainstTMTAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYCyovOtherBusCreditsGrp",
+      "path": "CYCyovOtherBusCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "CYGeneralBusCrCarryforwardAmt",
+      "path": "CYGeneralBusCrCarryforwardAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@carryforwardChgdOrRevsInd",
+      "path": "CYGeneralBusCrCarryforwardAmt/@carryforwardChgdOrRevsInd",
+      "type": "bool"
+    },
+    {
+      "name": "CYOtherSpcfdCreditsGrp",
+      "path": "CYOtherSpcfdCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "CYOtherSpcfdCreditsSubTotGrp",
+      "path": "CYOtherSpcfdCreditsSubTotGrp",
+      "type": "group"
+    },
+    {
+      "name": "CarryBackGeneralBusinessCrAmt",
+      "path": "CarryBackGeneralBusinessCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainAllowableCreditsAmt",
+      "path": "CertainAllowableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrSubjToPassiveActyLmtAmt",
+      "path": "CrSubjToPassiveActyLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditTransferElectionInd",
+      "path": "CreditTransferElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentYearCreditAllowedAmt",
+      "path": "CurrentYearCreditAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ESCBCYCreditsGrp",
+      "path": "ESCBCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "EmpwrZoneAndComEmploymentCrAmt",
+      "path": "EmpwrZoneAndComEmploymentCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessNetRegularTaxAmt",
+      "path": "ExcessNetRegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form3468PartIICYCreditsGrp",
+      "path": "Form3468PartIICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form3468PartIIICYCreditsGrp",
+      "path": "Form3468PartIIICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form3468PartIVCYCreditsGrp",
+      "path": "Form3468PartIVCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form3468PartVCYCreditsGrp",
+      "path": "Form3468PartVCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form3468PartVICYCreditsGrp",
+      "path": "Form3468PartVICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form3468PartVIICYCreditsGrp",
+      "path": "Form3468PartVIICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form5884CYCreditsGrp",
+      "path": "Form5884CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form6478CYCreditsGrp",
+      "path": "Form6478CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form6765CYCreditsGrp",
+      "path": "Form6765CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form6765ESBCYCreditsGrp",
+      "path": "Form6765ESBCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7207CYCreditsGrp",
+      "path": "Form7207CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7210CYCreditsGrp",
+      "path": "Form7210CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7211PartIICYCreditsGrp",
+      "path": "Form7211PartIICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7213PartICYCreditsGrp",
+      "path": "Form7213PartICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7213PartIICYCreditsGrp",
+      "path": "Form7213PartIICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form7218PartIICYCreditsGrp",
+      "path": "Form7218PartIICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8586CYCreditsGrp",
+      "path": "Form8586CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8820CYCreditsGrp",
+      "path": "Form8820CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8826CYCreditsGrp",
+      "path": "Form8826CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8830CYCreditsGrp",
+      "path": "Form8830CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8835PartIICYCreditsGrp",
+      "path": "Form8835PartIICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8844CYCreditsGrp",
+      "path": "Form8844CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8846CYCreditsGrp",
+      "path": "Form8846CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8864CYCreditsGrp",
+      "path": "Form8864CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8874CYCreditsGrp",
+      "path": "Form8874CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8881PartICYCreditsGrp",
+      "path": "Form8881PartICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8881PartIICYCreditsGrp",
+      "path": "Form8881PartIICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8881PartIIICYCreditsGrp",
+      "path": "Form8881PartIIICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8882CYCreditsGrp",
+      "path": "Form8882CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8896CYCreditsGrp",
+      "path": "Form8896CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8900CYCreditsGrp",
+      "path": "Form8900CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8904CYCreditsGrp",
+      "path": "Form8904CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8906CYCreditsGrp",
+      "path": "Form8906CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8908CYCreditsGrp",
+      "path": "Form8908CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8911PartICYCreditsGrp",
+      "path": "Form8911PartICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8932CYCreditsGrp",
+      "path": "Form8932CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8933CYCreditsGrp",
+      "path": "Form8933CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8936PartIICYCreditsGrp",
+      "path": "Form8936PartIICYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8936PartVCYCreditsGrp",
+      "path": "Form8936PartVCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8941CYCreditsGrp",
+      "path": "Form8941CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form8994CYCreditsGrp",
+      "path": "Form8994CYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm1065BCYCfwdAllwCrGrp",
+      "path": "Frm1065BCYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm3468PartIICYCyovCrGrp",
+      "path": "Frm3468PartIICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm3468PartIIICYCyovCrGrp",
+      "path": "Frm3468PartIIICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm3468PartIVCYCyovCrGrp",
+      "path": "Frm3468PartIVCYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm3468PartVCYCyovCrGrp",
+      "path": "Frm3468PartVCYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm3468PartVICYSpcfdCrGrp",
+      "path": "Frm3468PartVICYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm3468PartVIICYSpcfdCrGrp",
+      "path": "Frm3468PartVIICYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm5884ACYCfwdAllwCrGrp",
+      "path": "Frm5884ACYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm5884BCYCfwdAllwCrGrp",
+      "path": "Frm5884BCYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm5884CYCfwdAllwCrGrp",
+      "path": "Frm5884CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm5884CYSpcfdCrGrp",
+      "path": "Frm5884CYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm6478CYCfwdAllwCrGrp",
+      "path": "Frm6478CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm6478CYSpcfdCrGrp",
+      "path": "Frm6478CYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm6765CYCyovCrGrp",
+      "path": "Frm6765CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm6765ESBCYSpcfdCrGrp",
+      "path": "Frm6765ESBCYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm7207CYCyovCrGrp",
+      "path": "Frm7207CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm7210CYCyovCrGrp",
+      "path": "Frm7210CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm7211PartIICYCyovCrGrp",
+      "path": "Frm7211PartIICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm7213PartICYCyovCrGrp",
+      "path": "Frm7213PartICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm7213PartIICYCyovCrGrp",
+      "path": "Frm7213PartIICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm7218PartIICYCyovCrGrp",
+      "path": "Frm7218PartIICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8586CYCfwdAllwCrGrp",
+      "path": "Frm8586CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8586CYSpcfdCrGrp",
+      "path": "Frm8586CYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8820CYCyovCrGrp",
+      "path": "Frm8820CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8826CYCyovCrGrp",
+      "path": "Frm8826CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8830CYCyovCrGrp",
+      "path": "Frm8830CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8834PartICYCfwdAllwCrGrp",
+      "path": "Frm8834PartICYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8835CYSpcfdCrGrp",
+      "path": "Frm8835CYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8835PartIICYCyovCrGrp",
+      "path": "Frm8835PartIICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8835PartIICYSpcfdCreditsGrp",
+      "path": "Frm8835PartIICYSpcfdCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8844CYCrovCrGrp",
+      "path": "Frm8844CYCrovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8845CYCfwdAllwCrGrp",
+      "path": "Frm8845CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8846CYCfwdAllwCrGrp",
+      "path": "Frm8846CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8846CYSpcfdCrGrp",
+      "path": "Frm8846CYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8847CYCfwdAllwCrGrp",
+      "path": "Frm8847CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8861CYCfwdAllwCrGrp",
+      "path": "Frm8861CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8864BiodieselCYCreditsGrp",
+      "path": "Frm8864BiodieselCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8864SAFCYCreditsGrp",
+      "path": "Frm8864SAFCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8864SAFCYCyovCrGrp",
+      "path": "Frm8864SAFCYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8874CYCyovCrGrp",
+      "path": "Frm8874CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8881PartICYCyovCrGrp",
+      "path": "Frm8881PartICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8881PartIICYCyovCrGrp",
+      "path": "Frm8881PartIICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8881PartIIICYCyovCrGrp",
+      "path": "Frm8881PartIIICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8882CYCyovCrGrp",
+      "path": "Frm8882CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8884CYCfwdAllwCrGrp",
+      "path": "Frm8884CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8896CYCyovCrGrp",
+      "path": "Frm8896CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8900CYCfwdAllwCrGrp",
+      "path": "Frm8900CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8900CYSpcfdCrGrp",
+      "path": "Frm8900CYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8904CYCyovCrGrp",
+      "path": "Frm8904CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8906CYCyovCrGrp",
+      "path": "Frm8906CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8907CYCfwdAllwCrGrp",
+      "path": "Frm8907CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8908CYCyovCrGrp",
+      "path": "Frm8908CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8909CYCfwdAllwCrGrp",
+      "path": "Frm8909CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8910CYCfwdAllwCrGrp",
+      "path": "Frm8910CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8911CYCyovCrGrp",
+      "path": "Frm8911CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8923CYCfwdAllwCrGrp",
+      "path": "Frm8923CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8931CYCfwdAllwCrGrp",
+      "path": "Frm8931CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8932CYCyovCrGrp",
+      "path": "Frm8932CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8933CYCyovCrGrp",
+      "path": "Frm8933CYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8936PartIICYCyovCrGrp",
+      "path": "Frm8936PartIICYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8936PartVCYCyovCrGrp",
+      "path": "Frm8936PartVCYCyovCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8941CYSpcfdCrGrp",
+      "path": "Frm8941CYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8942CYCfwdAllwCrGrp",
+      "path": "Frm8942CYCfwdAllwCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "Frm8994CYSpcfdCrGrp",
+      "path": "Frm8994CYSpcfdCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "*",
+      "path": "GBCBreakdownCYAggrgtAmtGrp/*",
+      "type": "unknown"
+    },
+    {
+      "name": "GBCFromPssvActyAllPartsAmt",
+      "path": "GBCFromPssvActyAllPartsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GenBusCYCreditsSubTot2Grp",
+      "path": "GenBusCYCreditsSubTot2Grp",
+      "type": "group"
+    },
+    {
+      "name": "GenBusCYCreditsSubTotGrp",
+      "path": "GenBusCYCreditsSubTotGrp",
+      "type": "group"
+    },
+    {
+      "name": "GenBusCYOtherCreditsGrp",
+      "path": "GenBusCYOtherCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "GenBusEligSmllBusPssvActyCrAmt",
+      "path": "GenBusEligSmllBusPssvActyCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GenBusOtherSpecifiedCYCrGrp",
+      "path": "GenBusOtherSpecifiedCYCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "GeneralBusCrFromNnPssvActyAmt",
+      "path": "GeneralBusCrFromNnPssvActyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GreaterExcessOrTimesPctAmt",
+      "path": "GreaterExcessOrTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncmTaxLessGreaterExcessAmt",
+      "path": "NetIncmTaxLessGreaterExcessAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeTaxAmt",
+      "path": "NetIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeTaxLessPctExcessAmt",
+      "path": "NetIncomeTaxLessPctExcessAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRegularTaxAmt",
+      "path": "NetRegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSmllrAndEmpwrZnEmplmnCrAmt",
+      "path": "NetSmllrAndEmpwrZnEmplmnCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherSpecifiedAllwGenBusCrAmt",
+      "path": "OtherSpecifiedAllwGenBusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassiveActyAllowedForTYAmt",
+      "path": "PassiveActyAllowedForTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PssvActyForGenBusCrAllowedAmt",
+      "path": "PssvActyForGenBusCrAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularTaxBeforeCreditsAmt",
+      "path": "RegularTaxBeforeCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Reserved1hhCYCreditsGrp",
+      "path": "Reserved1hhCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Reserved1iiCYCreditsGrp",
+      "path": "Reserved1iiCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Reserved1rCYCreditsGrp",
+      "path": "Reserved1rCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Reserved4lCYCreditsGrp",
+      "path": "Reserved4lCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Reserved4mCYCreditsGrp",
+      "path": "Reserved4mCYCreditsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SmllrCYNotAllwTMTOrTotAdjAmt",
+      "path": "SmllrCYNotAllwTMTOrTotAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section383Or384IndicatorCd",
+      "path": "SmllrCYNotAllwTMTOrTotAdjAmt/@section383Or384IndicatorCd",
+      "type": "enum"
+    },
+    {
+      "name": "SmllrGenBusCrOrTotGenEligCrAmt",
+      "path": "SmllrGenBusCrOrTotGenEligCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubSmllrFromNetLessGreaterAmt",
+      "path": "SubSmllrFromNetLessGreaterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumSmllrEmpwrZnEmplmnCrAmt",
+      "path": "SumSmllrEmpwrZnEmplmnCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeMinimumTaxAmt",
+      "path": "TentativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeMinimunTaxTimesPctAmt",
+      "path": "TentativeMinimunTaxTimesPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Tot8844OthSpcfdGBCOrESBCAmtGrp",
+      "path": "Tot8844OthSpcfdGBCOrESBCAmtGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotAllwGenAndEligSmllBusCrAmt",
+      "path": "TotAllwGenAndEligSmllBusCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCYGBCOrESBCAmtGrp",
+      "path": "TotCYGBCOrESBCAmtGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotEmpwrZoneGenBusCreditsAmt",
+      "path": "TotEmpwrZoneGenBusCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotGenBusCYCreditAmtGrp",
+      "path": "TotGenBusCYCreditAmtGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalPassiveActivityCreditAmt",
+      "path": "TotalPassiveActivityCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxCreditsAmt",
+      "path": "TotalTaxCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TransferElectionStatementCnt",
+      "path": "TransferElectionStatementCnt",
+      "type": "int"
+    }
+  ]
+}

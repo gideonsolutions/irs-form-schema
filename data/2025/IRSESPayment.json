@@ -1,0 +1,31 @@
+{
+  "form_id": "IRSESPayment",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BankAccountNum",
+      "path": "BankAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "EstimatedPaymentDueDt",
+      "path": "EstimatedPaymentDueDt",
+      "type": "date"
+    },
+    {
+      "name": "PaymentAmt",
+      "path": "PaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxpayerDaytimePhoneNum",
+      "path": "TaxpayerDaytimePhoneNum",
+      "type": "string"
+    }
+  ]
+}

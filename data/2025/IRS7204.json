@@ -1,0 +1,76 @@
+{
+  "form_id": "IRS7204",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AttorneyOrAgentInd",
+      "path": "AttorneyOrAgentInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClmForeignTaxCrAccrualBasisInd",
+      "path": "ClmForeignTaxCrAccrualBasisInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClmForeignTaxCrCashBasisInd",
+      "path": "ClmForeignTaxCrCashBasisInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContestDesc",
+      "path": "ContestDesc",
+      "type": "string"
+    },
+    {
+      "name": "ContestedFrgnIncmTaxLiabRmtGrp",
+      "path": "ContestedFrgnIncmTaxLiabRmtGrp",
+      "type": "group"
+    },
+    {
+      "name": "ContestedFrgnIncmTxRefIdNum",
+      "path": "ContestedFrgnIncmTxRefIdNum",
+      "type": "string"
+    },
+    {
+      "name": "ExecutorAdminOtherFiduciaryInd",
+      "path": "ExecutorAdminOtherFiduciaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignCountryOrUSPossessionCd",
+      "path": "ForeignCountryOrUSPossessionCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "PayorEIN",
+      "path": "PayorEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PayorName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PayorName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TrusteeInd",
+      "path": "TrusteeInd",
+      "type": "bool"
+    },
+    {
+      "name": "USTaxYearEndDt",
+      "path": "USTaxYearEndDt",
+      "type": "date"
+    }
+  ]
+}

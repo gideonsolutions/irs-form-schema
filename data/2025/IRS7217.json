@@ -1,0 +1,121 @@
+{
+  "form_id": "IRS7217",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjBssPrtnrIntPrtshpBfrAmt",
+      "path": "AdjBssPrtnrIntPrtshpBfrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocationBssDistriPropGrp",
+      "path": "AllocationBssDistriPropGrp",
+      "type": "group"
+    },
+    {
+      "name": "CashMrktblSecRcvdAmt",
+      "path": "CashMrktblSecRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashReceivedAmt",
+      "path": "CashReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistriLiqdtPrtnrIntPrtshpInd",
+      "path": "DistriLiqdtPrtnrIntPrtshpInd",
+      "type": "bool"
+    },
+    {
+      "name": "DistriTrtdSaleExchSect751bInd",
+      "path": "DistriTrtdSaleExchSect751bInd",
+      "type": "bool"
+    },
+    {
+      "name": "DistributingPartnershipEIN",
+      "path": "DistributingPartnershipEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "DistributingPartnershipName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "DistributingPartnershipName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FMVMrktblSecRcvdAmt",
+      "path": "FMVMrktblSecRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerBusinessName",
+      "path": "PartnerBusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "PartnerEIN",
+      "path": "PartnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PartnerPersonNm",
+      "path": "PartnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PartnerSSN",
+      "path": "PartnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "PropertyDistributedDt",
+      "path": "PropertyDistributedDt",
+      "type": "date"
+    },
+    {
+      "name": "PrtnrBssPrtshpIntLessCashAmt",
+      "path": "PrtnrBssPrtshpIntLessCashAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecognizedGainAmt",
+      "path": "RecognizedGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllrPrtnrBssCashMrktblRcvdAmt",
+      "path": "SmllrPrtnrBssCashMrktblRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDistributedPropertyFMVAmt",
+      "path": "TotDistributedPropertyFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPrtnrBssAllocDistriPropAmt",
+      "path": "TotPrtnrBssAllocDistriPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPrtnrBssPropAftrSect732Amt",
+      "path": "TotPrtnrBssPropAftrSect732Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPrtshpBasisPropBfrDistriAmt",
+      "path": "TotPrtshpBasisPropBfrDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USTxRqrPaidRecognizedGainInd",
+      "path": "USTxRqrPaidRecognizedGainInd",
+      "type": "bool"
+    }
+  ]
+}

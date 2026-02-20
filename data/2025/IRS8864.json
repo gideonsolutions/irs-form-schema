@@ -1,0 +1,56 @@
+{
+  "form_id": "IRS8864",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AllocatedToBeneficiariesAmt",
+      "path": "AllocatedToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BiodieselRnwblAvnFuelCrAmt",
+      "path": "BiodieselRnwblAvnFuelCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BiodieselRnwblAvnFuelMxtrCrAmt",
+      "path": "BiodieselRnwblAvnFuelMxtrCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsAndCoopsCreditAmt",
+      "path": "EstatesTrustsAndCoopsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "QlfyAgriBioDieselProdAfterAmt",
+      "path": "QlfyAgriBioDieselProdAfterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyAgriBioDieselProdAfterQty",
+      "path": "QlfyAgriBioDieselProdAfterQty",
+      "type": "unknown"
+    },
+    {
+      "name": "QualifiedAgriBioDieselProdAmt",
+      "path": "QualifiedAgriBioDieselProdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedAgriBioDieselProdQty",
+      "path": "QualifiedAgriBioDieselProdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotQlfyAgriBioDieselProdAmt",
+      "path": "TotQlfyAgriBioDieselProdAmt",
+      "type": "usd"
+    }
+  ]
+}

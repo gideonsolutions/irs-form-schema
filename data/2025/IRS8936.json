@@ -1,0 +1,151 @@
+{
+  "form_id": "IRS8936",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BusinessInvestmentUseAmt",
+      "path": "BusinessInvestmentUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvstUsePartOfCrAmt",
+      "path": "BusinessInvstUsePartOfCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CmrclCleanVehCrPrtshpSCorpAmt",
+      "path": "CmrclCleanVehCrPrtshpSCorpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedPersonalTaxCreditsAmt",
+      "path": "CrPreviouslyOwnedCleanVehGrp/AdjustedPersonalTaxCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaxPrevOwnedCleanVehCrAmt",
+      "path": "CrPreviouslyOwnedCleanVehGrp/MaxPrevOwnedCleanVehCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalTaxCreditsAmt",
+      "path": "CrPreviouslyOwnedCleanVehGrp/PersonalTaxCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrevOwnedCleanVehCreditAmt",
+      "path": "CrPreviouslyOwnedCleanVehGrp/PrevOwnedCleanVehCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxBeforeCrAndOthTaxesAmt",
+      "path": "CrPreviouslyOwnedCleanVehGrp/TotalTaxBeforeCrAndOthTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedPersonalTaxCreditsAmt",
+      "path": "CrPrsnlUsePartNewCleanVehGrp/AdjustedPersonalTaxCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CleanVehPrsnlUsePartCrAmt",
+      "path": "CrPrsnlUsePartNewCleanVehGrp/CleanVehPrsnlUsePartCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalTaxCreditsAmt",
+      "path": "CrPrsnlUsePartNewCleanVehGrp/PersonalTaxCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrsnlUseNewCleanVehicleCrAmt",
+      "path": "CrPrsnlUsePartNewCleanVehGrp/PrsnlUseNewCleanVehicleCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxBeforeCrAndOthTaxesAmt",
+      "path": "CrPrsnlUsePartNewCleanVehGrp/TotalTaxBeforeCrAndOthTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "CurrentYrMAGIAmountGrp/AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcldSect933PuertoRicoIncmAmt",
+      "path": "CurrentYrMAGIAmountGrp/ExcldSect933PuertoRicoIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeExclusionAmt",
+      "path": "CurrentYrMAGIAmountGrp/GrossIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingDeductionAmt",
+      "path": "CurrentYrMAGIAmountGrp/HousingDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeAmt",
+      "path": "CurrentYrMAGIAmountGrp/NetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeExclusionAmt",
+      "path": "CurrentYrMAGIAmountGrp/TotalIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NewCleanVehCrPrtshpSCorpAmt",
+      "path": "NewCleanVehCrPrtshpSCorpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYIndivReturnFilingStatusCd",
+      "path": "PYIndivReturnFilingStatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "PriorYrMAGIAmountGrp/AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcldSect933PuertoRicoIncmAmt",
+      "path": "PriorYrMAGIAmountGrp/ExcldSect933PuertoRicoIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeExclusionAmt",
+      "path": "PriorYrMAGIAmountGrp/GrossIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingDeductionAmt",
+      "path": "PriorYrMAGIAmountGrp/HousingDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeAmt",
+      "path": "PriorYrMAGIAmountGrp/NetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeExclusionAmt",
+      "path": "PriorYrMAGIAmountGrp/TotalIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyCmrclCleanVehicleCrAmt",
+      "path": "QlfyCmrclCleanVehicleCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQlfyCmrclCleanVehCrAmt",
+      "path": "TotalQlfyCmrclCleanVehCrAmt",
+      "type": "usd"
+    }
+  ]
+}

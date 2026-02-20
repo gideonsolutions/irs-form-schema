@@ -1,0 +1,566 @@
+{
+  "form_id": "IRS8986",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AARTrackingNum",
+      "path": "AARTrackingNum",
+      "type": "string"
+    },
+    {
+      "name": "ApplicablePenaltiesGrp",
+      "path": "ApplicablePenaltiesGrp",
+      "type": "group"
+    },
+    {
+      "name": "BBAAARInd",
+      "path": "BBAAARInd",
+      "type": "bool"
+    },
+    {
+      "name": "BegngAcctBalanceAsReportedAmt",
+      "path": "BegngAcctBalanceAsReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BegngAcctBalanceChangeAmt",
+      "path": "BegngAcctBalanceChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BegngAcctBalanceCorrectedAmt",
+      "path": "BegngAcctBalanceCorrectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYIncrDecrAsReportedAmt",
+      "path": "CYIncrDecrAsReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYIncrDecrChangeAmt",
+      "path": "CYIncrDecrChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYIncrDecrCorrectedAmt",
+      "path": "CYIncrDecrCorrectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapContributedAsReportedAmt",
+      "path": "CapContributedAsReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapContributedChangeAmt",
+      "path": "CapContributedChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapContributedCorrectedAmt",
+      "path": "CapContributedCorrectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalAsReportedRt",
+      "path": "CapitalAsReportedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "CapitalChangeRt",
+      "path": "CapitalChangeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "CapitalCorrectedRt",
+      "path": "CapitalCorrectedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "CorporationEntityInd",
+      "path": "CorporationEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorrectedFilingInd",
+      "path": "CorrectedFilingInd",
+      "type": "bool"
+    },
+    {
+      "name": "DesignatedIndividualInd",
+      "path": "DesignatedIndividualInd",
+      "type": "bool"
+    },
+    {
+      "name": "DomesticPartnerInd",
+      "path": "DomesticPartnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "EndingBalanceAsReportedAmt",
+      "path": "EndingBalanceAsReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceChangeAmt",
+      "path": "EndingBalanceChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndingBalanceCorrectedAmt",
+      "path": "EndingBalanceCorrectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignPartnerInd",
+      "path": "ForeignPartnerInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form1041Ind",
+      "path": "Form1041Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form1065Ind",
+      "path": "Form1065Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form1120SInd",
+      "path": "Form1120SInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form8986StmtFurnishedDt",
+      "path": "Form8986StmtFurnishedDt",
+      "type": "date"
+    },
+    {
+      "name": "GeneralPartnerOrLLCMemMgrInd",
+      "path": "GeneralPartnerOrLLCMemMgrInd",
+      "type": "bool"
+    },
+    {
+      "name": "IndividualEntityInd",
+      "path": "IndividualEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "IndividualPartnershipRepInd",
+      "path": "IndividualPartnershipRepInd",
+      "type": "bool"
+    },
+    {
+      "name": "LimitedPartnerOrOtherLLCMemInd",
+      "path": "LimitedPartnerOrOtherLLCMemInd",
+      "type": "bool"
+    },
+    {
+      "name": "LossAsReportedRt",
+      "path": "LossAsReportedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LossChangeRt",
+      "path": "LossChangeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "LossCorrectedRt",
+      "path": "LossCorrectedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "NonrecourseAsReportedAmt",
+      "path": "NonrecourseAsReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonrecourseChangeAmt",
+      "path": "NonrecourseChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonrecourseCorrectedAmt",
+      "path": "NonrecourseCorrectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OriginalFilingInd",
+      "path": "OriginalFilingInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherEntityTypeInd",
+      "path": "OtherEntityTypeGrp/OtherEntityTypeInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherEntityTypeNm",
+      "path": "OtherEntityTypeGrp/OtherEntityTypeNm",
+      "type": "string"
+    },
+    {
+      "name": "OtherReturnInd",
+      "path": "OtherReturnGrp/OtherReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxFormNum",
+      "path": "OtherReturnGrp/TaxFormNum",
+      "type": "string"
+    },
+    {
+      "name": "PartnerEIN",
+      "path": "PartnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PartnerForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PartnerForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PartnerForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PartnerForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "PartnerForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "PartnerForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PartnerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PartnerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "PartnerPersonName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "PartnerPersonName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "PartnerReviewedYearIncomeGrp",
+      "path": "PartnerReviewedYearIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "PartnerSSN",
+      "path": "PartnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PartnerUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PartnerUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PartnerUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "PartnerUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "PartnerUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "PartnershipEntityInd",
+      "path": "PartnershipEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PartnershipUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PartnershipUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PartnershipUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "PartnershipUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "PartnershipUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "PassThroughPartnerAARInd",
+      "path": "PassThroughPartnerAARInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "PassThruPartnerInfoGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PassThruPartnerInfoGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PassThruPartnerInfoGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PassThruPartnerInfoGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PassThruPartnerInfoGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "PassThruPartnerInfoGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "PassThruPartnerInfoGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PassThruPartnerInfoGrp/PassThroughEntityBusName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PassThruPartnerInfoGrp/PassThroughEntityBusName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PassThroughEntityEIN",
+      "path": "PassThruPartnerInfoGrp/PassThroughEntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PassThruPartnerInfoGrp/PassThroughEntityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PassThruPartnerInfoGrp/PassThroughEntityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TYEndMonthDayYearDt",
+      "path": "PassThruPartnerInfoGrp/TYEndMonthDayYearDt",
+      "type": "date"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PassThruPartnerInfoGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PassThruPartnerInfoGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PassThruPartnerInfoGrp/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "PassThruPartnerInfoGrp/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "PassThruPartnerInfoGrp/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "PersonFullName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "PersonFullName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "ProfitAsReportedRt",
+      "path": "ProfitAsReportedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ProfitChangeRt",
+      "path": "ProfitChangeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ProfitCorrectedRt",
+      "path": "ProfitCorrectedRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PrtshpAdjYrExtendedDueDt",
+      "path": "PrtshpAdjYrExtendedDueDt",
+      "type": "date"
+    },
+    {
+      "name": "PrtshpAdjustmentTxYrEndDt",
+      "path": "PrtshpAdjustmentTxYrEndDt",
+      "type": "date"
+    },
+    {
+      "name": "PrtshpPhoneNum",
+      "path": "PrtshpPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PrtshpReviewTaxYrEndDt",
+      "path": "PrtshpReviewTaxYrEndDt",
+      "type": "date"
+    },
+    {
+      "name": "QlfyNonRcrsFncAsReportedAmt",
+      "path": "QlfyNonRcrsFncAsReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyNonrecourseFncChangeAmt",
+      "path": "QlfyNonrecourseFncChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyNonrecourseFncCorrectedAmt",
+      "path": "QlfyNonrecourseFncCorrectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecourseAsReportedAmt",
+      "path": "RecourseAsReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecourseChangeAmt",
+      "path": "RecourseChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecourseCorrectedAmt",
+      "path": "RecourseCorrectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RetirePlanOrOtherTEEntityInd",
+      "path": "RetirePlanOrOtherTEEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "SCorporationEntityInd",
+      "path": "SCorporationEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sect736PaymentsRcvdChangeAmt",
+      "path": "Sect736PaymentsRcvdChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect736PymtRcvdAsReportedAmt",
+      "path": "Sect736PymtRcvdAsReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect736PymtRcvdCorrectedAmt",
+      "path": "Sect736PymtRcvdCorrectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StatementsGrp",
+      "path": "StatementsGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotPartnerAsCorrectedAmt",
+      "path": "TotPartnerAsCorrectedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPartnerIncmReviewedYrAdjAmt",
+      "path": "TotPartnerIncmReviewedYrAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPartnerIncomeApprvModifAmt",
+      "path": "TotPartnerIncomeApprvModifAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithdrawalsDistriAsReportedAmt",
+      "path": "WithdrawalsDistriAsReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithdrawalsDistriChangeAmt",
+      "path": "WithdrawalsDistriChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithdrawalsDistriCorrectedAmt",
+      "path": "WithdrawalsDistriCorrectedAmt",
+      "type": "usd"
+    }
+  ]
+}

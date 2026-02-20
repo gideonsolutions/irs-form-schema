@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS990ScheduleI",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "GrantRecordsMaintainedInd",
+      "path": "GrantRecordsMaintainedInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrantsOtherAsstToIndivInUSGrp",
+      "path": "GrantsOtherAsstToIndivInUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "RecipientTable",
+      "path": "RecipientTable",
+      "type": "unknown"
+    },
+    {
+      "name": "SupplementalInformationDetail",
+      "path": "SupplementalInformationDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "Total501c3OrgCnt",
+      "path": "Total501c3OrgCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalOtherOrgCnt",
+      "path": "TotalOtherOrgCnt",
+      "type": "int"
+    }
+  ]
+}

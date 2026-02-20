@@ -1,0 +1,2791 @@
+{
+  "form_id": "IRS990PF",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ContributingManagerNm",
+      "path": "              SupplementaryInformationGrp/ContributingManagerNm",
+      "type": "string"
+    },
+    {
+      "name": "@accountingPeriodChangeApprvCd",
+      "path": "@accountingPeriodChangeApprvCd",
+      "type": "enum"
+    },
+    {
+      "name": "@accountingPeriodChangeCd",
+      "path": "@accountingPeriodChangeCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressChangeInd",
+      "path": "AddressChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/            FeesContractsFromGovtAgGrp/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/            FeesContractsFromGovtAgGrp/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/            FeesContractsFromGovtAgGrp/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/            FeesContractsFromGovtAgGrp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/            GrossProfitLossSlsOfInvntryGrp/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/            SubtotalsIncmProducingActyGrp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/FeesContractsFromGovtAgGrp/             BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/GainSalesAstOthThanInvntryGrp/BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/GainSalesAstOthThanInvntryGrp/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/GainSalesAstOthThanInvntryGrp/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/GainSalesAstOthThanInvntryGrp/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/GainSalesAstOthThanInvntryGrp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/GrossProfitLossSlsOfInvntryGrp/BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/GrossProfitLossSlsOfInvntryGrp/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/GrossProfitLossSlsOfInvntryGrp/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/GrossProfitLossSlsOfInvntryGrp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/IntOnSavAndTempCashInvstGrp/BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/IntOnSavAndTempCashInvstGrp/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/IntOnSavAndTempCashInvstGrp/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/IntOnSavAndTempCashInvstGrp/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/IntOnSavAndTempCashInvstGrp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/MembershipDuesAndAssmntGrp/             BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/MembershipDuesAndAssmntGrp/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/MembershipDuesAndAssmntGrp/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/MembershipDuesAndAssmntGrp/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/MembershipDuesAndAssmntGrp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/NetIncomeLossFromSpecialEvtGrp/BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetIncomeLossFromSpecialEvtGrp/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/NetIncomeLossFromSpecialEvtGrp/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetIncomeLossFromSpecialEvtGrp/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetIncomeLossFromSpecialEvtGrp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/NetRentalIncomePersonalPropGrp/BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetRentalIncomePersonalPropGrp/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/NetRentalIncomePersonalPropGrp/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetRentalIncomePersonalPropGrp/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetRentalIncomePersonalPropGrp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/NetRntlIncmReDebtFincdPropGrp/BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetRntlIncmReDebtFincdPropGrp/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/NetRntlIncmReDebtFincdPropGrp/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetRntlIncmReDebtFincdPropGrp/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetRntlIncmReDebtFincdPropGrp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/NetRntlIncmReNotDebtFincdProp/BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetRntlIncmReNotDebtFincdProp/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/NetRntlIncmReNotDebtFincdProp/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetRntlIncmReNotDebtFincdProp/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/NetRntlIncmReNotDebtFincdProp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessCd",
+      "path": "AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/BusinessCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExclusionCd",
+      "path": "AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/ExclusionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusinessTaxblIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/UnrelatedBusinessTaxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherRevenueDescribedGrp",
+      "path": "AnalysisIncomeProducingActyGrp/OtherRevenueDescribedGrp",
+      "type": "group"
+    },
+    {
+      "name": "ProgramServiceRevPartVIIGrp",
+      "path": "AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp",
+      "type": "group"
+    },
+    {
+      "name": "ProgramServiceRevenueDtl",
+      "path": "AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl",
+      "type": "unknown"
+    },
+    {
+      "name": "             RelatedOrExemptFunctionIncmAmt",
+      "path": "AnalysisIncomeProducingActyGrp/SubtotalsIncmProducingActyGrp/             RelatedOrExemptFunctionIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ExclusionAmt",
+      "path": "AnalysisIncomeProducingActyGrp/SubtotalsIncmProducingActyGrp/            ExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeProducingActyAmt",
+      "path": "AnalysisIncomeProducingActyGrp/TotalIncomeProducingActyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountingFeesAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/AccountingFeesAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountingFeesChrtblPrpsAmt",
+      "path": "AnalysisOfRevenueAndExpenses/AccountingFeesChrtblPrpsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountingFeesNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/AccountingFeesNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountingFeesRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/AccountingFeesRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedNetIncomeAmt",
+      "path": "AnalysisOfRevenueAndExpenses/AdjustedNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapGainNetIncmNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/CapGainNetIncmNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompOfcrDirTrstAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/CompOfcrDirTrstAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompOfcrDirTrstDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/CompOfcrDirTrstDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompOfcrDirTrstNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/CompOfcrDirTrstNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CompOfcrDirTrstRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/CompOfcrDirTrstRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContriPaidDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/ContriPaidDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContriPaidRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/ContriPaidRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContriRcvdRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/ContriRcvdRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "AnalysisOfRevenueAndExpenses/CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeprecAndDpltnAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/DeprecAndDpltnAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeprecAndDpltnNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/DeprecAndDpltnNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeprecAndDpltnRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/DeprecAndDpltnRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/DividendsAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/DividendsNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DividendsRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/DividendsRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessRevenueOverExpensesAmt",
+      "path": "AnalysisOfRevenueAndExpenses/ExcessRevenueOverExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossProfitAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/GrossProfitAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossProfitRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/GrossProfitRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRentsAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/GrossRentsAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRentsNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/GrossRentsNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRentsRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/GrossRentsRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossSalesLessRetAndAllwncAmt",
+      "path": "AnalysisOfRevenueAndExpenses/GrossSalesLessRetAndAllwncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossSalesPriceAmt",
+      "path": "AnalysisOfRevenueAndExpenses/GrossSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncmModificationsAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/IncmModificationsAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/InterestAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/InterestDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/InterestNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestOnSavNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/InterestOnSavNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestOnSavRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/InterestOnSavRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestOnSavingsAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/InterestOnSavingsAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/InterestRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LegalFeesAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/LegalFeesAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LegalFeesDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/LegalFeesDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LegalFeesNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/LegalFeesNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LegalFeesRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/LegalFeesRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetGainSaleAstRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/NetGainSaleAstRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetInvestmentIncomeAmt",
+      "path": "AnalysisOfRevenueAndExpenses/NetInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalIncomeOrLossAmt",
+      "path": "AnalysisOfRevenueAndExpenses/NetRentalIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSTCapitalGainAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/NetSTCapitalGainAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OccupancyAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OccupancyAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OccupancyDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OccupancyDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OccupancyNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OccupancyNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OccupancyRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OccupancyRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthEmplSlrsWgsAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OthEmplSlrsWgsAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthEmplSlrsWgsDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OthEmplSlrsWgsDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthEmplSlrsWgsNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OthEmplSlrsWgsNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthEmplSlrsWgsRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OthEmplSlrsWgsRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpensesAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherExpensesAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpensesDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherExpensesDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpensesNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherExpensesNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpensesRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherExpensesRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherIncomeAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherIncomeNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherIncomeRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherProfFeesAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherProfFeesAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherProfFeesDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherProfFeesDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherProfFeesNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherProfFeesNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherProfFeesRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/OtherProfFeesRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PensionEmplBnftAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/PensionEmplBnftAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PensionEmplBnftDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/PensionEmplBnftDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PensionEmplBnftNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/PensionEmplBnftNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PensionEmplBnftRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/PensionEmplBnftRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrintingAndPubAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/PrintingAndPubAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrintingAndPubDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/PrintingAndPubDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrintingAndPubNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/PrintingAndPubNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrintingAndPubRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/PrintingAndPubRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScheduleBNotRequiredInd",
+      "path": "AnalysisOfRevenueAndExpenses/ScheduleBNotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxesAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TaxesAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TaxesDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TaxesNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TaxesRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOprExpensesAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotOprExpensesAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOprExpensesDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotOprExpensesDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOprExpensesNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotOprExpensesNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOprExpensesRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotOprExpensesRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotalAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotalExpensesAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotalExpensesDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotalExpensesNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotalExpensesRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotalNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TotalRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TravConfMeetingAdjNetIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TravConfMeetingAdjNetIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TravConfMeetingDsbrsChrtblAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TravConfMeetingDsbrsChrtblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TravConfMeetingNetInvstIncmAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TravConfMeetingNetInvstIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TravConfMeetingRevAndExpnssAmt",
+      "path": "AnalysisOfRevenueAndExpenses/TravConfMeetingRevAndExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplicationPendingInd",
+      "path": "ApplicationPendingInd",
+      "type": "bool"
+    },
+    {
+      "name": "          CapGainsLossTxInvstIncmGrp",
+      "path": "CapGainsLossTxInvstIncmDetail/          CapGainsLossTxInvstIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "CapGainsLossTxInvstIncmGrp",
+      "path": "CapGainsLossTxInvstIncmDetail/CapGainsLossTxInvstIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "CapitalGainNetIncomeAmt",
+      "path": "CapGainsLossTxInvstIncmDetail/CapitalGainNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetShortTermCapitalGainLossAmt",
+      "path": "CapGainsLossTxInvstIncmDetail/NetShortTermCapitalGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessRevenueOverExpensesAmt",
+      "path": "ChgInNetAssetsFundBalancesGrp/ExcessRevenueOverExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDecreasesAmt",
+      "path": "ChgInNetAssetsFundBalancesGrp/OtherDecreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncreasesAmt",
+      "path": "ChgInNetAssetsFundBalancesGrp/OtherIncreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubtotalAmt",
+      "path": "ChgInNetAssetsFundBalancesGrp/SubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNetAstOrFundBalancesBOYAmt",
+      "path": "ChgInNetAssetsFundBalancesGrp/TotNetAstOrFundBalancesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             Sect4942j3j5FndtnAndFrgnOrgInd",
+      "path": "DistributableAmountGrp/             Sect4942j3j5FndtnAndFrgnOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "            Sect4942j3j5FndtnAndFrgnOrgInd",
+      "path": "DistributableAmountGrp/            Sect4942j3j5FndtnAndFrgnOrgInd",
+      "type": "bool"
+    },
+    {
+      "name": "           TaxBasedOnInvestmentIncomeAmt",
+      "path": "DistributableAmountGrp/           TaxBasedOnInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionFromDistributableAmt",
+      "path": "DistributableAmountGrp/DeductionFromDistributableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributableAsAdjustedAmt",
+      "path": "DistributableAmountGrp/DistributableAsAdjustedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributableBeforeAdjAmt",
+      "path": "DistributableAmountGrp/DistributableBeforeAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributableBeforeDedAmt",
+      "path": "DistributableAmountGrp/DistributableBeforeDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxAmt",
+      "path": "DistributableAmountGrp/IncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MinimumInvestmentReturnAmt",
+      "path": "DistributableAmountGrp/MinimumInvestmentReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecoveriesQualfiedDistriAmt",
+      "path": "DistributableAmountGrp/RecoveriesQualfiedDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "DistributableAmountGrp/TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "                 OriginalReturnOverpaymentAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/                 OriginalReturnOverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "                OriginalReturnTaxPaidAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/                OriginalReturnTaxPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "              ExemptOperatingFoundationsInd",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/              ExemptOperatingFoundationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "              InvestmentIncomeExciseTaxAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/              InvestmentIncomeExciseTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedToESTaxAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/AppliedToESTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BackupWithholdingWithheldAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/BackupWithholdingWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EsPenaltyAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/EsPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedPlusOvpmtIncmTxAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/EstimatedPlusOvpmtIncmTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptFrgnOrgTaxWthldAtSrceAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/ExemptFrgnOrgTaxWthldAtSrceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExtsnRequestIncomeTaxPaidAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/ExtsnRequestIncomeTaxPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form2220AttachedInd",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/Form2220AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form2221AttachedInd",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/Form2221AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "NotApplicableCd",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/NotApplicableCd",
+      "type": "enum"
+    },
+    {
+      "name": "OriginalReturnOverpaymentAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/OriginalReturnOverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OriginalReturnTaxPaidAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/OriginalReturnTaxPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RulingLetterDt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/RulingLetterDt",
+      "type": "date"
+    },
+    {
+      "name": "SubtitleATaxAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/SubtitleATaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubtotalAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/SubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxBasedOnInvestmentIncomeAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/TaxBasedOnInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxUnderSection511Amt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/TaxUnderSection511Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAndCreditsAmt",
+      "path": "ExciseTaxBasedOnInvstIncmGrp/TotalPaymentsAndCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FMVAssetsEOYAmt",
+      "path": "FMVAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignOrgMeeting85PctTestInd",
+      "path": "ForeignOrgMeeting85PctTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignOrganizationInd",
+      "path": "ForeignOrganizationInd",
+      "type": "bool"
+    },
+    {
+      "name": "AccountsPayableBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/AccountsPayableBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountsPayableEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/AccountsPayableEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcctRcvblAllwncDbtflAcctAmt",
+      "path": "Form990PFBalanceSheetsGrp/AcctRcvblAllwncDbtflAcctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcctRcvblAmt",
+      "path": "Form990PFBalanceSheetsGrp/AcctRcvblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcctRcvblBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/AcctRcvblBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcctRcvblEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/AcctRcvblEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcctRcvblEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/AcctRcvblEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalPaidInCapitalBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/AdditionalPaidInCapitalBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalPaidInCapitalEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/AdditionalPaidInCapitalEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalStockBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/CapitalStockBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalStockEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/CapitalStockEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/CashBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/CashEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/CashEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorporateBondsBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/CorporateBondsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorporateBondsEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/CorporateBondsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorporateBondsEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/CorporateBondsEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorporateStockBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/CorporateStockBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorporateStockEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/CorporateStockEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorporateStockEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/CorporateStockEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferredRevenueBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/DeferredRevenueBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferredRevenueEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/DeferredRevenueEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DonorRstrNetAssetsBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/DonorRstrNetAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DonorRstrNetAssetsEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/DonorRstrNetAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrantsPayableBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/GrantsPayableBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrantsPayableEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/GrantsPayableEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrantsReceivableBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/GrantsReceivableBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrantsReceivableEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/GrantsReceivableEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrantsReceivableEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/GrantsReceivableEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoriesBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/InventoriesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoriesEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/InventoriesEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoriesEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/InventoriesEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvstLandAccumDepreciationAmt",
+      "path": "Form990PFBalanceSheetsGrp/InvstLandAccumDepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvstLandCostOrOtherBasisAmt",
+      "path": "Form990PFBalanceSheetsGrp/InvstLandCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LandBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/LandBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LandBldgEquipAccumDeprecAmt",
+      "path": "Form990PFBalanceSheetsGrp/LandBldgEquipAccumDeprecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LandBldgEquipCostOrOtherBssAmt",
+      "path": "Form990PFBalanceSheetsGrp/LandBldgEquipCostOrOtherBssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LandBldgInvestmentsBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/LandBldgInvestmentsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LandBldgInvestmentsEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/LandBldgInvestmentsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LandBldgInvestmentsEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/LandBldgInvestmentsEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LandEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/LandEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LandEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/LandEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoansFromOfficersBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/LoansFromOfficersBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoansFromOfficersEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/LoansFromOfficersEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageLoansBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/MortgageLoansBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageLoansEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/MortgageLoansEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageLoansEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/MortgageLoansEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgagesAndNotesPayableBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/MortgagesAndNotesPayableBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgagesAndNotesPayableEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/MortgagesAndNotesPayableEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NoDonorRstrNetAssestsBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/NoDonorRstrNetAssestsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NoDonorRstrNetAssestsEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/NoDonorRstrNetAssestsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrgDoesNotFollowFASB117Ind",
+      "path": "Form990PFBalanceSheetsGrp/OrgDoesNotFollowFASB117Ind",
+      "type": "bool"
+    },
+    {
+      "name": "OrganizationFollowsFASB117Ind",
+      "path": "Form990PFBalanceSheetsGrp/OrganizationFollowsFASB117Ind",
+      "type": "bool"
+    },
+    {
+      "name": "OtherAssetsBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAssetsEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAssetsEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherAssetsEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInvestmentsBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherInvestmentsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInvestmentsEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherInvestmentsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInvestmentsEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherInvestmentsEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherLiabilitiesBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherLiabilitiesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherLiabilitiesEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherLiabilitiesEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNtsAndLoansRcvblAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherNtsAndLoansRcvblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNtsAndLoansRcvblBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherNtsAndLoansRcvblBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNtsAndLoansRcvblEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherNtsAndLoansRcvblEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNtsAndLoansRcvblEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherNtsAndLoansRcvblEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherRcvblAllwncDbtflAcctAmt",
+      "path": "Form990PFBalanceSheetsGrp/OtherRcvblAllwncDbtflAcctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PledgesRcvblAllwncDbtflAcctAmt",
+      "path": "Form990PFBalanceSheetsGrp/PledgesRcvblAllwncDbtflAcctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PledgesRcvblAmt",
+      "path": "Form990PFBalanceSheetsGrp/PledgesRcvblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PledgesRcvblBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/PledgesRcvblBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PledgesRcvblEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/PledgesRcvblEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PledgesRcvblEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/PledgesRcvblEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrepaidExpensesBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/PrepaidExpensesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrepaidExpensesEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/PrepaidExpensesEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrepaidExpensesEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/PrepaidExpensesEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcvblFromOfficersBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/RcvblFromOfficersBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcvblFromOfficersEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/RcvblFromOfficersEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcvblFromOfficersEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/RcvblFromOfficersEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RetainedEarningBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/RetainedEarningBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RetainedEarningEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/RetainedEarningEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SavAndTempCashInvstBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/SavAndTempCashInvstBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SavAndTempCashInvstEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/SavAndTempCashInvstEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SavAndTempCashInvstEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/SavAndTempCashInvstEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNetAstOrFundBalancesBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/TotNetAstOrFundBalancesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNetAstOrFundBalancesEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/TotNetAstOrFundBalancesEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAssetsBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/TotalAssetsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAssetsEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/TotalAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAssetsEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/TotalAssetsEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLiabilitiesBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/TotalLiabilitiesBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLiabilitiesEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/TotalLiabilitiesEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLiabilitiesNetAstBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/TotalLiabilitiesNetAstBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLiabilitiesNetAstEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/TotalLiabilitiesNetAstEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USGovernmentObligationsBOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/USGovernmentObligationsBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USGovernmentObligationsEOYAmt",
+      "path": "Form990PFBalanceSheetsGrp/USGovernmentObligationsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USGovtObligationsEOYFMVAmt",
+      "path": "Form990PFBalanceSheetsGrp/USGovtObligationsEOYFMVAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InitialReturnFormerPubChrtyInd",
+      "path": "InitialReturnFormerPubChrtyInd",
+      "type": "bool"
+    },
+    {
+      "name": "InitialReturnInd",
+      "path": "InitialReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "MethodOfAccountingAccrualInd",
+      "path": "MethodOfAccountingAccrualInd",
+      "type": "bool"
+    },
+    {
+      "name": "MethodOfAccountingCashInd",
+      "path": "MethodOfAccountingCashInd",
+      "type": "bool"
+    },
+    {
+      "name": "MethodOfAccountingOtherInd",
+      "path": "MethodOfAccountingOtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@methodOfAccountingOtherDesc",
+      "path": "MethodOfAccountingOtherInd/@methodOfAccountingOtherDesc",
+      "type": "string"
+    },
+    {
+      "name": "           MinimumInvestmentReturnAmt",
+      "path": "MinimumInvestmentReturnGrp/           MinimumInvestmentReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcquisitionIndebtednessAmt",
+      "path": "MinimumInvestmentReturnGrp/AcquisitionIndebtednessAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedTotalFMVOfUnusedAstAmt",
+      "path": "MinimumInvestmentReturnGrp/AdjustedTotalFMVOfUnusedAstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AverageMonthlyCashBalancesAmt",
+      "path": "MinimumInvestmentReturnGrp/AverageMonthlyCashBalancesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AverageMonthlyFMVOfSecAmt",
+      "path": "MinimumInvestmentReturnGrp/AverageMonthlyFMVOfSecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashDeemedCharitableAmt",
+      "path": "MinimumInvestmentReturnGrp/CashDeemedCharitableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FMVAllOtherNoncharitableAstAmt",
+      "path": "MinimumInvestmentReturnGrp/FMVAllOtherNoncharitableAstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetVlNoncharitableAssetsAmt",
+      "path": "MinimumInvestmentReturnGrp/NetVlNoncharitableAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionClaimedAmt",
+      "path": "MinimumInvestmentReturnGrp/ReductionClaimedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFMVOfUnusedAssetsAmt",
+      "path": "MinimumInvestmentReturnGrp/TotalFMVOfUnusedAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NameChangeInd",
+      "path": "NameChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "CompOfHghstPdCntrctOrNONETxt",
+      "path": "OfficerDirTrstKeyEmplInfoGrp/CompOfHghstPdCntrctOrNONETxt",
+      "type": "string"
+    },
+    {
+      "name": "CompOfHghstPdEmplOrNONETxt",
+      "path": "OfficerDirTrstKeyEmplInfoGrp/CompOfHghstPdEmplOrNONETxt",
+      "type": "string"
+    },
+    {
+      "name": "CompensationHighestPaidEmplGrp",
+      "path": "OfficerDirTrstKeyEmplInfoGrp/CompensationHighestPaidEmplGrp",
+      "type": "group"
+    },
+    {
+      "name": "CompensationOfHghstPdCntrctGrp",
+      "path": "OfficerDirTrstKeyEmplInfoGrp/CompensationOfHghstPdCntrctGrp",
+      "type": "group"
+    },
+    {
+      "name": "ContractorPaidOver50kCnt",
+      "path": "OfficerDirTrstKeyEmplInfoGrp/ContractorPaidOver50kCnt",
+      "type": "int"
+    },
+    {
+      "name": "OfficerDirTrstKeyEmplGrp",
+      "path": "OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessName",
+      "path": "OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp/BusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonNm",
+      "path": "OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "OtherEmployeePaidOver50kCnt",
+      "path": "OfficerDirTrstKeyEmplInfoGrp/OtherEmployeePaidOver50kCnt",
+      "type": "int"
+    },
+    {
+      "name": "Organization4947a1TrtdPFInd",
+      "path": "Organization4947a1TrtdPFInd",
+      "type": "bool"
+    },
+    {
+      "name": "Organization501c3ExemptPFInd",
+      "path": "Organization501c3ExemptPFInd",
+      "type": "bool"
+    },
+    {
+      "name": "Organization501c3TaxablePFInd",
+      "path": "Organization501c3TaxablePFInd",
+      "type": "bool"
+    },
+    {
+      "name": "PF60MonthTermSect507b1BInd",
+      "path": "PF60MonthTermSect507b1BInd",
+      "type": "bool"
+    },
+    {
+      "name": "          SetAsideSuitabilityTestAmt",
+      "path": "PFQualifyingDistributionsGrp/          SetAsideSuitabilityTestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableAssetsAcquisPaidAmt",
+      "path": "PFQualifyingDistributionsGrp/CharitableAssetsAcquisPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensesAndContributionsAmt",
+      "path": "PFQualifyingDistributionsGrp/ExpensesAndContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProgramRelatedInvstTotalAmt",
+      "path": "PFQualifyingDistributionsGrp/ProgramRelatedInvstTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifyingDistributionsAmt",
+      "path": "PFQualifyingDistributionsGrp/QualifyingDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SetAsideCashDistriTestAmt",
+      "path": "PFQualifyingDistributionsGrp/SetAsideCashDistriTestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PFStatusTermSect507b1AInd",
+      "path": "PFStatusTermSect507b1AInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/             LessorAdjNetIncmMinInvstRetGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/             LessorAdjNetIncmMinInvstRetGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/             LessorAdjNetIncmMinInvstRetGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/             LessorAdjNetIncmMinInvstRetGrp/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "             TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/GrossInvestmentIncomeGrp/             TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/GrossInvestmentIncomeGrp/             Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/GrossInvestmentIncomeGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/GrossInvestmentIncomeGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/GrossInvestmentIncomeGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/LargestSupportFromEOGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/LargestSupportFromEOGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/LargestSupportFromEOGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/LargestSupportFromEOGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/LargestSupportFromEOGrp/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "              CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/LessorAdjNetIncmMinInvstRetGrp/              CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/Pct85LessorAdjIncmOrMinRetGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/Pct85LessorAdjIncmOrMinRetGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/Pct85LessorAdjIncmOrMinRetGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/Pct85LessorAdjIncmOrMinRetGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/Pct85LessorAdjIncmOrMinRetGrp/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "PrivateOperatingFndtnRulingDt",
+      "path": "PrivateOperatingFoundationsGrp/PrivateOperatingFndtnRulingDt",
+      "type": "date"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/PublicSupportType/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/PublicSupportType/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/PublicSupportType/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/PublicSupportType/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/PublicSupportType/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistriMadeDrtGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistriMadeDrtGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistriMadeDrtGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistriMadeDrtGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistriMadeDrtGrp/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistriNotUsedDrtGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistriNotUsedDrtGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistriNotUsedDrtGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistriNotUsedDrtGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistriNotUsedDrtGrp/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistributionsGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistributionsGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistributionsGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistributionsGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/QualifyingDistributionsGrp/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Section4942j3Ind",
+      "path": "PrivateOperatingFoundationsGrp/Section4942j3Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Section4942j5Ind",
+      "path": "PrivateOperatingFoundationsGrp/Section4942j5Ind",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/TotalAssetsGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/TotalAssetsGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/TotalAssetsGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/TotalAssetsGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/TotalAssetsGrp/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/TotalAssetsSect4942j3BiGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/TotalAssetsSect4942j3BiGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/TotalAssetsSect4942j3BiGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/TotalAssetsSect4942j3BiGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/TotalAssetsSect4942j3BiGrp/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/TotalSupportGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/TotalSupportGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/TotalSupportGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/TotalSupportGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/TotalSupportGrp/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "PrivateOperatingFoundationsGrp/TwoThirdsMinimumInvstRetGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "PrivateOperatingFoundationsGrp/TwoThirdsMinimumInvstRetGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Year1Amt",
+      "path": "PrivateOperatingFoundationsGrp/TwoThirdsMinimumInvstRetGrp/Year1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year2Amt",
+      "path": "PrivateOperatingFoundationsGrp/TwoThirdsMinimumInvstRetGrp/Year2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Year3Amt",
+      "path": "PrivateOperatingFoundationsGrp/TwoThirdsMinimumInvstRetGrp/Year3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "RlnOfActyToAccomOfExmptPrpsGrp",
+      "path": "RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp",
+      "type": "group"
+    },
+    {
+      "name": "        RelationshipStatementTxt",
+      "path": "RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp/        RelationshipStatementTxt",
+      "type": "string"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "ActsFailToQlfyAsExceptionsInd",
+      "path": "StatementsRegardingActy4720Grp/ActsFailToQlfyAsExceptionsInd",
+      "type": "bool"
+    },
+    {
+      "name": "BrrwOrLendDisqualifiedPrsnInd",
+      "path": "StatementsRegardingActy4720Grp/BrrwOrLendDisqualifiedPrsnInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessHoldingsInd",
+      "path": "StatementsRegardingActy4720Grp/BusinessHoldingsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExcessBusinessHoldingsInd",
+      "path": "StatementsRegardingActy4720Grp/ExcessBusinessHoldingsInd",
+      "type": "bool"
+    },
+    {
+      "name": "FurnGoodsDisqualifiedPrsnInd",
+      "path": "StatementsRegardingActy4720Grp/FurnGoodsDisqualifiedPrsnInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrantsToIndividualsInd",
+      "path": "StatementsRegardingActy4720Grp/GrantsToIndividualsInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrantsToOrganizationsInd",
+      "path": "StatementsRegardingActy4720Grp/GrantsToOrganizationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "InfluenceElectionInd",
+      "path": "StatementsRegardingActy4720Grp/InfluenceElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "InfluenceLegislationInd",
+      "path": "StatementsRegardingActy4720Grp/InfluenceLegislationInd",
+      "type": "bool"
+    },
+    {
+      "name": "JeopardyInvestmentsInd",
+      "path": "StatementsRegardingActy4720Grp/JeopardyInvestmentsInd",
+      "type": "bool"
+    },
+    {
+      "name": "MaintainedExpenditureRspnsInd",
+      "path": "StatementsRegardingActy4720Grp/MaintainedExpenditureRspnsInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncharitablePurposeInd",
+      "path": "StatementsRegardingActy4720Grp/NoncharitablePurposeInd",
+      "type": "bool"
+    },
+    {
+      "name": "PayCompDisqualifiedPrsnInd",
+      "path": "StatementsRegardingActy4720Grp/PayCompDisqualifiedPrsnInd",
+      "type": "bool"
+    },
+    {
+      "name": "PayPremiumsPrsnlBnftCntrctInd",
+      "path": "StatementsRegardingActy4720Grp/PayPremiumsPrsnlBnftCntrctInd",
+      "type": "bool"
+    },
+    {
+      "name": "PaymentToGovernmentOfficialInd",
+      "path": "StatementsRegardingActy4720Grp/PaymentToGovernmentOfficialInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProceedsOrNetIncomeInd",
+      "path": "StatementsRegardingActy4720Grp/ProceedsOrNetIncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProhibitedTaxShelterTransInd",
+      "path": "StatementsRegardingActy4720Grp/ProhibitedTaxShelterTransInd",
+      "type": "bool"
+    },
+    {
+      "name": "RcvFndsToPayPrsnlBnftCntrctInd",
+      "path": "StatementsRegardingActy4720Grp/RcvFndsToPayPrsnlBnftCntrctInd",
+      "type": "bool"
+    },
+    {
+      "name": "RelyingCurrentNtcDsstrAsst1Ind",
+      "path": "StatementsRegardingActy4720Grp/RelyingCurrentNtcDsstrAsst1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "RelyingCurrentNtcDsstrAsstInd",
+      "path": "StatementsRegardingActy4720Grp/RelyingCurrentNtcDsstrAsstInd",
+      "type": "bool"
+    },
+    {
+      "name": "SaleOrExchDisqualifiedPrsnInd",
+      "path": "StatementsRegardingActy4720Grp/SaleOrExchDisqualifiedPrsnInd",
+      "type": "bool"
+    },
+    {
+      "name": "SubjToTaxRmnrtnExPrchtPymtInd",
+      "path": "StatementsRegardingActy4720Grp/SubjToTaxRmnrtnExPrchtPymtInd",
+      "type": "bool"
+    },
+    {
+      "name": "TransactionsFailToQlfyAsExcInd",
+      "path": "StatementsRegardingActy4720Grp/TransactionsFailToQlfyAsExcInd",
+      "type": "bool"
+    },
+    {
+      "name": "TransferAstDisqualifiedPrsnInd",
+      "path": "StatementsRegardingActy4720Grp/TransferAstDisqualifiedPrsnInd",
+      "type": "bool"
+    },
+    {
+      "name": "UncorrectedPYJeopardyInvstInd",
+      "path": "StatementsRegardingActy4720Grp/UncorrectedPYJeopardyInvstInd",
+      "type": "bool"
+    },
+    {
+      "name": "UncorrectedPriorActsInd",
+      "path": "StatementsRegardingActy4720Grp/UncorrectedPriorActsInd",
+      "type": "bool"
+    },
+    {
+      "name": "UndistrIncmSect4942a2NotAppInd",
+      "path": "StatementsRegardingActy4720Grp/UndistrIncmSect4942a2NotAppInd",
+      "type": "bool"
+    },
+    {
+      "name": "UndistributedIncomePYInd",
+      "path": "StatementsRegardingActy4720Grp/UndistributedIncomePYInd",
+      "type": "bool"
+    },
+    {
+      "name": "             OrgReportOrRegisterStateCd",
+      "path": "StatementsRegardingActyGrp/             OrgReportOrRegisterStateCd",
+      "type": "enum"
+    },
+    {
+      "name": "            IndividualWithBooksNm",
+      "path": "StatementsRegardingActyGrp/            IndividualWithBooksNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "StatementsRegardingActyGrp/            LocationOfBooksForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "StatementsRegardingActyGrp/            LocationOfBooksForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "StatementsRegardingActyGrp/            LocationOfBooksForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "StatementsRegardingActyGrp/            LocationOfBooksForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "StatementsRegardingActyGrp/            LocationOfBooksUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "StatementsRegardingActyGrp/            LocationOfBooksUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "StatementsRegardingActyGrp/            LocationOfBooksUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "StatementsRegardingActyGrp/           LocationOfBooksForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "          LegislativePoliticalActyInd",
+      "path": "StatementsRegardingActyGrp/          LegislativePoliticalActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "         LegislativePoliticalActyInd",
+      "path": "StatementsRegardingActyGrp/         LegislativePoliticalActyInd",
+      "type": "bool"
+    },
+    {
+      "name": "         MoreThan100SpentInd",
+      "path": "StatementsRegardingActyGrp/         MoreThan100SpentInd",
+      "type": "bool"
+    },
+    {
+      "name": "         NewSubstantialContributorsInd",
+      "path": "StatementsRegardingActyGrp/         NewSubstantialContributorsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActivitiesNotPreviouslyRptInd",
+      "path": "StatementsRegardingActyGrp/ActivitiesNotPreviouslyRptInd",
+      "type": "bool"
+    },
+    {
+      "name": "AtLeast5000InAssetsInd",
+      "path": "StatementsRegardingActyGrp/AtLeast5000InAssetsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangesToArticlesOrBylawsInd",
+      "path": "StatementsRegardingActyGrp/ChangesToArticlesOrBylawsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ComplyWithPublicInspRqrInd",
+      "path": "StatementsRegardingActyGrp/ComplyWithPublicInspRqrInd",
+      "type": "bool"
+    },
+    {
+      "name": "DonorAdvisedFundInd",
+      "path": "StatementsRegardingActyGrp/DonorAdvisedFundInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignAccountsQuestionInd",
+      "path": "StatementsRegardingActyGrp/ForeignAccountsQuestionInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignCountryCd",
+      "path": "StatementsRegardingActyGrp/ForeignCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "Form1120POLFiledInd",
+      "path": "StatementsRegardingActyGrp/Form1120POLFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form990PFFiledWithAttyGenInd",
+      "path": "StatementsRegardingActyGrp/Form990PFFiledWithAttyGenInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form990TFiledInd",
+      "path": "StatementsRegardingActyGrp/Form990TFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "            ProvinceOrStateNm",
+      "path": "StatementsRegardingActyGrp/LocationOfBooksForeignAddress/            ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "            AddressLine1Txt",
+      "path": "StatementsRegardingActyGrp/LocationOfBooksUSAddress/            AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "StatementsRegardingActyGrp/LocationOfBooksUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "NECTFilingInLieuOFForm1041Ind",
+      "path": "StatementsRegardingActyGrp/NECTFilingInLieuOFForm1041Ind",
+      "type": "bool"
+    },
+    {
+      "name": "NewSubstantialContributorsInd",
+      "path": "StatementsRegardingActyGrp/NewSubstantialContributorsInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrgReportOrRegisterStateCd",
+      "path": "StatementsRegardingActyGrp/OrgReportOrRegisterStateCd",
+      "type": "enum"
+    },
+    {
+      "name": "OrganizationDissolvedEtcInd",
+      "path": "StatementsRegardingActyGrp/OrganizationDissolvedEtcInd",
+      "type": "bool"
+    },
+    {
+      "name": "OwnControlledEntityInd",
+      "path": "StatementsRegardingActyGrp/OwnControlledEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "             BusinessNameLine1Txt",
+      "path": "StatementsRegardingActyGrp/PersonsWithBooksName/             BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "             BusinessNameLine2Txt",
+      "path": "StatementsRegardingActyGrp/PersonsWithBooksName/             BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "StatementsRegardingActyGrp/PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PrivateOperatingFoundationInd",
+      "path": "StatementsRegardingActyGrp/PrivateOperatingFoundationInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section4955ManagersTaxAmt",
+      "path": "StatementsRegardingActyGrp/Section4955ManagersTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section4955OrganizationTaxAmt",
+      "path": "StatementsRegardingActyGrp/Section4955OrganizationTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section508eRqrSatisfiedInd",
+      "path": "StatementsRegardingActyGrp/Section508eRqrSatisfiedInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxExemptInterestAmt",
+      "path": "StatementsRegardingActyGrp/TaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxReimbursedAmt",
+      "path": "StatementsRegardingActyGrp/TaxReimbursedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrelatedBusIncmOverLimitInd",
+      "path": "StatementsRegardingActyGrp/UnrelatedBusIncmOverLimitInd",
+      "type": "bool"
+    },
+    {
+      "name": "WebsiteAddressTxt",
+      "path": "StatementsRegardingActyGrp/WebsiteAddressTxt",
+      "type": "string"
+    },
+    {
+      "name": "AllOtherProgramRltdInvstTotAmt",
+      "path": "SumOfProgramRelatedInvstGrp/AllOtherProgramRltdInvstTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Description1Txt",
+      "path": "SumOfProgramRelatedInvstGrp/Description1Txt",
+      "type": "string"
+    },
+    {
+      "name": "Description2Txt",
+      "path": "SumOfProgramRelatedInvstGrp/Description2Txt",
+      "type": "string"
+    },
+    {
+      "name": "Expenses1Amt",
+      "path": "SumOfProgramRelatedInvstGrp/Expenses1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Expenses2Amt",
+      "path": "SumOfProgramRelatedInvstGrp/Expenses2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SumOfProgramRelatedInvstGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Description1Txt",
+      "path": "SummaryOfDirectChrtblActyGrp/Description1Txt",
+      "type": "string"
+    },
+    {
+      "name": "Description2Txt",
+      "path": "SummaryOfDirectChrtblActyGrp/Description2Txt",
+      "type": "string"
+    },
+    {
+      "name": "Description3Txt",
+      "path": "SummaryOfDirectChrtblActyGrp/Description3Txt",
+      "type": "string"
+    },
+    {
+      "name": "Description4Txt",
+      "path": "SummaryOfDirectChrtblActyGrp/Description4Txt",
+      "type": "string"
+    },
+    {
+      "name": "Expenses1Amt",
+      "path": "SummaryOfDirectChrtblActyGrp/Expenses1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Expenses2Amt",
+      "path": "SummaryOfDirectChrtblActyGrp/Expenses2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Expenses3Amt",
+      "path": "SummaryOfDirectChrtblActyGrp/Expenses3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Expenses4Amt",
+      "path": "SummaryOfDirectChrtblActyGrp/Expenses4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "RecipientPersonNm",
+      "path": "SupplementaryInformationGrp/              GrantOrContributionPdDurYrGrp/RecipientPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "              TotalGrantOrContriApprvFutAmt",
+      "path": "SupplementaryInformationGrp/              TotalGrantOrContriApprvFutAmt",
+      "type": "usd"
+    },
+    {
+      "name": "              TotalGrantOrContriPdDurYrAmt",
+      "path": "SupplementaryInformationGrp/              TotalGrantOrContriPdDurYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           GrantOrContriApprvForFutGrp",
+      "path": "SupplementaryInformationGrp/           GrantOrContriApprvForFutGrp",
+      "type": "group"
+    },
+    {
+      "name": "           GrantOrContributionPdDurYrGrp",
+      "path": "SupplementaryInformationGrp/           GrantOrContributionPdDurYrGrp",
+      "type": "group"
+    },
+    {
+      "name": "           ShareholderManagerNm",
+      "path": "SupplementaryInformationGrp/           ShareholderManagerNm",
+      "type": "string"
+    },
+    {
+      "name": "          GrantOrContributionPdDurYrGrp",
+      "path": "SupplementaryInformationGrp/          GrantOrContributionPdDurYrGrp",
+      "type": "group"
+    },
+    {
+      "name": "          OnlyContriToPreselectedInd",
+      "path": "SupplementaryInformationGrp/          OnlyContriToPreselectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicationSubmissionInfoGrp",
+      "path": "SupplementaryInformationGrp/ApplicationSubmissionInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "FormAndInfoAndMaterialsTxt",
+      "path": "SupplementaryInformationGrp/ApplicationSubmissionInfoGrp/FormAndInfoAndMaterialsTxt",
+      "type": "string"
+    },
+    {
+      "name": "RecipientPersonNm",
+      "path": "SupplementaryInformationGrp/ApplicationSubmissionInfoGrp/RecipientPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "RestrictionsOnAwardsTxt",
+      "path": "SupplementaryInformationGrp/ApplicationSubmissionInfoGrp/RestrictionsOnAwardsTxt",
+      "type": "string"
+    },
+    {
+      "name": "SubmissionDeadlinesTxt",
+      "path": "SupplementaryInformationGrp/ApplicationSubmissionInfoGrp/SubmissionDeadlinesTxt",
+      "type": "string"
+    },
+    {
+      "name": "ContributingManagerNm",
+      "path": "SupplementaryInformationGrp/ContributingManagerNm",
+      "type": "string"
+    },
+    {
+      "name": "GrantOrContriApprvForFutGrp",
+      "path": "SupplementaryInformationGrp/GrantOrContriApprvForFutGrp",
+      "type": "group"
+    },
+    {
+      "name": "               RecipientPersonNm",
+      "path": "SupplementaryInformationGrp/GrantOrContriApprvForFutGrp/               RecipientPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "              RecipientBusinessName",
+      "path": "SupplementaryInformationGrp/GrantOrContriApprvForFutGrp/              RecipientBusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "GrantOrContributionPdDurYrGrp",
+      "path": "SupplementaryInformationGrp/GrantOrContributionPdDurYrGrp",
+      "type": "group"
+    },
+    {
+      "name": "              RecipientBusinessName",
+      "path": "SupplementaryInformationGrp/GrantOrContributionPdDurYrGrp/              RecipientBusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "ShareholderManagerNm",
+      "path": "SupplementaryInformationGrp/ShareholderManagerNm",
+      "type": "string"
+    },
+    {
+      "name": "TotalGrantOrContriApprvFutAmt",
+      "path": "SupplementaryInformationGrp/TotalGrantOrContriApprvFutAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrantOrContriPdDurYrAmt",
+      "path": "SupplementaryInformationGrp/TotalGrantOrContriPdDurYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoansOrLoanGuaranteesInd",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/LoansOrLoanGuaranteesInd",
+      "type": "bool"
+    },
+    {
+      "name": "PerformanceOfServicesEtcInd",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/PerformanceOfServicesEtcInd",
+      "type": "bool"
+    },
+    {
+      "name": "PurchaseOfAssetsNonchrtblEOInd",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/PurchaseOfAssetsNonchrtblEOInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReimbursementArrangementsInd",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/ReimbursementArrangementsInd",
+      "type": "bool"
+    },
+    {
+      "name": "RelationshipScheduleDetail",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/RelationshipScheduleDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/RelationshipScheduleDetail/OrganizationBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "RelationshipsNonchrtblEOInd",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/RelationshipsNonchrtblEOInd",
+      "type": "bool"
+    },
+    {
+      "name": "RentalOfFacilitiesOthAssetsInd",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/RentalOfFacilitiesOthAssetsInd",
+      "type": "bool"
+    },
+    {
+      "name": "SalesOrExchangesOfAssetsInd",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/SalesOrExchangesOfAssetsInd",
+      "type": "bool"
+    },
+    {
+      "name": "SharingOfFacilitiesEtcInd",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/SharingOfFacilitiesEtcInd",
+      "type": "bool"
+    },
+    {
+      "name": "TransferScheduleDetail",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/TransferScheduleDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "InvolvedAmt",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/TransferScheduleDetail/InvolvedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrnsfrOfCashToNonchrtblEOInd",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/TrnsfrOfCashToNonchrtblEOInd",
+      "type": "bool"
+    },
+    {
+      "name": "TrnsfrOtherAssetNonchrtblEOInd",
+      "path": "TrnsfrTransRlnNonchrtblEOGrp/TrnsfrOtherAssetNonchrtblEOInd",
+      "type": "bool"
+    },
+    {
+      "name": "              AppliedToCurrentYearAmt",
+      "path": "UndistributedIncomeGrp/              AppliedToCurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "              DistributableAsAdjustedAmt",
+      "path": "UndistributedIncomeGrp/              DistributableAsAdjustedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "              ExcessDistriCyovAppCYCorpusAmt",
+      "path": "UndistributedIncomeGrp/              ExcessDistriCyovAppCYCorpusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "              ExcessDistriCyovFromYr5Amt",
+      "path": "UndistributedIncomeGrp/              ExcessDistriCyovFromYr5Amt",
+      "type": "usd"
+    },
+    {
+      "name": "              ExcessDistributionCyovAppCYAmt",
+      "path": "UndistributedIncomeGrp/              ExcessDistributionCyovAppCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "              ExcessFromYear1Amt",
+      "path": "UndistributedIncomeGrp/              ExcessFromYear1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "              ExcessFromYear2Amt",
+      "path": "UndistributedIncomeGrp/              ExcessFromYear2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "              ExcessFromYear3Amt",
+      "path": "UndistributedIncomeGrp/              ExcessFromYear3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "              ExcessFromYear4Amt",
+      "path": "UndistributedIncomeGrp/              ExcessFromYear4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "              RemainingDistriFromCorpusAmt",
+      "path": "UndistributedIncomeGrp/              RemainingDistriFromCorpusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedToPriorYearsAmt",
+      "path": "UndistributedIncomeGrp/AppliedToPriorYearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedToYear1Amt",
+      "path": "UndistributedIncomeGrp/AppliedToYear1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CorpusDistri170b1EOr4942g3Amt",
+      "path": "UndistributedIncomeGrp/CorpusDistri170b1EOr4942g3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessDistriCyovToNextYrAmt",
+      "path": "UndistributedIncomeGrp/ExcessDistriCyovToNextYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessDistributionCyovYr1Amt",
+      "path": "UndistributedIncomeGrp/ExcessDistributionCyovYr1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessDistributionCyovYr2Amt",
+      "path": "UndistributedIncomeGrp/ExcessDistributionCyovYr2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessDistributionCyovYr3Amt",
+      "path": "UndistributedIncomeGrp/ExcessDistributionCyovYr3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessDistributionCyovYr4Amt",
+      "path": "UndistributedIncomeGrp/ExcessDistributionCyovYr4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessDistributionCyovYr5Amt",
+      "path": "UndistributedIncomeGrp/ExcessDistributionCyovYr5Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessFromCurrentYearAmt",
+      "path": "UndistributedIncomeGrp/ExcessFromCurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYear1Yr",
+      "path": "UndistributedIncomeGrp/PriorYear1Yr",
+      "type": "unknown"
+    },
+    {
+      "name": "PriorYear2Yr",
+      "path": "UndistributedIncomeGrp/PriorYear2Yr",
+      "type": "unknown"
+    },
+    {
+      "name": "PriorYear3Yr",
+      "path": "UndistributedIncomeGrp/PriorYear3Yr",
+      "type": "unknown"
+    },
+    {
+      "name": "PriorYearDeficiencyOrTaxAmt",
+      "path": "UndistributedIncomeGrp/PriorYearDeficiencyOrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearUndistributedIncmAmt",
+      "path": "UndistributedIncomeGrp/PriorYearUndistributedIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifyingDistributionsAmt",
+      "path": "UndistributedIncomeGrp/QualifyingDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Taxable1Amt",
+      "path": "UndistributedIncomeGrp/Taxable1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Taxable2Amt",
+      "path": "UndistributedIncomeGrp/Taxable2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCorpusAmt",
+      "path": "UndistributedIncomeGrp/TotalCorpusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExcessDistributionCyovAmt",
+      "path": "UndistributedIncomeGrp/TotalExcessDistributionCyovAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalForPriorYearsAmt",
+      "path": "UndistributedIncomeGrp/TotalForPriorYearsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TreatedAsDistriFromCorpusAmt",
+      "path": "UndistributedIncomeGrp/TreatedAsDistriFromCorpusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UndistributedIncomeCYAmt",
+      "path": "UndistributedIncomeGrp/UndistributedIncomeCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UndistributedIncomePYAmt",
+      "path": "UndistributedIncomeGrp/UndistributedIncomePYAmt",
+      "type": "usd"
+    }
+  ]
+}

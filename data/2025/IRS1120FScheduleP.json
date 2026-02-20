@@ -1,0 +1,266 @@
+{
+  "form_id": "IRS1120FScheduleP",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "EmployerIdentificationNumber",
+      "path": "EmployerIdentificationNumber",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignPartnerInformationGrp",
+      "path": "ForeignPartnerInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "AllocationMethodUsedCd",
+      "path": "ForeignPartnerInformationGrp/AllocationMethodUsedCd",
+      "type": "enum"
+    },
+    {
+      "name": "AssetAllocationMethodInd",
+      "path": "ForeignPartnerInformationGrp/AssetAllocationMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossECIPrtnrDeterminationAmt",
+      "path": "ForeignPartnerInformationGrp/GrossECIPrtnrDeterminationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossECIPrtshpDeterminationAmt",
+      "path": "ForeignPartnerInformationGrp/GrossECIPrtshpDeterminationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAllocationMethodInd",
+      "path": "ForeignPartnerInformationGrp/IncomeAllocationMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "InterestExpenseAllocableAmt",
+      "path": "ForeignPartnerInformationGrp/InterestExpenseAllocableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseUSBookedLiabAmt",
+      "path": "ForeignPartnerInformationGrp/InterestExpenseUSBookedLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "None",
+      "path": "ForeignPartnerInformationGrp/None",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherLiabilitiesIncludedAmt",
+      "path": "ForeignPartnerInformationGrp/OtherLiabilitiesIncludedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OutsideBasisLessSect752LiabAmt",
+      "path": "ForeignPartnerInformationGrp/OutsideBasisLessSect752LiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerBasisSect18841d3viAmt",
+      "path": "ForeignPartnerInformationGrp/PartnerBasisSect18841d3viAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignPartnerInformationGrp/PartnerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "PartnerLiabSect18825a1iiBAmt",
+      "path": "ForeignPartnerInformationGrp/PartnerLiabSect18825a1iiBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerLiabSect18841d3viAmt",
+      "path": "ForeignPartnerInformationGrp/PartnerLiabSect18841d3viAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerOutsideBssAllcblECIAmt",
+      "path": "ForeignPartnerInformationGrp/PartnerOutsideBssAllcblECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerPersonNm",
+      "path": "ForeignPartnerInformationGrp/PartnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "Section705OutsideBasisAmt",
+      "path": "ForeignPartnerInformationGrp/Section705OutsideBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDedLossECIPartnerAmt",
+      "path": "ForeignPartnerInformationGrp/TotalDedLossECIPartnerAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDedLossECIPartnershipAmt",
+      "path": "ForeignPartnerInformationGrp/TotalDedLossECIPartnershipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionsAndLossesAmt",
+      "path": "ForeignPartnerInformationGrp/TotalDeductionsAndLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossIncomeAmt",
+      "path": "ForeignPartnerInformationGrp/TotalGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLiabilitiesSection752Amt",
+      "path": "ForeignPartnerInformationGrp/TotalLiabilitiesSection752Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnPrtnrIntPrtshpTrnsfrTYGrp",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp",
+      "type": "group"
+    },
+    {
+      "name": "AlphaRowId",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/AlphaRowId",
+      "type": "unknown"
+    },
+    {
+      "name": "GainLossSect897gAmt",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/GainLossSect897gAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcgnzEffCnnctCapGainLossAmt",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/RcgnzEffCnnctCapGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RcgnzEffCnnctOrdnryGainLossAmt",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/RcgnzEffCnnctOrdnryGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealizedAmt",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/RealizedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section705OutsideBasisAmt",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/Section705OutsideBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotEffCnnctOrdnryGain751Amt",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/TotEffCnnctOrdnryGain751Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOrdinaryGainLossSect751Amt",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/TotOrdinaryGainLossSect751Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOutsideCapitalGainLossAmt",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/TotOutsideCapitalGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEffCnnctCapGainNon751Amt",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/TotalEffCnnctCapGainNon751Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOutsideGainLossAmt",
+      "path": "FrgnPrtnrIntPrtshpTrnsfrTYGrp/TotalOutsideGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "GrossECIPrtnrDeterminationAmt",
+      "path": "TotalGrp/GrossECIPrtnrDeterminationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossECIPrtshpDeterminationAmt",
+      "path": "TotalGrp/GrossECIPrtshpDeterminationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseAllocableAmt",
+      "path": "TotalGrp/InterestExpenseAllocableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseUSBookedLiabAmt",
+      "path": "TotalGrp/InterestExpenseUSBookedLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherLiabilitiesIncludedAmt",
+      "path": "TotalGrp/OtherLiabilitiesIncludedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OutsideBasisLessSect752LiabAmt",
+      "path": "TotalGrp/OutsideBasisLessSect752LiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerBasisSect18841d3viAmt",
+      "path": "TotalGrp/PartnerBasisSect18841d3viAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerLiabSect18825a1iiBAmt",
+      "path": "TotalGrp/PartnerLiabSect18825a1iiBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerLiabSect18841d3viAmt",
+      "path": "TotalGrp/PartnerLiabSect18841d3viAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerOutsideBssAllcblECIAmt",
+      "path": "TotalGrp/PartnerOutsideBssAllcblECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section705OutsideBasisAmt",
+      "path": "TotalGrp/Section705OutsideBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDedLossECIPartnershipAmt",
+      "path": "TotalGrp/TotalDedLossECIPartnershipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionsAndLossesAmt",
+      "path": "TotalGrp/TotalDeductionsAndLossesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossIncomeAmt",
+      "path": "TotalGrp/TotalGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLiabilitiesSection752Amt",
+      "path": "TotalGrp/TotalLiabilitiesSection752Amt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "form_id": "IRS2290",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "@AmendedMonthNum",
+      "path": "@AmendedMonthNum",
+      "type": "string"
+    },
+    {
+      "name": "AdditionalTaxAmt",
+      "path": "AdditionalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddressChangeInd",
+      "path": "AddressChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "AgricMileageUsed7500OrLessInd",
+      "path": "AgricMileageUsed7500OrLessInd",
+      "type": "bool"
+    },
+    {
+      "name": "AmendedMonthNum",
+      "path": "AmendedMonthNum",
+      "type": "string"
+    },
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditDebitCardPaymentInd",
+      "path": "CreditDebitCardPaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "EFTPSPaymentInd",
+      "path": "EFTPSPaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "FinalReturnInd",
+      "path": "FinalReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "LoggingVehPartialTaxAmt",
+      "path": "HighwayMtrVehTxComputationGrp/HighwayMtrVehTxCmptColumnsGrp/LoggingVehPartialTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoggingVehicleCnt",
+      "path": "HighwayMtrVehTxComputationGrp/HighwayMtrVehTxCmptColumnsGrp/LoggingVehicleCnt",
+      "type": "int"
+    },
+    {
+      "name": "NonLoggingVehPartialTaxAmt",
+      "path": "HighwayMtrVehTxComputationGrp/HighwayMtrVehTxCmptColumnsGrp/NonLoggingVehPartialTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonLoggingVehicleCnt",
+      "path": "HighwayMtrVehTxComputationGrp/HighwayMtrVehTxCmptColumnsGrp/NonLoggingVehicleCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "HighwayMtrVehTxComputationGrp/HighwayMtrVehTxCmptColumnsGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleCategoryCd",
+      "path": "HighwayMtrVehTxComputationGrp/VehicleCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "MileageUsed5000OrLessInd",
+      "path": "MileageUsed5000OrLessInd",
+      "type": "bool"
+    },
+    {
+      "name": "NotSubjectToTaxInd ",
+      "path": "NotSubjectToTaxInd ",
+      "type": "unknown"
+    },
+    {
+      "name": "SuspendedVINReferenceTyp",
+      "path": "SuspendedVINReferenceTyp",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxCreditsAmt",
+      "path": "TaxCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxSuspendedLoggingVehCnt",
+      "path": "TaxSuspendedLoggingVehCnt",
+      "type": "int"
+    },
+    {
+      "name": "TaxSuspendedNonLoggingVehCnt",
+      "path": "TaxSuspendedNonLoggingVehCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxComputationAmt",
+      "path": "TotalTaxComputationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalVehicleCnt",
+      "path": "TotalVehicleCnt",
+      "type": "int"
+    },
+    {
+      "name": "TrnsfrSuspendedVINReferenceTyp",
+      "path": "TrnsfrSuspendedVINReferenceTyp",
+      "type": "unknown"
+    },
+    {
+      "name": "VINCorrectionInd",
+      "path": "VINCorrectionInd",
+      "type": "bool"
+    }
+  ]
+}

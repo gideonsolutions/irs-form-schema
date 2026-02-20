@@ -1,0 +1,141 @@
+{
+  "form_id": "IRS1040ScheduleR",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjustedCreditAmt",
+      "path": "AdjustedCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Age65OrOldrNotLvngTogetherInd",
+      "path": "Age65OrOldrNotLvngTogetherInd",
+      "type": "bool"
+    },
+    {
+      "name": "BothSpouses65OrOlderInd",
+      "path": "BothSpouses65OrOlderInd",
+      "type": "bool"
+    },
+    {
+      "name": "BothUnder65BothRtdDsbltyInd",
+      "path": "BothUnder65BothRtdDsbltyInd",
+      "type": "bool"
+    },
+    {
+      "name": "BothUnder65OneRtdDsbltyInd",
+      "path": "BothUnder65OneRtdDsbltyInd",
+      "type": "bool"
+    },
+    {
+      "name": "CalculatedAmountOfNetCreditAmt",
+      "path": "CalculatedAmountOfNetCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditForElderlyOrDisabledAmt",
+      "path": "CreditForElderlyOrDisabledAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExemptionAmt",
+      "path": "ExemptionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingStatusAmt",
+      "path": "FilingStatusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HalfAGIAmt",
+      "path": "HalfAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCreditAmt",
+      "path": "NetCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontaxableOtherAmt",
+      "path": "NontaxableOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontxSocSecAndRlrdBenefitsAmt",
+      "path": "NontxSocSecAndRlrdBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "One65OrOlderOtherNotRtdInd",
+      "path": "One65OrOlderOtherNotRtdInd",
+      "type": "bool"
+    },
+    {
+      "name": "One65OrOlderOtherRtdDsbltyInd",
+      "path": "One65OrOlderOtherRtdDsbltyInd",
+      "type": "bool"
+    },
+    {
+      "name": "Primary65OrOlderInd",
+      "path": "Primary65OrOlderInd",
+      "type": "bool"
+    },
+    {
+      "name": "PriorYearStatementInd",
+      "path": "PriorYearStatementInd",
+      "type": "bool"
+    },
+    {
+      "name": "@personFirstNm",
+      "path": "PriorYearStatementInd/@personFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "@spouseNm",
+      "path": "PriorYearStatementInd/@spouseNm",
+      "type": "string"
+    },
+    {
+      "name": "SmallerOfFSOrTaxableAmt",
+      "path": "SmallerOfFSOrTaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxReturnAGIAmt",
+      "path": "TaxReturnAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableDisabilityAmt",
+      "path": "TaxableDisabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNontaxableAmt",
+      "path": "TotalNontaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLessCreditsAmt",
+      "path": "TotalTaxLessCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Und65RtdPermnntTotDsbltyInd",
+      "path": "Und65RtdPermnntTotDsbltyInd",
+      "type": "bool"
+    },
+    {
+      "name": "Under65DidNotLiveTogetherInd",
+      "path": "Under65DidNotLiveTogetherInd",
+      "type": "bool"
+    }
+  ]
+}

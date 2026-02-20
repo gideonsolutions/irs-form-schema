@@ -1,0 +1,21 @@
+{
+  "form_id": "IRS943A",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "MonthlyTaxLiabilityGrp/DailyTaxLiabilityDetail/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalMonthlyLiabilityAmt",
+      "path": "MonthlyTaxLiabilityGrp/TotalMonthlyLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLiabilityAmt",
+      "path": "TotalTaxLiabilityAmt",
+      "type": "usd"
+    }
+  ]
+}

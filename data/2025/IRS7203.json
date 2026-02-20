@@ -1,0 +1,716 @@
+{
+  "form_id": "IRS7203",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BusinessCredit50c1And5Amt",
+      "path": "BusinessCredit50c1And5Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalContributionBasisAmt",
+      "path": "CapitalContributionBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributionsAmt",
+      "path": "DistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessDepletionAdjAmt",
+      "path": "ExcessDepletionAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GiftInd",
+      "path": "GiftInd",
+      "type": "bool"
+    },
+    {
+      "name": "InheritedInd",
+      "path": "InheritedInd",
+      "type": "bool"
+    },
+    {
+      "name": "InterestIncomeAmt",
+      "path": "InterestIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalGainsAmt",
+      "path": "NetCapitalGainsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalRealEstateIncomeAmt",
+      "path": "NetRentalRealEstateIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection1231GainAmt",
+      "path": "NetSection1231GainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondeductibleExpensesAmt",
+      "path": "NondeductibleExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OilGasDepletionAmt",
+      "path": "OilGasDepletionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryBusinessIncomeAmt",
+      "path": "OrdinaryBusinessIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryIncomeAmt",
+      "path": "OrdinaryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OriginalShareholderInd",
+      "path": "OriginalShareholderInd",
+      "type": "bool"
+    },
+    {
+      "name": "OthItemsDecreaseStockBasisAmt",
+      "path": "OthItemsDecreaseStockBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthItemsIncreaseStockBasisAmt",
+      "path": "OthItemsIncreaseStockBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNetRentalIncomeAmt",
+      "path": "OtherNetRentalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PurchasedInd",
+      "path": "PurchasedInd",
+      "type": "bool"
+    },
+    {
+      "name": "RecaptureBusinessCreditsAmt",
+      "path": "RecaptureBusinessCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RoyaltiesAmt",
+      "path": "RoyaltiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SCorporationEIN",
+      "path": "SCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "SCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "SCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "Section113671gElectionInd",
+      "path": "Section113671gElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ShareholderBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ShareholderBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderDebtBasisGrp",
+      "path": "ShareholderDebtBasisGrp",
+      "type": "group"
+    },
+    {
+      "name": "*",
+      "path": "ShareholderDebtBasisGrp/*",
+      "type": "unknown"
+    },
+    {
+      "name": "AdditionalLoansAmt",
+      "path": "ShareholderDebtBasisGrp/AdditionalLoansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowableLossAmt",
+      "path": "ShareholderDebtBasisGrp/AllowableLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtBasisBeforeLossDedAmt",
+      "path": "ShareholderDebtBasisGrp/DebtBasisBeforeLossDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtBasisBeginTaxYrAmt",
+      "path": "ShareholderDebtBasisGrp/DebtBasisBeginTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtBasisBfrExpnssLossAmt",
+      "path": "ShareholderDebtBasisGrp/DebtBasisBfrExpnssLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtBasisBfrRepaymentAmt",
+      "path": "ShareholderDebtBasisGrp/DebtBasisBfrRepaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtBasisEndTaxYrAmt",
+      "path": "ShareholderDebtBasisGrp/DebtBasisEndTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtBasisRestorationAmt",
+      "path": "ShareholderDebtBasisGrp/DebtBasisRestorationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DebtLoanRepaymentPct",
+      "path": "ShareholderDebtBasisGrp/DebtLoanRepaymentPct",
+      "type": "decimal"
+    },
+    {
+      "name": "FormalNoteInd",
+      "path": "ShareholderDebtBasisGrp/FormalNoteInd",
+      "type": "bool"
+    },
+    {
+      "name": "LoanBalanceBeginTaxYrAmt",
+      "path": "ShareholderDebtBasisGrp/LoanBalanceBeginTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanBalanceEndTaxYrAmt",
+      "path": "ShareholderDebtBasisGrp/LoanBalanceEndTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LoanedBeginningBalAmt",
+      "path": "ShareholderDebtBasisGrp/LoanedBeginningBalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedExpnssOilGasDpltnAmt",
+      "path": "ShareholderDebtBasisGrp/NondedExpnssOilGasDpltnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NontaxableDebtRepaymentAmt",
+      "path": "ShareholderDebtBasisGrp/NontaxableDebtRepaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OpenAccountDebtInd",
+      "path": "ShareholderDebtBasisGrp/OpenAccountDebtInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrincipalDebtRepaymentAmt",
+      "path": "ShareholderDebtBasisGrp/PrincipalDebtRepaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReportableGainAmt",
+      "path": "ShareholderDebtBasisGrp/ReportableGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ShareholderEIN",
+      "path": "ShareholderEIN",
+      "type": "ein"
+    },
+    {
+      "name": "ShareholderPersonNm",
+      "path": "ShareholderPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderSSN",
+      "path": "ShareholderSSN",
+      "type": "tin"
+    },
+    {
+      "name": "CharitableContributionAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/CharitableContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxesPaidOrAccruedAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/ForeignTaxesPaidOrAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentInterestExpenseAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/InvestmentInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalLossAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/NetCapitalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalRealEstateLossAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/NetRentalRealEstateLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection1231LossAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/NetSection1231LossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryBusinessLossAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/OrdinaryBusinessLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherLossAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/OtherLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNetRentalLossAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/OtherNetRentalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179DeductionAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/Section179DeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section59e2ExpendituresAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/Section59e2ExpendituresAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllowableLossAmt",
+      "path": "ShrAllwblLossFromDebtBasisGrp/TotalAllowableLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContributionAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/CharitableContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxesPaidOrAccruedAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/ForeignTaxesPaidOrAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentInterestExpenseAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/InvestmentInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalLossAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/NetCapitalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalRealEstateLossAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/NetRentalRealEstateLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection1231LossAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/NetSection1231LossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryBusinessLossAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/OrdinaryBusinessLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherLossAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/OtherLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNetRentalLossAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/OtherNetRentalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179DeductionAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/Section179DeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section59e2ExpendituresAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/Section59e2ExpendituresAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllowableLossAmt",
+      "path": "ShrAllwblLossFromStockBasisGrp/TotalAllowableLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContributionAmt",
+      "path": "ShrCarryoverAmountsGrp/CharitableContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxesPaidOrAccruedAmt",
+      "path": "ShrCarryoverAmountsGrp/ForeignTaxesPaidOrAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentInterestExpenseAmt",
+      "path": "ShrCarryoverAmountsGrp/InvestmentInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalLossAmt",
+      "path": "ShrCarryoverAmountsGrp/NetCapitalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalRealEstateLossAmt",
+      "path": "ShrCarryoverAmountsGrp/NetRentalRealEstateLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection1231LossAmt",
+      "path": "ShrCarryoverAmountsGrp/NetSection1231LossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryBusinessLossAmt",
+      "path": "ShrCarryoverAmountsGrp/OrdinaryBusinessLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "ShrCarryoverAmountsGrp/OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherLossAmt",
+      "path": "ShrCarryoverAmountsGrp/OtherLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNetRentalLossAmt",
+      "path": "ShrCarryoverAmountsGrp/OtherNetRentalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179DeductionAmt",
+      "path": "ShrCarryoverAmountsGrp/Section179DeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section59e2ExpendituresAmt",
+      "path": "ShrCarryoverAmountsGrp/Section59e2ExpendituresAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllowableLossAmt",
+      "path": "ShrCarryoverAmountsGrp/TotalAllowableLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContributionAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/CharitableContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxesPaidOrAccruedAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/ForeignTaxesPaidOrAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentInterestExpenseAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/InvestmentInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalLossAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/NetCapitalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalRealEstateLossAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/NetRentalRealEstateLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection1231LossAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/NetSection1231LossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryBusinessLossAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/OrdinaryBusinessLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherLossAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/OtherLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNetRentalLossAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/OtherNetRentalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179DeductionAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/Section179DeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section59e2ExpendituresAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/Section59e2ExpendituresAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllowableLossAmt",
+      "path": "ShrCarryoverAmtPreviousYrGrp/TotalAllowableLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContributionAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/CharitableContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxesPaidOrAccruedAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/ForeignTaxesPaidOrAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentInterestExpenseAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/InvestmentInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalLossAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/NetCapitalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalRealEstateLossAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/NetRentalRealEstateLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSection1231LossAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/NetSection1231LossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryBusinessLossAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/OrdinaryBusinessLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherLossAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/OtherLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNetRentalLossAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/OtherNetRentalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section179DeductionAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/Section179DeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section59e2ExpendituresAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/Section59e2ExpendituresAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllowableLossAmt",
+      "path": "ShrCurrentYrLossDeductionsGrp/TotalAllowableLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInd",
+      "path": "StockAcquiredOtherGrp/OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherTxt",
+      "path": "StockAcquiredOtherGrp/OtherTxt",
+      "type": "string"
+    },
+    {
+      "name": "StockBasisAftrDistributionsAmt",
+      "path": "StockBasisAftrDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockBasisBeforeLossDedAmt",
+      "path": "StockBasisBeforeLossDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockBasisBeginTaxYearAmt",
+      "path": "StockBasisBeginTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockBasisBfrDistributionsAmt",
+      "path": "StockBasisBfrDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockBasisEndTaxYearAmt",
+      "path": "StockBasisEndTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockBlockDesc",
+      "path": "StockBlockDesc",
+      "type": "string"
+    },
+    {
+      "name": "TaxExemptIncomeAmt",
+      "path": "TaxExemptIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAdditionalLoansAmt",
+      "path": "TotAdditionalLoansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDebtBasisBeforeLossDedAmt",
+      "path": "TotDebtBasisBeforeLossDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDebtBasisBeginTaxYrAmt",
+      "path": "TotDebtBasisBeginTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDebtBasisBfrExpnssLossAmt",
+      "path": "TotDebtBasisBfrExpnssLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDebtBasisBfrRepaymentAmt",
+      "path": "TotDebtBasisBfrRepaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDebtBasisEndTaxYrAmt",
+      "path": "TotDebtBasisEndTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDebtBasisRestorationAmt",
+      "path": "TotDebtBasisRestorationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotLoanBalanceBeginTaxYrAmt",
+      "path": "TotLoanBalanceBeginTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotLoanBalanceEndTaxYrAmt",
+      "path": "TotLoanBalanceEndTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotLoanedBeginningBalAmt",
+      "path": "TotLoanedBeginningBalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNondedExpnssOilGasDpltnAmt",
+      "path": "TotNondedExpnssOilGasDpltnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNontaxableDebtRepaymentAmt",
+      "path": "TotNontaxableDebtRepaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPrincipalDebtRepaymentAmt",
+      "path": "TotPrincipalDebtRepaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotReportableGainAmt",
+      "path": "TotReportableGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditAmt",
+      "path": "TotalCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDecreaseStockBasisAmt",
+      "path": "TotalDecreaseStockBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalK1IncomeAmt",
+      "path": "TotalK1IncomeAmt",
+      "type": "usd"
+    }
+  ]
+}

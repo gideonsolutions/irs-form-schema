@@ -1,0 +1,281 @@
+{
+  "form_id": "IRS8902",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AlternativeTaxQlfyShipActyAmt",
+      "path": "AlternativeTaxQlfyShipActyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorpGroIncmCoreQlfyActyAmt",
+      "path": "CorpGroIncmCoreQlfyActyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorporationsQty",
+      "path": "CorporationsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "CurrentSubsequentTYElectInd",
+      "path": "CurrentSubsequentTYElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "EffectiveDt",
+      "path": "EffectiveDt",
+      "type": "date"
+    },
+    {
+      "name": "ElectionAutomaticallyTermInd",
+      "path": "ElectionAutomaticallyTermInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossIncomeAmt",
+      "path": "GrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MemberElectingGroupInd",
+      "path": "MemberElectingGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NotionalShippingIncome ",
+      "path": "NotionalShippingIncome ",
+      "type": "unknown"
+    },
+    {
+      "name": "AdjustedTonsQty",
+      "path": "NotionalShippingIncome /AdjustedTonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AnnualNotionalShippingIncmAmt",
+      "path": "NotionalShippingIncome /AnnualNotionalShippingIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DailyNotionalShippingIncomeAmt",
+      "path": "NotionalShippingIncome /DailyNotionalShippingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DaysOperatedQty",
+      "path": "NotionalShippingIncome /DaysOperatedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DeadWeightTonsQty",
+      "path": "NotionalShippingIncome /DeadWeightTonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DivOpertnGrsIncmByGrsIncmRt",
+      "path": "NotionalShippingIncome /DivOpertnGrsIncmByGrsIncmRt",
+      "type": "decimal"
+    },
+    {
+      "name": "GrossIncomeAmt",
+      "path": "NotionalShippingIncome /GrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeExcludedAmt",
+      "path": "NotionalShippingIncome /GrossIncomeExcludedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeOperationAmt",
+      "path": "NotionalShippingIncome /GrossIncomeOperationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MltAptnShpIncmByMgnlGrsIncmAmt",
+      "path": "NotionalShippingIncome /MltAptnShpIncmByMgnlGrsIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MultNetShpIncmByOwnshpPctAmt",
+      "path": "NotionalShippingIncome /MultNetShpIncmByOwnshpPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MultiplyAdjustedTonsBy0002Amt",
+      "path": "NotionalShippingIncome /MultiplyAdjustedTonsBy0002Amt",
+      "type": "usd"
+    },
+    {
+      "name": "MultiplySmllrNetTonsBy0004Amt",
+      "path": "NotionalShippingIncome /MultiplySmllrNetTonsBy0004Amt",
+      "type": "usd"
+    },
+    {
+      "name": "NetNotionalShippingIncomeAmt",
+      "path": "NotionalShippingIncome /NetNotionalShippingIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTonsQty",
+      "path": "NotionalShippingIncome /NetTonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "OwnershipPct",
+      "path": "NotionalShippingIncome /OwnershipPct",
+      "type": "decimal"
+    },
+    {
+      "name": "SmallerNetTonsOr25000Qty",
+      "path": "NotionalShippingIncome /SmallerNetTonsOr25000Qty",
+      "type": "unknown"
+    },
+    {
+      "name": "PriorTaxYearElectionInd",
+      "path": "PriorTaxYearElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "QfyIncdtlActyIncldOnePctLmtAmt",
+      "path": "QfyIncdtlActyIncldOnePctLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyIncdtlActyExOnePctLmtAmt",
+      "path": "QlfyIncdtlActyExOnePctLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfySecActyIncld20PctLmtAmt",
+      "path": "QlfySecActyIncld20PctLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifyingSecActyEx20PctLmtAmt",
+      "path": "QualifyingSecActyEx20PctLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RevokingElectionInd",
+      "path": "RevokingElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "RevokingTaxYearBeginDt",
+      "path": "RevokingTaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "RevokingTaxYearEndDt",
+      "path": "RevokingTaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "SecondaryOrIncdtlActyIncInd",
+      "path": "SecondaryOrIncdtlActyIncInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "SubsidiaryBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "SubsidiaryBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalAnnualNotionalShipIncmAmt",
+      "path": "TotalAnnualNotionalShipIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VesselInformation",
+      "path": "VesselInformation",
+      "type": "unknown"
+    },
+    {
+      "name": "FlagTxt",
+      "path": "VesselInformation/FlagTxt",
+      "type": "string"
+    },
+    {
+      "name": "FlaggedDt",
+      "path": "VesselInformation/FlaggedDt",
+      "type": "date"
+    },
+    {
+      "name": "IMONum",
+      "path": "VesselInformation/IMONum",
+      "type": "string"
+    },
+    {
+      "name": "OwnershipTxt",
+      "path": "VesselInformation/OwnershipTxt",
+      "type": "string"
+    },
+    {
+      "name": "PlacedInServiceDt",
+      "path": "VesselInformation/PlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "USCGVIN",
+      "path": "VesselInformation/USCGVIN",
+      "type": "unknown"
+    },
+    {
+      "name": "USOwnershipPct",
+      "path": "VesselInformation/USOwnershipPct",
+      "type": "decimal"
+    },
+    {
+      "name": "UsedUSForeignTradeInd",
+      "path": "VesselInformation/UsedUSForeignTradeInd",
+      "type": "bool"
+    },
+    {
+      "name": "VesselNm",
+      "path": "VesselInformation/VesselNm",
+      "type": "string"
+    },
+    {
+      "name": "VesselTypeTxt",
+      "path": "VesselInformation/VesselTypeTxt",
+      "type": "string"
+    },
+    {
+      "name": "VesselUseTxt",
+      "path": "VesselInformation/VesselUseTxt",
+      "type": "string"
+    },
+    {
+      "name": "VesselQty",
+      "path": "VesselQty",
+      "type": "unknown"
+    }
+  ]
+}

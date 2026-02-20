@@ -1,0 +1,161 @@
+{
+  "form_id": "IRS851",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CommonParentCorporationInfo",
+      "path": "CommonParentCorporationInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "ArrangementDesc",
+      "path": "CommonParentCorporationInfo/AdditionalStockInformation/ArrangementDesc",
+      "type": "string"
+    },
+    {
+      "name": "ArrngmNonMemAcqStkVtngPwrInd",
+      "path": "CommonParentCorporationInfo/AdditionalStockInformation/ArrngmNonMemAcqStkVtngPwrInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExplanationTxt",
+      "path": "CommonParentCorporationInfo/AdditionalStockInformation/ExplanationTxt",
+      "type": "string"
+    },
+    {
+      "name": "MemReaffiliatedWithin60MnthInd",
+      "path": "CommonParentCorporationInfo/AdditionalStockInformation/MemReaffiliatedWithin60MnthInd",
+      "type": "bool"
+    },
+    {
+      "name": "MoreThanOneClassStkOutstdInd",
+      "path": "CommonParentCorporationInfo/AdditionalStockInformation/MoreThanOneClassStkOutstdInd",
+      "type": "bool"
+    },
+    {
+      "name": "OutstandingVotingStockPct",
+      "path": "CommonParentCorporationInfo/AdditionalStockInformation/OutstandingVotingStockPct",
+      "type": "decimal"
+    },
+    {
+      "name": "StockClassDesc",
+      "path": "CommonParentCorporationInfo/AdditionalStockInformation/StockClassDesc",
+      "type": "string"
+    },
+    {
+      "name": "StockValuePct",
+      "path": "CommonParentCorporationInfo/AdditionalStockInformation/StockValuePct",
+      "type": "decimal"
+    },
+    {
+      "name": "VotingPowerPct",
+      "path": "CommonParentCorporationInfo/AdditionalStockInformation/VotingPowerPct",
+      "type": "decimal"
+    },
+    {
+      "name": "CorporationNum",
+      "path": "CommonParentCorporationInfo/CorporationNum",
+      "type": "string"
+    },
+    {
+      "name": "InactivePrincipalBusActyCd",
+      "path": "CommonParentCorporationInfo/InactivePrincipalBusActyCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "CommonParentCorporationInfo/PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityDesc",
+      "path": "CommonParentCorporationInfo/PrincipalBusinessActivityDesc",
+      "type": "string"
+    },
+    {
+      "name": "PrtnOvpmtCrAndEstTxPaymentsAmt",
+      "path": "CommonParentCorporationInfo/PrtnOvpmtCrAndEstTxPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtnTaxDepositedWith7004Amt",
+      "path": "CommonParentCorporationInfo/PrtnTaxDepositedWith7004Amt",
+      "type": "usd"
+    },
+    {
+      "name": "StockHoldingChangesForTaxYear",
+      "path": "CommonParentCorporationInfo/StockHoldingChangesForTaxYear",
+      "type": "unknown"
+    },
+    {
+      "name": "ShareholderOfCorporationNum",
+      "path": "CommonParentCorporationInfo/StockHoldingChangesForTaxYear/ShareholderOfCorporationNum",
+      "type": "string"
+    },
+    {
+      "name": "SharesAcquiredCnt",
+      "path": "CommonParentCorporationInfo/StockHoldingChangesForTaxYear/SharesAcquiredCnt",
+      "type": "int"
+    },
+    {
+      "name": "SharesDisposedCnt",
+      "path": "CommonParentCorporationInfo/StockHoldingChangesForTaxYear/SharesDisposedCnt",
+      "type": "int"
+    },
+    {
+      "name": "StockValuePct",
+      "path": "CommonParentCorporationInfo/StockHoldingChangesForTaxYear/StockValuePct",
+      "type": "decimal"
+    },
+    {
+      "name": "TransactionDt",
+      "path": "CommonParentCorporationInfo/StockHoldingChangesForTaxYear/TransactionDt",
+      "type": "date"
+    },
+    {
+      "name": "VotingPowerPct",
+      "path": "CommonParentCorporationInfo/StockHoldingChangesForTaxYear/VotingPowerPct",
+      "type": "decimal"
+    },
+    {
+      "name": "OwnersNotRecHoldersDetailsTxt",
+      "path": "OwnersNotRecHoldersDetailsTxt",
+      "type": "string"
+    },
+    {
+      "name": "ShareExceedVlAtTrnsfrTimeInd",
+      "path": "ShareExceedVlAtTrnsfrTimeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ShrVlWorthlessUnderSect165Ind",
+      "path": "ShrVlWorthlessUnderSect165Ind",
+      "type": "bool"
+    },
+    {
+      "name": "StockPurchasedOrRtdDetailsTxt",
+      "path": "StockPurchasedOrRtdDetailsTxt",
+      "type": "string"
+    },
+    {
+      "name": "SubsidiaryCorporationInfo",
+      "path": "SubsidiaryCorporationInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "AdditionalStockInformation",
+      "path": "SubsidiaryCorporationInfo/AdditionalStockInformation",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxPaidForm7004Amt",
+      "path": "TaxPaidForm7004Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOvpmtCrAndEstTxPaymentsAmt",
+      "path": "TotOvpmtCrAndEstTxPaymentsAmt",
+      "type": "usd"
+    }
+  ]
+}

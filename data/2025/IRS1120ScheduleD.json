@@ -1,0 +1,221 @@
+{
+  "form_id": "IRS1120ScheduleD",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CapitalGainDistributionsAmt",
+      "path": "CapitalGainDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainNetIncomeAmt",
+      "path": "CapitalGainNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DisposeInvestmentQOFInd",
+      "path": "DisposeInvestmentQOFInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExcNetSTGainOverNetLTLossAmt",
+      "path": "ExcNetSTGainOverNetLTLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form4797GainOrLossAmt",
+      "path": "Form4797GainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LTCapGainInstalSlsAmt",
+      "path": "LTCapGainInstalSlsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LTCapGainLossLikeKindExchAmt",
+      "path": "LTCapGainLossLikeKindExchAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetCapitalGainAmt",
+      "path": "NetCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetLTCapitalGainOrLossAmt",
+      "path": "NetLTCapitalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSTCapitalGainOrLossAmt",
+      "path": "NetSTCapitalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "STCapGainInstalSlsAmt",
+      "path": "STCapGainInstalSlsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "STCapGainLossLikeKindExchAmt",
+      "path": "STCapGainLossLikeKindExchAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostOrOtherBasisAmt",
+      "path": "TotalLTCGL1099BssRptNoAdjGrp/TotalCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainOrLossAmt",
+      "path": "TotalLTCGL1099BssRptNoAdjGrp/TotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalProceedsSalesPriceAmt",
+      "path": "TotalLTCGL1099BssRptNoAdjGrp/TotalProceedsSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAdjustmentsToGainOrLossAmt",
+      "path": "TotalLTCGL1099NotReceivedGrp/TotAdjustmentsToGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostOrOtherBasisAmt",
+      "path": "TotalLTCGL1099NotReceivedGrp/TotalCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainOrLossAmt",
+      "path": "TotalLTCGL1099NotReceivedGrp/TotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalProceedsSalesPriceAmt",
+      "path": "TotalLTCGL1099NotReceivedGrp/TotalProceedsSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAdjustmentsToGainOrLossAmt",
+      "path": "TotalLTCGL1099NotShowBasisGrp/TotAdjustmentsToGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostOrOtherBasisAmt",
+      "path": "TotalLTCGL1099NotShowBasisGrp/TotalCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainOrLossAmt",
+      "path": "TotalLTCGL1099NotShowBasisGrp/TotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalProceedsSalesPriceAmt",
+      "path": "TotalLTCGL1099NotShowBasisGrp/TotalProceedsSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAdjustmentsToGainOrLossAmt",
+      "path": "TotalLTCGL1099ShowsBasisGrp/TotAdjustmentsToGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostOrOtherBasisAmt",
+      "path": "TotalLTCGL1099ShowsBasisGrp/TotalCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainOrLossAmt",
+      "path": "TotalLTCGL1099ShowsBasisGrp/TotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalProceedsSalesPriceAmt",
+      "path": "TotalLTCGL1099ShowsBasisGrp/TotalProceedsSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostOrOtherBasisAmt",
+      "path": "TotalSTCGL1099BssRptNoAdjGrp/TotalCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainOrLossAmt",
+      "path": "TotalSTCGL1099BssRptNoAdjGrp/TotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalProceedsSalesPriceAmt",
+      "path": "TotalSTCGL1099BssRptNoAdjGrp/TotalProceedsSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAdjustmentsToGainOrLossAmt",
+      "path": "TotalSTCGL1099NotReceivedGrp/TotAdjustmentsToGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostOrOtherBasisAmt",
+      "path": "TotalSTCGL1099NotReceivedGrp/TotalCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainOrLossAmt",
+      "path": "TotalSTCGL1099NotReceivedGrp/TotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalProceedsSalesPriceAmt",
+      "path": "TotalSTCGL1099NotReceivedGrp/TotalProceedsSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAdjustmentsToGainOrLossAmt",
+      "path": "TotalSTCGL1099NotShowBasisGrp/TotAdjustmentsToGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostOrOtherBasisAmt",
+      "path": "TotalSTCGL1099NotShowBasisGrp/TotalCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainOrLossAmt",
+      "path": "TotalSTCGL1099NotShowBasisGrp/TotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalProceedsSalesPriceAmt",
+      "path": "TotalSTCGL1099NotShowBasisGrp/TotalProceedsSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAdjustmentsToGainOrLossAmt",
+      "path": "TotalSTCGL1099ShowsBasisGrp/TotAdjustmentsToGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostOrOtherBasisAmt",
+      "path": "TotalSTCGL1099ShowsBasisGrp/TotalCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGainOrLossAmt",
+      "path": "TotalSTCGL1099ShowsBasisGrp/TotalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalProceedsSalesPriceAmt",
+      "path": "TotalSTCGL1099ShowsBasisGrp/TotalProceedsSalesPriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedCapitalLossCarryoverAmt",
+      "path": "UnusedCapitalLossCarryoverAmt",
+      "type": "usd"
+    }
+  ]
+}

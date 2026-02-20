@@ -1,0 +1,66 @@
+{
+  "form_id": "IRS5884",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "@form8884Indicator",
+      "path": "CfwdWorkOpptCrTYBeginAfter2006/@form8884Indicator",
+      "type": "unknown"
+    },
+    {
+      "name": "CreditAllocationAmt",
+      "path": "CreditAllocationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsAndCoopsCreditAmt",
+      "path": "EstatesTrustsAndCoopsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassThruWorkOpportunityCrAmt",
+      "path": "PassThruWorkOpportunityCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondYearWagesAmt",
+      "path": "SecondYearWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotWagesBetween120And399HrsAmt",
+      "path": "TotWagesBetween120And399HrsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditsAmt",
+      "path": "TotalCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSecondYearWagesAmt",
+      "path": "TotalSecondYearWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalWagesAmt",
+      "path": "TotalWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Wages400OrMoreHoursAmt",
+      "path": "Wages400OrMoreHoursAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Wages400OrMoreHoursCreditAmt",
+      "path": "Wages400OrMoreHoursCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesBetween120And399HrsAmt",
+      "path": "WagesBetween120And399HrsAmt",
+      "type": "usd"
+    }
+  ]
+}

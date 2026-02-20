@@ -1,0 +1,221 @@
+{
+  "form_id": "IRS1099MISC",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AttorneyGrossProceedsPaidAmt",
+      "path": "AttorneyGrossProceedsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalendarYr",
+      "path": "CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "CorrectedInd",
+      "path": "CorrectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CropInsuranceProceedsAmt",
+      "path": "CropInsuranceProceedsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DirectSaleAboveThresholdInd",
+      "path": "DirectSaleAboveThresholdInd",
+      "type": "bool"
+    },
+    {
+      "name": "FATCAFilingRequirementInd",
+      "path": "FATCAFilingRequirementInd",
+      "type": "bool"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FishPurchasedForResaleAmt",
+      "path": "FishPurchasedForResaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FishingBoatProceedsAmt",
+      "path": "FishingBoatProceedsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "Form1099MISCStateLocalTaxGrp",
+      "path": "Form1099MISCStateLocalTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "LocalIncomeAmt",
+      "path": "Form1099MISCStateLocalTaxGrp/LocalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LocalTaxWithheldAmt",
+      "path": "Form1099MISCStateLocalTaxGrp/LocalTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LocalityNm",
+      "path": "Form1099MISCStateLocalTaxGrp/LocalityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "Form1099MISCStateLocalTaxGrp/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "StateIdNum",
+      "path": "Form1099MISCStateLocalTaxGrp/StateIdNum",
+      "type": "string"
+    },
+    {
+      "name": "StateIncomeAmt",
+      "path": "Form1099MISCStateLocalTaxGrp/StateIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StateTaxWithheldAmt",
+      "path": "Form1099MISCStateLocalTaxGrp/StateTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicalHealthCarePaymentsAmt",
+      "path": "MedicalHealthCarePaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonqlfyDeferredCompensationAmt",
+      "path": "NonqlfyDeferredCompensationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayerEIN",
+      "path": "PayerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PayerForeignAddress",
+      "path": "PayerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PayerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PayerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PayerNameControlTxt",
+      "path": "PayerNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "PayerUSAddress",
+      "path": "PayerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "RecipientAccountNum",
+      "path": "RecipientAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "RecipientEIN",
+      "path": "RecipientEIN",
+      "type": "ein"
+    },
+    {
+      "name": "RecipientForeignAddress",
+      "path": "RecipientForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "RecipientForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "RecipientNm",
+      "path": "RecipientNm",
+      "type": "string"
+    },
+    {
+      "name": "RecipientSSN",
+      "path": "RecipientSSN",
+      "type": "tin"
+    },
+    {
+      "name": "RecipientUSAddress",
+      "path": "RecipientUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "RentAmt",
+      "path": "RentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RoyaltyAmt",
+      "path": "RoyaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section409ADeferralsAmt",
+      "path": "Section409ADeferralsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubstitutePaymentsAmt",
+      "path": "SubstitutePaymentsAmt",
+      "type": "usd"
+    }
+  ]
+}

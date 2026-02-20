@@ -1,0 +1,151 @@
+{
+  "form_id": "IRS1120FScheduleM1M2",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BalanceIncomeOtherIncreasesAmt",
+      "path": "BalanceIncomeOtherIncreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CashDistributionAmt",
+      "path": "CashDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContriExpnssAmt",
+      "path": "CharitableContriExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContributionsDedAmt",
+      "path": "CharitableContributionsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationDeductionAmt",
+      "path": "DepreciationDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationExpensesAmt",
+      "path": "DepreciationExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributionsOtherDecreasesAmt",
+      "path": "DistributionsOtherDecreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EndYearBalanceAmt",
+      "path": "EndYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessCapLossesOverCapGainsAmt",
+      "path": "ExcessCapLossesOverCapGainsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxPerBooksAmt",
+      "path": "FederalIncomeTaxPerBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeAmt",
+      "path": "IncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeDeductionsSubtotalAmt",
+      "path": "IncomeDeductionsSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeExpensesSubtotalAmt",
+      "path": "IncomeExpensesSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "M2NetIncomeLossPerBooksAmt",
+      "path": "M2NetIncomeLossPerBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeLossPerBooksAmt",
+      "path": "NetIncomeLossPerBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpensesAmt",
+      "path": "OtherExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInterestAmt",
+      "path": "OtherInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDistributionAmt",
+      "path": "PropertyDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StockDistributionAmt",
+      "path": "StockDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptInterestAmt",
+      "path": "TaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotIncmRecordedNotIncludedAmt",
+      "path": "TotIncmRecordedNotIncludedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionsNotChargedAmt",
+      "path": "TotalDeductionsNotChargedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesNotDeductedAmt",
+      "path": "TotalExpensesNotDeductedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherDecreasesAmt",
+      "path": "TotalOtherDecreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherIncreasesAmt",
+      "path": "TotalOtherIncreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxableIncmNotRecOnBksAmt",
+      "path": "TotalTaxableIncmNotRecOnBksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TravelEntertainmentAmt",
+      "path": "TravelEntertainmentAmt",
+      "type": "usd"
+    }
+  ]
+}

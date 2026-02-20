@@ -1,0 +1,56 @@
+{
+  "form_id": "IRS8900",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjustedTotalRailroadTrackAmt",
+      "path": "AdjustedTotalRailroadTrackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearCreditAmt",
+      "path": "CurrentYearCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LessNumOfMileRlrdTrckIsAsgnQty",
+      "path": "LessNumOfMileRlrdTrckIsAsgnQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MilesOfRlrdTrackOwnorLsdQty",
+      "path": "MilesOfRlrdTrackOwnorLsdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MlRlrdTrckAsgnByOwnrOrLsseeQty",
+      "path": "MlRlrdTrckAsgnByOwnrOrLsseeQty",
+      "type": "unknown"
+    },
+    {
+      "name": "QlfyRlrdTrackMaintExpendAmt",
+      "path": "QlfyRlrdTrackMaintExpendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedPctOfRlrdTrackAmt",
+      "path": "QualifiedPctOfRlrdTrackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedRlrdTrackMaintCrAmt",
+      "path": "QualifiedRlrdTrackMaintCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpcfdPctRlrdTrackMaintExpndAmt",
+      "path": "SpcfdPctRlrdTrackMaintExpndAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRlrdTrackMilesQty",
+      "path": "TotalRlrdTrackMilesQty",
+      "type": "unknown"
+    }
+  ]
+}

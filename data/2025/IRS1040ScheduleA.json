@@ -1,0 +1,151 @@
+{
+  "form_id": "IRS1040ScheduleA",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CalcAdjGroIncmMnsTotNetLossAmt",
+      "path": "CalcAdjGroIncmMnsTotNetLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalculatedMedicalAllowanceAmt",
+      "path": "CalculatedMedicalAllowanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CarryoverFromPriorYearAmt",
+      "path": "CarryoverFromPriorYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form1098HomeMortgIntNotRptAmt",
+      "path": "Form1098HomeMortgIntNotRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form1098PointsNotReportedAmt",
+      "path": "Form1098PointsNotReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FormScheduleNumber",
+      "path": "FormScheduleNumber",
+      "type": "unknown"
+    },
+    {
+      "name": "GiftsByCashOrCheckAmt",
+      "path": "GiftsByCashOrCheckAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@qualifiedContributionsAmt",
+      "path": "GiftsByCashOrCheckAmt/@qualifiedContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HomeMortgNotUsedInd",
+      "path": "HomeMortgNotUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "InvestmentInterestAmt",
+      "path": "InvestmentInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ItmzdDedLessThanStdDedInd",
+      "path": "ItmzdDedLessThanStdDedInd",
+      "type": "bool"
+    },
+    {
+      "name": "MedicalAndDentalExpensesAmt",
+      "path": "MedicalAndDentalExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherMiscellaneousDedAmt",
+      "path": "OtherMiscellaneousDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherThanByCashOrCheckAmt",
+      "path": "OtherThanByCashOrCheckAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalPropertyTaxesAmt",
+      "path": "PersonalPropertyTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealEstateTaxesAmt",
+      "path": "RealEstateTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RptHomeMortgIntAndPointsAmt",
+      "path": "RptHomeMortgIntAndPointsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StateAndLocalSalesTaxInd",
+      "path": "StateAndLocalSalesTaxInd",
+      "type": "bool"
+    },
+    {
+      "name": "StateAndLocalTaxAmt",
+      "path": "StateAndLocalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StateAndLocalTaxLimitationAmt",
+      "path": "StateAndLocalTaxLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxReturnAGIAmt",
+      "path": "TaxReturnAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCharitableContriAmt",
+      "path": "TotalCharitableContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalHomeMortgIntAndPointsAmt",
+      "path": "TotalHomeMortgIntAndPointsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestPaidAmt",
+      "path": "TotalInterestPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalItemizedDeductionsAmt",
+      "path": "TotalItemizedDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalMedicalAndDentalExpnssAmt",
+      "path": "TotalMedicalAndDentalExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalStateAndLocalTaxAmt",
+      "path": "TotalStateAndLocalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxesPaidAmt",
+      "path": "TotalTaxesPaidAmt",
+      "type": "usd"
+    }
+  ]
+}

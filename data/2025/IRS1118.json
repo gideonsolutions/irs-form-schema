@@ -1,0 +1,41 @@
+{
+  "form_id": "IRS1118",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CorporationEIN",
+      "path": "CorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "CorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "CorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "Sect951AOrPassiveCatIncomeCd",
+      "path": "Sect951AOrPassiveCatIncomeCd",
+      "type": "enum"
+    },
+    {
+      "name": "TreatyCountryCd",
+      "path": "TreatyCountryCd",
+      "type": "enum"
+    }
+  ]
+}

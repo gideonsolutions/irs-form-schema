@@ -1,0 +1,106 @@
+{
+  "form_id": "IRS8396",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CertifiedMortgageIntCrPdAmt",
+      "path": "CertifiedMortgageIntCrPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LargerOfMortgIntCrOrCfwdAmt",
+      "path": "LargerOfMortgIntCrOrCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgCrCertificateIssueDt",
+      "path": "MortgCrCertificateIssueDt",
+      "type": "date"
+    },
+    {
+      "name": "MortgIntNextYears2YrCfwdCrAmt",
+      "path": "MortgIntNextYears2YrCfwdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgIntNextYears3YrCfwdCrAmt",
+      "path": "MortgIntNextYears3YrCfwdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgIntNextYearsPYCfwdCrAmt",
+      "path": "MortgIntNextYearsPYCfwdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgIntPYCarryforwardCrAmt",
+      "path": "MortgIntPYCarryforwardCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgIntPrevious2YrCfwdCrAmt",
+      "path": "MortgIntPrevious2YrCfwdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgIntPrevious3YrCfwdCrAmt",
+      "path": "MortgIntPrevious3YrCfwdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgIntRedPlusOldestCfwdCrAmt",
+      "path": "MortgIntRedPlusOldestCfwdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgIntTent3YearCfwdCrAmt",
+      "path": "MortgIntTent3YearCfwdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgIntTentTwoYearCfwdCrAmt",
+      "path": "MortgIntTentTwoYearCfwdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgIntTotPreviousCfwdCrAmt",
+      "path": "MortgIntTotPreviousCfwdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgSbsdyCertIssuerAgencyNm",
+      "path": "MortgSbsdyCertIssuerAgencyNm",
+      "type": "string"
+    },
+    {
+      "name": "MortgageCreditCertificateNum",
+      "path": "MortgageCreditCertificateNum",
+      "type": "string"
+    },
+    {
+      "name": "MortgageCreditCertificateRt",
+      "path": "MortgageCreditCertificateRt",
+      "type": "decimal"
+    },
+    {
+      "name": "MortgageInterestCreditAmt",
+      "path": "MortgageInterestCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageInterestReductionAmt",
+      "path": "MortgageInterestReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyMortgageCertUSAddress",
+      "path": "QlfyMortgageCertUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxLiabLmtFromCrLmtWrkshtAmt",
+      "path": "TaxLiabLmtFromCrLmtWrkshtAmt",
+      "type": "usd"
+    }
+  ]
+}

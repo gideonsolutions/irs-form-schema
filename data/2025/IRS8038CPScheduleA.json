@@ -1,0 +1,21 @@
+{
+  "form_id": "IRS8038CPScheduleA",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "EligibleInterestComputationGrp",
+      "path": "EligibleInterestComputationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ReportNum",
+      "path": "ReportNum",
+      "type": "string"
+    },
+    {
+      "name": "TotalEligibleInterestCmptAmt",
+      "path": "TotalEligibleInterestCmptAmt",
+      "type": "usd"
+    }
+  ]
+}

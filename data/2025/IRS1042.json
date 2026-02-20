@@ -1,0 +1,591 @@
+{
+  "form_id": "IRS1042",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ActualGrossPaidAmt",
+      "path": "ActualGrossPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "Apr15PeriodEndingTaxLiabAmt",
+      "path": "Apr15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Apr22PeriodEndingTaxLiabAmt",
+      "path": "Apr22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Apr30PeriodEndingTaxLiabAmt",
+      "path": "Apr30PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Apr7PeriodEndingTaxLiabAmt",
+      "path": "Apr7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AprPeriodEndingTotalAmt",
+      "path": "AprPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Aug15PeriodEndingTaxLiabAmt",
+      "path": "Aug15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Aug22PeriodEndingTaxLiabAmt",
+      "path": "Aug22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Aug31PeriodEndingTaxLiabAmt",
+      "path": "Aug31PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Aug7PeriodEndingTaxLiabAmt",
+      "path": "Aug7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AugPeriodEndingTotalAmt",
+      "path": "AugPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Chap4NoWHRqdRcpntIncmPdAmt",
+      "path": "Chap4NoWHRqdRcpntIncmPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Chapter3StatusCd",
+      "path": "Chapter3StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "Chapter4StatusCd",
+      "path": "Chapter4StatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "Dec15PeriodEndingTaxLiabAmt",
+      "path": "Dec15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Dec22PeriodEndingTaxLiabAmt",
+      "path": "Dec22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Dec31PeriodEndingTaxLiabAmt",
+      "path": "Dec31PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Dec7PeriodEndingTaxLiabAmt",
+      "path": "Dec7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DecPeriodEndingTotalAmt",
+      "path": "DecPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CheckingAccountInd",
+      "path": "DirectDepositGrp/CheckingAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DirectDepositGrp/DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "DirectDepositGrp/RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "SavingsAccountInd",
+      "path": "DirectDepositGrp/SavingsAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExcludedNonfinancialPymtAmt",
+      "path": "ExcludedNonfinancialPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Feb15PeriodEndingTaxLiabAmt",
+      "path": "Feb15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Feb22PeriodEndingTaxLiabAmt",
+      "path": "Feb22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Feb7PeriodEndingTaxLiabAmt",
+      "path": "Feb7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FebLastDayPrdEndingTaxLiabAmt",
+      "path": "FebLastDayPrdEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FebPeriodEndingTotalAmt",
+      "path": "FebPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FedPrcmntPaymentExciseTaxAmt",
+      "path": "FedPrcmntPaymentExciseTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FedPrcmntPymtExciseTaxOvpmtAmt",
+      "path": "FedPrcmntPymtExciseTaxOvpmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalIncomePaidDt",
+      "path": "FinalIncomePaidDt",
+      "type": "date"
+    },
+    {
+      "name": "Form1042CreditInd",
+      "path": "Form1042CreditInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form1042FiledElectronicallyCnt",
+      "path": "Form1042FiledElectronicallyCnt",
+      "type": "int"
+    },
+    {
+      "name": "Form1042FiledPaperCnt",
+      "path": "Form1042FiledPaperCnt",
+      "type": "int"
+    },
+    {
+      "name": "Form1042OvpmtCreditAmt",
+      "path": "Form1042OvpmtCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FutureFilingNotRequiredInd",
+      "path": "FutureFilingNotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrandfatheredObligIncmPdAmt",
+      "path": "GrandfatheredObligIncmPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jan15PeriodEndingTaxLiabAmt",
+      "path": "Jan15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jan22PeriodEndingTaxLiabAmt",
+      "path": "Jan22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jan31PeriodEndingTaxLiabAmt",
+      "path": "Jan31PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jan7PeriodEndingTaxLiabAmt",
+      "path": "Jan7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "JanPeriodEndingTotalAmt",
+      "path": "JanPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jul15PeriodEndingTaxLiabAmt",
+      "path": "Jul15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jul22PeriodEndingTaxLiabAmt",
+      "path": "Jul22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jul31PeriodEndingTaxLiabAmt",
+      "path": "Jul31PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jul7PeriodEndingTaxLiabAmt",
+      "path": "Jul7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "JulPeriodEndingTotalAmt",
+      "path": "JulPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jun15PeriodEndingTaxLiabAmt",
+      "path": "Jun15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jun22PeriodEndingTaxLiabAmt",
+      "path": "Jun22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jun30PeriodEndingTaxLiabAmt",
+      "path": "Jun30PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Jun7PeriodEndingTaxLiabAmt",
+      "path": "Jun7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "JunPeriodEndingTotalAmt",
+      "path": "JunPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Mar15PeriodEndingTaxLiabAmt",
+      "path": "Mar15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Mar22PeriodEndingTaxLiabAmt",
+      "path": "Mar22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Mar31PeriodEndingTaxLiabAmt",
+      "path": "Mar31PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Mar7PeriodEndingTaxLiabAmt",
+      "path": "Mar7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MarPeriodEndingTotalAmt",
+      "path": "MarPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "May15PeriodEndingTaxLiabAmt",
+      "path": "May15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "May22PeriodEndingTaxLiabAmt",
+      "path": "May22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "May31PeriodEndingTaxLiabAmt",
+      "path": "May31PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "May7PeriodEndingTaxLiabAmt",
+      "path": "May7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MayPeriodEndingTotalAmt",
+      "path": "MayPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Nov15PeriodEndingTaxLiabAmt",
+      "path": "Nov15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Nov22PeriodEndingTaxLiabAmt",
+      "path": "Nov22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Nov30PeriodEndingTaxLiabAmt",
+      "path": "Nov30PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Nov7PeriodEndingTaxLiabAmt",
+      "path": "Nov7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NovPeriodEndingTotalAmt",
+      "path": "NovPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Oct15PeriodEndingTaxLiabAmt",
+      "path": "Oct15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Oct22PeriodEndingTaxLiabAmt",
+      "path": "Oct22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Oct31PeriodEndingTaxLiabAmt",
+      "path": "Oct31PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Oct7PeriodEndingTaxLiabAmt",
+      "path": "Oct7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OctPeriodEndingTotalAmt",
+      "path": "OctPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@entityTypeTxt",
+      "path": "OtherEntityTypeInd/@entityTypeTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherIncomeDescAndAmt",
+      "path": "OtherIncomeDescAndAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNonSubstDivPaymentsCrAmt",
+      "path": "OtherNonSubstDivPaymentsCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNontxIncmDescAndAmt",
+      "path": "OtherNontxIncmDescAndAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverwithholdingAdjAmt",
+      "path": "OverwithholdingAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QDDEIN",
+      "path": "QDDEIN",
+      "type": "ein"
+    },
+    {
+      "name": "QualifiedDerivativePaymentInd",
+      "path": "QualifiedDerivativePaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "RefundOverpaymentInd",
+      "path": "RefundOverpaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sect871mTransPaymentInd",
+      "path": "Sect871mTransPaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sep15PeriodEndingTaxLiabAmt",
+      "path": "Sep15PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sep22PeriodEndingTaxLiabAmt",
+      "path": "Sep22PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sep30PeriodEndingTaxLiabAmt",
+      "path": "Sep30PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sep7PeriodEndingTaxLiabAmt",
+      "path": "Sep7PeriodEndingTaxLiabAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SepPeriodEndingTotalAmt",
+      "path": "SepPeriodEndingTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "SubstDivOtherPymtAmt",
+      "path": "SubstDivOtherPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubstDivPaymentsCreditAmt",
+      "path": "SubstDivPaymentsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubstituteDivWthldTaxAmt",
+      "path": "SubstituteDivWthldTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotChap4USSrceFDAPIncmWthldAmt",
+      "path": "TotChap4USSrceFDAPIncmWthldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotUSSrceFDAP1042SRptIncmAmt",
+      "path": "TotUSSrceFDAP1042SRptIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotUSSrceFDAPChap4IncmAmt",
+      "path": "TotUSSrceFDAPChap4IncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotUSSrceFDAPNotWthldChap4Amt",
+      "path": "TotUSSrceFDAPNotWthldChap4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotUSSrceSubstPymtRptNonDivAmt",
+      "path": "TotUSSrceSubstPymtRptNonDivAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEFTPaidDuringCYAmt",
+      "path": "TotalEFTPaidDuringCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEFTPaidDuringSubsqYrAmt",
+      "path": "TotalEFTPaidDuringSubsqYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossReportedAmt",
+      "path": "TotalGrossReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetTaxLiabUnderChap3Amt",
+      "path": "TotalNetTaxLiabUnderChap3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetTaxLiabUnderChap4Amt",
+      "path": "TotalNetTaxLiabUnderChap4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetTaxLiabilityAdjAmt",
+      "path": "TotalNetTaxLiabilityAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetTaxLiabilityAmt",
+      "path": "TotalNetTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form4684Cd",
+      "path": "TotalOrdinaryGainLossAmt/@form4684Cd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxWithheldOrPaidAmt",
+      "path": "TotalTaxWithheldOrPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUSSourceFDAPIncmAmt",
+      "path": "TotalUSSourceFDAPIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUSSrceSubstDivPymtRptAmt",
+      "path": "TotalUSSrceSubstDivPymtRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalVarianceAmt",
+      "path": "TotalVarianceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalVarianceExplanationTxt",
+      "path": "TotalVarianceExplanationTxt",
+      "type": "string"
+    },
+    {
+      "name": "USBusinessOrTradeECIAmt",
+      "path": "USBusinessOrTradeECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USSrceIncmOverWHOvpmtAmt",
+      "path": "USSrceIncmOverWHOvpmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnderwithholdingAdjAmt",
+      "path": "UnderwithholdingAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingAgentTaxPaidAmt",
+      "path": "WithholdingAgentTaxPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingAgentTaxWthldAmt",
+      "path": "WithholdingAgentTaxWthldAmt",
+      "type": "usd"
+    }
+  ]
+}

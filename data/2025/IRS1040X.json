@@ -1,0 +1,516 @@
+{
+  "form_id": "IRS1040X",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AmendedReturnForCalendarYrCd",
+      "path": "AmendedReturnForCalendarYrCd",
+      "type": "enum"
+    },
+    {
+      "name": "AppliedToEsTaxAmt",
+      "path": "AppliedToEsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChangeInElectToContriToPECFInd",
+      "path": "ChangeInElectToContriToPECFInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangeInSpouseContriToPECFInd",
+      "path": "ChangeInSpouseContriToPECFInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChldWhoLivedWithYouCnt",
+      "path": "ChldWhoLivedWithYouCnt",
+      "type": "int"
+    },
+    {
+      "name": "AGILessDeductionsAmt",
+      "path": "CorrectNumberOrAmountGrp/AGILessDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "CorrectNumberOrAmountGrp/AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChldWhoLivedWithYouCnt",
+      "path": "CorrectNumberOrAmountGrp/ChldWhoLivedWithYouCnt",
+      "type": "int"
+    },
+    {
+      "name": "EarnedIncomeCreditAmt",
+      "path": "CorrectNumberOrAmountGrp/EarnedIncomeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPaymentsAmt",
+      "path": "CorrectNumberOrAmountGrp/EstimatedTaxPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FedIncmExSocSecRRTAWthldTxAmt",
+      "path": "CorrectNumberOrAmountGrp/FedIncmExSocSecRRTAWthldTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDependentsListedCnt",
+      "path": "CorrectNumberOrAmountGrp/OtherDependentsListedCnt",
+      "type": "int"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "CorrectNumberOrAmountGrp/OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedAmt",
+      "path": "CorrectNumberOrAmountGrp/QualifiedBusinessIncomeDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundableCreditsAmt",
+      "path": "CorrectNumberOrAmountGrp/RefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "CorrectNumberOrAmountGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLessCreditsAmt",
+      "path": "CorrectNumberOrAmountGrp/TaxLessCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "CorrectNumberOrAmountGrp/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdditionalDeductionsAmt",
+      "path": "CorrectNumberOrAmountGrp/TotalAdditionalDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalItemizedOrStandardDedAmt",
+      "path": "CorrectNumberOrAmountGrp/TotalItemizedOrStandardDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonrefundableCreditsAmt",
+      "path": "CorrectNumberOrAmountGrp/TotalNonrefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "CorrectNumberOrAmountGrp/TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DependentDetail",
+      "path": "DependentDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "ElectOvpmtAppliedToEsTaxYr",
+      "path": "ElectOvpmtAppliedToEsTaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "Form2439Ind",
+      "path": "Form2439Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form4136Ind",
+      "path": "Form4136Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form8863Ind",
+      "path": "Form8863Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form8885Ind",
+      "path": "Form8885Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form8962Ind",
+      "path": "Form8962Ind",
+      "type": "bool"
+    },
+    {
+      "name": "GeneralBusinessCrCarrybackInd",
+      "path": "GeneralBusinessCrCarrybackInd",
+      "type": "bool"
+    },
+    {
+      "name": "IndividualReturnFilingStatusCd",
+      "path": "IndividualReturnFilingStatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "MethodUsedToFigureTaxTxt",
+      "path": "MethodUsedToFigureTaxCd | $FormData/MethodUsedToFigureTaxTxt",
+      "type": "string"
+    },
+    {
+      "name": "MoreDependentsInd",
+      "path": "MoreDependentsInd",
+      "type": "bool"
+    },
+    {
+      "name": "NRALiteralCd",
+      "path": "NRALiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "AGILessDeductionsAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/AGILessDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChldWhoLivedWithYouCnt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/ChldWhoLivedWithYouCnt",
+      "type": "int"
+    },
+    {
+      "name": "EarnedIncomeCreditAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/EarnedIncomeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPaymentsAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/EstimatedTaxPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FedIncmExSocSecRRTAWthldTxAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/FedIncmExSocSecRRTAWthldTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDependentsListedCnt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/OtherDependentsListedCnt",
+      "type": "int"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/QualifiedBusinessIncomeDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundableCreditsAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/RefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLessCreditsAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/TaxLessCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdditionalDeductionsAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/TotalAdditionalDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalItemizedOrStandardDedAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/TotalItemizedOrStandardDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonrefundableCreditsAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/TotalNonrefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "NetChangeOrigRptOrPrevAdjGrp/TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossCarrybackInd",
+      "path": "NetOperatingLossCarrybackInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetOverpaymentAmt",
+      "path": "NetOverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonPaidPreparerCd",
+      "path": "NonPaidPreparerCd",
+      "type": "enum"
+    },
+    {
+      "name": "AGILessDeductionsAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/AGILessDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChldWhoLivedWithYouCnt",
+      "path": "OriginalRptOrAsPrevAdjGrp/ChldWhoLivedWithYouCnt",
+      "type": "int"
+    },
+    {
+      "name": "EarnedIncomeCreditAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/EarnedIncomeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPaymentsAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/EstimatedTaxPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FedIncmExSocSecRRTAWthldTxAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/FedIncmExSocSecRRTAWthldTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDependentsListedCnt",
+      "path": "OriginalRptOrAsPrevAdjGrp/OtherDependentsListedCnt",
+      "type": "int"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedBusinessIncomeDedAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/QualifiedBusinessIncomeDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundableCreditsAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/RefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLessCreditsAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/TaxLessCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdditionalDeductionsAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/TotalAdditionalDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalItemizedOrStandardDedAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/TotalItemizedOrStandardDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonrefundableCreditsAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/TotalNonrefundableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "OriginalRptOrAsPrevAdjGrp/TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDependentsListedCnt",
+      "path": "OtherDependentsListedCnt",
+      "type": "int"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@otherRefundableCrTxt",
+      "path": "OtherInd/@otherRefundableCrTxt",
+      "type": "string"
+    },
+    {
+      "name": "OverpaidAmt",
+      "path": "OverpaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OwedAmt",
+      "path": "OwedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalRepresentativeInd",
+      "path": "PersonalRepresentativeInd",
+      "type": "bool"
+    },
+    {
+      "name": "PowerOfAttorneyNm",
+      "path": "PowerOfAttorneyNm",
+      "type": "string"
+    },
+    {
+      "name": "PowerOfAttorneySignedByInd",
+      "path": "PowerOfAttorneySignedByInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrimaryDeathDt",
+      "path": "PrimaryDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "PrimaryOccupationTxt",
+      "path": "PrimaryOccupationTxt",
+      "type": "string"
+    },
+    {
+      "name": "QualifyingHOHNm",
+      "path": "QualifyingHOHNm",
+      "type": "string"
+    },
+    {
+      "name": "QualifyingHOHSSN",
+      "path": "QualifyingHOHSSN",
+      "type": "tin"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "QualifyingPersonName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "QualifyingPersonName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "QualifyingPersonSSN",
+      "path": "QualifyingPersonSSN",
+      "type": "tin"
+    },
+    {
+      "name": "ReasonForFilingAmdReturnTxt",
+      "path": "ReasonForFilingAmdReturnTxt",
+      "type": "string"
+    },
+    {
+      "name": "ReasonForFilingAmendedReturnCd",
+      "path": "ReasonForFilingAmendedReturnCd",
+      "type": "enum"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Schedule8812Ind",
+      "path": "Schedule8812Ind",
+      "type": "bool"
+    },
+    {
+      "name": "SepdSpsFilingSepRetMeetsRqrInd",
+      "path": "SepdSpsFilingSepRetMeetsRqrInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpouseDeathDt",
+      "path": "SpouseDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "SpouseNm",
+      "path": "SpouseNm",
+      "type": "string"
+    },
+    {
+      "name": "SpouseOccupationTxt",
+      "path": "SpouseOccupationTxt",
+      "type": "string"
+    },
+    {
+      "name": "SurvivingSpouseInd",
+      "path": "SurvivingSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "TASCaseTypeCd",
+      "path": "TASCaseTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotPaymentsLessOverpaymentAmt",
+      "path": "TotPaymentsLessOverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExemptionsCnt",
+      "path": "TotalExemptionsCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@uSVirginIslandAmt",
+      "path": "TotalPaymentsAmt/@uSVirginIslandAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@uSVirginIslandCd",
+      "path": "TotalPaymentsAmt/@uSVirginIslandCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalTxPdWithReturnOrExtnsAmt",
+      "path": "TotalTxPdWithReturnOrExtnsAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "form_id": "IRS1040ScheduleF",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AgriculturalActivityCd",
+      "path": "AgriculturalActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "AllInvestmentIsAtRiskInd",
+      "path": "FarmExpensesGrp/AllInvestmentIsAtRiskInd",
+      "type": "bool"
+    },
+    {
+      "name": "CarAndTruckExpensesAmt",
+      "path": "FarmExpensesGrp/CarAndTruckExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChemicalExpenseAmt",
+      "path": "FarmExpensesGrp/ChemicalExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ConservationExpenseAmt",
+      "path": "FarmExpensesGrp/ConservationExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CustomHireExpenseAmt",
+      "path": "FarmExpensesGrp/CustomHireExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeprecAndSect179ExpnsDedAmt",
+      "path": "FarmExpensesGrp/DeprecAndSect179ExpnsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeBenefitProgramAmt",
+      "path": "FarmExpensesGrp/EmployeeBenefitProgramAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FeedPurchasedExpenseAmt",
+      "path": "FarmExpensesGrp/FeedPurchasedExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FertilizerAndLimeExpenseAmt",
+      "path": "FarmExpensesGrp/FertilizerAndLimeExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FreightAndTruckingExpenseAmt",
+      "path": "FarmExpensesGrp/FreightAndTruckingExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GasolineFuelAndOilExpenseAmt",
+      "path": "FarmExpensesGrp/GasolineFuelAndOilExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceAmt",
+      "path": "FarmExpensesGrp/InsuranceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LaborHiredExpenseAmt",
+      "path": "FarmExpensesGrp/LaborHiredExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MachineryAndEquipmentRentAmt",
+      "path": "FarmExpensesGrp/MachineryAndEquipmentRentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageInterestPaidBanksAmt",
+      "path": "FarmExpensesGrp/MortgageInterestPaidBanksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MortgageInterestPaidOtherAmt",
+      "path": "FarmExpensesGrp/MortgageInterestPaidOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetFarmProfitLossAmt",
+      "path": "FarmExpensesGrp/NetFarmProfitLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherBusinessPropertyRentAmt",
+      "path": "FarmExpensesGrp/OtherBusinessPropertyRentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherFarmExpense",
+      "path": "FarmExpensesGrp/OtherFarmExpensesGrp/OtherFarmExpense",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalPreproductivePrdExpnsAmt",
+      "path": "FarmExpensesGrp/OtherFarmExpensesGrp/TotalPreproductivePrdExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section263AIndicatorCd",
+      "path": "FarmExpensesGrp/OtherFarmExpensesGrp/TotalPreproductivePrdExpnsAmt/@section263AIndicatorCd",
+      "type": "enum"
+    },
+    {
+      "name": "PassiveActivityLossLiteralCd",
+      "path": "FarmExpensesGrp/PassiveActivityLossLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "PensionProfitSharingPlansAmt",
+      "path": "FarmExpensesGrp/PensionProfitSharingPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepairsAndMaintenanceAmt",
+      "path": "FarmExpensesGrp/RepairsAndMaintenanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SeedAndPlantExpenseAmt",
+      "path": "FarmExpensesGrp/SeedAndPlantExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SomeInvestmentIsNotAtRiskInd",
+      "path": "FarmExpensesGrp/SomeInvestmentIsNotAtRiskInd",
+      "type": "bool"
+    },
+    {
+      "name": "StorageAndWarehousingExpnsAmt",
+      "path": "FarmExpensesGrp/StorageAndWarehousingExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SuppliesAmt",
+      "path": "FarmExpensesGrp/SuppliesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExpenseAmt",
+      "path": "FarmExpensesGrp/TaxExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesAmt",
+      "path": "FarmExpensesGrp/TotalExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UtilitiesAmt",
+      "path": "FarmExpensesGrp/UtilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VtrnryBreedingMedicineExpnsAmt",
+      "path": "FarmExpensesGrp/VtrnryBreedingMedicineExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccrualOtherIncomeAmt",
+      "path": "FarmIncomeAccrualMethodGrp/AccrualOtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgriculturalProgramPymtAmt",
+      "path": "FarmIncomeAccrualMethodGrp/AgriculturalProgramPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgriculturalProgramPymtTxblAmt",
+      "path": "FarmIncomeAccrualMethodGrp/AgriculturalProgramPymtTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CCCLoanReportedElectionAmt",
+      "path": "FarmIncomeAccrualMethodGrp/CCCLoanReportedElectionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CCCLoansForfeitedAmt",
+      "path": "FarmIncomeAccrualMethodGrp/CCCLoansForfeitedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CCCLoansForfeitedTaxableAmt",
+      "path": "FarmIncomeAccrualMethodGrp/CCCLoansForfeitedTaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CooperativeDistriTxblAmt",
+      "path": "FarmIncomeAccrualMethodGrp/CooperativeDistriTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CooperativeDistributionsAmt",
+      "path": "FarmIncomeAccrualMethodGrp/CooperativeDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfProductsPrchsDuringYrAmt",
+      "path": "FarmIncomeAccrualMethodGrp/CostOfProductsPrchsDuringYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfProductsSoldAmt",
+      "path": "FarmIncomeAccrualMethodGrp/CostOfProductsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CropInsProcAndDsstrPymtAmt",
+      "path": "FarmIncomeAccrualMethodGrp/CropInsProcAndDsstrPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CustomHireIncomeAmt",
+      "path": "FarmIncomeAccrualMethodGrp/CustomHireIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeAmt",
+      "path": "FarmIncomeAccrualMethodGrp/GrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryOfProductsAtBOYAmt",
+      "path": "FarmIncomeAccrualMethodGrp/InventoryOfProductsAtBOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryOfProductsAtEOYAmt",
+      "path": "FarmIncomeAccrualMethodGrp/InventoryOfProductsAtEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvntryAtBOYPlusCostOfPrchsAmt",
+      "path": "FarmIncomeAccrualMethodGrp/InvntryAtBOYPlusCostOfPrchsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SalesLivestockProduceProdAmt",
+      "path": "FarmIncomeAccrualMethodGrp/SalesLivestockProduceProdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "FarmIncomeAccrualMethodGrp/TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgriculturalProgramPymtAmt",
+      "path": "FarmIncomeCashMethodGrp/AgriculturalProgramPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgriculturalProgramPymtTxblAmt",
+      "path": "FarmIncomeCashMethodGrp/AgriculturalProgramPymtTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CCCLoanReportedElectionAmt",
+      "path": "FarmIncomeCashMethodGrp/CCCLoanReportedElectionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CCCLoansForfeitedAmt",
+      "path": "FarmIncomeCashMethodGrp/CCCLoansForfeitedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CCCLoansForfeitedTaxableAmt",
+      "path": "FarmIncomeCashMethodGrp/CCCLoansForfeitedTaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CooperativeDistriTxblAmt",
+      "path": "FarmIncomeCashMethodGrp/CooperativeDistriTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CooperativeDistributionsAmt",
+      "path": "FarmIncomeCashMethodGrp/CooperativeDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfLvstckBghtForResaleAmt",
+      "path": "FarmIncomeCashMethodGrp/CostOfLvstckBghtForResaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CropInsProcAndDsstrPymtAmt",
+      "path": "FarmIncomeCashMethodGrp/CropInsProcAndDsstrPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CropInsProcAndDsstrPymtTxblAmt",
+      "path": "FarmIncomeCashMethodGrp/CropInsProcAndDsstrPymtTxblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CropInsProcDefrdPrevTYAmt",
+      "path": "FarmIncomeCashMethodGrp/CropInsProcDefrdPrevTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CustomHireIncomeAmt",
+      "path": "FarmIncomeCashMethodGrp/CustomHireIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ElectionDeferCropInsProcInd",
+      "path": "FarmIncomeCashMethodGrp/ElectionDeferCropInsProcInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossIncomeAmt",
+      "path": "FarmIncomeCashMethodGrp/GrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "FarmIncomeCashMethodGrp/OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PurchasedProfitAmt",
+      "path": "FarmIncomeCashMethodGrp/PurchasedProfitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SaleOfProductsRaisedAmt",
+      "path": "FarmIncomeCashMethodGrp/SaleOfProductsRaisedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SalesOfLvstckBghtForResaleAmt",
+      "path": "FarmIncomeCashMethodGrp/SalesOfLvstckBghtForResaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "FarmProprietorName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "FarmProprietorName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "MateriallyParticipatedInd",
+      "path": "MateriallyParticipatedInd",
+      "type": "bool"
+    },
+    {
+      "name": "MethodOfAccountingAccrualInd",
+      "path": "MethodOfAccountingAccrualInd",
+      "type": "bool"
+    },
+    {
+      "name": "MethodOfAccountingCashInd",
+      "path": "MethodOfAccountingCashInd",
+      "type": "bool"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalProductDesc",
+      "path": "PrincipalProductDesc",
+      "type": "string"
+    },
+    {
+      "name": "RequiredForms1099FiledInd",
+      "path": "RequiredForms1099FiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequiredToFileForms1099Ind",
+      "path": "RequiredToFileForms1099Ind",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    }
+  ]
+}

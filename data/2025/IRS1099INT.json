@@ -1,0 +1,226 @@
+{
+  "form_id": "IRS1099INT",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BondPremiumAmt",
+      "path": "BondPremiumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CalendarYr",
+      "path": "CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "CorrectedInd",
+      "path": "CorrectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "EarlyWithdrawalPenaltyAmt",
+      "path": "EarlyWithdrawalPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FATCAFilingRequirementInd",
+      "path": "FATCAFilingRequirementInd",
+      "type": "bool"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignCountryOrUSPossessionCd",
+      "path": "ForeignCountryOrUSPossessionCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "ForeignTaxesPaidAmt",
+      "path": "ForeignTaxesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form1099INTStateLocalTaxGrp",
+      "path": "Form1099INTStateLocalTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "LocalAbbreviationCdTxt",
+      "path": "Form1099INTStateLocalTaxGrp/LocalAbbreviationCdTxt",
+      "type": "string"
+    },
+    {
+      "name": "LocalTaxWithheldAmt",
+      "path": "Form1099INTStateLocalTaxGrp/LocalTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LocalityNm",
+      "path": "Form1099INTStateLocalTaxGrp/LocalityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "Form1099INTStateLocalTaxGrp/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "StateIdNum",
+      "path": "Form1099INTStateLocalTaxGrp/StateIdNum",
+      "type": "string"
+    },
+    {
+      "name": "StateTaxWithheldAmt",
+      "path": "Form1099INTStateLocalTaxGrp/StateTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestIncomeAmt",
+      "path": "InterestIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentExpenseAmt",
+      "path": "InvestmentExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MarketDiscountAmt",
+      "path": "MarketDiscountAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayerEIN",
+      "path": "PayerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PayerForeignAddress",
+      "path": "PayerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PayerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PayerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PayerNameControlTxt",
+      "path": "PayerNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "PayerRoutingTransitNum",
+      "path": "PayerRoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "PayerUSAddress",
+      "path": "PayerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "RecipientAccountNum",
+      "path": "RecipientAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "RecipientEIN",
+      "path": "RecipientEIN",
+      "type": "ein"
+    },
+    {
+      "name": "RecipientForeignAddress",
+      "path": "RecipientForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "RecipientForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "RecipientNm",
+      "path": "RecipientNm",
+      "type": "string"
+    },
+    {
+      "name": "RecipientSSN",
+      "path": "RecipientSSN",
+      "type": "tin"
+    },
+    {
+      "name": "RecipientUSAddress",
+      "path": "RecipientUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "SpcfdPrvtActyBondInterestAmt",
+      "path": "SpcfdPrvtActyBondInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptBondPremiumAmt",
+      "path": "TaxExemptBondPremiumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptInterestAmt",
+      "path": "TaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptTaxCreditBondCUSIPNum",
+      "path": "TaxExemptTaxCreditBondCUSIPNum",
+      "type": "string"
+    },
+    {
+      "name": "TreasuryObligBondPremiumAmt",
+      "path": "TreasuryObligBondPremiumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USSavingsBondsTreasObligIntAmt",
+      "path": "USSavingsBondsTreasObligIntAmt",
+      "type": "usd"
+    }
+  ]
+}

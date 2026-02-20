@@ -1,0 +1,176 @@
+{
+  "form_id": "IRS1041ScheduleK1",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AMTAdjustmentGrp",
+      "path": "AMTAdjustmentGrp",
+      "type": "group"
+    },
+    {
+      "name": "AmendedK1Ind",
+      "path": "AmendedK1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "BenefCrAndCreditRecaptureGrp",
+      "path": "BenefCrAndCreditRecaptureGrp",
+      "type": "group"
+    },
+    {
+      "name": "BenefDirectlyApprtnDedGrp",
+      "path": "BenefDirectlyApprtnDedGrp",
+      "type": "group"
+    },
+    {
+      "name": "BenefFinalYearDeductionGrp",
+      "path": "BenefFinalYearDeductionGrp",
+      "type": "group"
+    },
+    {
+      "name": "BenefOtherInformationGrp",
+      "path": "BenefOtherInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BeneficiaryDetail/BeneficiaryBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BeneficiaryDetail/BeneficiaryBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "BeneficiaryPersonNm",
+      "path": "BeneficiaryDetail/BeneficiaryPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "BeneficiaryDetail/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "BeneficiaryDetail/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "Form1042SCd",
+      "path": "BeneficiaryDetail/Form1042SCd",
+      "type": "enum"
+    },
+    {
+      "name": "InCareOfNm",
+      "path": "BeneficiaryDetail/InCareOfNm",
+      "type": "string"
+    },
+    {
+      "name": "MissingSSNEINReasonCd",
+      "path": "BeneficiaryDetail/MissingSSNEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "SSN",
+      "path": "BeneficiaryDetail/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "USAddress",
+      "path": "BeneficiaryDetail/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "Collectibles28PercentGainAmt",
+      "path": "Collectibles28PercentGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticBeneficiaryInd",
+      "path": "DomesticBeneficiaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstateTaxDeductionAmt",
+      "path": "EstateTaxDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalK1Ind",
+      "path": "FinalK1Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignBeneficiaryInd",
+      "path": "ForeignBeneficiaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form1041TFiledDt",
+      "path": "Form1041TFiledDt",
+      "type": "date"
+    },
+    {
+      "name": "Form1041TFiledInd",
+      "path": "Form1041TFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "FutureFilingNotRequiredInd",
+      "path": "FutureFilingNotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "InterestIncomeAmt",
+      "path": "InterestIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetLTCapitalGainAmt",
+      "path": "NetLTCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRentalIncomeRealEstateAmt",
+      "path": "NetRentalIncomeRealEstateAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSTCapitalGainAmt",
+      "path": "NetSTCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryBusinessIncomeAmt",
+      "path": "OrdinaryBusinessIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryDividendsAmt",
+      "path": "OrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherPortfolioIncomeLossAmt",
+      "path": "OtherPortfolioIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherRentalIncomeAmt",
+      "path": "OtherRentalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedDividendsAmt",
+      "path": "QualifiedDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrecapturedSection1250GainAmt",
+      "path": "UnrecapturedSection1250GainAmt",
+      "type": "usd"
+    }
+  ]
+}

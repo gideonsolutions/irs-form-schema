@@ -1,0 +1,121 @@
+{
+  "form_id": "IRS7218",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AllocatedToBeneficiariesAmt",
+      "path": "AllocatedToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ClnAvnNonAvnFuelPrdcdSoldGrp",
+      "path": "ClnAvnNonAvnFuelPrdcdSoldGrp",
+      "type": "group"
+    },
+    {
+      "name": "ClnFuelProdCrAmt",
+      "path": "ClnFuelProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsAndCoopsCreditAmt",
+      "path": "EstatesTrustsAndCoopsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FacilityConstructionStartDt",
+      "path": "FacilityConstructionStartDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PWARequirementMetInd",
+      "path": "PWARequirementMetInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProducerRegistrationInfoGrp",
+      "path": "ProducerRegistrationInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "ActyLtrRegistrationApprvlDt",
+      "path": "ProducerRegistrationInfoGrp/ActyLtrRegistrationApprvlDt",
+      "type": "date"
+    },
+    {
+      "name": "ProducerRegistrationNum",
+      "path": "ProducerRegistrationInfoGrp/ProducerRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "ProvisionalEmissionsRateInd",
+      "path": "ProvisionalEmissionsRateInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotClnAvnNonAvnFuelProdCrAmt",
+      "path": "TotClnAvnNonAvnFuelProdCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllowedTaxCreditAmt",
+      "path": "TotalAllowedTaxCreditAmt",
+      "type": "usd"
+    }
+  ]
+}

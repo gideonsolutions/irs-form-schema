@@ -1,0 +1,106 @@
+{
+  "form_id": "IRS8959",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdditionalMedicareTaxAmt",
+      "path": "AdditionalTaxGrp/AdditionalMedicareTaxGrp/AdditionalMedicareTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalMedicareWagesAndTipsAmt",
+      "path": "AdditionalTaxGrp/AdditionalMedicareTaxGrp/TotalMedicareWagesAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUnreportedMedicareTipsAmt",
+      "path": "AdditionalTaxGrp/AdditionalMedicareTaxGrp/TotalUnreportedMedicareTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalW2MedicareWagesAndTipsAmt",
+      "path": "AdditionalTaxGrp/AdditionalMedicareTaxGrp/TotalW2MedicareWagesAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalWagesWithNoWithholdingAmt",
+      "path": "AdditionalTaxGrp/AdditionalMedicareTaxGrp/TotalWagesWithNoWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesTipsSubjToAddlMedcrTaxAmt",
+      "path": "AdditionalTaxGrp/AdditionalMedicareTaxGrp/WagesTipsSubjToAddlMedcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddlRailroadRetirementTaxAmt",
+      "path": "AdditionalTaxGrp/AddnlRailroadRetirementTaxGrp/AddlRailroadRetirementTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RRTCompSubjToAddRRTTaxAmt",
+      "path": "AdditionalTaxGrp/AddnlRailroadRetirementTaxGrp/RRTCompSubjToAddRRTTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRailroadRetirementCompAmt",
+      "path": "AdditionalTaxGrp/AddnlRailroadRetirementTaxGrp/TotalRailroadRetirementCompAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddlSelfEmploymentTaxAmt",
+      "path": "AdditionalTaxGrp/AddnlSelfEmploymentTaxGrp/AddlSelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedcrWagesTipsBelowThrshldAmt",
+      "path": "AdditionalTaxGrp/AddnlSelfEmploymentTaxGrp/MedcrWagesTipsBelowThrshldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SEIncomeSubjToAddSETaxAmt",
+      "path": "AdditionalTaxGrp/AddnlSelfEmploymentTaxGrp/SEIncomeSubjToAddSETaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSelfEmploymentIncomeAmt",
+      "path": "AdditionalTaxGrp/AddnlSelfEmploymentTaxGrp/TotalSelfEmploymentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingStatusThresholdCd",
+      "path": "AdditionalTaxGrp/FilingStatusThresholdCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalAMRRTTaxAmt",
+      "path": "AdditionalTaxGrp/TotalAMRRTTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddlMedcrRRTTaxWithholdingAmt",
+      "path": "AddlMedcrRRTTaxWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AddnlMedicareTaxWithholdingAmt",
+      "path": "AddnlMedicareTaxWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalMedicareTaxAmt",
+      "path": "TotalMedicareTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalW2AddlRRTTaxAmt",
+      "path": "TotalW2AddlRRTTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalW2MedicareTaxWithheldAmt",
+      "path": "TotalW2MedicareTaxWithheldAmt",
+      "type": "usd"
+    }
+  ]
+}

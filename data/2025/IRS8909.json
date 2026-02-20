@@ -1,0 +1,226 @@
+{
+  "form_id": "IRS8909",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AggregateTenativeCrAmt",
+      "path": "AggregateTenativeCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocatedToBeneficiariesAmt",
+      "path": "AllocatedToBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplianceTentativeCreditAmt",
+      "path": "ApplianceTentativeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AvgAnnualGrossRcptsStdPctAmt",
+      "path": "AvgAnnualGrossRcptsStdPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AvgEligClothesWashersPrdcdQty",
+      "path": "AvgEligClothesWashersPrdcdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AvgNumEligRefrigeratorsTypAQty",
+      "path": "AvgNumEligRefrigeratorsTypAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AvgNumEligRefrigeratorsTypBQty",
+      "path": "AvgNumEligRefrigeratorsTypBQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ClothesWasherTentativeCrAmt",
+      "path": "ClothesWasherRefrigTentCrGrp/ClothesWasherTentativeCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefrigeratorTypeBTentCrAmt",
+      "path": "ClothesWasherRefrigTentCrGrp/RefrigeratorTypeBTentCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ClothesWasherTentativeCrAmt",
+      "path": "ClothesWasherTentativeCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DishwashersTypeATentativeCrAmt",
+      "path": "DishwashersTypeATentativeCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DishwashersTypeBTentativeCrAmt",
+      "path": "DishwashersTypeBTentativeCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DshwshrPrdcdPr2YrsTypeAAvgQty",
+      "path": "DshwshrPrdcdPr2YrsTypeAAvgQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DshwshrPrdcdPr2YrsTypeBAvgQty",
+      "path": "DshwshrPrdcdPr2YrsTypeBAvgQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EligClothesWashersPrdcdQty",
+      "path": "EligClothesWashersPrdcdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EligibleDishwashersTypeANetQty",
+      "path": "EligibleDishwashersTypeANetQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EligibleDishwashersTypeAQty",
+      "path": "EligibleDishwashersTypeAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EligibleDishwashersTypeBNetQty",
+      "path": "EligibleDishwashersTypeBNetQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EligibleDishwashersTypeBQty",
+      "path": "EligibleDishwashersTypeBQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EligibleRefrigeratorTypeAQty",
+      "path": "EligibleRefrigeratorTypeAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EligibleRefrigeratorTypeBQty",
+      "path": "EligibleRefrigeratorTypeBQty",
+      "type": "unknown"
+    },
+    {
+      "name": "EnergyEffcntApplianceCrdtAmt",
+      "path": "EnergyEffcntApplianceCrdtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesTrustsCooperativesAmt",
+      "path": "EstatesTrustsCooperativesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaximumCreditAllowedAmt",
+      "path": "MaximumCreditAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetEligClothesWashersPrdcdQty",
+      "path": "NetEligClothesWashersPrdcdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NetSmallerOfLinesAmt",
+      "path": "NetSmallerOfLinesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetTentativePriorYrCreditAmt",
+      "path": "NetTentativePriorYrCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYAvgAnnualGrossRcptsStdPctAmt",
+      "path": "PYAvgAnnualGrossRcptsStdPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYClothesWasherTypeBTentCrAmt",
+      "path": "PYClothesWasherTypeBTentCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYRefrigeratorTypeBTentCrAmt",
+      "path": "PYRefrigeratorTypeBTentCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYSmallerOfLinesAmt",
+      "path": "PYSmallerOfLinesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYTotalTentativeCreditAmt",
+      "path": "PYTotalTentativeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefrigeratorTypeATentCrAmt",
+      "path": "RefrigeratorTypeATentCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefrigeratorTypeBTentCrAmt",
+      "path": "RefrigeratorTypeBTentCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SingleProducerTxt",
+      "path": "SingleProducerTxt",
+      "type": "string"
+    },
+    {
+      "name": "SmallerOfLinesAmt",
+      "path": "SmallerOfLinesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCrForRefrigeratorsAmt",
+      "path": "TentativeCrForRefrigeratorsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCrdtForDishwashersAmt",
+      "path": "TentativeCrdtForDishwashersAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativePriorYrCreditAmt",
+      "path": "TentativePriorYrCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalApplianceCreditAmt",
+      "path": "TotalApplianceCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSmallerOfLinesAmt",
+      "path": "TotalSmallerOfLinesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTentativeCreditAmt",
+      "path": "TotalTentativeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TypeARefrigeratorsProducedQty",
+      "path": "TypeARefrigeratorsProducedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TypeBRefrigeratorsProducedQty",
+      "path": "TypeBRefrigeratorsProducedQty",
+      "type": "unknown"
+    }
+  ]
+}

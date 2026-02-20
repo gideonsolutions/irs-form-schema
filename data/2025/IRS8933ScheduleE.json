@@ -1,0 +1,251 @@
+{
+  "form_id": "IRS8933ScheduleE",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AttestCrCImntNotSbcntrctInd",
+      "path": "AttestCrCImntNotSbcntrctInd",
+      "type": "bool"
+    },
+    {
+      "name": "AttestCrCImntNotSbcntrctInd ",
+      "path": "AttestCrCImntNotSbcntrctInd ",
+      "type": "unknown"
+    },
+    {
+      "name": "COSCAllwClmCrClmntAmt",
+      "path": "COSCAllwClmCrClmntAmt",
+      "type": "usd"
+    },
+    {
+      "name": "COSCRetainedAmt",
+      "path": "COSCRetainedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ClaimantBusinessName",
+      "path": "ClaimantBusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimantEIN",
+      "path": "ClaimantEIN",
+      "type": "ein"
+    },
+    {
+      "name": "ClaimantForeignAddress",
+      "path": "ClaimantForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ClaimantPersonNm",
+      "path": "ClaimantPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "ClaimantSSN",
+      "path": "ClaimantSSN",
+      "type": "tin"
+    },
+    {
+      "name": "ClaimantUSAddress",
+      "path": "ClaimantUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "CrbnOxdDACAftrSpcfdDtUsedInd",
+      "path": "CrbnOxdDACAftrSpcfdDtUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CrbnOxdDACAftrSpcfdDtUtlzInd",
+      "path": "CrbnOxdDACAftrSpcfdDtUtlzInd",
+      "type": "bool"
+    },
+    {
+      "name": "CrbnOxdDACSpcfdDtNotUsedInd",
+      "path": "CrbnOxdDACSpcfdDtNotUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CrbnOxdOnAftrSpcfdDtINotUsednd",
+      "path": "CrbnOxdOnAftrSpcfdDtINotUsednd",
+      "type": "unknown"
+    },
+    {
+      "name": "CrbnOxdOnAftrSpcfdDtUsedInd",
+      "path": "CrbnOxdOnAftrSpcfdDtUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CrbnOxdOnAftrSpcfdDtUtlzInd",
+      "path": "CrbnOxdOnAftrSpcfdDtUtlzInd",
+      "type": "bool"
+    },
+    {
+      "name": "CreditRateAmt",
+      "path": "CreditRateAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DispSiteEPAeGGRTIdNum",
+      "path": "DispSiteEPAeGGRTIdNum",
+      "type": "string"
+    },
+    {
+      "name": "DispSiteIRSIssdRegistrationNum",
+      "path": "DispSiteIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "DisposQlfyCrbnOxdNotUsedInd",
+      "path": "DisposQlfyCrbnOxdNotUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "DisposQlfyCrbnOxdUsedInd",
+      "path": "DisposQlfyCrbnOxdUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectClaimCrRtEquipmentInd",
+      "path": "ElectClaimCrRtEquipmentInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityEPAeGGRTIdNum",
+      "path": "FacilityEPAeGGRTIdNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerForeignAddress",
+      "path": "FacilityOwnerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityOwnerUSAddress",
+      "path": "FacilityOwnerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityTypeDesc",
+      "path": "FacilityTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "LocationAddressInUS",
+      "path": "LocationAddressInUS",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsCrClmntFcltyLCAQty",
+      "path": "MtrcTonsCrClmntFcltyLCAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsCrClmntNotUsedUtlzQty",
+      "path": "MtrcTonsCrClmntNotUsedUtlzQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsCrClmntUsedQty",
+      "path": "MtrcTonsCrClmntUsedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsNotAllwClmCrClmntQty",
+      "path": "MtrcTonsNotAllwClmCrClmntQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SpcfdCrRt10InfltnOldEquipInd",
+      "path": "SpcfdCrRt10InfltnOldEquipInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpcfdCrRt20InfltnOldEquipInd",
+      "path": "SpcfdCrRt20InfltnOldEquipInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpcfdDolDACEquipNotUsedEORInd",
+      "path": "SpcfdDolDACEquipNotUsedEORInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpcfdDolDACEquipUsedEORInd",
+      "path": "SpcfdDolDACEquipUsedEORInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpcfdDolEquipNotUsedEORInd",
+      "path": "SpcfdDolEquipNotUsedEORInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpcfdDolEquipUsedEORInd",
+      "path": "SpcfdDolEquipUsedEORInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpcfdDolNewEquipNotUsedEORInd",
+      "path": "SpcfdDolNewEquipNotUsedEORInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpcfdDolNewEquipUsedEORInd",
+      "path": "SpcfdDolNewEquipUsedEORInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotMtrcTonsClmCrClmntQty",
+      "path": "TotMtrcTonsClmCrClmntQty",
+      "type": "unknown"
+    },
+    {
+      "name": "UtilizedtQlfyCrbnOxd45Qf5Ind",
+      "path": "UtilizedtQlfyCrbnOxd45Qf5Ind",
+      "type": "bool"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "form_id": "IRS8865ScheduleO",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CashTransferDt",
+      "path": "CashTransferDt",
+      "type": "date"
+    },
+    {
+      "name": "DispositionsReportableGrp",
+      "path": "DispositionsReportableGrp",
+      "type": "group"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "DispositionsReportableGrp/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FairMarketValueCashAmt",
+      "path": "FairMarketValueCashAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilersEIN",
+      "path": "FilersEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FilersSSN",
+      "path": "FilersSSN",
+      "type": "tin"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignPartnershipName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignPartnershipName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FrgnPrtshpMissingEINReasonCd",
+      "path": "FrgnPrtshpMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "GainDeferralMethodAppliedInd",
+      "path": "GainDeferralMethodAppliedInd",
+      "type": "bool"
+    },
+    {
+      "name": "IntangiblePropNotSect197f9Grp",
+      "path": "IntangiblePropNotSect197f9Grp",
+      "type": "group"
+    },
+    {
+      "name": "CostOrOtherBasisAmt",
+      "path": "IntangiblePropNotSect197f9Grp/CostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueOnDtOfTrnsfrAmt",
+      "path": "IntangiblePropNotSect197f9Grp/FairMarketValueOnDtOfTrnsfrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainRecognizedOnTransferAmt",
+      "path": "IntangiblePropNotSect197f9Grp/GainRecognizedOnTransferAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "IntangiblePropNotSect197f9Grp/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "RecoveryPrd",
+      "path": "IntangiblePropNotSect197f9Grp/RecoveryPrd",
+      "type": "unknown"
+    },
+    {
+      "name": "SectionAllocationMethodTxt",
+      "path": "IntangiblePropNotSect197f9Grp/SectionAllocationMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "TransferDt",
+      "path": "IntangiblePropNotSect197f9Grp/TransferDt",
+      "type": "date"
+    },
+    {
+      "name": "IntangiblePropSect197f9Grp",
+      "path": "IntangiblePropSect197f9Grp",
+      "type": "group"
+    },
+    {
+      "name": "CostOrOtherBasisAmt",
+      "path": "IntangiblePropSect197f9Grp/CostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueOnDtOfTrnsfrAmt",
+      "path": "IntangiblePropSect197f9Grp/FairMarketValueOnDtOfTrnsfrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainRecognizedOnTransferAmt",
+      "path": "IntangiblePropSect197f9Grp/GainRecognizedOnTransferAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "IntangiblePropSect197f9Grp/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "RecoveryPrd",
+      "path": "IntangiblePropSect197f9Grp/RecoveryPrd",
+      "type": "unknown"
+    },
+    {
+      "name": "SectionAllocationMethodTxt",
+      "path": "IntangiblePropSect197f9Grp/SectionAllocationMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "TransferDt",
+      "path": "IntangiblePropSect197f9Grp/TransferDt",
+      "type": "date"
+    },
+    {
+      "name": "IntngblPropTrnsfrContriInd",
+      "path": "IntngblPropTrnsfrContriInd",
+      "type": "bool"
+    },
+    {
+      "name": "InventoryTransfersGrp",
+      "path": "InventoryTransfersGrp",
+      "type": "group"
+    },
+    {
+      "name": "CostOrOtherBasisAmt",
+      "path": "InventoryTransfersGrp/CostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueOnDtOfTrnsfrAmt",
+      "path": "InventoryTransfersGrp/FairMarketValueOnDtOfTrnsfrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainRecognizedOnTransferAmt",
+      "path": "InventoryTransfersGrp/GainRecognizedOnTransferAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "InventoryTransfersGrp/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "RecoveryPrd",
+      "path": "InventoryTransfersGrp/RecoveryPrd",
+      "type": "unknown"
+    },
+    {
+      "name": "SectionAllocationMethodTxt",
+      "path": "InventoryTransfersGrp/SectionAllocationMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "TransferDt",
+      "path": "InventoryTransfersGrp/TransferDt",
+      "type": "date"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherPropertyTransfersGrp",
+      "path": "OtherPropertyTransfersGrp",
+      "type": "group"
+    },
+    {
+      "name": "CostOrOtherBasisAmt",
+      "path": "OtherPropertyTransfersGrp/CostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueOnDtOfTrnsfrAmt",
+      "path": "OtherPropertyTransfersGrp/FairMarketValueOnDtOfTrnsfrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainRecognizedOnTransferAmt",
+      "path": "OtherPropertyTransfersGrp/GainRecognizedOnTransferAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "OtherPropertyTransfersGrp/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "RecoveryPrd",
+      "path": "OtherPropertyTransfersGrp/RecoveryPrd",
+      "type": "unknown"
+    },
+    {
+      "name": "SectionAllocationMethodTxt",
+      "path": "OtherPropertyTransfersGrp/SectionAllocationMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "TransferDt",
+      "path": "OtherPropertyTransfersGrp/TransferDt",
+      "type": "date"
+    },
+    {
+      "name": "Section721cPartnershipInd",
+      "path": "Section721cPartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "StkNtsRcvblPyblOtherSecGrp",
+      "path": "StkNtsRcvblPyblOtherSecGrp",
+      "type": "group"
+    },
+    {
+      "name": "CostOrOtherBasisAmt",
+      "path": "StkNtsRcvblPyblOtherSecGrp/CostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueOnDtOfTrnsfrAmt",
+      "path": "StkNtsRcvblPyblOtherSecGrp/FairMarketValueOnDtOfTrnsfrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainRecognizedOnTransferAmt",
+      "path": "StkNtsRcvblPyblOtherSecGrp/GainRecognizedOnTransferAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "StkNtsRcvblPyblOtherSecGrp/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "RecoveryPrd",
+      "path": "StkNtsRcvblPyblOtherSecGrp/RecoveryPrd",
+      "type": "unknown"
+    },
+    {
+      "name": "SectionAllocationMethodTxt",
+      "path": "StkNtsRcvblPyblOtherSecGrp/SectionAllocationMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "TransferDt",
+      "path": "StkNtsRcvblPyblOtherSecGrp/TransferDt",
+      "type": "date"
+    },
+    {
+      "name": "SupplementalInformationTxt",
+      "path": "SupplementalInformationTxt",
+      "type": "string"
+    },
+    {
+      "name": "TngblPropUsedInTradeOrBusGrp",
+      "path": "TngblPropUsedInTradeOrBusGrp",
+      "type": "group"
+    },
+    {
+      "name": "CostOrOtherBasisAmt",
+      "path": "TngblPropUsedInTradeOrBusGrp/CostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueOnDtOfTrnsfrAmt",
+      "path": "TngblPropUsedInTradeOrBusGrp/FairMarketValueOnDtOfTrnsfrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainRecognizedOnTransferAmt",
+      "path": "TngblPropUsedInTradeOrBusGrp/GainRecognizedOnTransferAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyDesc",
+      "path": "TngblPropUsedInTradeOrBusGrp/PropertyDesc",
+      "type": "string"
+    },
+    {
+      "name": "RecoveryPrd",
+      "path": "TngblPropUsedInTradeOrBusGrp/RecoveryPrd",
+      "type": "unknown"
+    },
+    {
+      "name": "SectionAllocationMethodTxt",
+      "path": "TngblPropUsedInTradeOrBusGrp/SectionAllocationMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "TransferDt",
+      "path": "TngblPropUsedInTradeOrBusGrp/TransferDt",
+      "type": "date"
+    },
+    {
+      "name": "TotGainRecognizedOnTransferAmt",
+      "path": "TotGainRecognizedOnTransferAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostOrOtherBasisAmt",
+      "path": "TotalCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFairMarketValueAmt",
+      "path": "TotalFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TransferRptOnSubjectToGainInd",
+      "path": "TransferRptOnSubjectToGainInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransferorName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransferorName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TransferorsAfterTransferIntRt",
+      "path": "TransferorsAfterTransferIntRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TransferorsBeforeTransferIntRt",
+      "path": "TransferorsBeforeTransferIntRt",
+      "type": "decimal"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "form_id": "IRS2120",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CalendarYr",
+      "path": "CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "EligiblePersonWaivingDepdRight",
+      "path": "EligiblePersonWaivingDepdRight",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "QualifyingPersonName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "QualifyingPersonName/PersonLastNm",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "form_id": "IRS8859",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "DCHmByrCreditCarryforwardPYAmt",
+      "path": "DCHmByrCreditCarryforwardPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DCHmByrCreditCfwdNextYearAmt",
+      "path": "DCHmByrCreditCfwdNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DCHmByrCurrentYearCreditAmt",
+      "path": "DCHmByrCurrentYearCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabLmtFromCrLmtWrkshtAmt",
+      "path": "TaxLiabLmtFromCrLmtWrkshtAmt",
+      "type": "usd"
+    }
+  ]
+}

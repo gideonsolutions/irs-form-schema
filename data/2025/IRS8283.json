@@ -1,0 +1,306 @@
+{
+  "form_id": "IRS8283",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AddressLine1Txt",
+      "path": "AppraiserForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "AppraiserForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "AppraiserForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "AppraiserForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "AppraiserForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "AppraiserForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "AppraiserIdentifyingNum",
+      "path": "AppraiserIdentifyingNum",
+      "type": "string"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "AppraiserName/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "AppraiserName/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "AppraiserSignedDt",
+      "path": "AppraiserSignedDt",
+      "type": "date"
+    },
+    {
+      "name": "AppraiserTitleTxt",
+      "path": "AppraiserTitleTxt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "AppraiserUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "AppraiserUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "AppraiserUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "AppraiserUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "AppraiserUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "ArtWorthAtLeast20000DollarsInd",
+      "path": "ArtWorthAtLeast20000DollarsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ArtWorthLssThan20000DollarsInd",
+      "path": "ArtWorthLssThan20000DollarsInd",
+      "type": "bool"
+    },
+    {
+      "name": "CertifiedHistoricStructureInd",
+      "path": "CertifiedHistoricStructureInd",
+      "type": "bool"
+    },
+    {
+      "name": "@nationalParkServiceNum",
+      "path": "CertifiedHistoricStructureInd/@nationalParkServiceNum",
+      "type": "string"
+    },
+    {
+      "name": "ClothingHouseholdItemsInd",
+      "path": "ClothingHouseholdItemsInd",
+      "type": "bool"
+    },
+    {
+      "name": "CollectiblesInd",
+      "path": "CollectiblesInd",
+      "type": "bool"
+    },
+    {
+      "name": "DigitalAssetsInd",
+      "path": "DigitalAssetsInd",
+      "type": "bool"
+    },
+    {
+      "name": "DoneeEIN",
+      "path": "DoneeEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "DoneeForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "DoneeForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "DoneeForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "DoneeForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "DoneeForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "DoneeForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "DoneeName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "DoneeName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "DoneeUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "DoneeUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "DoneeUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "DoneeUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "DoneeUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "EquipmentInd",
+      "path": "EquipmentInd",
+      "type": "bool"
+    },
+    {
+      "name": "FamilyPassThroughEntityInd",
+      "path": "FamilyPassThroughEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "InformationOnDonatedProperty",
+      "path": "InformationOnDonatedProperty",
+      "type": "unknown"
+    },
+    {
+      "name": "DonorLineDetail",
+      "path": "InformationOnDonatedProperty/DonorLineDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "IntellectualPropertyInd",
+      "path": "IntellectualPropertyInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OriginalNoncashBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OriginalNoncashBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "OriginalNoncashEIN",
+      "path": "OriginalNoncashEIN",
+      "type": "ein"
+    },
+    {
+      "name": "OriginalNoncashPersonNm",
+      "path": "OriginalNoncashPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "OriginalNoncashSSN",
+      "path": "OriginalNoncashSSN",
+      "type": "tin"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherRealEstateInd",
+      "path": "OtherRealEstateInd",
+      "type": "bool"
+    },
+    {
+      "name": "PropertyIdLetterAndDescGrp",
+      "path": "PropertyIdLetterAndDescGrp",
+      "type": "group"
+    },
+    {
+      "name": "PropertyInformation",
+      "path": "PropertyInformation",
+      "type": "unknown"
+    },
+    {
+      "name": "QualifiedConservationContriInd",
+      "path": "QualifiedConservationContriInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReceivedDt",
+      "path": "ReceivedDt",
+      "type": "date"
+    },
+    {
+      "name": "SecuritiesInd",
+      "path": "SecuritiesInd",
+      "type": "bool"
+    },
+    {
+      "name": "UsePropertyForUnrelatedUseInd",
+      "path": "UsePropertyForUnrelatedUseInd",
+      "type": "bool"
+    },
+    {
+      "name": "VehicleInd",
+      "path": "VehicleInd",
+      "type": "bool"
+    },
+    {
+      "name": "testA",
+      "path": "testA",
+      "type": "unknown"
+    },
+    {
+      "name": "testB",
+      "path": "testB",
+      "type": "unknown"
+    },
+    {
+      "name": "testC",
+      "path": "testC",
+      "type": "unknown"
+    },
+    {
+      "name": "testD",
+      "path": "testD",
+      "type": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "form_id": "IRS8621",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjBasisStkOnDtSaleOrDisposAmt",
+      "path": "AdjBasisStkOnDtSaleOrDisposAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBasisInStockEndOfTYAmt",
+      "path": "AdjustedBasisInStockEndOfTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ClassOfShareTxt",
+      "path": "ClassOfShareTxt",
+      "type": "string"
+    },
+    {
+      "name": "CorporationShareholderInd",
+      "path": "CorporationShareholderInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeemedDivElectFrmrPFICInd",
+      "path": "DeemedDivElectFrmrPFICInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeemedDivElectSec1297ePFICInd",
+      "path": "DeemedDivElectSec1297ePFICInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeemedDividendElectionInd",
+      "path": "DeemedDividendElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeemedSaleElectionInd",
+      "path": "DeemedSaleElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeferredTaxAmt",
+      "path": "DeferredTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistriAndDisposOfStockTyp",
+      "path": "DistriAndDisposOfStockTyp",
+      "type": "unknown"
+    },
+    {
+      "name": "DividendIncomeAndNetLTCGAmt",
+      "path": "DividendIncomeAndNetLTCGAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EINMissingReasonCd",
+      "path": "EINMissingReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ElectToExtndTmForPymtOfTxInd",
+      "path": "ElectToExtndTmForPymtOfTxInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectToRcgnzGainOnPFICSaleInd",
+      "path": "ElectToRcgnzGainOnPFICSaleInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectionStatus",
+      "path": "ElectionStatus",
+      "type": "unknown"
+    },
+    {
+      "name": "AccruedInterestDueThisRetAmt",
+      "path": "ElectionStatus/AccruedInterestDueThisRetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferredTaxAfterPartialTermAmt",
+      "path": "ElectionStatus/DeferredTaxAfterPartialTermAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferredTaxAmt",
+      "path": "ElectionStatus/DeferredTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeferredTaxDueWithThisRetAmt",
+      "path": "ElectionStatus/DeferredTaxDueWithThisRetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarningsDistributedDurTheTYAmt",
+      "path": "ElectionStatus/EarningsDistributedDurTheTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EventTerminatingElectionTxt",
+      "path": "ElectionStatus/EventTerminatingElectionTxt",
+      "type": "string"
+    },
+    {
+      "name": "InterestAccrAftrPartlTermAmt",
+      "path": "ElectionStatus/InterestAccrAftrPartlTermAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestAccruedOnDefrdTaxAmt",
+      "path": "ElectionStatus/InterestAccruedOnDefrdTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OutstandingElectionTaxYr",
+      "path": "ElectionStatus/OutstandingElectionTaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "UndistributedEarningsAmt",
+      "path": "ElectionStatus/UndistributedEarningsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ElectionToMarkToMrktPFICStkInd",
+      "path": "ElectionToMarkToMrktPFICStkInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectionToTreatThePFICAsQEFInd",
+      "path": "ElectionToTreatThePFICAsQEFInd",
+      "type": "bool"
+    },
+    {
+      "name": "EndTaxYearSharesCnt",
+      "path": "EndTaxYearSharesCnt",
+      "type": "int"
+    },
+    {
+      "name": "EndTaxYearSharesPct",
+      "path": "EndTaxYearSharesPct",
+      "type": "decimal"
+    },
+    {
+      "name": "EstateShareholderInd",
+      "path": "EstateShareholderInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExcessAmt",
+      "path": "ExcessAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessOrUnreservedInclsnAmt",
+      "path": "ExcessOrUnreservedInclsnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FMVStkOnDtSaleOrDisposAmt",
+      "path": "FMVStkOnDtSaleOrDisposAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FairMarketValueOfPFICStkAmt",
+      "path": "FairMarketValueOfPFICStkAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignFinancialAssetInd",
+      "path": "ForeignFinancialAssetInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncomePortionOfNetCapGainAmt",
+      "path": "IncomePortionOfNetCapGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomePortionOfOrdinaryEarnAmt",
+      "path": "IncomePortionOfOrdinaryEarnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndividualShareholderInd",
+      "path": "IndividualShareholderInd",
+      "type": "bool"
+    },
+    {
+      "name": "JointlyOwnedWithSpouseInd",
+      "path": "JointlyOwnedWithSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "LossExcessOfUnrvrsdInclsnAmt",
+      "path": "LossExcessOfUnrvrsdInclsnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LossLimitedByOrdinaryIncomeAmt",
+      "path": "LossLimitedByOrdinaryIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetLongTermCapitalGainAmt",
+      "path": "NetLongTermCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NongrantorTrustShareholderInd",
+      "path": "NongrantorTrustShareholderInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrdinaryIncomeFromPFICStkAmt",
+      "path": "OrdinaryIncomeFromPFICStkAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryIncomeFromQEFAmt",
+      "path": "OrdinaryIncomeFromQEFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PFICOrQEFEIN",
+      "path": "PFICOrQEFEIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PFICOrQEFForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "PFICOrQEFForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PFICOrQEFForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PFICOrQEFForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "PFICOrQEFForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "PFICOrQEFForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PFICOrQEFName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PFICOrQEFName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PFICOrQEFUSAddress",
+      "path": "PFICOrQEFUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PartnershipShareholderInd",
+      "path": "PartnershipShareholderInd",
+      "type": "bool"
+    },
+    {
+      "name": "PortionOfProRateOrdnryEarnAmt",
+      "path": "PortionOfProRateOrdnryEarnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProRataLessCashAndPortionAmt",
+      "path": "ProRataLessCashAndPortionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProRataShareOfQEFOrdnryEarnAmt",
+      "path": "ProRataShareOfQEFOrdnryEarnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProRataShareOfTotNetCapGainAmt",
+      "path": "ProRataShareOfTotNetCapGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedInsuranceCorpElectInd",
+      "path": "QualifiedInsuranceCorpElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "SCorporationShareholderInd",
+      "path": "SCorporationShareholderInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section1291Ind",
+      "path": "Section1291Ind",
+      "type": "bool"
+    },
+    {
+      "name": "@section1291Amt",
+      "path": "Section1291Ind/@section1291Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1293Ind",
+      "path": "Section1293Ind",
+      "type": "bool"
+    },
+    {
+      "name": "@section1293Amt",
+      "path": "Section1293Ind/@section1293Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1296Ind",
+      "path": "Section1296Ind",
+      "type": "bool"
+    },
+    {
+      "name": "@Section1296Amt",
+      "path": "Section1296Ind/@Section1296Amt",
+      "type": "usd"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ShareholderForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ShareholderForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ShareholderName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ShareholderName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderPersonNm",
+      "path": "ShareholderPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderTaxYearBeginDt",
+      "path": "ShareholderTaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ShareholderTaxYearEndDt",
+      "path": "ShareholderTaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ShareholderTaxYr",
+      "path": "ShareholderTaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ShareholderUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ShareholderUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "SharesAcquiredDt",
+      "path": "SharesAcquiredDt",
+      "type": "date"
+    },
+    {
+      "name": "SharesValueRangeAInd",
+      "path": "SharesValueRangeAInd",
+      "type": "bool"
+    },
+    {
+      "name": "SharesValueRangeBInd",
+      "path": "SharesValueRangeBInd",
+      "type": "bool"
+    },
+    {
+      "name": "SharesValueRangeCInd",
+      "path": "SharesValueRangeCInd",
+      "type": "bool"
+    },
+    {
+      "name": "SharesValueRangeDInd",
+      "path": "SharesValueRangeDInd",
+      "type": "bool"
+    },
+    {
+      "name": "SharesValueRangeEAmt",
+      "path": "SharesValueRangeEAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StkSaleUnreversedInclusionsAmt",
+      "path": "StkSaleUnreversedInclusionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYr",
+      "path": "TaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "TotTxWithoutProRataLessCashAmt",
+      "path": "TotTxWithoutProRataLessCashAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCashAndDistributionsAmt",
+      "path": "TotalCashAndDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCashAndPrtnOfProRataAmt",
+      "path": "TotalCashAndPrtnOfProRataAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxForTaxYearAmt",
+      "path": "TotalTaxForTaxYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnreversedInclusionsAmt",
+      "path": "UnreversedInclusionsAmt",
+      "type": "usd"
+    }
+  ]
+}

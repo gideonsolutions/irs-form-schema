@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS8995AScheduleC",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "LossNettedIncomeOthTradeBusAmt",
+      "path": "LossNettedIncomeOthTradeBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LossNettingCarryforwardGrp",
+      "path": "LossNettingCarryforwardGrp",
+      "type": "group"
+    },
+    {
+      "name": "PYQlfyBusinessNetLossCfwdAmt",
+      "path": "PYQlfyBusinessNetLossCfwdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyBusLossCarryforwardAmt",
+      "path": "QlfyBusLossCarryforwardAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTradeOrBusinessIncomeAmt",
+      "path": "TotalTradeOrBusinessIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTradeOrBusinessLossAmt",
+      "path": "TotalTradeOrBusinessLossAmt",
+      "type": "usd"
+    }
+  ]
+}

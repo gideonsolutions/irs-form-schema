@@ -1,0 +1,196 @@
+{
+  "form_id": "IRS8849Schedule8",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ClaimPeriodBeginDt",
+      "path": "ClaimPeriodBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "ClaimPeriodEndDt",
+      "path": "ClaimPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "EmployerIdentificationNumber",
+      "path": "EmployerIdentificationNumber",
+      "type": "unknown"
+    },
+    {
+      "name": "MissingEINReason",
+      "path": "MissingEINReason",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "NameOfEmployer/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "NameOfEmployer/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "Amt",
+      "path": "SalesKeroseneUseAviationFuel/OtherNontaxableUsesTaxedAt219/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "SalesKeroseneUseAviationFuel/OtherNontaxableUsesTaxedAt219/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "SalesKeroseneUseAviationFuel/OtherNontaxableUsesTaxedAt219/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SalesKeroseneUseAviationFuel/OtherNontaxableUsesTaxedAt219/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "SalesKeroseneUseAviationFuel/OtherNontaxableUsesTaxedAt244/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "SalesKeroseneUseAviationFuel/OtherNontaxableUsesTaxedAt244/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "SalesKeroseneUseAviationFuel/OtherNontaxableUsesTaxedAt244/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SalesKeroseneUseAviationFuel/OtherNontaxableUsesTaxedAt244/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "SalesOfAviationGasoline/FuelUseNonprofitEducationalOrg/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "SalesOfAviationGasoline/FuelUseNonprofitEducationalOrg/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "SalesOfAviationGasoline/FuelUseNonprofitEducationalOrg/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SalesOfAviationGasoline/FuelUseNonprofitEducationalOrg/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "SalesOfAviationGasoline/FuelUsedByStateLocalGovt/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "SalesOfAviationGasoline/FuelUsedByStateLocalGovt/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SalesOfAviationGasoline/FuelUsedByStateLocalGovt/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "SalesOfGasoline/FuelUseNonprofitEducationalOrg/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "SalesOfGasoline/FuelUseNonprofitEducationalOrg/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "SalesOfGasoline/FuelUseNonprofitEducationalOrg/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SalesOfGasoline/FuelUseNonprofitEducationalOrg/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "SalesOfGasoline/FuelUsedByStateLocalGovt/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "SalesOfGasoline/FuelUsedByStateLocalGovt/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SalesOfGasoline/FuelUsedByStateLocalGovt/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "SalesUndyedDieselFuel/FuelUsedByStateLocalGovt/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "SalesUndyedDieselFuel/FuelUsedByStateLocalGovt/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "SalesUndyedDieselFuel/FuelUsedByStateLocalGovt/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SalesUndyedDieselFuel/FuelUsedByStateLocalGovt/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "Amt",
+      "path": "SalesUndyedKeroseneFuel/FuelUsedByStateLocalGovt/Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReferenceNum",
+      "path": "SalesUndyedKeroseneFuel/FuelUsedByStateLocalGovt/CreditReferenceNum",
+      "type": "string"
+    },
+    {
+      "name": "GallonsQty",
+      "path": "SalesUndyedKeroseneFuel/FuelUsedByStateLocalGovt/GallonsQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SalesUndyedKeroseneFuel/FuelUsedByStateLocalGovt/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalRefundAmt",
+      "path": "TotalRefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UVClaimantRegistrationNum",
+      "path": "UVClaimantRegistrationNum",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "form_id": "IRS8885",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "HealthCoverageTaxCreditAmt",
+      "path": "HealthCoverageTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HealthCvrTaxCrAprilInd",
+      "path": "HealthCvrTaxCrAprilInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrAugustInd",
+      "path": "HealthCvrTaxCrAugustInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrDecemberInd",
+      "path": "HealthCvrTaxCrDecemberInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrFebruaryInd",
+      "path": "HealthCvrTaxCrFebruaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrJanuaryInd",
+      "path": "HealthCvrTaxCrJanuaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrJulyInd",
+      "path": "HealthCvrTaxCrJulyInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrJuneInd",
+      "path": "HealthCvrTaxCrJuneInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrMarchInd",
+      "path": "HealthCvrTaxCrMarchInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrMayInd",
+      "path": "HealthCvrTaxCrMayInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrNovemberInd",
+      "path": "HealthCvrTaxCrNovemberInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrOctoberInd",
+      "path": "HealthCvrTaxCrOctoberInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCvrTaxCrSeptemberInd",
+      "path": "HealthCvrTaxCrSeptemberInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthPlanPaidAmt",
+      "path": "HealthPlanPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HealthPlanPaidLessMSAAndNEGAmt",
+      "path": "HealthPlanPaidLessMSAAndNEGAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HealthPlanPaidWithMSAOrHSAAmt",
+      "path": "HealthPlanPaidWithMSAOrHSAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "RecipientSSN",
+      "path": "RecipientSSN",
+      "type": "tin"
+    }
+  ]
+}

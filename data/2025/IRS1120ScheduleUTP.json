@@ -1,0 +1,26 @@
+{
+  "form_id": "IRS1120ScheduleUTP",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CurrentTYUTPInformationGrp",
+      "path": "CurrentTYUTPInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "PriorTYUTPInformationGrp",
+      "path": "PriorTYUTPInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "UnableObtainRltdPrtyInfoCYInd",
+      "path": "UnableObtainRltdPrtyInfoCYInd",
+      "type": "bool"
+    },
+    {
+      "name": "UnableObtainRltdPrtyInfoPYInd",
+      "path": "UnableObtainRltdPrtyInfoPYInd",
+      "type": "bool"
+    }
+  ]
+}

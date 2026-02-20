@@ -1,0 +1,121 @@
+{
+  "form_id": "IRS8833",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "DisclosingTreatySec3016114Ind",
+      "path": "DisclosingTreatySec3016114Ind",
+      "type": "bool"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "EINMissingReasonCd",
+      "path": "EINMissingReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExplainTreatybasedPosOnBnftTxt",
+      "path": "ExplainTreatybasedPosOnBnftTxt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNumber",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNumber",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignResidenceAddress",
+      "path": "ForeignResidenceAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "IRCProvisionsTxt",
+      "path": "IRCProvisionsTxt",
+      "type": "string"
+    },
+    {
+      "name": "IRCSubsectionTxt",
+      "path": "IRCSubsectionTxt",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "PayorEIN",
+      "path": "PayorEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PayorForeignAddress",
+      "path": "PayorForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PayorName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PayorName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PayorUSAddress",
+      "path": "PayorUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ProvisionsOfLimitationTxt",
+      "path": "ProvisionsOfLimitationTxt",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TreatyArticleTxt",
+      "path": "TreatyArticleTxt",
+      "type": "string"
+    },
+    {
+      "name": "TreatyCountryCd",
+      "path": "TreatyCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TreatybasedPositionSec6114Ind",
+      "path": "TreatybasedPositionSec6114Ind",
+      "type": "bool"
+    },
+    {
+      "name": "TreatybasedPositionSec7701Ind",
+      "path": "TreatybasedPositionSec7701Ind",
+      "type": "bool"
+    },
+    {
+      "name": "USAddress",
+      "path": "USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "USCitizenOrOtherInd",
+      "path": "USCitizenOrOtherInd",
+      "type": "bool"
+    }
+  ]
+}

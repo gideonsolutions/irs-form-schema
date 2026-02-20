@@ -1,0 +1,241 @@
+{
+  "form_id": "IRS1040Schedule1A",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CarLnIntFilingStatusThrshldAmt",
+      "path": "CarLnIntFilingStatusThrshldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CarLnIntMAGILessThrshldAmt",
+      "path": "CarLnIntMAGILessThrshldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CarLnIntMAGILessThrshldDivNum",
+      "path": "CarLnIntMAGILessThrshldDivNum",
+      "type": "string"
+    },
+    {
+      "name": "CarLnIntMAGILessThrshldRedAmt",
+      "path": "CarLnIntMAGILessThrshldRedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EnhancedSeniorDeductionAmt",
+      "path": "EnhancedSeniorDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EnhnSrDedMAGILessThrshldRedAmt",
+      "path": "EnhnSrDedMAGILessThrshldRedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EnhncSrDedFSThrshldAmt",
+      "path": "EnhncSrDedFSThrshldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EnhncSrDedMAGILessThrshldAmt",
+      "path": "EnhncSrDedMAGILessThrshldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcldSect933PuertoRicoIncmAmt",
+      "path": "ExcldSect933PuertoRicoIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeExclusionAmt",
+      "path": "GrossIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HousingDeductionAmt",
+      "path": "HousingDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ModifiedAGIAmt",
+      "path": "ModifiedAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossDeductionAmt",
+      "path": "NetOperatingLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtMAGILessThrshldAmt",
+      "path": "OtMAGILessThrshldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtMAGILessThrshldDivideNum",
+      "path": "OtMAGILessThrshldDivideNum",
+      "type": "string"
+    },
+    {
+      "name": "OtMAGILessThrshldRedAmt",
+      "path": "OtMAGILessThrshldRedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OvertimeFilingStatusThrshldAmt",
+      "path": "OvertimeFilingStatusThrshldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrimaryEnhancedSeniorDedAmt",
+      "path": "PrimaryEnhancedSeniorDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyPassengerVehicleLoanIntGrp",
+      "path": "QlfyPassengerVehicleLoanIntGrp",
+      "type": "group"
+    },
+    {
+      "name": "QualifiedCarLoanIntDedSchAmt",
+      "path": "QlfyPassengerVehicleLoanIntGrp/QualifiedCarLoanIntDedSchAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedCarLoanInterestAmt",
+      "path": "QlfyPassengerVehicleLoanIntGrp/QualifiedCarLoanInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VIN",
+      "path": "QlfyPassengerVehicleLoanIntGrp/VIN",
+      "type": "unknown"
+    },
+    {
+      "name": "QualifiedCarLoanInterestDedAmt",
+      "path": "QualifiedCarLoanInterestDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedOvertimeCompDedAmt",
+      "path": "QualifiedOvertimeCompDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedOvertimeForm1099Amt",
+      "path": "QualifiedOvertimeForm1099Amt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedOvertimeWagesAmt",
+      "path": "QualifiedOvertimeWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedTipsDeductionAmt",
+      "path": "QualifiedTipsDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedTipsEmployeeAmt",
+      "path": "QualifiedTipsEmployeeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedTipsForm4137Amt",
+      "path": "QualifiedTipsForm4137Amt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedTipsTradeOrBusAmt ",
+      "path": "QualifiedTipsTradeOrBusAmt ",
+      "type": "unknown"
+    },
+    {
+      "name": "QualifiedTipsWagesAmt",
+      "path": "QualifiedTipsWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerCarLoanIntOrMaxDedAmt",
+      "path": "SmallerCarLoanIntOrMaxDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerOvertimeOrMaxDedAmt",
+      "path": "SmallerOvertimeOrMaxDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerTipsOrMaxDedAmt",
+      "path": "SmallerTipsOrMaxDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecfiedDolLessThrshldRedAmt",
+      "path": "SpecfiedDolLessThrshldRedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpouseEnhancedSeniorDedAmt",
+      "path": "SpouseEnhancedSeniorDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TipsFilingStatusThrshldAmt",
+      "path": "TipsFilingStatusThrshldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TipsMAGILessThrshldAmt",
+      "path": "TipsMAGILessThrshldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TipsMAGILessThrshldDivideNum",
+      "path": "TipsMAGILessThrshldDivideNum",
+      "type": "string"
+    },
+    {
+      "name": "TipsMAGILessThrshldRedAmt",
+      "path": "TipsMAGILessThrshldRedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQualifiedCarLoanInterestAmt",
+      "path": "TotQualifiedCarLoanInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdditionalDeductionsAmt",
+      "path": "TotalAdditionalDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExclusionsDeductionAmt",
+      "path": "TotalExclusionsDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeExclusionAmt",
+      "path": "TotalIncomeExclusionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQualifiedOvertimeAmt",
+      "path": "TotalQualifiedOvertimeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQualifiedTipsAmt",
+      "path": "TotalQualifiedTipsAmt",
+      "type": "usd"
+    }
+  ]
+}

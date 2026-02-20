@@ -1,0 +1,11 @@
+{
+  "form_id": "IRS1120SScheduleB1",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ShrRecEntTrEstNomneSmlrPrsnGrp",
+      "path": "ShrRecEntTrEstNomneSmlrPrsnGrp",
+      "type": "group"
+    }
+  ]
+}

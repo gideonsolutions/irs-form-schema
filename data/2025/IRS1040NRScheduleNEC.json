@@ -1,0 +1,126 @@
+{
+  "form_id": "IRS1040NRScheduleNEC",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CapGainLossSlsOrExchPropGrp",
+      "path": "CapGainLossSlsOrExchPropGrp",
+      "type": "group"
+    },
+    {
+      "name": "GmblLossCanadaResidentsAmt",
+      "path": "GmblLossCanadaResidentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GmblWinCanadaResidentsAmt",
+      "path": "GmblWinCanadaResidentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeNotUSBusinessTaxAmt",
+      "path": "IncomeNotUSBusinessTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "*",
+      "path": "IncomeTaxRt10UndTrtyRuleGrp/*",
+      "type": "unknown"
+    },
+    {
+      "name": "GmblWinNotCanadaResidentsAmt",
+      "path": "IncomeTaxRt10UndTrtyRuleGrp/GmblWinNotCanadaResidentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeTyp",
+      "path": "IncomeTaxRt10UndTrtyRuleGrp/OtherIncomeTyp",
+      "type": "unknown"
+    },
+    {
+      "name": "*",
+      "path": "IncomeTaxRt15UndTrtyRuleGrp/*",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherIncomeTyp",
+      "path": "IncomeTaxRt15UndTrtyRuleGrp/OtherIncomeTyp",
+      "type": "unknown"
+    },
+    {
+      "name": "*",
+      "path": "IncomeTaxRt30UndTrtyRuleGrp/*",
+      "type": "unknown"
+    },
+    {
+      "name": "GmblWinNotCanadaResidentsAmt",
+      "path": "IncomeTaxRt30UndTrtyRuleGrp/GmblWinNotCanadaResidentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetGmblCanadaResidentsAmt",
+      "path": "IncomeTaxRt30UndTrtyRuleGrp/NetGmblCanadaResidentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeTyp",
+      "path": "IncomeTaxRt30UndTrtyRuleGrp/OtherIncomeTyp",
+      "type": "unknown"
+    },
+    {
+      "name": "*",
+      "path": "IncomeTaxRtOth2UndTrtyRuleGrp/*",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherIncomeTyp",
+      "path": "IncomeTaxRtOth2UndTrtyRuleGrp/OtherIncomeTyp",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxRt",
+      "path": "IncomeTaxRtOth2UndTrtyRuleGrp/TaxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "*",
+      "path": "IncomeTaxRtOthUndTrtyRuleGrp/*",
+      "type": "unknown"
+    },
+    {
+      "name": "GmblWinNotCanadaResidentsAmt",
+      "path": "IncomeTaxRtOthUndTrtyRuleGrp/GmblWinNotCanadaResidentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetGmblCanadaResidentsAmt",
+      "path": "IncomeTaxRtOthUndTrtyRuleGrp/NetGmblCanadaResidentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeTyp",
+      "path": "IncomeTaxRtOthUndTrtyRuleGrp/OtherIncomeTyp",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxRt",
+      "path": "IncomeTaxRtOthUndTrtyRuleGrp/TaxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "NetCapitalGainOrLossAmt",
+      "path": "NetCapitalGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCapitalGainAmt",
+      "path": "TotalCapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCapitalLossAmt",
+      "path": "TotalCapitalLossAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "form_id": "IRS4970",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AMTAdjustmentAmt",
+      "path": "AccumulationDistriTaxPYGrp/AMTAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdditionalTaxBeforeCreditsAmt",
+      "path": "AccumulationDistriTaxPYGrp/AdditionalTaxBeforeCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjAccumulationDistriTaxAmt",
+      "path": "AccumulationDistriTaxPYGrp/AdjAccumulationDistriTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxAmt",
+      "path": "AccumulationDistriTaxPYGrp/IncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxBeforeCreditsAmt",
+      "path": "AccumulationDistriTaxPYGrp/IncomeTaxBeforeCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYTaxableIncBfrAccumDistriAmt",
+      "path": "AccumulationDistriTaxPYGrp/PYTaxableIncBfrAccumDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecomputedTaxableIncomeAmt",
+      "path": "AccumulationDistriTaxPYGrp/RecomputedTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxCreditAdjustmentAmt",
+      "path": "AccumulationDistriTaxPYGrp/TaxCreditAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLessCreditAmt",
+      "path": "AccumulationDistriTaxPYGrp/TaxLessCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxYr",
+      "path": "AccumulationDistriTaxPYGrp/TaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "AverageAdjustedTaxAmt",
+      "path": "AverageAdjustedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AverageAnnualDistributedAmt",
+      "path": "AverageAnnualDistributedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AverageForRecomputingTaxAmt",
+      "path": "AverageForRecomputingTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeforeAgeDistributionAmt",
+      "path": "BeforeAgeDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeneficiaryBirthDt",
+      "path": "BeneficiaryBirthDt",
+      "type": "date"
+    },
+    {
+      "name": "CurrentDistributionAmt",
+      "path": "CurrentDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomesticTrustInd",
+      "path": "DomesticTrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "EarlyTaxYearsAvgCnt",
+      "path": "EarlyTaxYearsAvgCnt",
+      "type": "int"
+    },
+    {
+      "name": "ExemptInterestAmt",
+      "path": "ExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignTrustInd",
+      "path": "ForeignTrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "PYFiveTaxableIncomeAmt",
+      "path": "PYFiveTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYFourTaxableIncomeAmt",
+      "path": "PYFourTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYOneTaxableIncomeAmt",
+      "path": "PYOneTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYThreeTaxableIncomeAmt",
+      "path": "PYThreeTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYTwoTaxableIncomeAmt",
+      "path": "PYTwoTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartialTaxOnAccumDistriAmt",
+      "path": "PartialTaxOnAccumDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PercentageDistributionAmt",
+      "path": "PercentageDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonSubjectToTrustTaxNm",
+      "path": "PersonSubjectToTrustTaxNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonSubjectToTrustTaxSSN",
+      "path": "PersonSubjectToTrustTaxSSN",
+      "type": "tin"
+    },
+    {
+      "name": "ThreeYearAdjustedTaxAmt",
+      "path": "ThreeYearAdjustedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustedTaxAmt",
+      "path": "TotalAdjustedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDistributionAmt",
+      "path": "TotalDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDistributionTaxableAmt",
+      "path": "TotalDistributionTaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrustCnt",
+      "path": "TrustCnt",
+      "type": "int"
+    },
+    {
+      "name": "TrustEIN",
+      "path": "TrustEIN",
+      "type": "ein"
+    },
+    {
+      "name": "TrustEarlierTaxYearsCnt",
+      "path": "TrustEarlierTaxYearsCnt",
+      "type": "int"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TrustName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TrustName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TrustTaxesAmt",
+      "path": "TrustTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USAddress",
+      "path": "USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "UndistributedNetIncomeAmt",
+      "path": "UndistributedNetIncomeAmt",
+      "type": "usd"
+    }
+  ]
+}

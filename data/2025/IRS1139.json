@@ -1,0 +1,306 @@
+{
+  "form_id": "IRS1139",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AccountingPeriodChangeGrntDt",
+      "path": "AccountingPeriodChangeGrntDt",
+      "type": "date"
+    },
+    {
+      "name": "CnsldtRetFldOrJoinCnsldtGrpInd",
+      "path": "CnsldtRetFldOrJoinCnsldtGrpInd",
+      "type": "bool"
+    },
+    {
+      "name": "CommonParentEIN",
+      "path": "CommonParentInformationGrp/CommonParentEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "CommonParentInformationGrp/CommonParentName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "CommonParentInformationGrp/CommonParentName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "CommonParentInformationGrp/TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "CorpCarrybackDecreaseTxCmptGrp",
+      "path": "CorpCarrybackDecreaseTxCmptGrp",
+      "type": "group"
+    },
+    {
+      "name": "CapLossCybkAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CapLossCybkAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeMinimumTaxAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/AlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BaseErosionMinimumTaxAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/BaseErosionMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralBusinessCreditAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/GeneralBusinessCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/IncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCreditsAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/OtherCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalHoldingCompanyTaxAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/PersonalHoldingCompanyTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumTaxesAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/SumTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumTaxesLessTotalCreditsAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/SumTaxesLessTotalCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditsAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/TotalCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLiabilityAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/CorpCommonCarrybackGrp/TotalTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossDeductionAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/NetOperatingLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncmLessCapLossCybkAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/TaxableIncmLessCapLossCybkAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomePerReturnAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpAfterCarrybackGrp/TaxableIncomePerReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeMinimumTaxAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/AlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BaseErosionMinimumTaxAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/BaseErosionMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeneralBusinessCreditAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/GeneralBusinessCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeTaxAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/IncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCreditsAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/OtherCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalHoldingCompanyTaxAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/PersonalHoldingCompanyTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumTaxesAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/SumTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumTaxesLessTotalCreditsAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/SumTaxesLessTotalCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditsAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/TotalCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLiabilityAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/CorpCommonCarrybackGrp/TotalTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxDecreaseAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/TaxDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomePerReturnAmt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/CorpBeforeCarrybackGrp/TaxableIncomePerReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrecedingYearNum",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/PrecedingYearNum",
+      "type": "string"
+    },
+    {
+      "name": "TaxPeriodEndDt",
+      "path": "CorpCarrybackDecreaseTxCmptGrp/TaxPeriodEndDt",
+      "type": "date"
+    },
+    {
+      "name": "CourtPetitionFiledInd",
+      "path": "CourtPetitionFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "CheckingAccountInd",
+      "path": "DirectDepositGrp/CheckingAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DirectDepositGrp/DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "DirectDepositGrp/RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "SavingsAccountInd",
+      "path": "DirectDepositGrp/SavingsAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "DissolutionDt",
+      "path": "DissolutionDt",
+      "type": "date"
+    },
+    {
+      "name": "ExtnsGrantedDt",
+      "path": "ExtnsGrantedDt",
+      "type": "date"
+    },
+    {
+      "name": "FirstCarrybackYr",
+      "path": "FirstCarrybackYr",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignTaxCrReleaseInd",
+      "path": "ForeignTaxCrReleaseInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form1138FiledDt",
+      "path": "Form1138FiledDt",
+      "type": "date"
+    },
+    {
+      "name": "FormFiledExtnsGrantedInd",
+      "path": "FormFiledExtnsGrantedInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncorporationDt",
+      "path": "IncorporationDt",
+      "type": "date"
+    },
+    {
+      "name": "NetCapitalLossAmt",
+      "path": "NetCapitalLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossAmt",
+      "path": "NetOperatingLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAmt",
+      "path": "OtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OvpmtTxClaimOfRightAdjAmt",
+      "path": "OvpmtTxClaimOfRightAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ResubmitFormInd",
+      "path": "ResubmitFormInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReturnFiledDt",
+      "path": "ReturnFiledDt",
+      "type": "date"
+    },
+    {
+      "name": "ServiceCenterWhereFiledCd",
+      "path": "ServiceCenterWhereFiledCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxDecrDueForm8886DisclInd",
+      "path": "TaxDecrDueForm8886DisclInd",
+      "type": "bool"
+    },
+    {
+      "name": "UnpaidTaxAmt",
+      "path": "UnpaidTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnusedGeneralBusinessCrAmt",
+      "path": "UnusedGeneralBusinessCrAmt",
+      "type": "usd"
+    }
+  ]
+}

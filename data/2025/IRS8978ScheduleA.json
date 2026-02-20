@@ -1,0 +1,61 @@
+{
+  "form_id": "IRS8978ScheduleA",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AARFilingInd",
+      "path": "AARFilingInd",
+      "type": "bool"
+    },
+    {
+      "name": "BBAAuditInd",
+      "path": "BBAAuditInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "AdjDeductionIncomeTxYrEndGrp",
+      "path": "PartnerAdditionalRptgYrTxGrp/AdjDeductionIncomeTxYrEndGrp",
+      "type": "group"
+    },
+    {
+      "name": "AdjTaxableIncomeTxYrEndGrp",
+      "path": "PartnerAdditionalRptgYrTxGrp/AdjTaxableIncomeTxYrEndGrp",
+      "type": "group"
+    },
+    {
+      "name": "AdjustmentCreditTaxYrEndGrp",
+      "path": "PartnerAdditionalRptgYrTxGrp/AdjustmentCreditTaxYrEndGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "PartnerAdditionalRptgYrTxGrp/TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalAdjustmentsToCreditAmt",
+      "path": "PartnerAdditionalRptgYrTxGrp/TotalAdjustmentsToCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdjustmentsToIncomeAmt",
+      "path": "PartnerAdditionalRptgYrTxGrp/TotalAdjustmentsToIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionNetChangeAmt",
+      "path": "PartnerAdditionalRptgYrTxGrp/TotalDeductionNetChangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    }
+  ]
+}

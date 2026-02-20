@@ -1,0 +1,31 @@
+{
+  "form_id": "IRS8888",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BankAccountTypeCd",
+      "path": "DirectDepositInfoGroup/BankAccountTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DirectDepositInfoGroup/DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "DirectDepositRefundAmt",
+      "path": "DirectDepositInfoGroup/DirectDepositRefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "DirectDepositInfoGroup/RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "TotalAllocationOfRefundAmt",
+      "path": "TotalAllocationOfRefundAmt",
+      "type": "usd"
+    }
+  ]
+}

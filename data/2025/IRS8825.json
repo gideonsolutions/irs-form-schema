@@ -1,0 +1,166 @@
+{
+  "form_id": "IRS8825",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "IdentifyPartnershipEstateTrGrp",
+      "path": "IdentifyPartnershipEstateTrGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetGainLossFrom4797Amt",
+      "path": "NetGainLossFrom4797Amt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeLossAmt",
+      "path": "NetIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealEstateNetIncomeLossAmt",
+      "path": "RealEstateNetIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentalAddressGrp",
+      "path": "RentalAddressGrp",
+      "type": "group"
+    },
+    {
+      "name": "FairRentalDaysCnt",
+      "path": "RentalAddressGrp/FairRentalDaysCnt",
+      "type": "int"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "RentalAddressGrp/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PersonalUseDaysCnt",
+      "path": "RentalAddressGrp/PersonalUseDaysCnt",
+      "type": "int"
+    },
+    {
+      "name": "RentalTypeAlphaCdDesc",
+      "path": "RentalAddressGrp/RentalTypeAlphaCdDesc",
+      "type": "string"
+    },
+    {
+      "name": "RentalTypeNumCdDesc",
+      "path": "RentalAddressGrp/RentalTypeNumCdDesc",
+      "type": "string"
+    },
+    {
+      "name": "USAddress",
+      "path": "RentalAddressGrp/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "RentalIncomeExpensesGrp",
+      "path": "RentalIncomeExpensesGrp",
+      "type": "group"
+    },
+    {
+      "name": "AdvertisingAmt",
+      "path": "RentalIncomeExpensesGrp/AdvertisingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AutoAndTravelAmt",
+      "path": "RentalIncomeExpensesGrp/AutoAndTravelAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CleaningAndMaintenanceAmt",
+      "path": "RentalIncomeExpensesGrp/CleaningAndMaintenanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CommissionsAmt",
+      "path": "RentalIncomeExpensesGrp/CommissionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "RentalIncomeExpensesGrp/DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRentsAmt",
+      "path": "RentalIncomeExpensesGrp/GrossRentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeOrLossAmt",
+      "path": "RentalIncomeExpensesGrp/IncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsuranceAmt",
+      "path": "RentalIncomeExpensesGrp/InsuranceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestAmt",
+      "path": "RentalIncomeExpensesGrp/InterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LegalAndProfessionalServiceAmt",
+      "path": "RentalIncomeExpensesGrp/LegalAndProfessionalServiceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthIncmRntlRealEstateActyAmt",
+      "path": "RentalIncomeExpensesGrp/OthIncmRntlRealEstateActyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "RentalIncomeExpensesGrp/OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RealEstateTaxesAmt",
+      "path": "RentalIncomeExpensesGrp/RealEstateTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepairsAmt",
+      "path": "RentalIncomeExpensesGrp/RepairsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotRntlRealEstateIncomePropAmt",
+      "path": "RentalIncomeExpensesGrp/TotRntlRealEstateIncomePropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesAmt",
+      "path": "RentalIncomeExpensesGrp/TotalExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UtilitiesAmt",
+      "path": "RentalIncomeExpensesGrp/UtilitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAndSalariesAmt",
+      "path": "RentalIncomeExpensesGrp/WagesAndSalariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesAmt",
+      "path": "TotalExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalRentalRealEstateIncomeAmt",
+      "path": "TotalRentalRealEstateIncomeAmt",
+      "type": "usd"
+    }
+  ]
+}

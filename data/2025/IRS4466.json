@@ -1,0 +1,126 @@
+{
+  "form_id": "IRS4466",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "Form1120CInd",
+      "path": "CorporationReturnTypeGrp/Form1120CInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form1120FInd",
+      "path": "CorporationReturnTypeGrp/Form1120FInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form1120Ind",
+      "path": "CorporationReturnTypeGrp/Form1120Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Form1120LInd",
+      "path": "CorporationReturnTypeGrp/Form1120LInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form1120PCInd",
+      "path": "CorporationReturnTypeGrp/Form1120PCInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherInd",
+      "path": "CorporationReturnTypeGrp/OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@returnTypeCd",
+      "path": "CorporationReturnTypeGrp/OtherInd/@returnTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "CheckingAccountInd",
+      "path": "DirectDepositGrp/CheckingAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DirectDepositGrp/DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "DirectDepositGrp/RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "SavingsAccountInd",
+      "path": "DirectDepositGrp/SavingsAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstimatedIncomeTaxPaidDurTYAmt",
+      "path": "EstimatedIncomeTaxPaidDurTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedPlusOvpmtIncmTxAmt",
+      "path": "EstimatedPlusOvpmtIncmTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedRfdblTxCrFedTxFuelAmt",
+      "path": "EstimatedRfdblTxCrFedTxFuelAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpectedIncomeTaxLiabilityAmt",
+      "path": "ExpectedIncomeTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentIncomeTaxPYAmt",
+      "path": "OverpaymentIncomeTaxPYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentOfEstimatedTaxAmt",
+      "path": "OverpaymentOfEstimatedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalHoldTxPlusFuelTxCrAmt",
+      "path": "PersonalHoldTxPlusFuelTxCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalHoldingCompanyTaxAmt",
+      "path": "PersonalHoldingCompanyTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "RecordOfEstimatedTxDepositsGrp",
+      "path": "RecordOfEstimatedTxDepositsGrp",
+      "type": "group"
+    },
+    {
+      "name": "DepositAmt",
+      "path": "RecordOfEstimatedTxDepositsGrp/DepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DepositDt",
+      "path": "RecordOfEstimatedTxDepositsGrp/DepositDt",
+      "type": "date"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

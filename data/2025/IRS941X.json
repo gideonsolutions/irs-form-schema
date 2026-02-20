@@ -1,0 +1,641 @@
+{
+  "form_id": "IRS941X",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjNotWthldFedSSMedcrTaxInd",
+      "path": "AdjNotWthldFedSSMedcrTaxInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdjSSTMedcrTxEmplrShrInd",
+      "path": "AdjSSTMedcrTxEmplrShrInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdjustedEmploymentTaxRetInd",
+      "path": "AdjustedEmploymentTaxRetInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClaimInd",
+      "path": "ClaimInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorrReclassifiedWorkersInd",
+      "path": "CorrReclassifiedWorkersInd",
+      "type": "bool"
+    },
+    {
+      "name": "COBRAPremiumSubsidyRcpntCnt",
+      "path": "CorrRptDifference941XGrp/COBRAPremiumSubsidyRcpntCnt",
+      "type": "int"
+    },
+    {
+      "name": "CrtnBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "path": "CorrRptDifference941XGrp/CrtnBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrtnBrgnAgrmtQlfySLWgsAftrAmt",
+      "path": "CorrRptDifference941XGrp/CrtnBrgnAgrmtQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "CorrRptDifference941XGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCOBRAPremiumSubsidyAmt",
+      "path": "CorrRptDifference941XGrp/NrfdblCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCrQlfySLFMLWagesAftrAmt",
+      "path": "CorrRptDifference941XGrp/NrfdblCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCrQlfySLFMLWagesAmt",
+      "path": "CorrRptDifference941XGrp/NrfdblCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "CorrRptDifference941XGrp/PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssQlfyFMLWgsAftrAmt",
+      "path": "CorrRptDifference941XGrp/QHPExpnssQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssQlfySLWgsAftrAmt",
+      "path": "CorrRptDifference941XGrp/QHPExpnssQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssSSQlfyPdFMLWageAmt",
+      "path": "CorrRptDifference941XGrp/QHPExpnssSSQlfyPdFMLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssSSQlfyPdSLWageAmt",
+      "path": "CorrRptDifference941XGrp/QHPExpnssSSQlfyPdSLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyFMLWgsAftrAmt",
+      "path": "CorrRptDifference941XGrp/QlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfySLWgsAftrAmt",
+      "path": "CorrRptDifference941XGrp/QlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Reserved",
+      "path": "CorrRptDifference941XGrp/Reserved",
+      "type": "unknown"
+    },
+    {
+      "name": "RfdblCOBRAPremiumSubsidyAmt",
+      "path": "CorrRptDifference941XGrp/RfdblCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCrQlfySLFMLWagesAftrAmt",
+      "path": "CorrRptDifference941XGrp/RfdblCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCrQlfySLFMLWagesAmt",
+      "path": "CorrRptDifference941XGrp/RfdblCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxCashWagesAmt",
+      "path": "CorrRptDifference941XGrp/SocialSecurityTaxCashWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsAddnlMedcrTaxAmt",
+      "path": "CorrRptDifference941XGrp/SpclAddnWgsAddnlMedcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsFedIncmTaxAmt",
+      "path": "CorrRptDifference941XGrp/SpclAddnWgsFedIncmTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsMedcrTaxAmt",
+      "path": "CorrRptDifference941XGrp/SpclAddnWgsMedcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsSSTAmt",
+      "path": "CorrRptDifference941XGrp/SpclAddnWgsSSTAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxAdjustmentsAmt",
+      "path": "CorrRptDifference941XGrp/TaxAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnUnreportedTips3121qAmt",
+      "path": "CorrRptDifference941XGrp/TaxOnUnreportedTips3121qAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableMedicareWagesTipsAmt",
+      "path": "CorrRptDifference941XGrp/TaxableMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableSocSecTipsAmt",
+      "path": "CorrRptDifference941XGrp/TaxableSocSecTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblWageTipsSubjAddnlMedcrAmt",
+      "path": "CorrRptDifference941XGrp/TxblWageTipsSubjAddnlMedcrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "CorrRptDifference941XGrp/WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorrUndrptOverreportedAmtInd",
+      "path": "CorrUndrptOverreportedAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorrectingReturnCalendarYrCd",
+      "path": "CorrectingReturnCalendarYrCd",
+      "type": "enum"
+    },
+    {
+      "name": "CorrectionsExplanationTxt",
+      "path": "CorrectionsExplanationTxt",
+      "type": "string"
+    },
+    {
+      "name": "EligEmplRtntnCrRcvryStartUpInd",
+      "path": "EligEmplRtntnCrRcvryStartUpInd",
+      "type": "bool"
+    },
+    {
+      "name": "ErrorsDiscoveredDt",
+      "path": "ErrorsDiscoveredDt",
+      "type": "date"
+    },
+    {
+      "name": "FiledW2W2cCorrWageTaxCertInd",
+      "path": "FiledW2W2cCorrWageTaxCertInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form941CorrectionInd",
+      "path": "Form941CorrectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form941SSCorrectionInd",
+      "path": "Form941SSCorrectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "NotWthldFedSSMedcrTaxClmInd",
+      "path": "NotWthldFedSSMedcrTaxClmInd",
+      "type": "bool"
+    },
+    {
+      "name": "COBRAPremiumSubsidyRcpntCnt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/COBRAPremiumSubsidyRcpntCnt",
+      "type": "int"
+    },
+    {
+      "name": "CrtnBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/CrtnBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrtnBrgnAgrmtQlfySLWgsAftrAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/CrtnBrgnAgrmtQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCOBRAPremiumSubsidyAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/NrfdblCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCrQlfySLFMLWagesAftrAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/NrfdblCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCrQlfySLFMLWagesAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/NrfdblCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssQlfyFMLWgsAftrAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/QHPExpnssQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssQlfySLWgsAftrAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/QHPExpnssQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssSSQlfyPdFMLWageAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/QHPExpnssSSQlfyPdFMLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssSSQlfyPdSLWageAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/QHPExpnssSSQlfyPdSLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyFMLWgsAftrAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/QlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfySLWgsAftrAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/QlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Reserved",
+      "path": "OriginallyRptOrPrevCorr941XGrp/Reserved",
+      "type": "unknown"
+    },
+    {
+      "name": "RfdblCOBRAPremiumSubsidyAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/RfdblCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCrQlfySLFMLWagesAftrAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/RfdblCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCrQlfySLFMLWagesAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/RfdblCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxCashWagesAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/SocialSecurityTaxCashWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsAddnlMedcrTaxAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/SpclAddnWgsAddnlMedcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsFedIncmTaxAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/SpclAddnWgsFedIncmTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsMedcrTaxAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/SpclAddnWgsMedcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsSSTAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/SpclAddnWgsSSTAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxAdjustmentsAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/TaxAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnUnreportedTips3121qAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/TaxOnUnreportedTips3121qAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableMedicareWagesTipsAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/TaxableMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableSocSecTipsAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/TaxableSocSecTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblWageTipsSubjAddnlMedcrAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/TxblWageTipsSubjAddnlMedcrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "OriginallyRptOrPrevCorr941XGrp/WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Qtr1CorrectionInd",
+      "path": "Qtr1CorrectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Qtr2CorrectionInd",
+      "path": "Qtr2CorrectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Qtr3CorrectionInd",
+      "path": "Qtr3CorrectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Qtr4CorrectionInd",
+      "path": "Qtr4CorrectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "RpdOrReimbEmplShrTxsCYPYInd",
+      "path": "RpdOrReimbEmplShrTxsCYPYInd",
+      "type": "bool"
+    },
+    {
+      "name": "RpdReimbSSTMedcrTxPYNotClmInd",
+      "path": "RpdReimbSSTMedcrTxPYNotClmInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSTMedcrTxEmplrShrNotClmInd",
+      "path": "SSTMedcrTxEmplrShrNotClmInd",
+      "type": "bool"
+    },
+    {
+      "name": "CombinedTaxAmt",
+      "path": "TaxCorrection941XGrp/CombinedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCOBRAPremiumSubsidyAmt",
+      "path": "TaxCorrection941XGrp/NrfdblCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCrQlfySLFMLWagesAftrAmt",
+      "path": "TaxCorrection941XGrp/NrfdblCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCrQlfySLFMLWagesAmt",
+      "path": "TaxCorrection941XGrp/NrfdblCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "TaxCorrection941XGrp/PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Reserved",
+      "path": "TaxCorrection941XGrp/Reserved",
+      "type": "unknown"
+    },
+    {
+      "name": "RfdblCOBRAPremiumSubsidyAmt",
+      "path": "TaxCorrection941XGrp/RfdblCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCrQlfySLFMLWagesAftrAmt",
+      "path": "TaxCorrection941XGrp/RfdblCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCrQlfySLFMLWagesAmt",
+      "path": "TaxCorrection941XGrp/RfdblCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxCashWagesAmt",
+      "path": "TaxCorrection941XGrp/SocialSecurityTaxCashWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsAddnlMedcrTaxAmt",
+      "path": "TaxCorrection941XGrp/SpclAddnWgsAddnlMedcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsFedIncmTaxAmt",
+      "path": "TaxCorrection941XGrp/SpclAddnWgsFedIncmTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsMedcrTaxAmt",
+      "path": "TaxCorrection941XGrp/SpclAddnWgsMedcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsSSTAmt",
+      "path": "TaxCorrection941XGrp/SpclAddnWgsSSTAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableMedicareWagesTipsAmt",
+      "path": "TaxCorrection941XGrp/TaxableMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableSocSecTipsAmt",
+      "path": "TaxCorrection941XGrp/TaxableSocSecTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "TaxCorrection941XGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblWageTipsSubjAddnlMedcrAmt",
+      "path": "TaxCorrection941XGrp/TxblWageTipsSubjAddnlMedcrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "COBRAPremiumSubsidyRcpntCnt",
+      "path": "TotalCorrectedAmount941XGrp/COBRAPremiumSubsidyRcpntCnt",
+      "type": "int"
+    },
+    {
+      "name": "CrtnBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "path": "TotalCorrectedAmount941XGrp/CrtnBrgnAgrmtQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrtnBrgnAgrmtQlfySLWgsAftrAmt",
+      "path": "TotalCorrectedAmount941XGrp/CrtnBrgnAgrmtQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "TotalCorrectedAmount941XGrp/FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCOBRAPremiumSubsidyAmt",
+      "path": "TotalCorrectedAmount941XGrp/NrfdblCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCrQlfySLFMLWagesAftrAmt",
+      "path": "TotalCorrectedAmount941XGrp/NrfdblCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NrfdblCrQlfySLFMLWagesAmt",
+      "path": "TotalCorrectedAmount941XGrp/NrfdblCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "TotalCorrectedAmount941XGrp/PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssQlfyFMLWgsAftrAmt",
+      "path": "TotalCorrectedAmount941XGrp/QHPExpnssQlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssQlfySLWgsAftrAmt",
+      "path": "TotalCorrectedAmount941XGrp/QHPExpnssQlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssSSQlfyPdFMLWageAmt",
+      "path": "TotalCorrectedAmount941XGrp/QHPExpnssSSQlfyPdFMLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QHPExpnssSSQlfyPdSLWageAmt",
+      "path": "TotalCorrectedAmount941XGrp/QHPExpnssSSQlfyPdSLWageAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyFMLWgsAftrAmt",
+      "path": "TotalCorrectedAmount941XGrp/QlfyFMLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfySLWgsAftrAmt",
+      "path": "TotalCorrectedAmount941XGrp/QlfySLWgsAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Reserved",
+      "path": "TotalCorrectedAmount941XGrp/Reserved",
+      "type": "unknown"
+    },
+    {
+      "name": "RfdblCOBRAPremiumSubsidyAmt",
+      "path": "TotalCorrectedAmount941XGrp/RfdblCOBRAPremiumSubsidyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCrQlfySLFMLWagesAftrAmt",
+      "path": "TotalCorrectedAmount941XGrp/RfdblCrQlfySLFMLWagesAftrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RfdblCrQlfySLFMLWagesAmt",
+      "path": "TotalCorrectedAmount941XGrp/RfdblCrQlfySLFMLWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxCashWagesAmt",
+      "path": "TotalCorrectedAmount941XGrp/SocialSecurityTaxCashWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsAddnlMedcrTaxAmt",
+      "path": "TotalCorrectedAmount941XGrp/SpclAddnWgsAddnlMedcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsFedIncmTaxAmt",
+      "path": "TotalCorrectedAmount941XGrp/SpclAddnWgsFedIncmTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsMedcrTaxAmt",
+      "path": "TotalCorrectedAmount941XGrp/SpclAddnWgsMedcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpclAddnWgsSSTAmt",
+      "path": "TotalCorrectedAmount941XGrp/SpclAddnWgsSSTAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxAdjustmentsAmt",
+      "path": "TotalCorrectedAmount941XGrp/TaxAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnUnreportedTips3121qAmt",
+      "path": "TotalCorrectedAmount941XGrp/TaxOnUnreportedTips3121qAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableMedicareWagesTipsAmt",
+      "path": "TotalCorrectedAmount941XGrp/TaxableMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableSocSecTipsAmt",
+      "path": "TotalCorrectedAmount941XGrp/TaxableSocSecTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblWageTipsSubjAddnlMedcrAmt",
+      "path": "TotalCorrectedAmount941XGrp/TxblWageTipsSubjAddnlMedcrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "TotalCorrectedAmount941XGrp/WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WrttnCnsntSSTMedcrEmpNotClmInd",
+      "path": "WrttnCnsntSSTMedcrEmpNotClmInd",
+      "type": "bool"
+    }
+  ]
+}

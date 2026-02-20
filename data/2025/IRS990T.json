@@ -1,0 +1,581 @@
+{
+  "form_id": "IRS990T",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "@accountingPeriodChangeApprvCd",
+      "path": "@accountingPeriodChangeApprvCd",
+      "type": "enum"
+    },
+    {
+      "name": "@accountingPeriodChangeCd",
+      "path": "@accountingPeriodChangeCd",
+      "type": "enum"
+    },
+    {
+      "name": "AddressChangeInd",
+      "path": "AddressChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "AlternativeMinimumTaxAmt",
+      "path": "AlternativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "AvlblPre2018NOLCarryoverAmt",
+      "path": "AvlblPre2018NOLCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BackupWithholdingAmt",
+      "path": "BackupWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BookValueAssetsEOYAmt",
+      "path": "BookValueAssetsEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BooksInCareOfDetail/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignAddress",
+      "path": "BooksInCareOfDetail/ForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "BooksInCareOfDetail/ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PersonNm",
+      "path": "BooksInCareOfDetail/PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "BooksInCareOfDetail/PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "USAddress",
+      "path": "BooksInCareOfDetail/USAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "CYGenBusinessCreditAllowedAmt",
+      "path": "CYGenBusinessCreditAllowedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CharitableContributionsDedAmt",
+      "path": "CharitableContributionsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ClaimCreditForm8941Ind",
+      "path": "ClaimCreditForm8941Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ClaimRefundForm2439Ind",
+      "path": "ClaimRefundForm2439Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ConsolidatedReturn501c3c2Ind",
+      "path": "ConsolidatedReturn501c3c2Ind",
+      "type": "bool"
+    },
+    {
+      "name": "CreditsAdjPaymentOtherAmt",
+      "path": "CreditsAdjPaymentOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@creditsAdjPaymentOtherAmt",
+      "path": "CreditsAdjPaymentOtherInd/@creditsAdjPaymentOtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinimumTaxCreditAmt",
+      "path": "CurrentYearMinimumTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ESPenaltyAmt",
+      "path": "ESPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ElectivePaymentAmt",
+      "path": "ElectivePaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ElectivePaymentInd",
+      "path": "ElectivePaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstimatedTaxPaymentsAmt",
+      "path": "EstimatedTaxPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExtsnRequestIncomeTaxPaidAmt",
+      "path": "ExtsnRequestIncomeTaxPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstInstallmentSect1062TaxAmt",
+      "path": "FirstInstallmentSect1062TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignAccountsQuestionInd",
+      "path": "ForeignAccountsQuestionInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignCountryCd",
+      "path": "ForeignCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxPdWithheldAtSrceAmt",
+      "path": "ForeignTaxPdWithheldAtSrceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTrustQuestionInd",
+      "path": "ForeignTrustQuestionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form1041ScheduleDInd",
+      "path": "Form1041ScheduleDInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form2220AttachedInd",
+      "path": "Form2220AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "@totalUndistributedLTCapGainAmt",
+      "path": "Form2439Ind/@totalUndistributedLTCapGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@totalFuelTaxCreditAmt",
+      "path": "Form4136Ind/@totalFuelTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form990TScheduleAAttachedCnt",
+      "path": "Form990TScheduleAAttachedCnt",
+      "type": "int"
+    },
+    {
+      "name": "GroupExemptionNum",
+      "path": "GroupExemptionNum",
+      "type": "string"
+    },
+    {
+      "name": "IntDueUndLkbckMthdIncmFrcstAmt",
+      "path": "IntDueUndLkbckMthdIncmFrcstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ItmzdSupplementalInfoGrp",
+      "path": "ItmzdSupplementalInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "NameChangeInd",
+      "path": "NameChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetAmtOfInterestOwedAmt",
+      "path": "NetAmtOfInterestOwedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetOperatingLossDeductionAmt",
+      "path": "NetOperatingLossDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NoncompliantFacilityIncmTaxAmt",
+      "path": "NoncompliantFacilityIncmTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrgStateCollegeUniversityInd",
+      "path": "OrgStateCollegeUniversityInd",
+      "type": "bool"
+    },
+    {
+      "name": "Organization401aTrustInd",
+      "path": "Organization401aTrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "Organization501Ind",
+      "path": "Organization501IndicatorGrp/Organization501Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Organization501aTypeTxt",
+      "path": "Organization501IndicatorGrp/Organization501aTypeTxt",
+      "type": "string"
+    },
+    {
+      "name": "Organization501cTypeTxt",
+      "path": "Organization501IndicatorGrp/Organization501cTypeTxt",
+      "type": "string"
+    },
+    {
+      "name": "Organization501cCorporationInd",
+      "path": "Organization501cCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "Organization501cTrustInd",
+      "path": "Organization501cTrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrganizationOtherTrustInd",
+      "path": "OrganizationOtherTrustIndGrp/OrganizationOtherTrustInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherTrustTypeCd",
+      "path": "OrganizationOtherTrustIndGrp/OtherTrustTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherTrustTypeDesc",
+      "path": "OrganizationOtherTrustIndGrp/OtherTrustTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherAmt",
+      "path": "OtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCreditsAmt",
+      "path": "OtherCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherTaxAmt",
+      "path": "OtherTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section1291Amt",
+      "path": "OtherTaxAmt/@section1291Amt",
+      "type": "usd"
+    },
+    {
+      "name": "@section1291Cd",
+      "path": "OtherTaxAmt/@section1291Cd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherTaxesAmt",
+      "path": "OtherTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section1291InterestAmt",
+      "path": "OtherTaxesAmt/@section1291InterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section1291InterestCd",
+      "path": "OtherTaxesAmt/@section1291InterestCd",
+      "type": "enum"
+    },
+    {
+      "name": "@section1294InterestAmt",
+      "path": "OtherTaxesAmt/@section1294InterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section1294InterestCd",
+      "path": "OtherTaxesAmt/@section1294InterestCd",
+      "type": "enum"
+    },
+    {
+      "name": "AppliedToESTaxAmt",
+      "path": "OverpaymentSection/AppliedToESTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "OverpaymentSection/OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "OverpaymentSection/RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaidTaxLiabilityAmt",
+      "path": "PaidTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ParentCorporationEIN",
+      "path": "ParentCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ParentCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ParentCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "Post2017NOLCarryoverGrp",
+      "path": "Post2017NOLCarryoverGrp",
+      "type": "group"
+    },
+    {
+      "name": "PriorYearOverpaymentCreditAmt",
+      "path": "PriorYearOverpaymentCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrntCorporationNameControlTxt",
+      "path": "PrntCorporationNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProxyTaxAmt",
+      "path": "ProxyTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecaptureTaxAmt",
+      "path": "RecaptureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1294Amt",
+      "path": "Section1294Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Section1294Ind",
+      "path": "Section1294Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Section1294tAmt",
+      "path": "Section1294tAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section199ADeductionAmt",
+      "path": "Section199ADeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section220eInd",
+      "path": "Section220eInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section408AInd",
+      "path": "Section408AInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section408eInd",
+      "path": "Section408eInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section529AInd",
+      "path": "Section529AInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section529aInd",
+      "path": "Section529aInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section530aInd",
+      "path": "Section530aInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section6417d1AEntityInd",
+      "path": "Section6417d1AEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section643gElectionInd",
+      "path": "Section643gElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "@section643gElectionAmt",
+      "path": "Section643gElectionInd/@section643gElectionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmllEmplrHIPTaxExemptCreditAmt",
+      "path": "SmllEmplrHIPTaxExemptCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "SpecificDeductionAmt",
+      "path": "SpecificDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubsidiaryCorporationInd",
+      "path": "SubsidiaryCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxExemptInterestAmt",
+      "path": "TaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLessCreditsAmt",
+      "path": "TaxLessCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxRateScheduleInd",
+      "path": "TaxRateScheduleInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxableCorporationAmt",
+      "path": "TaxableCorporationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableTrustAmt",
+      "path": "TaxableTrustAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalChapter1TaxAmt",
+      "path": "TotalChapter1TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditsAmt",
+      "path": "TotalCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionAmt",
+      "path": "TotalDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFuelTaxCreditAmt",
+      "path": "TotalFuelTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLiabilitySect1062TaxAmt",
+      "path": "TotalLiabilitySect1062TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonChapter1TaxAmt",
+      "path": "TotalNonChapter1TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxComputationAmt",
+      "path": "TotalTaxComputationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUBTIAmt",
+      "path": "TotalUBTIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUBTIBeforeNOLSpecificAmt",
+      "path": "TotalUBTIBeforeNOLSpecificAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUBTIBeforeSection199AAmt",
+      "path": "TotalUBTIBeforeSection199AAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUBTIComputedAmt",
+      "path": "TotalUBTIComputedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUndistributedLTCapGainAmt",
+      "path": "TotalUndistributedLTCapGainAmt",
+      "type": "usd"
+    }
+  ]
+}

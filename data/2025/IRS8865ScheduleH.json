@@ -1,0 +1,131 @@
+{
+  "form_id": "IRS8865ScheduleH",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AccelerationEventGrp",
+      "path": "AccelerationEventGrp",
+      "type": "group"
+    },
+    {
+      "name": "AnnualReportingInd",
+      "path": "AnnualReportingInd",
+      "type": "bool"
+    },
+    {
+      "name": "FilerEIN",
+      "path": "FilerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "FilerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "FilerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FilerPersonNm",
+      "path": "FilerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FilerSSN",
+      "path": "FilerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "ForeignPartnershipEIN",
+      "path": "ForeignPartnershipEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignPartnershipName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignPartnershipName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FrgnPrtshpMissingEINReasonCd",
+      "path": "FrgnPrtshpMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "Sect367TransferEventGrp",
+      "path": "Sect367TransferEventGrp",
+      "type": "group"
+    },
+    {
+      "name": "SuccessorEventGrp",
+      "path": "SuccessorEventGrp",
+      "type": "group"
+    },
+    {
+      "name": "SuccessorPartnershipInd",
+      "path": "SuccessorPartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "SuccessorUSTransferorInd",
+      "path": "SuccessorUSTransferorInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupplementalInformationTxt",
+      "path": "SupplementalInformationTxt",
+      "type": "string"
+    },
+    {
+      "name": "TYGainDeferralContributionInd",
+      "path": "TYGainDeferralContributionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TerminationEventGrp",
+      "path": "TerminationEventGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "TransferorBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "TransferorBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "TransferorPersonNm",
+      "path": "TransferorPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "TxblDisposPrtnIntPrtshpEvtGrp",
+      "path": "TxblDisposPrtnIntPrtshpEvtGrp",
+      "type": "group"
+    }
+  ]
+}

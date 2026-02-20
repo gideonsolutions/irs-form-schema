@@ -1,0 +1,146 @@
+{
+  "form_id": "IRS8867",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AOTCClaimedInd",
+      "path": "AOTCClaimedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CTCACTCODCClaimedInd",
+      "path": "CTCACTCODCClaimedInd",
+      "type": "bool"
+    },
+    {
+      "name": "CompleteApplicableWorksheetCd",
+      "path": "CompleteApplicableWorksheetCd",
+      "type": "enum"
+    },
+    {
+      "name": "CompleteRequiredRecertFormCd",
+      "path": "CompleteRequiredRecertFormCd",
+      "type": "enum"
+    },
+    {
+      "name": "CrEligibilityCertificationInd",
+      "path": "CrEligibilityCertificationInd",
+      "type": "bool"
+    },
+    {
+      "name": "DocumentInquiryInd",
+      "path": "DocumentInquiryInd",
+      "type": "bool"
+    },
+    {
+      "name": "EICClaimedInd",
+      "path": "EICClaimedInd",
+      "type": "bool"
+    },
+    {
+      "name": "EICEligibleClaimQlfyChildInd",
+      "path": "EICEligibleClaimQlfyChildInd",
+      "type": "bool"
+    },
+    {
+      "name": "EligibleClaimHOHInd",
+      "path": "EligibleClaimHOHInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExplainLiveWithChldRqrClaimCd",
+      "path": "ExplainLiveWithChldRqrClaimCd",
+      "type": "enum"
+    },
+    {
+      "name": "ExplainLiveWithChldRqrClaimInd",
+      "path": "ExplainLiveWithChldRqrClaimInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExplainRuleClmCrDivPrnts8332Cd",
+      "path": "ExplainRuleClmCrDivPrnts8332Cd",
+      "type": "enum"
+    },
+    {
+      "name": "ExplainTiebreakerRulesCd",
+      "path": "ExplainTiebreakerRulesCd",
+      "type": "enum"
+    },
+    {
+      "name": "HOHClaimedInd",
+      "path": "HOHClaimedInd",
+      "type": "bool"
+    },
+    {
+      "name": "HOHFilingStatusInd",
+      "path": "HOHFilingStatusInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncorIncmplInconInfoInd",
+      "path": "IncorIncmplInconInfoInd",
+      "type": "bool"
+    },
+    {
+      "name": "MakeInquiryInd",
+      "path": "MakeInquiryInd",
+      "type": "bool"
+    },
+    {
+      "name": "PTIN",
+      "path": "PTIN",
+      "type": "unknown"
+    },
+    {
+      "name": "PreparerPersonNm",
+      "path": "PreparerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PrevDisallowedOrReducedCrCd",
+      "path": "PrevDisallowedOrReducedCrCd",
+      "type": "enum"
+    },
+    {
+      "name": "QstnToCompleteCorrectSchCCd",
+      "path": "QstnToCompleteCorrectSchCCd",
+      "type": "enum"
+    },
+    {
+      "name": "SatisfyKnowledgeRequirementInd",
+      "path": "SatisfyKnowledgeRequirementInd",
+      "type": "bool"
+    },
+    {
+      "name": "SatisfyRecordRetentionRqrInd",
+      "path": "SatisfyRecordRetentionRqrInd",
+      "type": "bool"
+    },
+    {
+      "name": "SubstProvQlfyTuitionExpnssInd",
+      "path": "SubstProvQlfyTuitionExpnssInd",
+      "type": "bool"
+    },
+    {
+      "name": "SubstantiateCrEligibilityInd",
+      "path": "SubstantiateCrEligibilityInd",
+      "type": "bool"
+    },
+    {
+      "name": "TxpyrProvidedOrObtainedInfoInd",
+      "path": "TxpyrProvidedOrObtainedInfoInd",
+      "type": "bool"
+    },
+    {
+      "name": "USCitizenOrNationalInd",
+      "path": "USCitizenOrNationalInd",
+      "type": "bool"
+    },
+    {
+      "name": "WorkPaperDocumentNm",
+      "path": "WorkPaperDocumentNm",
+      "type": "string"
+    }
+  ]
+}

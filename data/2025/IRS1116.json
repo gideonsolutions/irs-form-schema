@@ -1,0 +1,271 @@
+{
+  "form_id": "IRS1116",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "*",
+      "path": "*",
+      "type": "unknown"
+    },
+    {
+      "name": "AltBasisCompensationSourceInd",
+      "path": "AltBasisCompensationSourceInd",
+      "type": "bool"
+    },
+    {
+      "name": "AlternativeMinimumTaxCd",
+      "path": "AlternativeMinimumTaxCd",
+      "type": "enum"
+    },
+    {
+      "name": "CreditLimitationAmt",
+      "path": "CreditLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeCrAmt",
+      "path": "ForeignBranchIncomeCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeInd",
+      "path": "ForeignBranchIncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignGeneralIncTaxCreditAmt",
+      "path": "ForeignGeneralIncTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignGrossTaxPaidOrAccrAmt",
+      "path": "ForeignGrossTaxPaidOrAccrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignIncGeneralCategoryInd",
+      "path": "ForeignIncGeneralCategoryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncHighTaxKickOutAdjAmt",
+      "path": "ForeignIncHighTaxKickOutAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignIncHighTaxedKickOutCd",
+      "path": "ForeignIncHighTaxedKickOutCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignIncLumpSumDistribCrAmt",
+      "path": "ForeignIncLumpSumDistribCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignIncLumpSumDistribInd",
+      "path": "ForeignIncLumpSumDistribInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncPassiveCategoryInd",
+      "path": "ForeignIncPassiveCategoryInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncResourcedTreatyInd",
+      "path": "ForeignIncResourcedTreatyInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncRsrcdTreatyTaxCrAmt",
+      "path": "ForeignIncRsrcdTreatyTaxCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignIncSection901jInd",
+      "path": "ForeignIncSection901jInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncmSection901jCrAmt",
+      "path": "ForeignIncmSection901jCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignIncmSection951ACrAmt",
+      "path": "ForeignIncmSection951ACrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignIncmSection951AInd",
+      "path": "ForeignIncmSection951AInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignIncomeNetAdjustmentAmt",
+      "path": "ForeignIncomeNetAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignNetTaxableIncomeAmt",
+      "path": "ForeignNetTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignPassiveIncTaxCreditAmt",
+      "path": "ForeignPassiveIncTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignRegulatedInvestmtCompCd",
+      "path": "ForeignRegulatedInvestmtCompCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignTaxAvailableForCrRedAmt",
+      "path": "ForeignTaxAvailableForCrRedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@foreignIncHighTaxKickOutAdjAmt",
+      "path": "ForeignTaxAvailableForCrRedAmt/@foreignIncHighTaxKickOutAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@foreignIncHighTaxKickOutAdjCd",
+      "path": "ForeignTaxAvailableForCrRedAmt/@foreignIncHighTaxKickOutAdjCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignTaxCrCarrybackOrOverAmt",
+      "path": "ForeignTaxCrCarrybackOrOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCreditSource",
+      "path": "ForeignTaxCreditSource",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignTaxReductionAmt",
+      "path": "ForeignTaxReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxableIncBfExemptAmt",
+      "path": "ForeignTaxableIncBfExemptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxableIncBfExemptRt",
+      "path": "ForeignTaxableIncBfExemptRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ForeignTaxableIncomeOrLossAmt",
+      "path": "ForeignTaxableIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxesAccruedCreditInd",
+      "path": "ForeignTaxesAccruedCreditInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignTaxesPaidCreditInd",
+      "path": "ForeignTaxesPaidCreditInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossForeignTaxCreditAmt",
+      "path": "GrossForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@foreignIncomeLumpSumDistribCd",
+      "path": "GrossForeignTaxCreditAmt/@foreignIncomeLumpSumDistribCd",
+      "type": "enum"
+    },
+    {
+      "name": "IRS1116ScheduleB",
+      "path": "IRS1116ScheduleB",
+      "type": "unknown"
+    },
+    {
+      "name": "IncomeFromForeignSourceTxt",
+      "path": "IncomeFromForeignSourceTxt",
+      "type": "string"
+    },
+    {
+      "name": "IncomeFromForeignSourceTypeCd",
+      "path": "IncomeFromForeignSourceTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "IncreaseLimitationSect960cAmt",
+      "path": "IncreaseLimitationSect960cAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IntlBoycottCreditReductionAmt",
+      "path": "IntlBoycottCreditReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MaxAllowedForeignTaxCreditAmt",
+      "path": "MaxAllowedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetForeignTaxableIncomeLossAmt",
+      "path": "NetForeignTaxableIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ResidenceForeignCountryCd",
+      "path": "ResidenceForeignCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ScheduleBNotRequiredInd",
+      "path": "ScheduleBNotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "SmllrOfRtnTaxOrForeignTaxCrAmt",
+      "path": "SmllrOfRtnTaxOrForeignTaxCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxFromTaxReturnAmt",
+      "path": "TaxFromTaxReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeForeignTaxCreditAmt",
+      "path": "TentativeForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductionOrLossAmt",
+      "path": "TotalDeductionOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalForeignGrossIncomeAmt",
+      "path": "TotalForeignGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalForeignTaxesPaidOrAccrAmt",
+      "path": "TotalForeignTaxesPaidOrAccrAmt",
+      "type": "usd"
+    }
+  ]
+}

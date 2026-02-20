@@ -1,0 +1,81 @@
+{
+  "form_id": "IRS1120ScheduleN",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ExtraterritorialIncomeExclInd",
+      "path": "ExtraterritorialIncomeExclInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignCountryCd",
+      "path": "ForeignCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignFinancialAccountInd",
+      "path": "ForeignFinancialAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form5471AttachedCnt",
+      "path": "Form5471AttachedCnt",
+      "type": "int"
+    },
+    {
+      "name": "Form8858AttachedCnt",
+      "path": "Form8858AttachedCnt",
+      "type": "int"
+    },
+    {
+      "name": "Form8865AttachedCnt",
+      "path": "Form8865AttachedCnt",
+      "type": "int"
+    },
+    {
+      "name": "Form8873AttachedCnt",
+      "path": "Form8873AttachedCnt",
+      "type": "int"
+    },
+    {
+      "name": "Form8964CFCQBUCnt",
+      "path": "Form8964CFCQBUCnt",
+      "type": "int"
+    },
+    {
+      "name": "Form8964FPSQBUCnt",
+      "path": "Form8964FPSQBUCnt",
+      "type": "int"
+    },
+    {
+      "name": "Form8964USQBUCnt",
+      "path": "Form8964USQBUCnt",
+      "type": "int"
+    },
+    {
+      "name": "Owned10PercentIntFrgnPrtshpInd",
+      "path": "Owned10PercentIntFrgnPrtshpInd",
+      "type": "bool"
+    },
+    {
+      "name": "OwnedDisregardedForeignEntInd",
+      "path": "OwnedDisregardedForeignEntInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReceivedDistributionFrgnTrInd",
+      "path": "ReceivedDistributionFrgnTrInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequiredToFileForm8938Ind",
+      "path": "RequiredToFileForm8938Ind",
+      "type": "bool"
+    },
+    {
+      "name": "TotExtraterritorialIncmExclAmt",
+      "path": "TotExtraterritorialIncmExclAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS940ScheduleA",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CreditReductionAmt",
+      "path": "CreditReductionGrp/CreditReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CreditReductionRt",
+      "path": "CreditReductionGrp/CreditReductionRt",
+      "type": "decimal"
+    },
+    {
+      "name": "FUTAStateCd",
+      "path": "CreditReductionGrp/FUTAStateCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalTaxableFUTAWagesAmt",
+      "path": "CreditReductionGrp/TotalTaxableFUTAWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditReductionAmt",
+      "path": "TotalCreditReductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditReductionWagesAmt",
+      "path": "TotalCreditReductionWagesAmt",
+      "type": "usd"
+    }
+  ]
+}

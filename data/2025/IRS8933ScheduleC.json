@@ -1,0 +1,191 @@
+{
+  "form_id": "IRS8933ScheduleC",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "DeliveredQty",
+      "path": "AllOwnerOthNonQlfyCrbnOxdGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "StoredQty",
+      "path": "AllOwnerOthNonQlfyCrbnOxdGrp/StoredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "AllOwnerTotAllCrbnOxdSuprGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "StoredQty",
+      "path": "AllOwnerTotAllCrbnOxdSuprGrp/StoredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "AllOwnerTotQlfyCrbnOxdGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "StoredQty",
+      "path": "AllOwnerTotQlfyCrbnOxdGrp/StoredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AttestationInd",
+      "path": "AttestationInd",
+      "type": "bool"
+    },
+    {
+      "name": "CarbonOxideInjectionBeginDt",
+      "path": "CarbonOxideInjectionBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "EORProjOwnerGrp",
+      "path": "EORProjOwnerGrp",
+      "type": "group"
+    },
+    {
+      "name": "SupplierSectionGrp",
+      "path": "EORProjOwnerGrp/SupplierSectionGrp",
+      "type": "group"
+    },
+    {
+      "name": "EORProjectOwnerInfoGrp",
+      "path": "EORProjectOwnerInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "EPAApprovalDt",
+      "path": "EPAApprovalDt",
+      "type": "date"
+    },
+    {
+      "name": "EPAFiguresRptConsistentInd",
+      "path": "EPAFiguresRptConsistentInd",
+      "type": "bool"
+    },
+    {
+      "name": "EnhancedNaturalGasRcvryProjInd",
+      "path": "EnhancedNaturalGasRcvryProjInd",
+      "type": "bool"
+    },
+    {
+      "name": "FacilityEPAeGGRTIdNum",
+      "path": "FacilityEPAeGGRTIdNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "ISO27916Ind",
+      "path": "ISO27916Ind",
+      "type": "bool"
+    },
+    {
+      "name": "InjectionWellsPermittedInd",
+      "path": "InjectionWellsPermittedInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OperatorBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OperatorBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "OperatorEIN",
+      "path": "OperatorEIN",
+      "type": "ein"
+    },
+    {
+      "name": "OthCoProjOperatorPurposeGrp",
+      "path": "OthCoProjOperatorPurposeGrp",
+      "type": "group"
+    },
+    {
+      "name": "CompanyName",
+      "path": "OthCoProjOperatorPurposeGrp/CompanyName",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherPurposeDesc",
+      "path": "OthCoProjOperatorPurposeGrp/OtherPurposeDesc",
+      "type": "string"
+    },
+    {
+      "name": "PrevCertifiedProjectCertDt",
+      "path": "PrevCertifiedProjectCertDt",
+      "type": "date"
+    },
+    {
+      "name": "PrevCertifiedProjectNm",
+      "path": "PrevCertifiedProjectNm",
+      "type": "string"
+    },
+    {
+      "name": "ProjectLocationTxt",
+      "path": "ProjectLocationTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProjectNm",
+      "path": "ProjectNm",
+      "type": "string"
+    },
+    {
+      "name": "QlfyCrbnOxdSupplierEORGrp",
+      "path": "QlfyCrbnOxdSupplierEORGrp",
+      "type": "group"
+    },
+    {
+      "name": "SubpartRREPAApprovalDt",
+      "path": "SubpartRREPAApprovalDt",
+      "type": "date"
+    },
+    {
+      "name": "SubpartRRInd",
+      "path": "SubpartRRInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalSupplierSectionGrp",
+      "path": "TotalSupplierSectionGrp",
+      "type": "group"
+    },
+    {
+      "name": "SupplierName",
+      "path": "TotalSupplierSectionGrp/SupplierName",
+      "type": "unknown"
+    },
+    {
+      "name": "SupplierPersonNm",
+      "path": "TotalSupplierSectionGrp/SupplierPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "TotalSupplierSectionGrp/TotSupplierMetricTonsGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "StoredQty",
+      "path": "TotalSupplierSectionGrp/TotSupplierMetricTonsGrp/StoredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "WellsEPAClassVIInd",
+      "path": "WellsEPAClassVIInd",
+      "type": "bool"
+    }
+  ]
+}

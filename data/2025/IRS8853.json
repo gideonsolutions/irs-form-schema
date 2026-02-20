@@ -1,0 +1,196 @@
+{
+  "form_id": "IRS8853",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ArcherMSAAddnlDistriTaxAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/ArcherMSAAddnlDistriTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSAContriLimitationAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/ArcherMSAContriLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSAContributionAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/ArcherMSAContributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSADeductionAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/ArcherMSADeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSADistriMeetTaxExcInd",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/ArcherMSADistriMeetTaxExcInd",
+      "type": "bool"
+    },
+    {
+      "name": "ArcherMSADistriRollOverAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/ArcherMSADistriRollOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSAEmployerContriAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/ArcherMSAEmployerContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSANetDistributionAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/ArcherMSANetDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ArcherMSAUnreimbQualMedExpAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/ArcherMSAUnreimbQualMedExpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HDHPEmployerCompensationAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/HDHPEmployerCompensationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MSACalculationsExplnStmtCd",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/MSACalculationsExplnStmtCd",
+      "type": "enum"
+    },
+    {
+      "name": "MSAHolderDeathInd",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/MSAHolderDeathInd",
+      "type": "bool"
+    },
+    {
+      "name": "MSAHolderSSN",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/MSAHolderSSN",
+      "type": "tin"
+    },
+    {
+      "name": "MedicareMSAAddnlDistriTaxAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/MedicareMSAAddnlDistriTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicareMSADistriMeetTaxExcInd",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/MedicareMSADistriMeetTaxExcInd",
+      "type": "bool"
+    },
+    {
+      "name": "MedicareMSAUnrmbQualMedExpAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/MedicareMSAUnrmbQualMedExpAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableArcherMSADistriAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/TaxableArcherMSADistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableMedicareMSADistriAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/TaxableMedicareMSADistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalArcherMSADistributionAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/TotalArcherMSADistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalMedicareMSADistriAmt",
+      "path": "ArcherMSAAndMedcrAdvntgMSAGrp/TotalMedicareMSADistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcceleratedDeathBenefitRcvdAmt",
+      "path": "SectCLTCInsuranceCntrctGrp/AcceleratedDeathBenefitRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form8853LTCMultipleCopiesInd",
+      "path": "SectCLTCInsuranceCntrctGrp/Form8853LTCMultipleCopiesInd",
+      "type": "bool"
+    },
+    {
+      "name": "LTCCostIncurredAmt",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCCostIncurredAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LTCDaysMultiplyByPerDiemAmt",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCDaysMultiplyByPerDiemAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LTCGrossPaymentsReceivedAmt",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCGrossPaymentsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LTCInsuranceOtherPaymentInd",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCInsuranceOtherPaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "LTCInsurancePolicyHolderNm",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCInsurancePolicyHolderNm",
+      "type": "string"
+    },
+    {
+      "name": "LTCInsurancePolicyHolderSSN",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCInsurancePolicyHolderSSN",
+      "type": "tin"
+    },
+    {
+      "name": "LTCInsuranceQualifiedAmt",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCInsuranceQualifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LTCInsuredNameControlTxt",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCInsuredNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "LTCInsuredNm",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCInsuredNm",
+      "type": "string"
+    },
+    {
+      "name": "LTCInsuredSSN",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCInsuredSSN",
+      "type": "tin"
+    },
+    {
+      "name": "LTCInsuredTerminallyIllInd",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCInsuredTerminallyIllInd",
+      "type": "bool"
+    },
+    {
+      "name": "LTCPerDiemLimitationAmt",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCPerDiemLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LTCReimbursementAmt",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCReimbursementAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LTCTaxablePaymentsAmt",
+      "path": "SectCLTCInsuranceCntrctGrp/LTCTaxablePaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LargerCalcOrActualLTCCostsAmt",
+      "path": "SectCLTCInsuranceCntrctGrp/LargerCalcOrActualLTCCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLTCAndDeathBenefitRcvdAmt",
+      "path": "SectCLTCInsuranceCntrctGrp/TotalLTCAndDeathBenefitRcvdAmt",
+      "type": "usd"
+    }
+  ]
+}

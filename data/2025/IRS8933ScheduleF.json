@@ -1,0 +1,281 @@
+{
+  "form_id": "IRS8933ScheduleF",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "DeliveredQty",
+      "path": "AllTotCrbnOxdDlvrUtlzSuprGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "UtilizedQty",
+      "path": "AllTotCrbnOxdDlvrUtlzSuprGrp/UtilizedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "AllTotNonQlfyOxdDlvrUtlzGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "UtilizedQty",
+      "path": "AllTotNonQlfyOxdDlvrUtlzGrp/UtilizedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "AllTotQlfyCrbnOxdDlvrUtlzGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "UtilizedQty",
+      "path": "AllTotQlfyCrbnOxdDlvrUtlzGrp/UtilizedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ApprovalLetterDt",
+      "path": "ApprovalLetterDt",
+      "type": "date"
+    },
+    {
+      "name": "AttachedStatementInd",
+      "path": "AttachedStatementInd",
+      "type": "bool"
+    },
+    {
+      "name": "AttestationInd",
+      "path": "AttestationInd",
+      "type": "bool"
+    },
+    {
+      "name": "AttestmentLetterAttachedInd",
+      "path": "AttestmentLetterAttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChemicalConversionDesc",
+      "path": "ChemicalConversionDesc",
+      "type": "string"
+    },
+    {
+      "name": "ChemicalConversionInd",
+      "path": "ChemicalConversionInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContractExistsInd",
+      "path": "ContractExistsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContractOrAmendmentDt",
+      "path": "ContractOrAmendmentDt",
+      "type": "date"
+    },
+    {
+      "name": "DOEControlNum",
+      "path": "DOEControlNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "FacilityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "FacilityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FacilityNameAndLocationTxt",
+      "path": "FacilityNameAndLocationTxt",
+      "type": "string"
+    },
+    {
+      "name": "FacilityTypeDesc",
+      "path": "FacilityTypeDesc",
+      "type": "string"
+    },
+    {
+      "name": "FixationDesc",
+      "path": "FixationDesc",
+      "type": "string"
+    },
+    {
+      "name": "FixationInd",
+      "path": "FixationInd",
+      "type": "bool"
+    },
+    {
+      "name": "LocationAddressInUS",
+      "path": "LocationAddressInUS",
+      "type": "unknown"
+    },
+    {
+      "name": "MtrcTonsQlfyCrbnOxdRcvdQty",
+      "path": "MtrcTonsQlfyCrbnOxdRcvdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "NonQlfyCrbnOxdMtrcTonsUtlzQty",
+      "path": "NonQlfyCrbnOxdMtrcTonsUtlzQty",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherPurposeDesc",
+      "path": "OtherPurposeDesc",
+      "type": "string"
+    },
+    {
+      "name": "OtherPurposeInd",
+      "path": "OtherPurposeInd",
+      "type": "bool"
+    },
+    {
+      "name": "OwnerLesseeUtlzFcltyLCAGrp",
+      "path": "OwnerLesseeUtlzFcltyLCAGrp",
+      "type": "group"
+    },
+    {
+      "name": "SupplierSectionDlvrUtlzGrp",
+      "path": "OwnerLesseeUtlzFcltyLCAGrp/SupplierSectionDlvrUtlzGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OwnerOrLesseeBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OwnerOrLesseeBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "OwnerOrLesseeCrbnUtlzFcltyGrp",
+      "path": "OwnerOrLesseeCrbnUtlzFcltyGrp",
+      "type": "group"
+    },
+    {
+      "name": "OwnerOrLesseeEIN",
+      "path": "OwnerOrLesseeEIN",
+      "type": "ein"
+    },
+    {
+      "name": "OwnerOrLesseeForeignAddress",
+      "path": "OwnerOrLesseeForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "OwnerOrLesseePersonNm",
+      "path": "OwnerOrLesseePersonNm",
+      "type": "string"
+    },
+    {
+      "name": "OwnerOrLesseeSSN",
+      "path": "OwnerOrLesseeSSN",
+      "type": "tin"
+    },
+    {
+      "name": "OwnerOrLesseeUSAddress",
+      "path": "OwnerOrLesseeUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "QlfyCrbnOxdMtrcTonsUtlzQty",
+      "path": "QlfyCrbnOxdMtrcTonsUtlzQty",
+      "type": "unknown"
+    },
+    {
+      "name": "QlfyCrbnOxdUtlzFcltyGrp",
+      "path": "QlfyCrbnOxdUtlzFcltyGrp",
+      "type": "group"
+    },
+    {
+      "name": "RegisteredOwnerOrOperatorName",
+      "path": "RegisteredOwnerOrOperatorName",
+      "type": "unknown"
+    },
+    {
+      "name": "SubmissionDt",
+      "path": "SubmissionDt",
+      "type": "date"
+    },
+    {
+      "name": "SupplierBusinessName",
+      "path": "SupplierBusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "SupplierEIN",
+      "path": "SupplierEIN",
+      "type": "ein"
+    },
+    {
+      "name": "SupplierInd",
+      "path": "SupplierInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupplierName",
+      "path": "SupplierName",
+      "type": "unknown"
+    },
+    {
+      "name": "SupplierVerificationInd",
+      "path": "SupplierVerificationInd",
+      "type": "bool"
+    },
+    {
+      "name": "TD9944OrNPRMCd",
+      "path": "TD9944OrNPRMCd",
+      "type": "enum"
+    },
+    {
+      "name": "TPElectClmCrbnOxdSqstrtnCrInd",
+      "path": "TPElectClmCrbnOxdSqstrtnCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "TitleTxt",
+      "path": "TitleTxt",
+      "type": "string"
+    },
+    {
+      "name": "TotSupplierSectionDlvrUtlzGrp",
+      "path": "TotSupplierSectionDlvrUtlzGrp",
+      "type": "group"
+    },
+    {
+      "name": "SupplierName",
+      "path": "TotSupplierSectionDlvrUtlzGrp/SupplierName",
+      "type": "unknown"
+    },
+    {
+      "name": "SupplierPersonNm",
+      "path": "TotSupplierSectionDlvrUtlzGrp/SupplierPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "TotSupplierSectionDlvrUtlzGrp/TotSupplierMetricTonsDlvrUtlzGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "UtilizedQty",
+      "path": "TotSupplierSectionDlvrUtlzGrp/TotSupplierMetricTonsDlvrUtlzGrp/UtilizedQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "TotSupplierSectionDlvrUtlzGrp/TotSuprMetricTonsDlvrUtlzGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "UtilizedQty",
+      "path": "TotSupplierSectionDlvrUtlzGrp/TotSuprMetricTonsDlvrUtlzGrp/UtilizedQty",
+      "type": "unknown"
+    }
+  ]
+}

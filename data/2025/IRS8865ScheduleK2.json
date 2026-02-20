@@ -1,0 +1,1031 @@
+{
+  "form_id": "IRS8865ScheduleK2",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AmendedK2Ind",
+      "path": "AmendedK2Ind",
+      "type": "bool"
+    },
+    {
+      "name": "DualConsolidatedLossInd",
+      "path": "DualConsolidatedLossInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "ForeignOilAndGasTaxesInd",
+      "path": "ForeignOilAndGasTaxesInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignTaxTranslationInd",
+      "path": "ForeignTaxTranslationInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form5471AttachmentInd",
+      "path": "Form5471AttachmentInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form8858AttachmentInd",
+      "path": "Form8858AttachmentInd",
+      "type": "bool"
+    },
+    {
+      "name": "CollectiblesGainGrp",
+      "path": "Frm8865GrossIncomeGrp/CollectiblesGainGrp",
+      "type": "group"
+    },
+    {
+      "name": "GroRntlRealEstateIncmGrp",
+      "path": "Frm8865GrossIncomeGrp/GroRntlRealEstateIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "GrossIncmPerfOfSrvcGrp",
+      "path": "Frm8865GrossIncomeGrp/GrossIncmPerfOfSrvcGrp",
+      "type": "group"
+    },
+    {
+      "name": "GuaranteedPaymentsGrp",
+      "path": "Frm8865GrossIncomeGrp/GuaranteedPaymentsGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetLongTermCapGainGrp",
+      "path": "Frm8865GrossIncomeGrp/NetLongTermCapGainGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetShortTermCapGainGrp",
+      "path": "Frm8865GrossIncomeGrp/NetShortTermCapGainGrp",
+      "type": "group"
+    },
+    {
+      "name": "OthGrossRentalIncomeGrp",
+      "path": "Frm8865GrossIncomeGrp/OthGrossRentalIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "QualifiedDividendsGrp",
+      "path": "Frm8865GrossIncomeGrp/QualifiedDividendsGrp",
+      "type": "group"
+    },
+    {
+      "name": "RoyaltiesLicenseFeesGrp",
+      "path": "Frm8865GrossIncomeGrp/RoyaltiesLicenseFeesGrp",
+      "type": "group"
+    },
+    {
+      "name": "SalesGrossIncomeGrp",
+      "path": "Frm8865GrossIncomeGrp/SalesGrossIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK2K3InterestIncomeGrp",
+      "path": "Frm8865GrossIncomeGrp/SchK2K3InterestIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK2K3NetSection1231GainGrp",
+      "path": "Frm8865GrossIncomeGrp/SchK2K3NetSection1231GainGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK2K3OrdinaryDividendsGrp",
+      "path": "Frm8865GrossIncomeGrp/SchK2K3OrdinaryDividendsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK2K3OtherIncomeGrp",
+      "path": "Frm8865GrossIncomeGrp/SchK2K3OtherIncomeGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK2K3UnrcptrSect1250GainGrp",
+      "path": "Frm8865GrossIncomeGrp/SchK2K3UnrcptrSect1250GainGrp",
+      "type": "group"
+    },
+    {
+      "name": "Section986cGainGrp",
+      "path": "Frm8865GrossIncomeGrp/Section986cGainGrp",
+      "type": "group"
+    },
+    {
+      "name": "Section987GainGrp",
+      "path": "Frm8865GrossIncomeGrp/Section987GainGrp",
+      "type": "group"
+    },
+    {
+      "name": "Section988GainGrp",
+      "path": "Frm8865GrossIncomeGrp/Section988GainGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotForeignBranchIncomeAmt",
+      "path": "Frm8865GrossIncomeGrp/TotForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotGrossIncomeByCountryGrp",
+      "path": "Frm8865GrossIncomeGrp/TotGrossIncomeByCountryGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotIncmSourcedAtPartnerLvlAmt",
+      "path": "Frm8865GrossIncomeGrp/TotIncmSourcedAtPartnerLvlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotUSSourceIncomeAmt",
+      "path": "Frm8865GrossIncomeGrp/TotUSSourceIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGeneralCategoryIncmAmt",
+      "path": "Frm8865GrossIncomeGrp/TotalGeneralCategoryIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGrossIncomeAmt",
+      "path": "Frm8865GrossIncomeGrp/TotalGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPassiveIncomeAmt",
+      "path": "Frm8865GrossIncomeGrp/TotalPassiveIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSeparateCategoryGrp",
+      "path": "Frm8865GrossIncomeGrp/TotalSeparateCategoryGrp",
+      "type": "group"
+    },
+    {
+      "name": "GainOnPersonalPropertySaleInd",
+      "path": "GainOnPersonalPropertySaleInd",
+      "type": "bool"
+    },
+    {
+      "name": "HighTaxedIncomeInd",
+      "path": "HighTaxedIncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherFormsAttachmentInd",
+      "path": "OtherFormsAttachmentInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherInternationalItemsInd",
+      "path": "OtherInternationalItemsInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartIAttachedInd",
+      "path": "PartIAttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartIIAttachedInd",
+      "path": "PartIIAttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartIIIAttachedInd",
+      "path": "PartIIIAttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartIVAttachedInd",
+      "path": "PartIVAttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartVAttachedInd",
+      "path": "PartVAttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartVIAttachedInd",
+      "path": "PartVIAttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartVIIAttachedInd",
+      "path": "PartVIIAttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartVIIIAttachedInd",
+      "path": "PartVIIIAttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnerLoanTransactionsInd",
+      "path": "PartnerLoanTransactionsInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnershipEIN",
+      "path": "PartnershipEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PartnershipMissingEINReasonCd",
+      "path": "PartnershipMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PartnershipName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PartnershipName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "SchK2K3FDIIDedApprtnFctrsGrp",
+      "path": "SchK2K3FDIIDedApprtnFctrsGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherFDIIDedApprtnFctrsGrp",
+      "path": "SchK2K3FDIIDedApprtnFctrsGrp/OtherFDIIDedApprtnFctrsGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignCountryOrUSPossessionCd",
+      "path": "SchK2K3FDIIDedApprtnFctrsGrp/OtherFDIIDedApprtnFctrsGrp/ForeignCountryOrUSPossessionCd",
+      "type": "enum"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SchK2K3FDIIDedApprtnFctrsGrp/OtherFDIIDedApprtnFctrsGrp/SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SchK2K3ForeignTaxesGrp",
+      "path": "SchK2K3ForeignTaxesGrp",
+      "type": "group"
+    },
+    {
+      "name": "DrtSect901Or903FrgnTxsGrp",
+      "path": "SchK2K3ForeignTaxesGrp/DrtSect901Or903FrgnTxsGrp",
+      "type": "group"
+    },
+    {
+      "name": "DrtSect901Or903FrgnTxsOtherGrp",
+      "path": "SchK2K3ForeignTaxesGrp/DrtSect901Or903FrgnTxsOtherGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignTaxesAccruedInd",
+      "path": "SchK2K3ForeignTaxesGrp/ForeignTaxesAccruedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ForeignTaxesPaidInd",
+      "path": "SchK2K3ForeignTaxesGrp/ForeignTaxesPaidInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnTaxRedeterminationsGrp",
+      "path": "SchK2K3ForeignTaxesGrp/FrgnTaxRedeterminationsGrp",
+      "type": "group"
+    },
+    {
+      "name": "FrgnTaxRedeterminationsOthGrp",
+      "path": "SchK2K3ForeignTaxesGrp/FrgnTaxRedeterminationsOthGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherFrgnTaxReductionsGrp",
+      "path": "SchK2K3ForeignTaxesGrp/OtherFrgnTaxReductionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SchK2K3ForeignTaxesGrp/OtherFrgnTaxReductionsGrp/SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SchK2K3FrgnCorpDistriPrtshpGrp",
+      "path": "SchK2K3FrgnCorpDistriPrtshpGrp",
+      "type": "group"
+    },
+    {
+      "name": "AllcblRyltyLicensingExpnsGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/AllcblRyltyLicensingExpnsGrp",
+      "type": "group"
+    },
+    {
+      "name": "AllocableRentalExpensesGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/AllocableRentalExpensesGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessOthIntExpnsGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/BusinessOthIntExpnsGrp",
+      "type": "group"
+    },
+    {
+      "name": "CollectablesLossGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/CollectablesLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "ExpnsAllcblToSalesIncmGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/ExpnsAllcblToSalesIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "ExpnssAllcblGroIncmPerfSrvcGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/ExpnssAllcblGroIncmPerfSrvcGrp",
+      "type": "group"
+    },
+    {
+      "name": "FrgnTxsNotCreditableDedGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/FrgnTxsNotCreditableDedGrp",
+      "type": "group"
+    },
+    {
+      "name": "IntExpnsUnderSect186110eGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/IntExpnsUnderSect186110eGrp",
+      "type": "group"
+    },
+    {
+      "name": "InvestmentOthIntExpnsGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/InvestmentOthIntExpnsGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetIncomeLossGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/NetIncomeLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetLongTermCapLossGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/NetLongTermCapLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetSection1231LossGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/NetSection1231LossGrp",
+      "type": "group"
+    },
+    {
+      "name": "NetShortTermCapLossGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/NetShortTermCapLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "OthAllcblRyltyLcnsExpnsGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/OthAllcblRyltyLcnsExpnsGrp",
+      "type": "group"
+    },
+    {
+      "name": "OthAllocableDepreciationGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/OthAllocableDepreciationGrp",
+      "type": "group"
+    },
+    {
+      "name": "OthAllocableRentalExpensesGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/OthAllocableRentalExpensesGrp",
+      "type": "group"
+    },
+    {
+      "name": "OthApportionedShrDedGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/OthApportionedShrDedGrp",
+      "type": "group"
+    },
+    {
+      "name": "OthIntExpnsUnderSect186110TGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/OthIntExpnsUnderSect186110TGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherAllocableDeductionsGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/OtherAllocableDeductionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherLossesGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/OtherLossesGrp",
+      "type": "group"
+    },
+    {
+      "name": "PassiveActivityOthIntExpnsGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/PassiveActivityOthIntExpnsGrp",
+      "type": "group"
+    },
+    {
+      "name": "ResearchExperimentalExpnssGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/ResearchExperimentalExpnssGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/SchK2K3CharitableContriGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USSourceIncomeAmt",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/SchK2K3CharitableContriGrp/USSourceIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SchK2K3TotalDeductionsGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/SchK2K3TotalDeductionsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Sect59e2ExpendNoREExpnsGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/Sect59e2ExpendNoREExpnsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Section986cLossGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/Section986cLossGrp",
+      "type": "group"
+    },
+    {
+      "name": "Section987LossGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/Section987LossGrp",
+      "type": "group"
+    },
+    {
+      "name": "Section988LossGrp",
+      "path": "SchK2K3FrgnTaxCreditDedGrp/Section988LossGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK2K3InfoToComplete8621Grp",
+      "path": "SchK2K3InfoToComplete8621Grp",
+      "type": "group"
+    },
+    {
+      "name": "SchK2K3IntExpnsApprtnFctrGrp",
+      "path": "SchK2K3IntExpnsApprtnFctrGrp",
+      "type": "group"
+    },
+    {
+      "name": "OthIntExpnsApprtnFctrGrp",
+      "path": "SchK2K3IntExpnsApprtnFctrGrp/OthIntExpnsApprtnFctrGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignCountryOrUSPossessionCd",
+      "path": "SchK2K3IntExpnsApprtnFctrGrp/OthIntExpnsApprtnFctrGrp/ForeignCountryOrUSPossessionCd",
+      "type": "enum"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SchK2K3IntExpnsApprtnFctrGrp/OthIntExpnsApprtnFctrGrp/SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "SchK2K3OtherTaxInformationGrp",
+      "path": "SchK2K3OtherTaxInformationGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherCatIncmOthTaxGrp",
+      "path": "SchK2K3OtherTaxInformationGrp/OtherCatIncmOthTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignCountryOrUSPossessionCd",
+      "path": "SchK2K3OtherTaxInformationGrp/OtherCatIncmOthTaxGrp/ForeignCountryOrUSPossessionCd",
+      "type": "enum"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SchK2K3OtherTaxInformationGrp/OtherCatIncmOthTaxGrp/SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "FDIAllSalesGeneralPropAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/AllocableDedForFDDEIGrp/FDIAllSalesGeneralPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIAllSalesIntangiblePropAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/AllocableDedForFDDEIGrp/FDIAllSalesIntangiblePropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIAllServicesAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/AllocableDedForFDDEIGrp/FDIAllServicesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/AllocableDedForFDDEIGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AssetsExcludedApprtnFrm8993Grp",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/AssetsExcludedApprtnFrm8993Grp",
+      "type": "group"
+    },
+    {
+      "name": "AstIntExpns186110eFrm8993Grp",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/AstIntExpns186110eFrm8993Grp",
+      "type": "group"
+    },
+    {
+      "name": "CFCDividendsReceivedAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/CFCDividendsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfGoodsSoldAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/CostOfGoodsSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIAllSalesGeneralPropAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/CostOfGoodsSoldForFDDEIGrp/FDIAllSalesGeneralPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIAllSalesIntangiblePropAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/CostOfGoodsSoldForFDDEIGrp/FDIAllSalesIntangiblePropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIAllServicesAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/CostOfGoodsSoldForFDDEIGrp/FDIAllServicesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/CostOfGoodsSoldForFDDEIGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DomOilGasExtractionIncomeAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/DomOilGasExtractionIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinancialServicesIncomeAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/FinancialServicesIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignBranchIncomeAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/ForeignBranchIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainSaleDisposOtherPropAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/GainSaleDisposOtherPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GainSaleDisposSect367d4PropAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/GainSaleDisposSect367d4PropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossDEIAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/GrossDEIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIAllSalesGeneralPropAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/GrossReceiptsForFDDEIGrp/FDIAllSalesGeneralPropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIAllSalesIntangiblePropAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/GrossReceiptsForFDDEIGrp/FDIAllSalesIntangiblePropAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FDIAllServicesAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/GrossReceiptsForFDDEIGrp/FDIAllServicesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/GrossReceiptsForFDDEIGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsSICCdFrm8993Grp",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/GrossReceiptsSICCdFrm8993Grp",
+      "type": "group"
+    },
+    {
+      "name": "IntExpnsSect186110eFrm8993Grp",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/IntExpnsSect186110eFrm8993Grp",
+      "type": "group"
+    },
+    {
+      "name": "NetIncomeLossAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/NetIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthApprtnDedForFDDEIAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/OthApprtnDedForFDDEIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthAstIntExpns186110T8993Grp",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/OthAstIntExpns186110T8993Grp",
+      "type": "group"
+    },
+    {
+      "name": "OthIntExpenseFrm8993TotalAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/OthIntExpenseFrm8993TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthIntExpns186110TFrm8993Grp",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/OthIntExpns186110TFrm8993Grp",
+      "type": "group"
+    },
+    {
+      "name": "PartnershipQBAIAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/PartnershipQBAIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProperlyAllocableDeductionAmt",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/ProperlyAllocableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "REExpnssSICCdFrm8993Grp",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/REExpnssSICCdFrm8993Grp",
+      "type": "group"
+    },
+    {
+      "name": "Sect734b743bAdjAstFrm8993Grp",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/Sect734b743bAdjAstFrm8993Grp",
+      "type": "group"
+    },
+    {
+      "name": "TotAssetsUsedApprtnFrm8993Grp",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/TotAssetsUsedApprtnFrm8993Grp",
+      "type": "group"
+    },
+    {
+      "name": "TotAvgValueOfAssetsFrm8993Grp",
+      "path": "SchK2K3PrtnrSect250DedFDIIGrp/TotAvgValueOfAssetsFrm8993Grp",
+      "type": "group"
+    },
+    {
+      "name": "SchK2K3PrtnrSect951a1InclsnGrp",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp",
+      "type": "group"
+    },
+    {
+      "name": "SchK2K3PrtshpCFCOwnrInfoGrp",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/SchK2K3PrtshpCFCOwnrInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotAggregateShareQBAIAmt",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/TotAggregateShareQBAIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAggregateShareTestedLossAmt",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/TotAggregateShareTestedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAggrgtSect951a1BInclsnAmt",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/TotAggrgtSect951a1BInclsnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAggrgtShareSubpartFIncmAmt",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/TotAggrgtShareSubpartFIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAggrgtShareTestedIncomeAmt",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/TotAggrgtShareTestedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAggrgtShareTestedIntIncmAmt",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/TotAggrgtShareTestedIntIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAggrgtShrTestedIntExpnsAmt",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/TotAggrgtShrTestedIntExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotAggrgtShrTestedLossQBAIAmt",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/TotAggrgtShrTestedLossQBAIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTestedIncomeAmt",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/TotalTestedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTestedLossAmt",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/TotalTestedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USSourceIncomeInd",
+      "path": "SchK2K3PrtnrSect951a1InclsnGrp/USSourceIncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossReceiptsSICCodeGrp",
+      "path": "SchK2K3REExpnssApprtnFctrGrp/GrossReceiptsSICCodeGrp",
+      "type": "group"
+    },
+    {
+      "name": "GrossReceiptsSICCodeOtherGrp",
+      "path": "SchK2K3REExpnssApprtnFctrGrp/GrossReceiptsSICCodeOtherGrp",
+      "type": "group"
+    },
+    {
+      "name": "REExpnsActivityInsideUSGrp",
+      "path": "SchK2K3REExpnssApprtnFctrGrp/REExpnsActivityInsideUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "REExpnsActivityOutsdUSGrp",
+      "path": "SchK2K3REExpnssApprtnFctrGrp/REExpnsActivityOutsdUSGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotBaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/BaseErosionInterestExpenseGrp/TotBaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/BaseErosionInterestExpenseGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBaseErosionPaymentAmt",
+      "path": "SchK2PartnerInfoBEATGrp/BaseErosionInterestExpenseGrp/TotalBaseErosionPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BaseErosionOtherPaymentsGrp",
+      "path": "SchK2PartnerInfoBEATGrp/BaseErosionOtherPaymentsGrp",
+      "type": "group"
+    },
+    {
+      "name": "BaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/BaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/CompPdSrvcNotExcSect59Ad5Grp/TotBaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/CompPdSrvcNotExcSect59Ad5Grp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBaseErosionPaymentAmt",
+      "path": "SchK2PartnerInfoBEATGrp/CompPdSrvcNotExcSect59Ad5Grp/TotalBaseErosionPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/CostShrTransPymtGrp/TotBaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/CostShrTransPymtGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBaseErosionPaymentAmt",
+      "path": "SchK2PartnerInfoBEATGrp/CostShrTransPymtGrp/TotalBaseErosionPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceipts1stPrecYearGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalECIGrossReceiptsAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceipts1stPrecYearGrp/TotalECIGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonECIGrossReceiptsAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceipts1stPrecYearGrp/TotalNonECIGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceipts2ndPrecYearGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalECIGrossReceiptsAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceipts2ndPrecYearGrp/TotalECIGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonECIGrossReceiptsAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceipts2ndPrecYearGrp/TotalNonECIGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceipts3rdPrecYearGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalECIGrossReceiptsAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceipts3rdPrecYearGrp/TotalECIGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonECIGrossReceiptsAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceipts3rdPrecYearGrp/TotalNonECIGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceiptsSect59AeGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalECIGrossReceiptsAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceiptsSect59AeGrp/TotalECIGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNonECIGrossReceiptsAmt",
+      "path": "SchK2PartnerInfoBEATGrp/GrossReceiptsSect59AeGrp/TotalNonECIGrossReceiptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/NonQlfyDerivativePaymentsGrp/TotBaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/NonQlfyDerivativePaymentsGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBaseErosionPaymentAmt",
+      "path": "SchK2PartnerInfoBEATGrp/NonQlfyDerivativePaymentsGrp/TotalBaseErosionPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PortionBaseErosionTaxBnftAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PortionBaseErosionTaxBnftAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PrchsCrtnPropRightsIntngblGrp/TotBaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PrchsCrtnPropRightsIntngblGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBaseErosionPaymentAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PrchsCrtnPropRightsIntngblGrp/TotalBaseErosionPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PremPaidOrAccrForInsSect59AGrp/TotBaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PremPaidOrAccrForInsSect59AGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBaseErosionPaymentAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PremPaidOrAccrForInsSect59AGrp/TotalBaseErosionPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PymtForPrchsTngblPrsnlPropGrp/TotBaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PymtForPrchsTngblPrsnlPropGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBaseErosionPaymentAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PymtForPrchsTngblPrsnlPropGrp/TotalBaseErosionPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PymtRdcGroRcptsSrgtFrgnCorpGrp/TotBaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PymtRdcGroRcptsSrgtFrgnCorpGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBaseErosionPaymentAmt",
+      "path": "SchK2PartnerInfoBEATGrp/PymtRdcGroRcptsSrgtFrgnCorpGrp/TotalBaseErosionPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyDerivativePymtExcSect59Amt",
+      "path": "SchK2PartnerInfoBEATGrp/QlfyDerivativePymtExcSect59Amt",
+      "type": "usd"
+    },
+    {
+      "name": "@filedPursuantToSect159A6b2Cd",
+      "path": "SchK2PartnerInfoBEATGrp/QlfyDerivativePymtExcSect59Amt/@filedPursuantToSect159A6b2Cd",
+      "type": "enum"
+    },
+    {
+      "name": "TotBaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/RentsRoyaltiesLicenseFeesGrp/TotBaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "SchK2PartnerInfoBEATGrp/RentsRoyaltiesLicenseFeesGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBaseErosionPaymentAmt",
+      "path": "SchK2PartnerInfoBEATGrp/RentsRoyaltiesLicenseFeesGrp/TotalBaseErosionPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBaseErosionPctSect159A2Amt",
+      "path": "SchK2PartnerInfoBEATGrp/TotBaseErosionPctSect159A2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBaseErosionTaxBenefitAmt",
+      "path": "SchK2PartnerInfoBEATGrp/TotBaseErosionTaxBenefitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCompPdSrvcExcSect59Ad5Amt",
+      "path": "SchK2PartnerInfoBEATGrp/TotCompPdSrvcExcSect59Ad5Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect267ADisallowedDedInd",
+      "path": "Sect267ADisallowedDedInd",
+      "type": "bool"
+    },
+    {
+      "name": "SplitterArrangementsInd",
+      "path": "SplitterArrangementsInd",
+      "type": "bool"
+    }
+  ]
+}

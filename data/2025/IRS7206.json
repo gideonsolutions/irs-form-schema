@@ -1,0 +1,91 @@
+{
+  "form_id": "IRS7206",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "DedSETaxMultiplyPctAmt",
+      "path": "DedSETaxMultiplyPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form2555Amt",
+      "path": "Form2555Amt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicareWagesAndTipsAmt",
+      "path": "MedicareWagesAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NameLine1Txt",
+      "path": "NameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "NetPrftOthEarnedIncmAmt",
+      "path": "NetPrftOthEarnedIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthEarnedIncmDivTotNetPrftPct",
+      "path": "OthEarnedIncmDivTotNetPrftPct",
+      "type": "decimal"
+    },
+    {
+      "name": "PctLessNetPrftOthEarnedIncmAmt",
+      "path": "PctLessNetPrftOthEarnedIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PctMinusSEQlfyPlansAmt",
+      "path": "PctMinusSEQlfyPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SelfEmpldHealthInsDedAmt",
+      "path": "SelfEmpldHealthInsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmpldSepSimpleQlfyPlansAmt",
+      "path": "SelfEmpldSepSimpleQlfyPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "*",
+      "path": "ShareholderDebtBasisGrp/*",
+      "type": "unknown"
+    },
+    {
+      "name": "SubtractForm2555Amt",
+      "path": "SubtractForm2555Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotHlthInsQlfyLTCareInsDedAmt",
+      "path": "TotHlthInsQlfyLTCareInsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotNetPrftIncmAmt",
+      "path": "TotNetPrftIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyLTCareInsDedAmt",
+      "path": "TotQlfyLTCareInsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalHealthInsurancePaidAmt",
+      "path": "TotalHealthInsurancePaidAmt",
+      "type": "usd"
+    }
+  ]
+}

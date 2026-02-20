@@ -1,0 +1,86 @@
+{
+  "form_id": "IRS4137",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "GovernmentEmployeeTipAmt",
+      "path": "GovernmentEmployeeTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@governmentEmployeeTipCd",
+      "path": "GovernmentEmployeeTipAmt/@governmentEmployeeTipCd",
+      "type": "enum"
+    },
+    {
+      "name": "IncidentalCashAndTipsAmt",
+      "path": "IncidentalCashAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MedicareTaxTipsAmt",
+      "path": "MedicareTaxTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetUnreportedMinusIncdntlAmt",
+      "path": "NetUnreportedMinusIncdntlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetWageSubjectToSocSecTaxAmt",
+      "path": "NetWageSubjectToSocSecTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SocSecMedicareTaxUnrptdTipAmt",
+      "path": "SocSecMedicareTaxUnrptdTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxTipAmt",
+      "path": "SocialSecurityTaxTipAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityWagesAndTipsAmt",
+      "path": "SocialSecurityWagesAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTipsReceivedAmt",
+      "path": "TotalTipsReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTipsReceivedMinusRptAmt",
+      "path": "TotalTipsReceivedMinusRptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTipsReportedAmt",
+      "path": "TotalTipsReportedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnreportedTipIncomePerEmployer",
+      "path": "UnreportedTipIncomePerEmployer",
+      "type": "unknown"
+    },
+    {
+      "name": "UnreportedTipsSubjToSocSecAmt",
+      "path": "UnreportedTipsSubjToSocSecAmt",
+      "type": "usd"
+    }
+  ]
+}

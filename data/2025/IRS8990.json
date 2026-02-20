@@ -1,0 +1,261 @@
+{
+  "form_id": "IRS8990",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjTaxableIncomeApplcblPctAmt",
+      "path": "AdjTaxableIncomeApplcblPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjTxblIncmOtherReductionsAmt",
+      "path": "AdjTxblIncmOtherReductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjTxblIncomeOtherAdditionsAmt",
+      "path": "AdjTxblIncomeOtherAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedTaxableIncomeAmt",
+      "path": "AdjustedTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusInterestExpnsNotPassThruAmt",
+      "path": "BusInterestExpnsNotPassThruAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CFCGroupElectionInd",
+      "path": "CFCGroupElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "CYBusIntExpnsBfr163jLmtAmt",
+      "path": "CYBusIntExpnsBfr163jLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYBusinessInterestIncomeAmt",
+      "path": "CYBusinessInterestIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CfwdPrevDsallwIntExpenseAmt",
+      "path": "CfwdPrevDsallwIntExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DisallowedBusInterestExpnsAmt",
+      "path": "DisallowedBusInterestExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "FlrPlanFinancingIntExpnsAmt",
+      "path": "FlrPlanFinancingIntExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignEntityIdentificationGrp",
+      "path": "ForeignEntityIdentificationGrp",
+      "type": "group"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignEntityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignEntityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FrmFldBySpcfdGrpParentInd",
+      "path": "FrmFldBySpcfdGrpParentInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncmGainNotAllcblTradeBusAmt",
+      "path": "IncmGainNotAllcblTradeBusAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LossDeductionNotAllocableAmt",
+      "path": "LossDeductionNotAllocableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NotPassThruEntBusIntIncomeAmt",
+      "path": "NotPassThruEntBusIntIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartnerAllocablePrtshpIntGrp",
+      "path": "PartnerAllocablePrtshpIntGrp",
+      "type": "group"
+    },
+    {
+      "name": "PassThroughEntityIncomeGainAmt",
+      "path": "PassThroughEntityIncomeGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PassThroughEntityLossDedAmt",
+      "path": "PassThroughEntityLossDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpExTxblIncmIntExpnsAmt",
+      "path": "PrtshpExTxblIncmIntExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpExcessBusInterestIncmAmt",
+      "path": "PrtshpExcessBusInterestIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrtshpExcessTaxableIncomeRt",
+      "path": "PrtshpExcessTaxableIncomeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PrtshpExcessTxblIncomeCalcAmt",
+      "path": "PrtshpExcessTxblIncomeCalcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SCorpExTxblIncmIntExpnsAmt",
+      "path": "SCorpExTxblIncmIntExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SCorpExcessBusInterestIncmAmt",
+      "path": "SCorpExcessBusInterestIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SCorpExcessTaxableIncomeRt",
+      "path": "SCorpExcessTaxableIncomeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "SCorpExcessTxblIncomeCalcAmt",
+      "path": "SCorpExcessTxblIncomeCalcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SafeHarborElectionInd",
+      "path": "SafeHarborElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Sect172NOLTakenAmt",
+      "path": "Sect172NOLTakenAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect199AQlfyBusIncomeDedAmt",
+      "path": "Sect199AQlfyBusIncomeDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ShrExTxblIncmBusIntIncmGrp",
+      "path": "ShrExTxblIncmBusIntIncmGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCYBusinessIntExpnsDedAmt",
+      "path": "TotCYBusinessIntExpnsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCYPrtnrExcessBusIntIncmAmt",
+      "path": "TotCYPrtnrExcessBusIntIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCYPrtnrExcessTxblIncmAmt",
+      "path": "TotCYPrtnrExcessTxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCYSCorpExcessBusIntIncmAmt",
+      "path": "TotCYSCorpExcessBusIntIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCYSCorpShrExcessTxblIncmAmt",
+      "path": "TotCYSCorpShrExcessTxblIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPassThruEntExBusIntIncmAmt",
+      "path": "TotPassThruEntExBusIntIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPrtnrExBusIntExpnsPdAccrAmt",
+      "path": "TotPrtnrExBusIntExpnsPdAccrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPrtshpExcessTxblIncomeAmt",
+      "path": "TotPrtshpExcessTxblIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotSCorpExcessTxblIncomeAmt",
+      "path": "TotSCorpExcessTxblIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAdditionsAmt",
+      "path": "TotalAdditionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllowableBusIntExpnsAmt",
+      "path": "TotalAllowableBusIntExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBusIntExpnsLimitationAmt",
+      "path": "TotalBusIntExpnsLimitationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalBusinessInterestIncomeAmt",
+      "path": "TotalBusinessInterestIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalReductionsAmt",
+      "path": "TotalReductionsAmt",
+      "type": "usd"
+    }
+  ]
+}

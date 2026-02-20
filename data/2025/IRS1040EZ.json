@@ -1,0 +1,291 @@
+{
+  "form_id": "IRS1040EZ",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjustedGrossIncomeAmt",
+      "path": "AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BankAccountTypeCd",
+      "path": "BankAccountTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "CombStdDedAndPrsnlExemptAmt",
+      "path": "CombStdDedAndPrsnlExemptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CombatZoneCd",
+      "path": "CombatZoneCd",
+      "type": "enum"
+    },
+    {
+      "name": "@combatZoneDt",
+      "path": "CombatZoneCd/@combatZoneDt",
+      "type": "date"
+    },
+    {
+      "name": "DaytimePhoneNum",
+      "path": "DaytimePhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "EICEligibilityLiteralCd",
+      "path": "EICEligibilityLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "EarnedIncomeCreditAmt",
+      "path": "EarnedIncomeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form8888Ind",
+      "path": "Form8888Ind",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCareRspnsCoverageInd",
+      "path": "HealthCareRspnsCoverageInd",
+      "type": "bool"
+    },
+    {
+      "name": "HealthCareRspnsPenaltyAmt",
+      "path": "HealthCareRspnsPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonPaidPreparerCd",
+      "path": "NonPaidPreparerCd",
+      "type": "enum"
+    },
+    {
+      "name": "NontxCombatPayElectionAmt",
+      "path": "NontxCombatPayElectionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OptionalForeignTelephoneNum",
+      "path": "OptionalForeignTelephoneNum",
+      "type": "string"
+    },
+    {
+      "name": "OwedAmt",
+      "path": "OwedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PECFPrimaryInd",
+      "path": "PECFPrimaryInd",
+      "type": "bool"
+    },
+    {
+      "name": "PECFSpouseInd",
+      "path": "PECFSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonalRepresentativeInd",
+      "path": "PersonalRepresentativeInd",
+      "type": "bool"
+    },
+    {
+      "name": "PowerOfAttorneyNm",
+      "path": "PowerOfAttorneyNm",
+      "type": "string"
+    },
+    {
+      "name": "PowerOfAttorneySignedByInd",
+      "path": "PowerOfAttorneySignedByInd",
+      "type": "bool"
+    },
+    {
+      "name": "Preparer",
+      "path": "Preparer",
+      "type": "unknown"
+    },
+    {
+      "name": "PrimaryClaimAsDependentInd",
+      "path": "PrimaryClaimAsDependentInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrimaryDeathDt",
+      "path": "PrimaryDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "PrimaryOccupationTxt",
+      "path": "PrimaryOccupationTxt",
+      "type": "string"
+    },
+    {
+      "name": "PriorYearEarnedIncomeAmt",
+      "path": "PriorYearEarnedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearEarnedIncomeCd",
+      "path": "PriorYearEarnedIncomeCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProtectiveSec108iELCRecordInd",
+      "path": "ProtectiveSec108iELCRecordInd",
+      "type": "bool"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundProductCd",
+      "path": "RefundProductCd",
+      "type": "enum"
+    },
+    {
+      "name": "RefundProductCodeTxt",
+      "path": "RefundProductCodeTxt",
+      "type": "string"
+    },
+    {
+      "name": "RequestForExtensionAmt",
+      "path": "RequestForExtensionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@requestForExtensionCd",
+      "path": "RequestForExtensionAmt/@requestForExtensionCd",
+      "type": "enum"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "SpecialProcessingCodeTxt",
+      "path": "SpecialProcessingCodeTxt",
+      "type": "string"
+    },
+    {
+      "name": "SpecialProcessingLiteralCd",
+      "path": "SpecialProcessingLiteralCd",
+      "type": "enum"
+    },
+    {
+      "name": "SpouseClaimAsDependentInd",
+      "path": "SpouseClaimAsDependentInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpouseDeathDt",
+      "path": "SpouseDeathDt",
+      "type": "date"
+    },
+    {
+      "name": "SpouseOccupationTxt",
+      "path": "SpouseOccupationTxt",
+      "type": "string"
+    },
+    {
+      "name": "SurvivingSpouseInd",
+      "path": "SurvivingSpouseInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxExemptInterestAmt",
+      "path": "TaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptInterestCd",
+      "path": "TaxExemptInterestCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeTaxAmt",
+      "path": "TentativeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPartyDesigneeInd",
+      "path": "ThirdPartyDesigneeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ThirdPartyDesigneeNm",
+      "path": "ThirdPartyDesigneeNm",
+      "type": "string"
+    },
+    {
+      "name": "ThirdPartyDesigneePIN",
+      "path": "ThirdPartyDesigneePIN",
+      "type": "string"
+    },
+    {
+      "name": "ThirdPartyDesigneePhoneNum",
+      "path": "ThirdPartyDesigneePhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnemploymentCompAmt",
+      "path": "UnemploymentCompAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@repaymentAmt",
+      "path": "UnemploymentCompAmt/@repaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@repaymentCd",
+      "path": "UnemploymentCompAmt/@repaymentCd",
+      "type": "enum"
+    },
+    {
+      "name": "WagesSalariesAndTipsAmt",
+      "path": "WagesSalariesAndTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WithholdingTaxAmt",
+      "path": "WithholdingTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "form_id": "IRS1120H",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AddressChangeInd",
+      "path": "AddressChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "AssociationFormedDt",
+      "path": "AssociationFormedDt",
+      "type": "date"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainNetIncomeAmt",
+      "path": "CapitalGainNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CondominiumMgmtAssociationInd",
+      "path": "CondominiumMgmtAssociationInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepreciationAmt",
+      "path": "DepreciationAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CheckingAccountInd",
+      "path": "DirectDepositGrp/CheckingAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DirectDepositGrp/DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "DirectDepositGrp/RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "SavingsAccountInd",
+      "path": "DirectDepositGrp/SavingsAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "DividendsAmt",
+      "path": "DividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ElectivePaymentAmt",
+      "path": "ElectivePaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPaymentsAmt",
+      "path": "EstimatedTaxPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalReturnInd",
+      "path": "FinalReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "FuelTaxCreditAmt",
+      "path": "FuelTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRentsAmt",
+      "path": "GrossRentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossRoyaltiesAmt",
+      "path": "GrossRoyaltiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestDeductionAmt",
+      "path": "InterestDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NameChangeInd",
+      "path": "NameChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherIncomeAmt",
+      "path": "OtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@otherIncomeDesc",
+      "path": "OtherIncomeAmt/@otherIncomeDesc",
+      "type": "string"
+    },
+    {
+      "name": "AppliedToEsTaxAmt",
+      "path": "OverpaymentSection/AppliedToEsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "OverpaymentSection/OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "OverpaymentSection/RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearOverpaymentCreditAmt",
+      "path": "PriorYearOverpaymentCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RentsPaidAmt",
+      "path": "RentsPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RepairsAndMaintenanceAmt",
+      "path": "RepairsAndMaintenanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ResidentialREAssociationInd",
+      "path": "ResidentialREAssociationInd",
+      "type": "bool"
+    },
+    {
+      "name": "SalariesAndWagesAmt",
+      "path": "SalariesAndWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxCreditsAmt",
+      "path": "TaxCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptInterestAmt",
+      "path": "TaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxPaidForm7004Amt",
+      "path": "TaxPaidForm7004Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxPaidOnUndistrCapGainsAmt",
+      "path": "TaxPaidOnUndistrCapGainsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncmBfrSpcfdDolDedAmt",
+      "path": "TaxableIncmBfrSpcfdDolDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeApplcblPctAmt",
+      "path": "TaxableIncomeApplcblPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesAndLicensesAmt",
+      "path": "TaxesAndLicensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TimeshareAssociationInd",
+      "path": "TimeshareAssociationInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotalDeductionAmt",
+      "path": "TotalDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExemptFunctionIncomeAmt",
+      "path": "TotalExemptFunctionIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpendituresAmt",
+      "path": "TotalExpendituresAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpendituresTestAmt",
+      "path": "TotalExpendituresTestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIncomeAmt",
+      "path": "TotalIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOrdinaryGainLossAmt",
+      "path": "TotalOrdinaryGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form4684Cd",
+      "path": "TotalOrdinaryGainLossAmt/@form4684Cd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalPaymentsAndCreditsAmt",
+      "path": "TotalPaymentsAndCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@recaptureTaxAmt",
+      "path": "TotalTaxAmt/@recaptureTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@recaptureTaxCd",
+      "path": "TotalTaxAmt/@recaptureTaxCd",
+      "type": "enum"
+    }
+  ]
+}

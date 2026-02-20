@@ -1,0 +1,1246 @@
+{
+  "form_id": "IRS3115",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "/PreparerFirmName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "/PreparerFirmName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AOOrGovtCounselCntctInfo",
+      "path": "AOOrGovtCounselCntctInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "AOOrGovtCounselProvCopyInd",
+      "path": "AOOrGovtCounselProvCopyInd",
+      "type": "bool"
+    },
+    {
+      "name": "AcctMthdChgUndConsiderationGrp",
+      "path": "AcctMthdChgUndConsiderationGrp",
+      "type": "group"
+    },
+    {
+      "name": "AcctMthdChgUndConsiderationInd",
+      "path": "AcctMthdChgUndConsiderationInd",
+      "type": "bool"
+    },
+    {
+      "name": "AcctMthdUnderCnsdrByFedCrtInd",
+      "path": "AcctMthdUnderCnsdrByFedCrtInd",
+      "type": "bool"
+    },
+    {
+      "name": "AllInformationProvidedInd",
+      "path": "AllInformationProvidedInd",
+      "type": "bool"
+    },
+    {
+      "name": "AnyFederalReturnsUnderExamInd",
+      "path": "AnyFederalReturnsUnderExamInd",
+      "type": "bool"
+    },
+    {
+      "name": "AppealsOfficerInd",
+      "path": "AppealsOfficerInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplcntTrdBusReqChgRelatesInd",
+      "path": "ApplcntTrdBusReqChgRelatesInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicantAttachedFormInd",
+      "path": "ApplicantAttachedFormInd",
+      "type": "bool"
+    },
+    {
+      "name": "AuditProtectionApplyNoInd",
+      "path": "AuditProtectionApplyNoInd",
+      "type": "bool"
+    },
+    {
+      "name": "AuditProtectionApplyYesInd",
+      "path": "AuditProtectionApplyYesInd",
+      "type": "bool"
+    },
+    {
+      "name": "AuditProtectionExamInd",
+      "path": "AuditProtectionExamInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessName",
+      "path": "BusinessName",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CAPInd",
+      "path": "CAPInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChangeReqAllwUnderAutoChgInd",
+      "path": "ChangeReqAllwUnderAutoChgInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChgInAcctMthdMadeInPast5YrsInd",
+      "path": "ChgInAcctMthdMadeInPast5YrsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ConferenceOfRightRequestedInd",
+      "path": "ConferenceOfRightRequestedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContactPersonNm",
+      "path": "ContactPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "CopyProvidedToExaminingAgtInd",
+      "path": "CopyProvidedToExaminingAgtInd",
+      "type": "bool"
+    },
+    {
+      "name": "CounselForTheGovernmentInd",
+      "path": "CounselForTheGovernmentInd",
+      "type": "bool"
+    },
+    {
+      "name": "DeMinimisElection50KInd",
+      "path": "DeMinimisElection50KInd",
+      "type": "bool"
+    },
+    {
+      "name": "DesignatedAccountingMthdChgNum",
+      "path": "DesignatedAccountingMthdChgNum",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "EligibleAcquisTransElectInd",
+      "path": "EligibleAcquisTransElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExaminationEndDt",
+      "path": "ExaminationEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ExaminingAgentContactInfo",
+      "path": "ExaminingAgentContactInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "FedReturnBeforeAppealsInd",
+      "path": "FedReturnBeforeAppealsInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossReceipts4YrsPreceding",
+      "path": "GrossReceipts4YrsPreceding",
+      "type": "unknown"
+    },
+    {
+      "name": "FirstPrecedingYearEndDt",
+      "path": "GrossReceipts4YrsPreceding/FirstPrecedingYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "GrossReceiptsFor2ndPrecYrAmt",
+      "path": "GrossReceipts4YrsPreceding/GrossReceiptsFor2ndPrecYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsForFirstPrecYrAmt",
+      "path": "GrossReceipts4YrsPreceding/GrossReceiptsForFirstPrecYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossReceiptsForThirdPrecYrAmt",
+      "path": "GrossReceipts4YrsPreceding/GrossReceiptsForThirdPrecYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondPrecedingYearEndDt",
+      "path": "GrossReceipts4YrsPreceding/SecondPrecedingYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "ThirdPrecedingYearEndDt",
+      "path": "GrossReceipts4YrsPreceding/ThirdPrecedingYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "GroupMembersUsePrpsdMthdInd",
+      "path": "GroupMembersUsePrpsdMthdInd",
+      "type": "bool"
+    },
+    {
+      "name": "CashOrAccrualMethodChangeInd",
+      "path": "IRS3115ScheduleA/CashOrAccrualMethodChangeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExpensesAccruedButNotPaidAmt",
+      "path": "IRS3115ScheduleA/ExpensesAccruedButNotPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExpensesAccruedButNotPdNONECd",
+      "path": "IRS3115ScheduleA/ExpensesAccruedButNotPdNONECd",
+      "type": "enum"
+    },
+    {
+      "name": "IncomeAccruedButNotRcvdNONECd",
+      "path": "IRS3115ScheduleA/IncomeAccruedButNotRcvdNONECd",
+      "type": "enum"
+    },
+    {
+      "name": "IncomeAccruedButNotReceivedAmt",
+      "path": "IRS3115ScheduleA/IncomeAccruedButNotReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeRcvdOrRptBefEarnNONECd",
+      "path": "IRS3115ScheduleA/IncomeRcvdOrRptBefEarnNONECd",
+      "type": "enum"
+    },
+    {
+      "name": "IncomeReceivedOrRptBfrEarnAmt",
+      "path": "IRS3115ScheduleA/IncomeReceivedOrRptBfrEarnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryOnHandPrevDeductedAmt",
+      "path": "IRS3115ScheduleA/InventoryOnHandPrevDeductedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvntryOnHandPrevDedNONECd",
+      "path": "IRS3115ScheduleA/InvntryOnHandPrevDedNONECd",
+      "type": "enum"
+    },
+    {
+      "name": "NetSectionAdjustmentAmt",
+      "path": "IRS3115ScheduleA/NetSectionAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSectionAdjustmentNoneCd",
+      "path": "IRS3115ScheduleA/NetSectionAdjustmentNoneCd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherAmountNONECd",
+      "path": "IRS3115ScheduleA/OtherAmountNONECd",
+      "type": "enum"
+    },
+    {
+      "name": "OtherAmt",
+      "path": "IRS3115ScheduleA/OtherAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrepaidExpensePrevDeductedAmt",
+      "path": "IRS3115ScheduleA/PrepaidExpensePrevDeductedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrepaidExpnsPrevDedNONECd",
+      "path": "IRS3115ScheduleA/PrepaidExpnsPrevDedNONECd",
+      "type": "enum"
+    },
+    {
+      "name": "AccrualInd",
+      "path": "IRS3115ScheduleA/PresentMethod/AccrualInd",
+      "type": "bool"
+    },
+    {
+      "name": "CashInd",
+      "path": "IRS3115ScheduleA/PresentMethod/CashInd",
+      "type": "bool"
+    },
+    {
+      "name": "HybridInd",
+      "path": "IRS3115ScheduleA/PresentMethod/HybridInd",
+      "type": "bool"
+    },
+    {
+      "name": "AccrualInd",
+      "path": "IRS3115ScheduleA/ProposedMethod/AccrualInd",
+      "type": "bool"
+    },
+    {
+      "name": "CashInd",
+      "path": "IRS3115ScheduleA/ProposedMethod/CashInd",
+      "type": "bool"
+    },
+    {
+      "name": "HybridInd",
+      "path": "IRS3115ScheduleA/ProposedMethod/HybridInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequestingRecurItemExcInd",
+      "path": "IRS3115ScheduleA/RequestingRecurItemExcInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupOnHandPrevDeductedNONECd",
+      "path": "IRS3115ScheduleA/SupOnHandPrevDeductedNONECd",
+      "type": "enum"
+    },
+    {
+      "name": "SuppliesOnHandPrevDeductedAmt",
+      "path": "IRS3115ScheduleA/SuppliesOnHandPrevDeductedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/AdministrativeCosts/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/AdministrativeCosts/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "AllContractsQlfySectionExcInd",
+      "path": "IRS3115ScheduleD/AllContractsQlfySectionExcInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplcntReqExmptComplnMethodInd",
+      "path": "IRS3115ScheduleD/ApplcntReqExmptComplnMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplcntReqPctOfCompMethodInd",
+      "path": "IRS3115ScheduleD/ApplcntReqPctOfCompMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicationSubjectToSectionInd",
+      "path": "IRS3115ScheduleD/ApplicationSubjectToSectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/CapitalizableServiceCosts/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/CapitalizableServiceCosts/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "CmplnFctrCstCstSmplfdMthdInd",
+      "path": "IRS3115ScheduleD/CmplnFctrCstCstSmplfdMthdInd",
+      "type": "bool"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/ContractBiddingExpnssIncurred/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/ContractBiddingExpnssIncurred/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/CostOfStrikes/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/CostOfStrikes/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "CostOffsetMethodInd",
+      "path": "IRS3115ScheduleD/CostOffsetMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/Depletion/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/Depletion/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/DeprecAmortzAndCostRecovery/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/DeprecAmortzAndCostRecovery/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/DirectLabor/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/DirectLabor/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/DirectMaterial/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/DirectMaterial/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/EmployeeBenefits/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/EmployeeBenefits/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/EngineeringAndDesignCosts/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/EngineeringAndDesignCosts/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "EnterCostPlusLTCntrctInd",
+      "path": "IRS3115ScheduleD/EnterCostPlusLTCntrctInd",
+      "type": "bool"
+    },
+    {
+      "name": "EnterFederalLTCntrctInd",
+      "path": "IRS3115ScheduleD/EnterFederalLTCntrctInd",
+      "type": "bool"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/GeneralAndAdministrativeCosts/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/GeneralAndAdministrativeCosts/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/HandlingProcessingAssemblyCost/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/HandlingProcessingAssemblyCost/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/IncomeTaxes/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/IncomeTaxes/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/IndirectLabor/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/IndirectLabor/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/IndirectMaterialsAndSupplies/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/IndirectMaterialsAndSupplies/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/Insurance/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/Insurance/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/Interest/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/Interest/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "CostInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/PresentMethodTxt/Methods/CostInd",
+      "type": "bool"
+    },
+    {
+      "name": "CostOrMarketInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/PresentMethodTxt/Methods/CostOrMarketInd",
+      "type": "bool"
+    },
+    {
+      "name": "FIFOInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/PresentMethodTxt/Methods/FIFOInd",
+      "type": "bool"
+    },
+    {
+      "name": "LIFOInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/PresentMethodTxt/Methods/LIFOInd",
+      "type": "bool"
+    },
+    {
+      "name": "LowerRetailOfCostOrMarketInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/PresentMethodTxt/Methods/LowerRetailOfCostOrMarketInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherIdentificationMethodInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/PresentMethodTxt/Methods/OtherIdentificationMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherValutionMethodInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/PresentMethodTxt/Methods/OtherValutionMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "RetailCostInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/PresentMethodTxt/Methods/RetailCostInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecificIdentificationInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/PresentMethodTxt/Methods/SpecificIdentificationInd",
+      "type": "bool"
+    },
+    {
+      "name": "ValueEndOfTaxYearBefYrOfChgAmt",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/PresentMethodTxt/ValueEndOfTaxYearBefYrOfChgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/ProposedMethodTxt/Methods/CostInd",
+      "type": "bool"
+    },
+    {
+      "name": "CostOrMarketInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/ProposedMethodTxt/Methods/CostOrMarketInd",
+      "type": "bool"
+    },
+    {
+      "name": "FIFOInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/ProposedMethodTxt/Methods/FIFOInd",
+      "type": "bool"
+    },
+    {
+      "name": "LIFOInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/ProposedMethodTxt/Methods/LIFOInd",
+      "type": "bool"
+    },
+    {
+      "name": "LowerRetailOfCostOrMarketInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/ProposedMethodTxt/Methods/LowerRetailOfCostOrMarketInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherIdentificationMethodInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/ProposedMethodTxt/Methods/OtherIdentificationMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherValutionMethodInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/ProposedMethodTxt/Methods/OtherValutionMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "RetailCostInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/ProposedMethodTxt/Methods/RetailCostInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecificIdentificationInd",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/ProposedMethodTxt/Methods/SpecificIdentificationInd",
+      "type": "bool"
+    },
+    {
+      "name": "ValueEndOfTaxYearBefYrOfChgAmt",
+      "path": "IRS3115ScheduleD/InventoryBeingChanged/ProposedMethodTxt/ValueEndOfTaxYearBefYrOfChgAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostInd",
+      "path": "IRS3115ScheduleD/InventoryNotBeingChanged/PresentMethodTxt/Methods/CostInd",
+      "type": "bool"
+    },
+    {
+      "name": "CostOrMarketInd",
+      "path": "IRS3115ScheduleD/InventoryNotBeingChanged/PresentMethodTxt/Methods/CostOrMarketInd",
+      "type": "bool"
+    },
+    {
+      "name": "FIFOInd",
+      "path": "IRS3115ScheduleD/InventoryNotBeingChanged/PresentMethodTxt/Methods/FIFOInd",
+      "type": "bool"
+    },
+    {
+      "name": "LIFOInd",
+      "path": "IRS3115ScheduleD/InventoryNotBeingChanged/PresentMethodTxt/Methods/LIFOInd",
+      "type": "bool"
+    },
+    {
+      "name": "LowerRetailOfCostOrMarketInd",
+      "path": "IRS3115ScheduleD/InventoryNotBeingChanged/PresentMethodTxt/Methods/LowerRetailOfCostOrMarketInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherIdentificationMethodInd",
+      "path": "IRS3115ScheduleD/InventoryNotBeingChanged/PresentMethodTxt/Methods/OtherIdentificationMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherValutionMethodInd",
+      "path": "IRS3115ScheduleD/InventoryNotBeingChanged/PresentMethodTxt/Methods/OtherValutionMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "RetailCostInd",
+      "path": "IRS3115ScheduleD/InventoryNotBeingChanged/PresentMethodTxt/Methods/RetailCostInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecificIdentificationInd",
+      "path": "IRS3115ScheduleD/InventoryNotBeingChanged/PresentMethodTxt/Methods/SpecificIdentificationInd",
+      "type": "bool"
+    },
+    {
+      "name": "LTMfrContractsAsDefInSectInd",
+      "path": "IRS3115ScheduleD/LTMfrContractsAsDefInSectInd",
+      "type": "bool"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/LicensingAndFranchiseCosts/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/LicensingAndFranchiseCosts/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "LongTermApplicantContractsInd",
+      "path": "IRS3115ScheduleD/LongTermApplicantContractsInd",
+      "type": "bool"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/MaintRepairsProdResaleLTCntrct/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/MaintRepairsProdResaleLTCntrct/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/MarketingSellAdvtgDistriExpnss/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/MarketingSellAdvtgDistriExpnss/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/OfficersCompensation/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/OfficersCompensation/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/OffsiteStorageWarehousingCosts/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/OffsiteStorageWarehousingCosts/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/OnSiteStorage/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/OnSiteStorage/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/OtherBiddingExpenses/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/OtherBiddingExpenses/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherCostsNotRqrToBeAllocated",
+      "path": "IRS3115ScheduleD/OtherCostsNotRqrToBeAllocated",
+      "type": "unknown"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/OtherCostsNotRqrToBeAllocated/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/OtherCostsNotRqrToBeAllocated/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherCostsRqrToBeAllocated",
+      "path": "IRS3115ScheduleD/OtherCostsRqrToBeAllocated",
+      "type": "unknown"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/OtherCostsRqrToBeAllocated/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/OtherCostsRqrToBeAllocated/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/OtherDeprecAmortzCostRecovery/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/OtherDeprecAmortzCostRecovery/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/OtherResearchAndExptlExpenses/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/OtherResearchAndExptlExpenses/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/PensionAndOtherRelatedCosts/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/PensionAndOtherRelatedCosts/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresInvntryVltnMethodCmplncInd",
+      "path": "IRS3115ScheduleD/PresInvntryVltnMethodCmplncInd",
+      "type": "bool"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/PurchasingCosts/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/PurchasingCosts/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/QualityControlAndInspection/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/QualityControlAndInspection/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/Rent/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/Rent/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/ReworkLaborScrapAndSpoilage/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/ReworkLaborScrapAndSpoilage/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/RsrchAndExptlExpnssLTContracts/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/RsrchAndExptlExpnssLTContracts/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/Section179Costs/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/Section179Costs/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/TaxesNotStateLocalAndForeign/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/TaxesNotStateLocalAndForeign/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/ToolsAndEquipment/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/ToolsAndEquipment/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/Utilities/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/Utilities/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "PresentMethodTxt",
+      "path": "IRS3115ScheduleD/WarrantyProductLiabilityCosts/PresentMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ProposedMethodTxt",
+      "path": "IRS3115ScheduleD/WarrantyProductLiabilityCosts/ProposedMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ChangeInDeprecOrAmortization",
+      "path": "IRS3115ScheduleE/ChangeInDeprecOrAmortization",
+      "type": "unknown"
+    },
+    {
+      "name": "ApplicableSectionTxt",
+      "path": "IRS3115ScheduleE/ChangeInDeprecOrAmortization/ApplicableSectionTxt",
+      "type": "string"
+    },
+    {
+      "name": "DeprecOrAmortzElectionMadeInd",
+      "path": "IRS3115ScheduleE/ChangeInDeprecOrAmortization/DeprecOrAmortzElectionMadeInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepreciationOrAmortizationInd",
+      "path": "IRS3115ScheduleE/ChangeInDeprecOrAmortization/DepreciationOrAmortizationInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectionMadeTxt",
+      "path": "IRS3115ScheduleE/ChangeInDeprecOrAmortization/ElectionMadeTxt",
+      "type": "string"
+    },
+    {
+      "name": "LivedInPropertyBefRentingItInd",
+      "path": "IRS3115ScheduleE/ChangeInDeprecOrAmortization/LivedInPropertyBefRentingItInd",
+      "type": "bool"
+    },
+    {
+      "name": "PropertyDeprecUnderSectionInd",
+      "path": "IRS3115ScheduleE/ChangeInDeprecOrAmortization/PropertyDeprecUnderSectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "PublicUtilityPropertyInd",
+      "path": "IRS3115ScheduleE/ChangeInDeprecOrAmortization/PublicUtilityPropertyInd",
+      "type": "bool"
+    },
+    {
+      "name": "InactivePrincipalBusActyCd",
+      "path": "InactivePrincipalBusActyCd",
+      "type": "enum"
+    },
+    {
+      "name": "IsMemberOfConsolidatedGroupInd",
+      "path": "IsMemberOfConsolidatedGroupInd",
+      "type": "bool"
+    },
+    {
+      "name": "MemberJoinedGroupDt",
+      "path": "MemberJoinedGroupDt",
+      "type": "date"
+    },
+    {
+      "name": "MethodNotBeforeDirectorInd",
+      "path": "MethodNotBeforeDirectorInd",
+      "type": "bool"
+    },
+    {
+      "name": "MethodOfAccountingOtherInd",
+      "path": "MethodOfAccountingOtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@methodOfAccountingOtherDesc",
+      "path": "MethodOfAccountingOtherInd/@methodOfAccountingOtherDesc",
+      "type": "string"
+    },
+    {
+      "name": "MissingSSNEINReasonCd",
+      "path": "MissingSSNEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NegativeAdjustmentInd",
+      "path": "NegativeAdjustmentInd",
+      "type": "bool"
+    },
+    {
+      "name": "NetSectionAdjustmentAmt",
+      "path": "NetSectionAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@increaseOrDecreaseCd",
+      "path": "NetSectionAdjustmentAmt/@increaseOrDecreaseCd",
+      "type": "enum"
+    },
+    {
+      "name": "NotUnderExamInd",
+      "path": "NotUnderExamInd",
+      "type": "bool"
+    },
+    {
+      "name": "OneHundredTwentyDaysPeriodInd",
+      "path": "OneHundredTwentyDaysPeriodInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartOfAdjAttrblBtwnMembersInd",
+      "path": "PartOfAdjAttrblBtwnMembersInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PnReqPrvtLtrRlngTamAcctChgInd",
+      "path": "PnReqPrvtLtrRlngTamAcctChgInd",
+      "type": "bool"
+    },
+    {
+      "name": "PreparerOtherThanFilerNm",
+      "path": "PreparerOtherThanFilerNm",
+      "type": "string"
+    },
+    {
+      "name": "PreparerPersonNm",
+      "path": "PreparerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProposedMethodUsedForBksInd",
+      "path": "ProposedMethodUsedForBksInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrtshpSCorpAcctMthdUndExamInd",
+      "path": "PrtshpSCorpAcctMthdUndExamInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyRdcUserFeeRqrInfoAttInd",
+      "path": "QlfyRdcUserFeeRqrInfoAttInd",
+      "type": "bool"
+    },
+    {
+      "name": "RcvChgMthdAcctLtrCorresFaxInd",
+      "path": "RcvChgMthdAcctLtrCorresFaxInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReqFiledUnderWindowPeriodInd",
+      "path": "ReqFiledUnderWindowPeriodInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequestChgUndSect1381Ind",
+      "path": "RequestChgUndSect1381Ind",
+      "type": "bool"
+    },
+    {
+      "name": "RequestingChgToOverallAcctInd",
+      "path": "RequestingChgToOverallAcctInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequireUseCutOffBasisNoInd",
+      "path": "RequireUseCutOffBasisNoInd",
+      "type": "bool"
+    },
+    {
+      "name": "RequireUseCutOffBasisYesInd",
+      "path": "RequireUseCutOffBasisYesInd",
+      "type": "bool"
+    },
+    {
+      "name": "ReturnsUnderExaminationInfo",
+      "path": "ReturnsUnderExaminationInfo",
+      "type": "unknown"
+    },
+    {
+      "name": "RulesRstrAutoChangeProcInd",
+      "path": "RulesRstrAutoChangeProcInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "Sect481aAdjPrChgRqrInd",
+      "path": "Sect481aAdjPrChgRqrInd",
+      "type": "bool"
+    },
+    {
+      "name": "@section481aAdjustmentAmt",
+      "path": "Sect481aAdjPrChgRqrInd/@section481aAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TakingEntireSectAdjIntoAcctInd",
+      "path": "TakingEntireSectAdjIntoAcctInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxYearBeginDt",
+      "path": "TaxYearBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearEndDt",
+      "path": "TaxYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "TelephoneNum",
+      "path": "TelephoneNum",
+      "type": "string"
+    },
+    {
+      "name": "ThreeMonthWindowInd",
+      "path": "ThreeMonthWindowInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepreciationOrAmortizationInd",
+      "path": "TypeOfAccountingMethod/DepreciationOrAmortizationInd",
+      "type": "bool"
+    },
+    {
+      "name": "FinclProductsAndActivitiesInd",
+      "path": "TypeOfAccountingMethod/FinclProductsAndActivitiesInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherApplicantTypeInd",
+      "path": "TypeOfAccountingMethod/OtherApplicantTypeInd",
+      "type": "bool"
+    },
+    {
+      "name": "@desc",
+      "path": "TypeOfAccountingMethod/OtherApplicantTypeInd/@desc",
+      "type": "unknown"
+    },
+    {
+      "name": "ControlledForeignCorpInd",
+      "path": "WhoIsFilingForm/ControlledForeignCorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "CooperativeInd",
+      "path": "WhoIsFilingForm/CooperativeInd",
+      "type": "bool"
+    },
+    {
+      "name": "Corporation1050Ind",
+      "path": "WhoIsFilingForm/Corporation1050Ind",
+      "type": "bool"
+    },
+    {
+      "name": "CorporationInd",
+      "path": "WhoIsFilingForm/CorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExemptOrganizationInd",
+      "path": "WhoIsFilingForm/ExemptOrganizationInd",
+      "type": "bool"
+    },
+    {
+      "name": "@codeSectionTxt",
+      "path": "WhoIsFilingForm/ExemptOrganizationInd/@codeSectionTxt",
+      "type": "string"
+    },
+    {
+      "name": "IndividualInd",
+      "path": "WhoIsFilingForm/IndividualInd",
+      "type": "bool"
+    },
+    {
+      "name": "InsuranceCompanySect816aInd",
+      "path": "WhoIsFilingForm/InsuranceCompanySect816aInd",
+      "type": "bool"
+    },
+    {
+      "name": "InsuranceCompanySect831Ind",
+      "path": "WhoIsFilingForm/InsuranceCompanySect831Ind",
+      "type": "bool"
+    },
+    {
+      "name": "OtherApplicantTypeInd",
+      "path": "WhoIsFilingForm/OtherApplicantTypeInd",
+      "type": "bool"
+    },
+    {
+      "name": "@desc",
+      "path": "WhoIsFilingForm/OtherApplicantTypeInd/@desc",
+      "type": "unknown"
+    },
+    {
+      "name": "PartnershipInd",
+      "path": "WhoIsFilingForm/PartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedPersonalSrvcCorpInd",
+      "path": "WhoIsFilingForm/QualifiedPersonalSrvcCorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "SCorporationInd",
+      "path": "WhoIsFilingForm/SCorporationInd",
+      "type": "bool"
+    }
+  ]
+}

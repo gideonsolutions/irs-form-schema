@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS8907",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AllocatedtoBeneficiariesAmt",
+      "path": "AllocatedtoBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYQlfyCokeAndCokeGasSoldType4",
+      "path": "CYQlfyCokeAndCokeGasSoldType4",
+      "type": "unknown"
+    },
+    {
+      "name": "CurrentYearNnconvFuelCrAmt",
+      "path": "CurrentYearNnconvFuelCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesAndTrustsCreditAmt",
+      "path": "EstatesAndTrustsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NYQlfyCokeAndCokeGasSoldType4",
+      "path": "NYQlfyCokeAndCokeGasSoldType4",
+      "type": "unknown"
+    },
+    {
+      "name": "NonconventionalSourceFuelCrAmt",
+      "path": "NonconventionalSourceFuelCrAmt",
+      "type": "usd"
+    }
+  ]
+}

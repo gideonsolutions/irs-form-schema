@@ -1,0 +1,166 @@
+{
+  "form_id": "IRS944",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "TaxOnWageTipsSubjAddnlMedcrAmt",
+      "path": "AddnlMedicareWageTipsAndTaxGrp/TaxOnWageTipsSubjAddnlMedcrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblWageTipsSubjAddnlMedcrAmt",
+      "path": "AddnlMedicareWageTipsAndTaxGrp/TxblWageTipsSubjAddnlMedcrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AnnualDepositorInd",
+      "path": "AnnualDepositorInd",
+      "type": "bool"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalWagesPaidDt",
+      "path": "BusinessClosedGrp/FinalWagesPaidDt",
+      "type": "date"
+    },
+    {
+      "name": "FutureFilingNotRequiredInd",
+      "path": "BusinessClosedGrp/FutureFilingNotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentYearAdjustmentAmt",
+      "path": "CurrentYearAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CheckingAccountInd",
+      "path": "DirectDepositGrp/CheckingAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DirectDepositGrp/DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "DirectDepositGrp/RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "SavingsAccountInd",
+      "path": "DirectDepositGrp/SavingsAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnMedicareWagesTipsAmt",
+      "path": "MedicareWageTipsAndTaxGrp/TaxOnMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableMedicareWagesTipsAmt",
+      "path": "MedicareWageTipsAndTaxGrp/TaxableMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MonthlyDepositorInd",
+      "path": "MonthlyDepositorInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplyOverpaymentNextReturnInd",
+      "path": "OverpaymentGrp/ApplyOverpaymentNextReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "OverpaidAmt",
+      "path": "OverpaymentGrp/OverpaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundOverpaymentInd",
+      "path": "OverpaymentGrp/RefundOverpaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnSocialSecurityTipsAmt",
+      "path": "SocialSecurityTipsAndTaxGrp/TaxOnSocialSecurityTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableSocSecTipsAmt",
+      "path": "SocialSecurityTipsAndTaxGrp/TaxableSocSecTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxAmt",
+      "path": "SocialSecurityWageAndTaxGrp/SocialSecurityTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxCashWagesAmt",
+      "path": "SocialSecurityWageAndTaxGrp/SocialSecurityTaxCashWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityAmt",
+      "path": "TaxLiabilityMonthlyDetailGrp/TaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSSMdcrTaxAmt",
+      "path": "TotalSSMdcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAfterAdjustmentAmt",
+      "path": "TotalTaxAfterAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxBeforeAdjustmentAmt",
+      "path": "TotalTaxBeforeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLiabilityAmt",
+      "path": "TotalTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesNotSubjToSSMedcrTaxInd",
+      "path": "WagesNotSubjToSSMedcrTaxInd",
+      "type": "bool"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "form_id": "IRS8873",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AggregateOnForm8873BoxInd",
+      "path": "AggregateOnForm8873BoxInd",
+      "type": "bool"
+    },
+    {
+      "name": "AggregateOnTabularSchBoxInd",
+      "path": "AggregateOnTabularSchBoxInd",
+      "type": "bool"
+    },
+    {
+      "name": "ConstructionSrvcFrgnTrdIncmAmt",
+      "path": "ConstructionSrvcFrgnTrdIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfLaborForeignTradeIncmAmt",
+      "path": "CostOfLaborForeignTradeIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostOfLbrFrgnSaleLsngIncmAmt",
+      "path": "CostOfLbrFrgnSaleLsngIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostsAndExpensesDrtLbrCostsAmt",
+      "path": "CostsAndExpensesDrtLbrCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostsAndExpensesForPropSoldAmt",
+      "path": "CostsAndExpensesForPropSoldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostsAndExpnssDrtMtrlCostsAmt",
+      "path": "CostsAndExpnssDrtMtrlCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DedFrgnSaleLeasingIncmAmt",
+      "path": "DedFrgnSaleLeasingIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductionsForeignTradeIncmAmt",
+      "path": "DeductionsForeignTradeIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DifBtwnExpnDedNdFrgnTrdIncmAmt",
+      "path": "DifBtwnExpnDedNdFrgnTrdIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignSalesAndLeasingIncmAmt",
+      "path": "ForeignSalesAndLeasingIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTradeIncome1Amt",
+      "path": "ForeignTradeIncome1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTradeIncome2Amt",
+      "path": "ForeignTradeIncome2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTradeIncomeBy15PctAmt",
+      "path": "ForeignTradeIncomeBy15PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTradeIncomeBy2PctAmt",
+      "path": "ForeignTradeIncomeBy2PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTradeIncomeBy30PctAmt",
+      "path": "ForeignTradeIncomeBy30PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTradeIncomeSmallerAmt",
+      "path": "ForeignTradeIncomeSmallerAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTradeRcptsBy1Pnt2PctAmt",
+      "path": "ForeignTradeRcptsBy1Pnt2PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTradingGrossRcpts1Amt",
+      "path": "ForeignTradingGrossRcpts1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTradingGrossRcpts2Amt",
+      "path": "ForeignTradingGrossRcpts2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTradingGrossRcpts3Amt",
+      "path": "ForeignTradingGrossRcpts3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTrdIncmByFullCostingAmt",
+      "path": "ForeignTrdIncmByFullCostingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnCorpTreatedAsDomCorpInd",
+      "path": "FrgnCorpTreatedAsDomCorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnEconProcessExcReqrmntsInd",
+      "path": "FrgnEconProcessExcReqrmntsInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnGroRcptsMnsCostExpnssAmt",
+      "path": "FrgnGroRcptsMnsCostExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnPurchasesSaleLsngIncmAmt",
+      "path": "FrgnPurchasesSaleLsngIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnSaleAndLsngBy30PctAmt",
+      "path": "FrgnSaleAndLsngBy30PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnSaleAndLsngIncm1Amt",
+      "path": "FrgnSaleAndLsngIncm1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnSaleAndLsngIncm2Amt",
+      "path": "FrgnSaleAndLsngIncm2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnTrdGroRcptsBy1Pnt2PctAmt",
+      "path": "FrgnTrdGroRcptsBy1Pnt2PctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnTrdIncmMrgnalCostingPctAmt",
+      "path": "FrgnTrdIncmMrgnalCostingPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnTrdLeaseOrRntalIncmAmt",
+      "path": "FrgnTrdLeaseOrRntalIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnTrdSaleOrExchIncmAmt",
+      "path": "FrgnTrdSaleOrExchIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnTrdeIncmByMrgnalCostingAmt",
+      "path": "FrgnTrdeIncmByMrgnalCostingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GreatestOfQlfyFrgnTrdIncmAmt",
+      "path": "GreatestOfQlfyFrgnTrdIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GroupOfTransactionsBoxInd",
+      "path": "GroupOfTransactionsBoxInd",
+      "type": "bool"
+    },
+    {
+      "name": "InactivePrincipalBusActyCd",
+      "path": "InactivePrincipalBusActyCd",
+      "type": "enum"
+    },
+    {
+      "name": "InventoryBOYForeignTrdIncmAmt",
+      "path": "InventoryBOYForeignTrdIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InventoryEOYFrgnTradeIncmAmt",
+      "path": "InventoryEOYFrgnTradeIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvntryBOYFrgnSaleLsngIncmAmt",
+      "path": "InvntryBOYFrgnSaleLsngIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvntryEOYFrgnSaleLsngIncmAmt",
+      "path": "InvntryEOYFrgnSaleLsngIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ManagerialSrvcFrgnTrdIncmAmt",
+      "path": "ManagerialSrvcFrgnTrdIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Met50PercentFrgnDrtCostTestInd",
+      "path": "Met50PercentFrgnDrtCostTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "MetAlt85PCTFrgnDrtCostTestInd",
+      "path": "MetAlt85PCTFrgnDrtCostTestInd",
+      "type": "bool"
+    },
+    {
+      "name": "MultiplyExpensesDedByRtAmt",
+      "path": "MultiplyExpensesDedByRtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetGdsCostFrgnSaleLsngIncmAmt",
+      "path": "NetGdsCostFrgnSaleLsngIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetGoodsCostForeignTrdIncmAmt",
+      "path": "NetGoodsCostForeignTrdIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthCostsFrgnSaleLeasingIncmAmt",
+      "path": "OthCostsFrgnSaleLeasingIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthFrgnTrdExpnsAndDednsAmt",
+      "path": "OthFrgnTrdExpnsAndDednsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherCostsForeignTradeIncmAmt",
+      "path": "OtherCostsForeignTradeIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherExpnssDedAttrblGroIncmAmt",
+      "path": "OtherExpnssDedAttrblGroIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverallProfitPercentageLmtAmt",
+      "path": "OverallProfitPercentageLmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverallProfitPercentageRt",
+      "path": "OverallProfitPercentageRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PrincipalBusinessActivityCd",
+      "path": "PrincipalBusinessActivityCd",
+      "type": "enum"
+    },
+    {
+      "name": "PrincipalBusinessActivityDesc",
+      "path": "PrincipalBusinessActivityDesc",
+      "type": "string"
+    },
+    {
+      "name": "PurchasesForeignTradeIncmAmt",
+      "path": "PurchasesForeignTradeIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyTrdMthdsDivByFrgnTrdIncmRt",
+      "path": "QlfyTrdMthdsDivByFrgnTrdIncmRt",
+      "type": "decimal"
+    },
+    {
+      "name": "QualifyingForeignTradeIncmAmt",
+      "path": "QualifyingForeignTradeIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionForIntntByctAmt",
+      "path": "ReductionForIntntByctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SaleAttrblFrgnSaleLsngIncm1Amt",
+      "path": "SaleAttrblFrgnSaleLsngIncm1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "SaleAttrblFrgnSaleLsngIncm2Amt",
+      "path": "SaleAttrblFrgnSaleLsngIncm2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Sect263AFrgnSaleLeasingIncmAmt",
+      "path": "Sect263AFrgnSaleLeasingIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section263AForeignTradeIncmAmt",
+      "path": "Section263AForeignTradeIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ServicesRelatedFrgnTrdIncm2Amt",
+      "path": "ServicesRelatedFrgnTrdIncm2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ServicesRltdFrgnTrdIncm1Amt",
+      "path": "ServicesRltdFrgnTrdIncm1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerOfForeignTrdGroRcptsAmt",
+      "path": "SmallerOfForeignTrdGroRcptsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmlestOfFrgnTrdIncmGroRcptAmt",
+      "path": "SmlestOfFrgnTrdIncmGroRcptAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SrvcRltdFrgnSaleLsngIncmAmt",
+      "path": "SrvcRltdFrgnSaleLsngIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubtractForeignTradeIncomeAmt",
+      "path": "SubtractForeignTradeIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SubtractFrgnSaleLeasingIncmAmt",
+      "path": "SubtractFrgnSaleLeasingIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumOfCostsAndExpensesAmt",
+      "path": "SumOfCostsAndExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumOfForeignSaleLsngIncmAmt",
+      "path": "SumOfForeignSaleLsngIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumOfFrgnEconomicProcAmt",
+      "path": "SumOfFrgnEconomicProcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumOfQualifiedFrgnTrdIncmAmt",
+      "path": "SumOfQualifiedFrgnTrdIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TabularSchOfTransactionsBoxInd",
+      "path": "TabularSchOfTransactionsBoxInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotOfCostFrgnSaleLsngIncmAmt",
+      "path": "TotOfCostFrgnSaleLsngIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCostsAndExpensesAmt",
+      "path": "TotalCostsAndExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOfCostForeignTradeIncmAmt",
+      "path": "TotalOfCostForeignTradeIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TransInLieuOfFSCPrvsnBoxInd",
+      "path": "TransInLieuOfFSCPrvsnBoxInd",
+      "type": "bool"
+    },
+    {
+      "name": "UnderSection942a3BoxInd",
+      "path": "UnderSection942a3BoxInd",
+      "type": "bool"
+    },
+    {
+      "name": "WorldWideRcptsMnsCostExpnssAmt",
+      "path": "WorldWideRcptsMnsCostExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WorldwideGrossRcptsFromSlsAmt",
+      "path": "WorldwideGrossRcptsFromSlsAmt",
+      "type": "usd"
+    }
+  ]
+}

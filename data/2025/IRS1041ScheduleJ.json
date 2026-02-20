@@ -1,0 +1,186 @@
+{
+  "form_id": "IRS1041ScheduleJ",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AccumulationDistributionAmt",
+      "path": "AccumulationDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocationToBeneficiaryDetail",
+      "path": "AllocationToBeneficiaryDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "DistributableNetIncomeAmt",
+      "path": "DistributableNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstTierDistributionAmt",
+      "path": "FirstTierDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetDistributedAmt",
+      "path": "NetDistributedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryIncmAccumDistriGrp",
+      "path": "OrdinaryIncmAccumDistriGrp",
+      "type": "group"
+    },
+    {
+      "name": "AccumulationDistributionAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/AccumulationDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocatedAccumulationDistriAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/AllocatedAccumulationDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllocatedResultDistriAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/AllocatedResultDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributableNetIncomeAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/DistributableNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistributionAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/DistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLessDistributionsAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/IncomeLessDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorAccumulationDistriAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/PriorAccumulationDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearUndistriNetAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/PriorYearUndistriNetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxExemptInterestAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/TaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxUndistributedNetIncomeAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/TaxUndistributedNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThrowbackYr",
+      "path": "OrdinaryIncmAccumDistriGrp/ThrowbackYr",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalAccumDistriAllocatedAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/TotalAccumDistriAllocatedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UndistributedNetIncomeAmt",
+      "path": "OrdinaryIncmAccumDistriGrp/UndistributedNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondTierDistributionAmt",
+      "path": "SecondTierDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UndistriNetIncomeTaxesGrp",
+      "path": "UndistriNetIncomeTaxesGrp",
+      "type": "group"
+    },
+    {
+      "name": "AltTaxIncomeSubjectToTaxAmt",
+      "path": "UndistriNetIncomeTaxesGrp/AltTaxIncomeSubjectToTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltTaxNetShortTermGainAmt",
+      "path": "UndistriNetIncomeTaxesGrp/AltTaxNetShortTermGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeTaxAmt",
+      "path": "UndistriNetIncomeTaxesGrp/AlternativeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeTaxOnOtherIncomeAmt",
+      "path": "UndistriNetIncomeTaxesGrp/AlternativeTaxOnOtherIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlternativeTaxTaxableIncomePct",
+      "path": "UndistriNetIncomeTaxesGrp/AlternativeTaxTaxableIncomePct",
+      "type": "decimal"
+    },
+    {
+      "name": "IncomeSubjectToTaxAmt",
+      "path": "UndistriNetIncomeTaxesGrp/IncomeSubjectToTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetLongTermGainAmt",
+      "path": "UndistriNetIncomeTaxesGrp/NetLongTermGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetShortTermGainAmt",
+      "path": "UndistriNetIncomeTaxesGrp/NetShortTermGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularTaxAmt",
+      "path": "UndistriNetIncomeTaxesGrp/RegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "UndistriNetIncomeTaxesGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "UndistriNetIncomeTaxesGrp/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomePct",
+      "path": "UndistriNetIncomeTaxesGrp/TaxableIncomePct",
+      "type": "decimal"
+    },
+    {
+      "name": "ThrowbackYr",
+      "path": "UndistriNetIncomeTaxesGrp/ThrowbackYr",
+      "type": "unknown"
+    },
+    {
+      "name": "TotalNetGainAmt",
+      "path": "UndistriNetIncomeTaxesGrp/TotalNetGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TrustTxblIncomeNotExcldSBAmt",
+      "path": "UndistriNetIncomeTaxesGrp/TrustTxblIncomeNotExcldSBAmt",
+      "type": "usd"
+    }
+  ]
+}

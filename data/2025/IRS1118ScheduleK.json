@@ -1,0 +1,476 @@
+{
+  "form_id": "IRS1118ScheduleK",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "CorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "CorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "           ForeignTaxCyovFollowingCYAmt",
+      "path": "CurrentTaxYear/           ForeignTaxCyovFollowingCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCarryoverGenAmt",
+      "path": "CurrentTaxYear/ForeignTaxCarryoverGenAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCarriedBackAmt",
+      "path": "CurrentTaxYear/TentativeCarriedBackAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "             ForeignTaxCarryoverAmt",
+      "path": "EighthPrecedingTaxYear/             ForeignTaxCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             OtherAdjustmentsAmt",
+      "path": "EighthPrecedingTaxYear/             OtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             SectionRedeterminationAdjAmt",
+      "path": "EighthPrecedingTaxYear/             SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            AdjustmentToFrgnTxCarryOverAmt",
+      "path": "EighthPrecedingTaxYear/            AdjustmentToFrgnTxCarryOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryOverUsedAmt",
+      "path": "EighthPrecedingTaxYear/            ForeignTaxCarryOverUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            FrgnTaxCyovPrecedingTaxYrAmt",
+      "path": "EighthPrecedingTaxYear/            FrgnTaxCyovPrecedingTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             OtherAdjustmentsAmt",
+      "path": "FifthPrecedingTaxYear/             OtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            AdjustmentToFrgnTxCarryOverAmt",
+      "path": "FifthPrecedingTaxYear/            AdjustmentToFrgnTxCarryOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryOverUsedAmt",
+      "path": "FifthPrecedingTaxYear/            ForeignTaxCarryOverUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryoverAmt",
+      "path": "FifthPrecedingTaxYear/            ForeignTaxCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            FrgnTaxCyovPrecedingTaxYrAmt",
+      "path": "FifthPrecedingTaxYear/            FrgnTaxCyovPrecedingTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            SectionRedeterminationAdjAmt",
+      "path": "FifthPrecedingTaxYear/            SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            CarrybackAdjustmentAmt",
+      "path": "FirstPrecedingTaxYear/            CarrybackAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryoverAmt",
+      "path": "FirstPrecedingTaxYear/            ForeignTaxCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           AdjustmentToFrgnTxCarryOverAmt",
+      "path": "FirstPrecedingTaxYear/           AdjustmentToFrgnTxCarryOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           ForeignTaxCarryOverUsedAmt",
+      "path": "FirstPrecedingTaxYear/           ForeignTaxCarryOverUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           FrgnTaxCyovPrecedingTaxYrAmt",
+      "path": "FirstPrecedingTaxYear/           FrgnTaxCyovPrecedingTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           SectionRedeterminationAdjAmt",
+      "path": "FirstPrecedingTaxYear/           SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsAmt",
+      "path": "FirstPrecedingTaxYear/OtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            SectionRedeterminationAdjAmt",
+      "path": "FourthPrecedingTaxYear/            SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           AdjustmentToFrgnTxCarryOverAmt",
+      "path": "FourthPrecedingTaxYear/           AdjustmentToFrgnTxCarryOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           ForeignTaxCarryOverUsedAmt",
+      "path": "FourthPrecedingTaxYear/           ForeignTaxCarryOverUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           ForeignTaxCarryoverAmt",
+      "path": "FourthPrecedingTaxYear/           ForeignTaxCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           FrgnTaxCyovPrecedingTaxYrAmt",
+      "path": "FourthPrecedingTaxYear/           FrgnTaxCyovPrecedingTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "          OtherAdjustmentsAmt",
+      "path": "FourthPrecedingTaxYear/          OtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "             OtherAdjustmentsAmt",
+      "path": "NinthPrecedingTaxYear/             OtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            AdjustmentToFrgnTxCarryOverAmt",
+      "path": "NinthPrecedingTaxYear/            AdjustmentToFrgnTxCarryOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryOverUsedAmt",
+      "path": "NinthPrecedingTaxYear/            ForeignTaxCarryOverUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryoverAmt",
+      "path": "NinthPrecedingTaxYear/            ForeignTaxCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            FrgnTaxCyovPrecedingTaxYrAmt",
+      "path": "NinthPrecedingTaxYear/            FrgnTaxCyovPrecedingTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            SectionRedeterminationAdjAmt",
+      "path": "NinthPrecedingTaxYear/            SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsDescription",
+      "path": "OtherAdjustmentsDescription",
+      "type": "unknown"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "            ForeignTaxCarryoverAmt",
+      "path": "SecondPrecedingTaxYear/            ForeignTaxCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            FrgnTaxCyovPrecedingTaxYrAmt",
+      "path": "SecondPrecedingTaxYear/            FrgnTaxCyovPrecedingTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            SectionRedeterminationAdjAmt",
+      "path": "SecondPrecedingTaxYear/            SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           AdjustmentToFrgnTxCarryOverAmt",
+      "path": "SecondPrecedingTaxYear/           AdjustmentToFrgnTxCarryOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           ForeignTaxCarryOverUsedAmt",
+      "path": "SecondPrecedingTaxYear/           ForeignTaxCarryOverUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsAmt",
+      "path": "SecondPrecedingTaxYear/OtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "             AdjustmentToFrgnTxCarryOverAmt",
+      "path": "SeventhPrecedingTaxYear/             AdjustmentToFrgnTxCarryOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             ForeignTaxCarryOverUsedAmt",
+      "path": "SeventhPrecedingTaxYear/             ForeignTaxCarryOverUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             OtherAdjustmentsAmt",
+      "path": "SeventhPrecedingTaxYear/             OtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryoverAmt",
+      "path": "SeventhPrecedingTaxYear/            ForeignTaxCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            FrgnTaxCyovPrecedingTaxYrAmt",
+      "path": "SeventhPrecedingTaxYear/            FrgnTaxCyovPrecedingTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            SectionRedeterminationAdjAmt",
+      "path": "SeventhPrecedingTaxYear/            SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             OtherAdjustmentsAmt",
+      "path": "SixthPrecedingTaxYear/             OtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             SectionRedeterminationAdjAmt",
+      "path": "SixthPrecedingTaxYear/             SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            AdjustmentToFrgnTxCarryOverAmt",
+      "path": "SixthPrecedingTaxYear/            AdjustmentToFrgnTxCarryOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryOverUsedAmt",
+      "path": "SixthPrecedingTaxYear/            ForeignTaxCarryOverUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryoverAmt",
+      "path": "SixthPrecedingTaxYear/            ForeignTaxCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            FrgnTaxCyovPrecedingTaxYrAmt",
+      "path": "SixthPrecedingTaxYear/            FrgnTaxCyovPrecedingTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentFrgnTxCyovSubtlAmt",
+      "path": "Subtotal/AdjustmentFrgnTxCyovSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCarryoverSubtotalAmt",
+      "path": "Subtotal/ForeignTaxCarryoverSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCyovExpiredSubtlAmt",
+      "path": "Subtotal/ForeignTaxCyovExpiredSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCyovUsedSubtlAmt",
+      "path": "Subtotal/ForeignTaxCyovUsedSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FrgnTaxCyovFollowingSubtlAmt",
+      "path": "Subtotal/FrgnTaxCyovFollowingSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "Subtotal/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SectionRedeterminationAdjAmt",
+      "path": "Subtotal/SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCyovExpiredSubtlAmt",
+      "path": "SubtotalFromPage1/            ForeignTaxCyovExpiredSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           AdjustmentFrgnTxCyovSubtlAmt",
+      "path": "SubtotalFromPage1/           AdjustmentFrgnTxCyovSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           ForeignTaxCarryoverSubtotalAmt",
+      "path": "SubtotalFromPage1/           ForeignTaxCarryoverSubtotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           ForeignTaxCyovUsedSubtlAmt",
+      "path": "SubtotalFromPage1/           ForeignTaxCyovUsedSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           FrgnTaxCyovFollowingSubtlAmt",
+      "path": "SubtotalFromPage1/           FrgnTaxCyovFollowingSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           SectionRedeterminationAdjAmt",
+      "path": "SubtotalFromPage1/           SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             FrgnTaxCyovPrecedingTaxYrAmt",
+      "path": "TenthPrecedingTaxYear/             FrgnTaxCyovPrecedingTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "             OtherAdjustmentsAmt",
+      "path": "TenthPrecedingTaxYear/             OtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            AdjustmentToFrgnTxCarryOverAmt",
+      "path": "TenthPrecedingTaxYear/            AdjustmentToFrgnTxCarryOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryOverUsedAmt",
+      "path": "TenthPrecedingTaxYear/            ForeignTaxCarryOverUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            ForeignTaxCarryoverAmt",
+      "path": "TenthPrecedingTaxYear/            ForeignTaxCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            SectionRedeterminationAdjAmt",
+      "path": "TenthPrecedingTaxYear/            SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            AdjustmentToFrgnTxCarryOverAmt",
+      "path": "ThirdPrecedingTaxYear/            AdjustmentToFrgnTxCarryOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "            FrgnTaxCyovPrecedingTaxYrAmt",
+      "path": "ThirdPrecedingTaxYear/            FrgnTaxCyovPrecedingTaxYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           ForeignTaxCarryOverUsedAmt",
+      "path": "ThirdPrecedingTaxYear/           ForeignTaxCarryOverUsedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           ForeignTaxCarryoverAmt",
+      "path": "ThirdPrecedingTaxYear/           ForeignTaxCarryoverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "           SectionRedeterminationAdjAmt",
+      "path": "ThirdPrecedingTaxYear/           SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustmentsFrgnTxCyovTotAmt",
+      "path": "Totals/AdjustmentsFrgnTxCyovTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CarrybackAdjustmentTotalAmt",
+      "path": "Totals/CarrybackAdjustmentTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCarryoverExprTotAmt",
+      "path": "Totals/ForeignTaxCarryoverExprTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCarryoverGenTotAmt",
+      "path": "Totals/ForeignTaxCarryoverGenTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCarryoverTotalsAmt",
+      "path": "Totals/ForeignTaxCarryoverTotalsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCarryoverUsedTotAmt",
+      "path": "Totals/ForeignTaxCarryoverUsedTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCyovFollowingTotAmt",
+      "path": "Totals/ForeignTaxCyovFollowingTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotal",
+      "path": "Totals/OtherAdjustmentsTotal",
+      "type": "unknown"
+    },
+    {
+      "name": "SectionRedeterminationAdjAmt",
+      "path": "Totals/SectionRedeterminationAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeCarriedBackTotalAmt",
+      "path": "Totals/TentativeCarriedBackTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TreatyCountryCd",
+      "path": "TreatyCountryCd",
+      "type": "enum"
+    }
+  ]
+}

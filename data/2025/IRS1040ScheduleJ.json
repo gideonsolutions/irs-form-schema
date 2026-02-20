@@ -1,0 +1,116 @@
+{
+  "form_id": "IRS1040ScheduleJ",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AverageFarmIncomeTaxAmt",
+      "path": "AverageFarmIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentTaxAmt",
+      "path": "CurrentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ElectedFarmIncomeAmt",
+      "path": "ElectedFarmIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessNetLongTermCapGainAmt",
+      "path": "ExcessNetLongTermCapGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeAmt",
+      "path": "FirstPYTxblFarmIncmDetail/NetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxTableAmt",
+      "path": "FirstPYTxblFarmIncmDetail/TaxTableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "FirstPYTxblFarmIncmDetail/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossFarmIncomeTaxAmt",
+      "path": "GrossFarmIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeAmt",
+      "path": "NetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeAmt",
+      "path": "SecondPYTxblFarmIncmDetail/NetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxTableAmt",
+      "path": "SecondPYTxblFarmIncmDetail/TaxTableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "SecondPYTxblFarmIncmDetail/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeTax1stPYRtnAmt",
+      "path": "TentativeTax1stPYRtnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeTax2ndPYRtnAmt",
+      "path": "TentativeTax2ndPYRtnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeTax3rdPYRtnAmt",
+      "path": "TentativeTax3rdPYRtnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AverageIncomeAmt",
+      "path": "ThirdPYTxblFarmIncmDetail/AverageIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetIncomeAmt",
+      "path": "ThirdPYTxblFarmIncmDetail/NetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxTableAmt",
+      "path": "ThirdPYTxblFarmIncmDetail/TaxTableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableIncomeAmt",
+      "path": "ThirdPYTxblFarmIncmDetail/TaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxTableAmt",
+      "path": "TotalTaxTableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrecapturedPropertyGainAmt",
+      "path": "UnrecapturedPropertyGainAmt",
+      "type": "usd"
+    }
+  ]
+}

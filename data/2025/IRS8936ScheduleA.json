@@ -1,0 +1,231 @@
+{
+  "form_id": "IRS8936ScheduleA",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "NewClnVehServiceTYNoInd",
+      "path": "/NewClnVehServiceTYNoInd",
+      "type": "bool"
+    },
+    {
+      "name": "CrTrnsfrDlrSaleAmt",
+      "path": "CrTrnsfrDlrSaleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CrTrnsfrDlrSaleInd",
+      "path": "CrTrnsfrDlrSaleInd",
+      "type": "bool"
+    },
+    {
+      "name": "AcqVehUseOrLeaseNotResaleInd",
+      "path": "NewCleanVehicleGrp/AcqVehUseOrLeaseNotResaleInd",
+      "type": "bool"
+    },
+    {
+      "name": "AmtGrtrThanCYFSLimitInd",
+      "path": "NewCleanVehicleGrp/AmtGrtrThanCYFSLimitInd",
+      "type": "bool"
+    },
+    {
+      "name": "AmtGrtrThanPYFSLimitInd",
+      "path": "NewCleanVehicleGrp/AmtGrtrThanPYFSLimitInd",
+      "type": "bool"
+    },
+    {
+      "name": "BusinessInvestmentUseAmt",
+      "path": "NewCleanVehicleGrp/BusinessInvestmentUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvestmentUsePct",
+      "path": "NewCleanVehicleGrp/BusinessInvestmentUsePct",
+      "type": "decimal"
+    },
+    {
+      "name": "FilingFormIITRInd",
+      "path": "NewCleanVehicleGrp/FilingFormIITRInd",
+      "type": "bool"
+    },
+    {
+      "name": "NewClnVehServiceTYYesInd",
+      "path": "NewCleanVehicleGrp/NewClnVehServiceTYYesInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrsnlUseNewCleanVehicleCrAmt",
+      "path": "NewCleanVehicleGrp/PrsnlUseNewCleanVehicleCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ResellClnVeh30DaysInd",
+      "path": "NewCleanVehicleGrp/ResellClnVeh30DaysInd",
+      "type": "bool"
+    },
+    {
+      "name": "TentativeCreditAmt",
+      "path": "NewCleanVehicleGrp/TentativeCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NotAllowedClaimClnVehCrInd",
+      "path": "NotAllowedClaimClnVehCrInd",
+      "type": "bool"
+    },
+    {
+      "name": "AcqPrevOwnVehUseNotResaleInd",
+      "path": "PrevOwnCleanVehicleGrp/AcqPrevOwnVehUseNotResaleInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClaimedAsDependentInd",
+      "path": "PrevOwnCleanVehicleGrp/ClaimedAsDependentInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClnVehSalePriceMoreSpcfdAmtInd",
+      "path": "PrevOwnCleanVehicleGrp/ClnVehSalePriceMoreSpcfdAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrevOwnAmtGrtrThanCYFSLimitInd",
+      "path": "PrevOwnCleanVehicleGrp/PrevOwnAmtGrtrThanCYFSLimitInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrevOwnAmtGrtrThanPYFSLimitInd",
+      "path": "PrevOwnCleanVehicleGrp/PrevOwnAmtGrtrThanPYFSLimitInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrevOwnClnVehServiceTYYesInd",
+      "path": "PrevOwnCleanVehicleGrp/PrevOwnClnVehServiceTYYesInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrevOwnResellClnVeh30DaysInd",
+      "path": "PrevOwnCleanVehicleGrp/PrevOwnResellClnVeh30DaysInd",
+      "type": "bool"
+    },
+    {
+      "name": "PrevOwnedCleanVehCreditAmt",
+      "path": "PrevOwnCleanVehicleGrp/PrevOwnedCleanVehCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SalePriceAmt",
+      "path": "PrevOwnCleanVehicleGrp/SalePriceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SalePriceBySpecifiedPctAmt",
+      "path": "PrevOwnCleanVehicleGrp/SalePriceBySpecifiedPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AcqCmrclClnVehUseNotResaleInd",
+      "path": "QlfyCmrclCleanVehicleYesGrp/AcqCmrclClnVehUseNotResaleInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossVehicleWeightRatingNum",
+      "path": "QlfyCmrclCleanVehicleYesGrp/GrossVehicleWeightRatingNum",
+      "type": "string"
+    },
+    {
+      "name": "IRSIssuedRegistrationNum",
+      "path": "QlfyCmrclCleanVehicleYesGrp/IRSIssuedRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "MaxQlfyCmrclCleanVehCrAmt",
+      "path": "QlfyCmrclCleanVehicleYesGrp/MaxQlfyCmrclCleanVehCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSect179ExpenseDedAmt",
+      "path": "QlfyCmrclCleanVehicleYesGrp/NetSect179ExpenseDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetSect179ExpenseDedPctAmt",
+      "path": "QlfyCmrclCleanVehicleYesGrp/NetSect179ExpenseDedPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PrevOwnClnVehServiceTYNoInd",
+      "path": "QlfyCmrclCleanVehicleYesGrp/PrevOwnClnVehServiceTYNoInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyCmrclCleanVehicleCrAmt",
+      "path": "QlfyCmrclCleanVehicleYesGrp/QlfyCmrclCleanVehicleCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyCmrclClnVehSrvcTYYesInd",
+      "path": "QlfyCmrclCleanVehicleYesGrp/QlfyCmrclClnVehSrvcTYYesInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section179ExpenseDeductionAmt",
+      "path": "QlfyCmrclCleanVehicleYesGrp/Section179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentQlfyCmrclCleanVehicleCrAmt",
+      "path": "QlfyCmrclCleanVehicleYesGrp/TentQlfyCmrclCleanVehicleCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VINQlfyCmrclClnVehInSrvcTYInd",
+      "path": "QlfyCmrclCleanVehicleYesGrp/VINQlfyCmrclClnVehInSrvcTYInd",
+      "type": "bool"
+    },
+    {
+      "name": "VehOfCharSubjToAllwncDeprecInd",
+      "path": "QlfyCmrclCleanVehicleYesGrp/VehOfCharSubjToAllwncDeprecInd",
+      "type": "bool"
+    },
+    {
+      "name": "VehicleCostOrOtherBasisAmt",
+      "path": "QlfyCmrclCleanVehicleYesGrp/VehicleCostOrOtherBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleIncrementalCostAmt",
+      "path": "QlfyCmrclCleanVehicleYesGrp/VehicleIncrementalCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehiclePoweredByGasOrDieselInd",
+      "path": "QlfyCmrclCleanVehicleYesGrp/VehiclePoweredByGasOrDieselInd",
+      "type": "bool"
+    },
+    {
+      "name": "VIN",
+      "path": "VIN",
+      "type": "unknown"
+    },
+    {
+      "name": "VehicleMakeNameTxt",
+      "path": "VehicleDescriptionGrp/VehicleMakeNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "VehicleModelNameTxt",
+      "path": "VehicleDescriptionGrp/VehicleModelNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "VehicleModelYr",
+      "path": "VehicleDescriptionGrp/VehicleModelYr",
+      "type": "unknown"
+    },
+    {
+      "name": "VehiclePlacedInServiceDt",
+      "path": "VehiclePlacedInServiceDt",
+      "type": "date"
+    }
+  ]
+}

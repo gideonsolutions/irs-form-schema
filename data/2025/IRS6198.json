@@ -1,0 +1,171 @@
+{
+  "form_id": "IRS6198",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ActivityDescriptionTxt",
+      "path": "ActivityDescriptionTxt",
+      "type": "string"
+    },
+    {
+      "name": "ActivityInvestmentAmt",
+      "path": "ActivityInvestmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBasisAmt",
+      "path": "AdjustedBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmountAtRiskAmt",
+      "path": "AmountAtRiskAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearDecreaseRiskAmt",
+      "path": "CurrentYearDecreaseRiskAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearIncreaseRiskAmt",
+      "path": "CurrentYearIncreaseRiskAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearProfitOrLossAmt",
+      "path": "CurrentYearProfitOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DecreaseSinceEffectiveDateInd",
+      "path": "DecreaseSinceEffectiveDateInd",
+      "type": "bool"
+    },
+    {
+      "name": "DecreaseSincePriorYearInd",
+      "path": "DecreaseSincePriorYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "DecreasesAmt",
+      "path": "DecreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleLossAmt",
+      "path": "DeductibleLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DetailedComputationRisk1Amt",
+      "path": "DetailedComputationRisk1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "DetailedComputationRiskAmt",
+      "path": "DetailedComputationRiskAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EffectiveDateDecreaseAmt",
+      "path": "EffectiveDateDecreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EffectiveDateIncreaseAmt",
+      "path": "EffectiveDateIncreaseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EffectiveDateRiskAmountInd",
+      "path": "EffectiveDateRiskAmountInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form4797GainOrLossAmt",
+      "path": "Form4797GainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form6198PriorYearInd",
+      "path": "Form6198PriorYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncreaseSinceEffectiveDateInd",
+      "path": "IncreaseSinceEffectiveDateInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncreaseSincePriorYearInd",
+      "path": "IncreaseSincePriorYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "IncreasesAmt",
+      "path": "IncreasesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetAtRiskAmt",
+      "path": "NetAtRiskAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryIncomeLossAmt",
+      "path": "OrdinaryIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherDeductionsAmt",
+      "path": "OtherDeductionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherFormOrScheduleAmt",
+      "path": "OtherFormOrScheduleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScheduleDGainOrLossAmt",
+      "path": "ScheduleDGainOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScheduleK1IncomeOrGainAmt",
+      "path": "ScheduleK1IncomeOrGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ScheduleOrFormNum",
+      "path": "ScheduleOrFormNum",
+      "type": "string"
+    },
+    {
+      "name": "SimplifiedComputationRiskAmt",
+      "path": "SimplifiedComputationRiskAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumActyInvestmentAndDtIncrAmt",
+      "path": "SumActyInvestmentAndDtIncrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumAdjBasisAndIncreaseRiskAmt",
+      "path": "SumAdjBasisAndIncreaseRiskAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumAdjBasisIncrLessDecrRiskAmt",
+      "path": "SumAdjBasisIncrLessDecrRiskAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumAmountAtRiskAndIncreaseAmt",
+      "path": "SumAmountAtRiskAndIncreaseAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "form_id": "IRS8996",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AlternativeValuationMethodInd",
+      "path": "AlternativeValuationMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "CorporationInd",
+      "path": "CorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "DisposeInvestmentQOFInd",
+      "path": "DisposeInvestmentQOFInd",
+      "type": "bool"
+    },
+    {
+      "name": "FinclStmtValuationMethodInd",
+      "path": "FinclStmtValuationMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "FirstMonthQOFCd",
+      "path": "FirstMonthQOFCd",
+      "type": "enum"
+    },
+    {
+      "name": "FirstPeriodQOFInd",
+      "path": "FirstPeriodQOFInd",
+      "type": "bool"
+    },
+    {
+      "name": "InvestmentStandardPct",
+      "path": "InvestmentStandardPct",
+      "type": "decimal"
+    },
+    {
+      "name": "MaintainInvestmentStandardInd",
+      "path": "MaintainInvestmentStandardInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartnershipInd",
+      "path": "PartnershipInd",
+      "type": "bool"
+    },
+    {
+      "name": "PropLastDay6MonthPct",
+      "path": "PropLastDay6MonthPct",
+      "type": "decimal"
+    },
+    {
+      "name": "PropertyLastDayTYPct",
+      "path": "PropertyLastDayTYPct",
+      "type": "decimal"
+    },
+    {
+      "name": "QOFDecertificationElectInd",
+      "path": "QOFDecertificationGrp/QOFDecertificationElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "MonthlyPenaltyAmountGrp",
+      "path": "QOFPenaltyGrp/MonthlyPenaltyAmountGrp",
+      "type": "group"
+    },
+    {
+      "name": "MonthlyTotUnderpaymentAmtGrp",
+      "path": "QOFPenaltyGrp/MonthlyTotUnderpaymentAmtGrp",
+      "type": "group"
+    },
+    {
+      "name": "Month10Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month10Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month11Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month11Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month12Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month12Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month1Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month1Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month2Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month2Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month3Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month3Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month4Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month4Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month5Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month5Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month6Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month6Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month7Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month7Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month8Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month8Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "Month9Pct",
+      "path": "QOFPenaltyGrp/MonthlyUnderpaymentRateGrp/Month9Pct",
+      "type": "decimal"
+    },
+    {
+      "name": "MthlyPropAstLastDayMonCalcGrp",
+      "path": "QOFPenaltyGrp/MthlyPropAstLastDayMonCalcGrp",
+      "type": "group"
+    },
+    {
+      "name": "MthlyTotAstLessTotQOZGrp",
+      "path": "QOFPenaltyGrp/MthlyTotAstLessTotQOZGrp",
+      "type": "group"
+    },
+    {
+      "name": "MthlyTotQOZPropLastDayMonthGrp",
+      "path": "QOFPenaltyGrp/MthlyTotQOZPropLastDayMonthGrp",
+      "type": "group"
+    },
+    {
+      "name": "MthlyTotalPropAstLastDayMonGrp",
+      "path": "QOFPenaltyGrp/MthlyTotalPropAstLastDayMonGrp",
+      "type": "group"
+    },
+    {
+      "name": "QlfyOpportunityFundPenaltyAmt",
+      "path": "QOFPenaltyGrp/QlfyOpportunityFundPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QOZBusPropDrtOwnedLeasedGrp",
+      "path": "QOZBusPropDrtOwnedLeasedGrp",
+      "type": "group"
+    },
+    {
+      "name": "QOZStockPartnershipIntInvstGrp",
+      "path": "QOZStockPartnershipIntInvstGrp",
+      "type": "group"
+    },
+    {
+      "name": "QlfyOpportunityFundPenaltyAmt",
+      "path": "QlfyOpportunityFundPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedOpportunityFundNoInd",
+      "path": "QualifiedOpportunityFundNoInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedOpportunityFundYesInd",
+      "path": "QualifiedOpportunityFundYesInd",
+      "type": "bool"
+    },
+    {
+      "name": "TotPropAssetsLastDay6MonthAmt",
+      "path": "TotPropAssetsLastDay6MonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQOZPropLastDay6MonthAmt",
+      "path": "TotQOZPropLastDay6MonthAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQOZPropLastDayTYAmt",
+      "path": "TotQOZPropLastDayTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPropAssetsLastDayTYAmt",
+      "path": "TotalPropAssetsLastDayTYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPropertyPct",
+      "path": "TotalPropertyPct",
+      "type": "decimal"
+    }
+  ]
+}

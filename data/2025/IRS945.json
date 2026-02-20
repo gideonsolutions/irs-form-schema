@@ -1,0 +1,101 @@
+{
+  "form_id": "IRS945",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BackupWithholdingAmt",
+      "path": "BackupWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalPaymentDt",
+      "path": "BusinessClosedGrp/FinalPaymentDt",
+      "type": "date"
+    },
+    {
+      "name": "FutureFilingNotRequiredInd",
+      "path": "BusinessClosedGrp/FutureFilingNotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "CheckingAccountInd",
+      "path": "DirectDepositGrp/CheckingAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DirectDepositGrp/DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "DirectDepositGrp/RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "SavingsAccountInd",
+      "path": "DirectDepositGrp/SavingsAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MonthlyScheduleDepositorInd",
+      "path": "MonthlyScheduleDepositorInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplyOverpaymentNextReturnInd",
+      "path": "OverpaymentGrp/ApplyOverpaymentNextReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "OverpaidAmt",
+      "path": "OverpaymentGrp/OverpaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundOverpaymentInd",
+      "path": "OverpaymentGrp/RefundOverpaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "PriorAddressInd",
+      "path": "PriorAddressInd",
+      "type": "bool"
+    },
+    {
+      "name": "SemiweeklyScheduleDepositorInd",
+      "path": "SemiweeklyScheduleDepositorInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxLiabilityMonthlyDetailGrp",
+      "path": "TaxLiabilityMonthlyDetailGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLiabilityAmt",
+      "path": "TotalTaxLiabilityAmt",
+      "type": "usd"
+    }
+  ]
+}

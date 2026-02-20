@@ -1,0 +1,61 @@
+{
+  "form_id": "IRS2106EZ",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "BusExpnssLessMealsEntrmtAmt",
+      "path": "BusExpnssLessMealsEntrmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MealsAndEntertainmentAmt",
+      "path": "MealsAndEntertainmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MealsAndEntrmtExpnssAllwblAmt",
+      "path": "MealsAndEntrmtExpnssAllwblAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OccupationTxt",
+      "path": "OccupationTxt",
+      "type": "string"
+    },
+    {
+      "name": "ParkingFeesTollsLocalTransAmt",
+      "path": "ParkingFeesTollsLocalTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TravExpnsLessMealsEntrmtAmt",
+      "path": "TravExpnsLessMealsEntrmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnreimEmployeeBusExpnsAmt",
+      "path": "UnreimEmployeeBusExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleExpenseAmt",
+      "path": "VehicleExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VehicleUseInformationGrp",
+      "path": "VehicleUseInformationGrp",
+      "type": "group"
+    }
+  ]
+}

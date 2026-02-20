@@ -1,0 +1,66 @@
+{
+  "form_id": "IRS8820",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AllocatedtoBeneficiariesAmt",
+      "path": "AllocatedtoBeneficiariesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CYCLessEmployerDiffWageCrAmt",
+      "path": "CYCLessEmployerDiffWageCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployerDifferentialWageCrAmt",
+      "path": "EmployerDifferentialWageCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstatesAndTrustsCreditAmt",
+      "path": "EstatesAndTrustsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrphanDrugCreditAmt",
+      "path": "OrphanDrugCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyClinicalTestExpnssPdAmt",
+      "path": "QlfyClinicalTestExpnssPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReducedSection280CCrElectAmt",
+      "path": "ReducedSection280CCrElectAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReducedSection280CCrElectAmt ",
+      "path": "ReducedSection280CCrElectAmt ",
+      "type": "unknown"
+    },
+    {
+      "name": "ReducedSection280CCrElectInd",
+      "path": "ReducedSection280CCrElectInd",
+      "type": "bool"
+    },
+    {
+      "name": "SumCurrYrCrandOrphnDrugCrAmt",
+      "path": "SumCurrYrCrandOrphnDrugCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form1041PortionAmt",
+      "path": "SumCurrYrCrandOrphnDrugCrAmt/@form1041PortionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@form1041PortionCd",
+      "path": "SumCurrYrCrandOrphnDrugCrAmt/@form1041PortionCd",
+      "type": "enum"
+    }
+  ]
+}

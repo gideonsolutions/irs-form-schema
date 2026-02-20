@@ -1,0 +1,51 @@
+{
+  "form_id": "IRS8849",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CheckingAccountInd",
+      "path": "DirectDepositGrp/CheckingAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "SavingsAccountInd",
+      "path": "DirectDepositGrp/SavingsAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Schedule1AttachedInd",
+      "path": "Schedule1AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Schedule2AttachedInd",
+      "path": "Schedule2AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Schedule5AttachedInd",
+      "path": "Schedule5AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Schedule6AttachedInd",
+      "path": "Schedule6AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Schedule8AttachedInd",
+      "path": "Schedule8AttachedInd",
+      "type": "bool"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    }
+  ]
+}

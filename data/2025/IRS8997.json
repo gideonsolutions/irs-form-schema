@@ -1,0 +1,81 @@
+{
+  "form_id": "IRS8997",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CapGainDefrdInvstQOFCurrTYGrp",
+      "path": "CapGainDefrdInvstQOFCurrTYGrp",
+      "type": "group"
+    },
+    {
+      "name": "Form1099BNotReceivedInd",
+      "path": "Form1099BNotReceivedInd",
+      "type": "bool"
+    },
+    {
+      "name": "FrgnEligTxpyrTYAfterMarchInd",
+      "path": "FrgnEligTxpyrTYAfterMarchInd",
+      "type": "bool"
+    },
+    {
+      "name": "InclsnEvtOthTrnsfrDurCurrTYGrp",
+      "path": "InclsnEvtOthTrnsfrDurCurrTYGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotBOYLTDefrdGainRmngQOFAmt",
+      "path": "TotBOYLTDefrdGainRmngQOFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBOYSTDefrdGainRmngQOFAmt",
+      "path": "TotBOYSTDefrdGainRmngQOFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotEOYLTDefrdGainInvstAmt",
+      "path": "TotEOYLTDefrdGainInvstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotEOYSTDefrdGainInvstAmt",
+      "path": "TotEOYSTDefrdGainInvstAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotLongTermDefrdGainRmngAmt",
+      "path": "TotLongTermDefrdGainRmngAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPrevDefrdLongTermGainAmt",
+      "path": "TotPrevDefrdLongTermGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotPrevDefrdShortTermGainAmt",
+      "path": "TotPrevDefrdShortTermGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQOFInvstHoldBOYGrp",
+      "path": "TotQOFInvstHoldBOYGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotQOFInvstHoldEOYGrp",
+      "path": "TotQOFInvstHoldEOYGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotShortTermDefrdGainRmngAmt",
+      "path": "TotShortTermDefrdGainRmngAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WvrTrtyBnftFutureInclusionInd",
+      "path": "WvrTrtyBnftFutureInclusionInd",
+      "type": "bool"
+    }
+  ]
+}

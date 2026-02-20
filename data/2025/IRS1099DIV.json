@@ -1,0 +1,241 @@
+{
+  "form_id": "IRS1099DIV",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CalendarYr",
+      "path": "CalendarYr",
+      "type": "unknown"
+    },
+    {
+      "name": "CapitalGainSect1202Amt",
+      "path": "CapitalGainSect1202Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CashLiquidationDistriAmt",
+      "path": "CashLiquidationDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Collectibles28PercentGainAmt",
+      "path": "Collectibles28PercentGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorrectedInd",
+      "path": "CorrectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ExemptInterestDividendsAmt",
+      "path": "ExemptInterestDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FATCAFilingRequirementInd",
+      "path": "FATCAFilingRequirementInd",
+      "type": "bool"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignCountryOrUSPossessionCd",
+      "path": "ForeignCountryOrUSPossessionCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "ForeignTaxesPaidAmt",
+      "path": "ForeignTaxesPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form1099DIVStateLocalTaxGrp",
+      "path": "Form1099DIVStateLocalTaxGrp",
+      "type": "group"
+    },
+    {
+      "name": "LocalAbbreviationCdTxt",
+      "path": "Form1099DIVStateLocalTaxGrp/LocalAbbreviationCdTxt",
+      "type": "string"
+    },
+    {
+      "name": "LocalTaxWithheldAmt",
+      "path": "Form1099DIVStateLocalTaxGrp/LocalTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LocalityNm",
+      "path": "Form1099DIVStateLocalTaxGrp/LocalityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "Form1099DIVStateLocalTaxGrp/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "StateIdNum",
+      "path": "Form1099DIVStateLocalTaxGrp/StateIdNum",
+      "type": "string"
+    },
+    {
+      "name": "StateTaxWithheldAmt",
+      "path": "Form1099DIVStateLocalTaxGrp/StateTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InvestmentExpenseAmt",
+      "path": "InvestmentExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NoncashLiquidationDistriAmt",
+      "path": "NoncashLiquidationDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondividendDistributionsAmt",
+      "path": "NondividendDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PayerEIN",
+      "path": "PayerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PayerForeignAddress",
+      "path": "PayerForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PayerName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PayerName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PayerNameControlTxt",
+      "path": "PayerNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "PayerUSAddress",
+      "path": "PayerUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PrivateActivityBondIntDivAmt",
+      "path": "PrivateActivityBondIntDivAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QualifiedDividendsAmt",
+      "path": "QualifiedDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RecipientAccountNum",
+      "path": "RecipientAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "RecipientEIN",
+      "path": "RecipientEIN",
+      "type": "ein"
+    },
+    {
+      "name": "RecipientForeignAddress",
+      "path": "RecipientForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "RecipientForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "RecipientNm",
+      "path": "RecipientNm",
+      "type": "string"
+    },
+    {
+      "name": "RecipientSSN",
+      "path": "RecipientSSN",
+      "type": "tin"
+    },
+    {
+      "name": "RecipientUSAddress",
+      "path": "RecipientUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "RecipientUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "RecipientUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "Section199ADividendsAmt",
+      "path": "Section199ADividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section897CapitalGainAmt",
+      "path": "Section897CapitalGainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section897OrdinaryDividendsAmt",
+      "path": "Section897OrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCapitalDistributionsAmt",
+      "path": "TotalCapitalDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOrdinaryDividendsAmt",
+      "path": "TotalOrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnrecapturedSection1250GainAmt",
+      "path": "UnrecapturedSection1250GainAmt",
+      "type": "usd"
+    }
+  ]
+}

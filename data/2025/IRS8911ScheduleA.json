@@ -1,0 +1,136 @@
+{
+  "form_id": "IRS8911ScheduleA",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjustedPersonalUsePartAmt",
+      "path": "AdjustedPersonalUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvestmentUseAmt",
+      "path": "BusinessInvestmentUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvestmentUsePct",
+      "path": "BusinessInvestmentUsePct",
+      "type": "decimal"
+    },
+    {
+      "name": "CensusTractId2015GEOIDNum",
+      "path": "CensusTractId2015GEOIDNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityConstructionStartDt",
+      "path": "FacilityConstructionStartDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityDesc",
+      "path": "FacilityDesc",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLatitudeNum",
+      "path": "FacilityLatitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityLongitudeNum",
+      "path": "FacilityLongitudeNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerEIN",
+      "path": "FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
+      "name": "FacilityOwnerPersonNm",
+      "path": "FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityPlacedInServiceDt",
+      "path": "FacilityPlacedInServiceDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityUSAddress",
+      "path": "FacilityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "NetBusinessUsePartAmt",
+      "path": "NetBusinessUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PWARequirementMetInd",
+      "path": "PWARequirementMetInd",
+      "type": "bool"
+    },
+    {
+      "name": "PlacedInSrvcEligCensusTractInd",
+      "path": "PlacedInSrvcEligCensusTractInd",
+      "type": "bool"
+    },
+    {
+      "name": "PropertyUsedMainHomeInd",
+      "path": "PropertyUsedMainHomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section179ExpenseDeductionAmt",
+      "path": "Section179ExpenseDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerTotOrMaxBusUsePartAmt",
+      "path": "SmallerTotOrMaxBusUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotBusinessUsePartAmt",
+      "path": "TotBusinessUsePartAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyPropLessBusInvstUseAmt",
+      "path": "TotQlfyPropLessBusInvstUseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyPropertyCostCreditAmt",
+      "path": "TotQlfyPropertyCostCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPersonalUsePartOfCrAmt",
+      "path": "TotalPersonalUsePartOfCrAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "form_id": "IRS2220",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjSeasonalInstalMethodInd",
+      "path": "AdjSeasonalInstalMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "AnnualizedIncomeMethodInd",
+      "path": "AnnualizedIncomeMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstPd2AndOvpmt1LessUndpymt1Amt",
+      "path": "EstPd2AndOvpmt1LessUndpymt1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EstPd3AndOvpmt2LessUndpymt2Amt",
+      "path": "EstPd3AndOvpmt2LessUndpymt2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EstPd4AndOvpmt3LessUndpymt3Amt",
+      "path": "EstPd4AndOvpmt3LessUndpymt3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedPaid2AndOvpmt1Amt",
+      "path": "EstimatedPaid2AndOvpmt1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedPaid3AndOvpmt2Amt",
+      "path": "EstimatedPaid3AndOvpmt2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedPaid4AndOvpmt3Amt",
+      "path": "EstimatedPaid4AndOvpmt3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPaidOrCredited1Amt",
+      "path": "EstimatedTaxPaidOrCredited1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPaidOrCredited2Amt",
+      "path": "EstimatedTaxPaidOrCredited2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPaidOrCredited3Amt",
+      "path": "EstimatedTaxPaidOrCredited3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "EstimatedTaxPaidOrCredited4Amt",
+      "path": "EstimatedTaxPaidOrCredited4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Installment1DueDt",
+      "path": "Installment1DueDt",
+      "type": "date"
+    },
+    {
+      "name": "Installment2DueDt",
+      "path": "Installment2DueDt",
+      "type": "date"
+    },
+    {
+      "name": "Installment3DueDt",
+      "path": "Installment3DueDt",
+      "type": "date"
+    },
+    {
+      "name": "Installment4DueDt",
+      "path": "Installment4DueDt",
+      "type": "date"
+    },
+    {
+      "name": "LargeCorporationInd",
+      "path": "LargeCorporationInd",
+      "type": "bool"
+    },
+    {
+      "name": "LookbackInterestIncludedAmt",
+      "path": "LookbackInterestIncludedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Overpayment1Amt",
+      "path": "Overpayment1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Overpayment2Amt",
+      "path": "Overpayment2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Overpayment3Amt",
+      "path": "Overpayment3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "PaymentPenaltyComputationTxt",
+      "path": "PaymentPenaltyComputationTxt",
+      "type": "string"
+    },
+    {
+      "name": "DaysFromDueDateToPaymentDtQty",
+      "path": "PaymentPenaltyComputationTxt/DaysFromDueDateToPaymentDtQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LateDays1stDateRangeQty",
+      "path": "PaymentPenaltyComputationTxt/LateDays1stDateRangeQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LateDays2ndDateRangeQty",
+      "path": "PaymentPenaltyComputationTxt/LateDays2ndDateRangeQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LateDays3rdDateRangeQty",
+      "path": "PaymentPenaltyComputationTxt/LateDays3rdDateRangeQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LateDays4thDateRangeQty",
+      "path": "PaymentPenaltyComputationTxt/LateDays4thDateRangeQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LateDays5thDateRangeQty",
+      "path": "PaymentPenaltyComputationTxt/LateDays5thDateRangeQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LateDays6thDateRangeQty",
+      "path": "PaymentPenaltyComputationTxt/LateDays6thDateRangeQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LateDays7thDateRangeQty",
+      "path": "PaymentPenaltyComputationTxt/LateDays7thDateRangeQty",
+      "type": "unknown"
+    },
+    {
+      "name": "LateDays8thDateRangeQty",
+      "path": "PaymentPenaltyComputationTxt/LateDays8thDateRangeQty",
+      "type": "unknown"
+    },
+    {
+      "name": "PaymentDt",
+      "path": "PaymentPenaltyComputationTxt/PaymentDt",
+      "type": "date"
+    },
+    {
+      "name": "Penalty1stDateRangeAmt",
+      "path": "PaymentPenaltyComputationTxt/Penalty1stDateRangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Penalty2ndDateRangeAmt",
+      "path": "PaymentPenaltyComputationTxt/Penalty2ndDateRangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Penalty3rdDateRangeAmt",
+      "path": "PaymentPenaltyComputationTxt/Penalty3rdDateRangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Penalty4thDateRangeAmt",
+      "path": "PaymentPenaltyComputationTxt/Penalty4thDateRangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Penalty5thDateRangeAmt",
+      "path": "PaymentPenaltyComputationTxt/Penalty5thDateRangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Penalty6thDateRangeAmt",
+      "path": "PaymentPenaltyComputationTxt/Penalty6thDateRangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Penalty7thDateRangeAmt",
+      "path": "PaymentPenaltyComputationTxt/Penalty7thDateRangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Penalty8thDateRangeAmt",
+      "path": "PaymentPenaltyComputationTxt/Penalty8thDateRangeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPenaltyPaymentDateAmt",
+      "path": "PaymentPenaltyComputationTxt/TotalPenaltyPaymentDateAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonalHoldingCompanyTaxAmt",
+      "path": "PersonalHoldingCompanyTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PriorYearTaxAmt",
+      "path": "PriorYearTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredAnnualPaymentAmt",
+      "path": "RequiredAnnualPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredInstallment1Amt",
+      "path": "RequiredInstallment1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredInstallment2Amt",
+      "path": "RequiredInstallment2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredInstallment3Amt",
+      "path": "RequiredInstallment3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "RequiredInstallment4Amt",
+      "path": "RequiredInstallment4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCreditAppliedToTaxAmt",
+      "path": "TotalCreditAppliedToTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFuelTaxCreditAmt",
+      "path": "TotalFuelTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPenaltyAmt",
+      "path": "TotalPenaltyAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section338GainAmt",
+      "path": "TotalTaxAmt/@section338GainAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@section338GainCd",
+      "path": "TotalTaxAmt/@section338GainCd",
+      "type": "enum"
+    },
+    {
+      "name": "TotalTaxLessCreditSumAmt",
+      "path": "TotalTaxLessCreditSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUnderpayment2Amt",
+      "path": "TotalUnderpayment2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUnderpayment3Amt",
+      "path": "TotalUnderpayment3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Underpayment1Amt",
+      "path": "Underpayment1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Underpayment2Amt",
+      "path": "Underpayment2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Underpayment3Amt",
+      "path": "Underpayment3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Underpayment4Amt",
+      "path": "Underpayment4Amt",
+      "type": "usd"
+    },
+    {
+      "name": "UnderpaymentCarryover2Amt",
+      "path": "UnderpaymentCarryover2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "UnderpaymentCarryover3Amt",
+      "path": "UnderpaymentCarryover3Amt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,1086 @@
+{
+  "form_id": "IRS5471ScheduleE",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ActualDistributionAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "CFCGeneralSection959c1PTEPGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "CFCReclassifiedSect951APTEPGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "CFCReclassifiedSect965aPTEPGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "CFCReclassifiedSect965bPTEPGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "CFCReclsSect245AdPTEPGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "CFCSection245AdPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "CFCSection245AdPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "CFCSection245AdPTEPGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "CFCSection245AdPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "CFCSection245AdPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "CFCSection245AdPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "CFCSection245AdPTEPGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "CFCSection245AdPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "CFCSection245AdPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "CFCSection245AdPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "CFCSection245AdPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "CFCSection245AdPTEPGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "CFCSection245AdPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "CFCSection245AdPTEPGrp/TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "CFCSection245AdPTEPGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "CFCSection951APTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "CFCSection951APTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "CFCSection951APTEPGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "CFCSection951APTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "CFCSection951APTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "CFCSection951APTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "CFCSection951APTEPGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "CFCSection951APTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "CFCSection951APTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "CFCSection951APTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "CFCSection951APTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "CFCSection951APTEPGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "CFCSection951APTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "CFCSection951APTEPGrp/TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "CFCSection951APTEPGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "CFCSection951a1APTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "CFCSection951a1APTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "CFCSection951a1APTEPGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "CFCSection951a1APTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "CFCSection951a1APTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "CFCSection951a1APTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "CFCSection951a1APTEPGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "CFCSection951a1APTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "CFCSection951a1APTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "CFCSection951a1APTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "CFCSection951a1APTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "CFCSection951a1APTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "CFCSection951a1APTEPGrp/TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "CFCSection951a1APTEPGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "CFCSection965aPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "CFCSection965aPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "CFCSection965aPTEPGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "CFCSection965aPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "CFCSection965aPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "CFCSection965aPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "CFCSection965aPTEPGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "CFCSection965aPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "CFCSection965aPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "CFCSection965aPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "CFCSection965aPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "CFCSection965aPTEPGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "CFCSection965aPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "CFCSection965aPTEPGrp/TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "CFCSection965aPTEPGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "CFCSection965bPTEPGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "CFCSection965bPTEPGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "CFCSection965bPTEPGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "CFCSection965bPTEPGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "CFCSection965bPTEPGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "CFCSection965bPTEPGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "CFCSection965bPTEPGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "CFCSection965bPTEPGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "CFCSection965bPTEPGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "CFCSection965bPTEPGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "CFCSection965bPTEPGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "CFCSection965bPTEPGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "CFCSection965bPTEPGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "CFCSection965bPTEPGrp/TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "CFCSection965bPTEPGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "ForeignCorpMissingEINReasonCd",
+      "path": "ForeignCorpMissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignCorporationEIN",
+      "path": "ForeignCorporationEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignCorporationName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignCorporationName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "BalanceTxsPaidOrAccruedAmt",
+      "path": "Frm5471SchEResidualIncomeGrp/BalanceTxsPaidOrAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "Frm5471SchEResidualIncomeGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "Frm5471SchEResidualIncomeGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "Frm5471SchEResidualIncomeGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "Frm5471SchEResidualIncomeGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RedOtherTxsNotDeemedPdAmt",
+      "path": "Frm5471SchEResidualIncomeGrp/RedOtherTxsNotDeemedPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "Frm5471SchEResidualIncomeGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "Frm5471SchEResidualIncomeGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "Frm5471SchEResidualIncomeGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "Frm5471SchEResidualIncomeGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceTxsPaidOrAccruedAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/BalanceTxsPaidOrAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RedOtherTxsNotDeemedPdAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/RedOtherTxsNotDeemedPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesDeemedPaidAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/TaxesDeemedPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "Frm5471SchESubpartFIncomeGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ActualDistributionAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/ActualDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedBeginningBalanceAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/AdjustedBeginningBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedForeignTaxCreditAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/AdjustedForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceBeginningNextYearAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/BalanceBeginningNextYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningBalanceAdjustmentAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/BeginningBalanceAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BeginningYearBalanceAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/BeginningYearBalanceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "Frm5471SchESuspendedTaxesGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceTxsPaidOrAccruedAmt",
+      "path": "Frm5471SchETestedIncomeGrp/BalanceTxsPaidOrAccruedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsallwDedTxsSuspendedRuleAmt",
+      "path": "Frm5471SchETestedIncomeGrp/DsallwDedTxsSuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EPCyovNonrecognitionTransAmt",
+      "path": "Frm5471SchETestedIncomeGrp/EPCyovNonrecognitionTransAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EarnInvstUSPropReclassifiedAmt",
+      "path": "Frm5471SchETestedIncomeGrp/EarnInvstUSPropReclassifiedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAdjustmentsTotalAmt",
+      "path": "Frm5471SchETestedIncomeGrp/OtherAdjustmentsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RedOtherTxsNotDeemedPdAmt",
+      "path": "Frm5471SchETestedIncomeGrp/RedOtherTxsNotDeemedPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ReductionTxsUnsuspendedRuleAmt",
+      "path": "Frm5471SchETestedIncomeGrp/ReductionTxsUnsuspendedRuleAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxesDeemedPaidAmt",
+      "path": "Frm5471SchETestedIncomeGrp/TaxesDeemedPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalCurrentAccumulatedEPAmt",
+      "path": "Frm5471SchETestedIncomeGrp/TotalCurrentAccumulatedEPAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherAdjustmentsAmt",
+      "path": "Frm5471SchETestedIncomeGrp/TotalOtherAdjustmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "Frm5471SchETestedIncomeGrp/TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FuncCurDsallwFrgnTotalTaxAmt",
+      "path": "FuncCurDsallwFrgnTotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "SanctionedCountryCd",
+      "path": "SanctionedCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "Section986a1DElectionDt",
+      "path": "Section986a1DElectionDt",
+      "type": "date"
+    },
+    {
+      "name": "Section986a1DElectionInd",
+      "path": "Section986a1DElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "SeparateCategoryCd",
+      "path": "SeparateCategoryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxesDeemedPaidSection960bGrp",
+      "path": "TaxesDeemedPaidSection960bGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalTaxDeemedPdSection960bAmt",
+      "path": "TotalTaxDeemedPdSection960bAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInFunctionalCurAmt",
+      "path": "TotalTaxInFunctionalCurAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxInUSDollarsAmt",
+      "path": "TotalTaxInUSDollarsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TreatyCountryCd",
+      "path": "TreatyCountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "TxsForeignTaxCrAllowedGrp",
+      "path": "TxsForeignTaxCrAllowedGrp",
+      "type": "group"
+    },
+    {
+      "name": "TxsForeignTaxCrDisallowedGrp",
+      "path": "TxsForeignTaxCrDisallowedGrp",
+      "type": "group"
+    },
+    {
+      "name": "USdollarDsallwFrgnTotalTaxAmt",
+      "path": "USdollarDsallwFrgnTotalTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

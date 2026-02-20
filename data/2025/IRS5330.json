@@ -1,0 +1,556 @@
+{
+  "form_id": "IRS5330",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AmendedReturnInd",
+      "path": "AmendedReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "BankAccountTypeCd",
+      "path": "BankAccountTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "DepositorAccountNum",
+      "path": "DepositorAccountNum",
+      "type": "string"
+    },
+    {
+      "name": "ExchangeRateDesc",
+      "path": "ExchangeRateDesc",
+      "type": "string"
+    },
+    {
+      "name": "@otherReturnDesc",
+      "path": "OtherInd/@otherReturnDesc",
+      "type": "string"
+    },
+    {
+      "name": "OverpaymentAmt",
+      "path": "OverpaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PlanNameTxt",
+      "path": "PlanNameTxt",
+      "type": "string"
+    },
+    {
+      "name": "PlanNum",
+      "path": "PlanNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PlanSponsorBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PlanSponsorBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PlanSponsorEIN",
+      "path": "PlanSponsorEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PlanSponsorForeignAddress",
+      "path": "PlanSponsorForeignAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PlanSponsorPersonNm",
+      "path": "PlanSponsorPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PlanSponsorUSAddress",
+      "path": "PlanSponsorUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PlanYearEndDt",
+      "path": "PlanYearEndDt",
+      "type": "date"
+    },
+    {
+      "name": "RoutingTransitNum",
+      "path": "RoutingTransitNum",
+      "type": "string"
+    },
+    {
+      "name": "AccountValueEOYAmt",
+      "path": "SectionATaxesReportedGrp/AccountValueEOYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccountValueEOYTaxAmt",
+      "path": "SectionATaxesReportedGrp/AccountValueEOYTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdjustedPriorYearExContriAmt",
+      "path": "SectionATaxesReportedGrp/AdjustedPriorYearExContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AllowableDeductionAmt",
+      "path": "SectionATaxesReportedGrp/AllowableDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCreditAmt",
+      "path": "SectionATaxesReportedGrp/ContributionCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearExcessContriAmt",
+      "path": "SectionATaxesReportedGrp/CurrentYearExcessContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DsqlfyBnftFnddWlfrPlnsTaxAmt",
+      "path": "SectionATaxesReportedGrp/DsqlfyBnftFnddWlfrPlnsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ESOPDisposTaxFromSect1042Ind",
+      "path": "SectionATaxesReportedGrp/ESOPDisposTaxFromSect1042Ind",
+      "type": "bool"
+    },
+    {
+      "name": "ESOPDisposTaxFromSect664gInd",
+      "path": "SectionATaxesReportedGrp/ESOPDisposTaxFromSect664gInd",
+      "type": "bool"
+    },
+    {
+      "name": "ESOPDispositionTaxAmt",
+      "path": "SectionATaxesReportedGrp/ESOPDispositionTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcludableGrossIncomeAmt",
+      "path": "SectionATaxesReportedGrp/ExcludableGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FailCorrectProhibTransTaxAmt",
+      "path": "SectionATaxesReportedGrp/FailCorrectProhibTransTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorrectedProhibitedTransInd",
+      "path": "SectionATaxesReportedGrp/IRS5330ScheduleC/CorrectedProhibitedTransInd",
+      "type": "bool"
+    },
+    {
+      "name": "DiscreteProhibitedTransInd",
+      "path": "SectionATaxesReportedGrp/IRS5330ScheduleC/DiscreteProhibitedTransInd",
+      "type": "bool"
+    },
+    {
+      "name": "DsqlfyPrsnProhibTransCorrGrp",
+      "path": "SectionATaxesReportedGrp/IRS5330ScheduleC/DsqlfyPrsnProhibTransCorrGrp",
+      "type": "group"
+    },
+    {
+      "name": "OthThanDiscreteProhibTransInd",
+      "path": "SectionATaxesReportedGrp/IRS5330ScheduleC/OthThanDiscreteProhibTransInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProhibitedTransactionGrp",
+      "path": "SectionATaxesReportedGrp/IRS5330ScheduleC/ProhibitedTransactionGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotProhibitedTransactionTaxAmt",
+      "path": "SectionATaxesReportedGrp/IRS5330ScheduleC/TotProhibitedTransactionTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedContriExemptExciseTaxAmt",
+      "path": "SectionATaxesReportedGrp/NondedContriExemptExciseTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedContriRetCyovMinusPdAmt",
+      "path": "SectionATaxesReportedGrp/NondedContriRetCyovMinusPdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedContriRetMinusPaidAmt",
+      "path": "SectionATaxesReportedGrp/NondedContriRetMinusPaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondedContriRetMinusPdCyovAmt",
+      "path": "SectionATaxesReportedGrp/NondedContriRetMinusPdCyovAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NondeductibleContributionsAmt",
+      "path": "SectionATaxesReportedGrp/NondeductibleContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYExContriNotPrevEliminatedAmt",
+      "path": "SectionATaxesReportedGrp/PYExContriNotPrevEliminatedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYNondedContriAftrSpcfdDtAmt",
+      "path": "SectionATaxesReportedGrp/PYNondedContriAftrSpcfdDtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PYNondedContriRetCurrYrAmt",
+      "path": "SectionATaxesReportedGrp/PYNondedContriRetCurrYrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ProhibAllocnESOPSecEqtyTxAmt",
+      "path": "SectionATaxesReportedGrp/ProhibAllocnESOPSecEqtyTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxNondedContriQlfyPlnsAmt",
+      "path": "SectionATaxesReportedGrp/TaxNondedContriQlfyPlnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableExcessContributionsAmt",
+      "path": "SectionATaxesReportedGrp/TaxableExcessContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeTaxableExContriAmt",
+      "path": "SectionATaxesReportedGrp/TentativeTaxableExContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllPYDistributionsAmt",
+      "path": "SectionATaxesReportedGrp/TotalAllPYDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalContriCYLessRolloverAmt",
+      "path": "SectionATaxesReportedGrp/TotalContriCYLessRolloverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalContributionsAmt",
+      "path": "SectionATaxesReportedGrp/TotalContributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "SectionATaxesReportedGrp/TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxExcessContriCustodialAcctAmt",
+      "path": "SectionATaxesReportedGrp/TxExcessContriCustodialAcctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblExContriCustodialAcctAmt",
+      "path": "SectionATaxesReportedGrp/TxblExContriCustodialAcctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblExcessContributionsTaxAmt",
+      "path": "SectionATaxesReportedGrp/TxblExcessContributionsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "         ExcessFringeBenefitsTaxAmt",
+      "path": "SectionB1TaxReportedGrp/         ExcessFringeBenefitsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessFringeBenefitsAmt",
+      "path": "SectionB1TaxReportedGrp/ExcessFringeBenefitsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessFringeBenefitsPaidYr",
+      "path": "SectionB1TaxReportedGrp/ExcessFringeBenefitsPaidYr",
+      "type": "unknown"
+    },
+    {
+      "name": "ExcessFringeBenefitsTaxAmt",
+      "path": "SectionB1TaxReportedGrp/ExcessFringeBenefitsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section4977ElectionInd",
+      "path": "SectionB1TaxReportedGrp/Section4977ElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "         FailCmplyFndngImprvRehbltTxAmt",
+      "path": "SectionBTaxesReportedGrp/         FailCmplyFndngImprvRehbltTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FTPLiquidityShortfallTaxAmt",
+      "path": "SectionBTaxesReportedGrp/         IRS5330ScheduleE/FTPLiquidityShortfallTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FailureToAdoptRehbltPlanTaxAmt",
+      "path": "SectionBTaxesReportedGrp/         IRS5330ScheduleF/FailureAdoptRehbltPlanTxGrp/FailureToAdoptRehbltPlanTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AccumulatedFundingDefnAmt",
+      "path": "SectionBTaxesReportedGrp/         IRS5330ScheduleF/FailureMeetRqrEndngrCrtclTxGrp/AccumulatedFundingDefnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ContriMeetBenchmarkOrRqrAmt",
+      "path": "SectionBTaxesReportedGrp/         IRS5330ScheduleF/FailureMeetRqrEndngrCrtclTxGrp/ContriMeetBenchmarkOrRqrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FailMeetRqrPlnEndngrCrtclTxAmt",
+      "path": "SectionBTaxesReportedGrp/         IRS5330ScheduleF/FailureMeetRqrEndngrCrtclTxGrp/FailMeetRqrPlnEndngrCrtclTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FailAdoptFndngRstorPlnTxAmt",
+      "path": "SectionBTaxesReportedGrp/         IRS5330ScheduleL/FailAdoptFndngRstorPlnTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FailCorrectLiquidityShrtTaxAmt",
+      "path": "SectionBTaxesReportedGrp/FailCorrectLiquidityShrtTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FailureToCorrectMFSTaxAmt",
+      "path": "SectionBTaxesReportedGrp/FailureToCorrectMFSTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AggregateUnpaidRqrContriAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleD/AggregateUnpaidRqrContriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FailureToMeetMFSTaxAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleD/FailureToMeetMFSTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FTPLiquidityShortfallTaxAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPLiquidityShortfallTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPNetShortfallAmtGrp/FirstQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPNetShortfallAmtGrp/FourthQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPNetShortfallAmtGrp/SecondQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPNetShortfallAmtGrp/ThirdQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPShortfallAmtGrp/FirstQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPShortfallAmtGrp/FourthQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPShortfallAmtGrp/SecondQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPShortfallAmtGrp/ThirdQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FirstQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPShortfallPdByDueDtAmtGrp/FirstQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FourthQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPShortfallPdByDueDtAmtGrp/FourthQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SecondQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPShortfallPdByDueDtAmtGrp/SecondQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdQuarterAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/FTPShortfallPdByDueDtAmtGrp/ThirdQuarterAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetShortfallAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleE/TotalNetShortfallAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DaysOver240PlanAdoptedCnt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleF/FailureAdoptRehbltPlanTxGrp/DaysOver240PlanAdoptedCnt",
+      "type": "int"
+    },
+    {
+      "name": "DaysOver240PlanAdoptedTaxAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleF/FailureAdoptRehbltPlanTxGrp/DaysOver240PlanAdoptedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FailureToAdoptRehbltPlanTaxAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleF/FailureAdoptRehbltPlanTxGrp/FailureToAdoptRehbltPlanTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DaysOver180PlanAdoptedCnt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleL/DaysOver180PlanAdoptedCnt",
+      "type": "int"
+    },
+    {
+      "name": "FailAdoptFndngRstorPlnTxAmt",
+      "path": "SectionBTaxesReportedGrp/IRS5330ScheduleL/FailAdoptFndngRstorPlnTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "         ExcessContributionCrtnPlnTxAmt",
+      "path": "SectionCTaxReportedGrp/         ExcessContributionCrtnPlnTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExContriCashOrDefrdArrngmAmt",
+      "path": "SectionCTaxReportedGrp/ExContriCashOrDefrdArrngmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExcessContributionCrtnPlnTxAmt",
+      "path": "SectionCTaxReportedGrp/ExcessContributionCrtnPlnTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "          EmployerReversionAmt",
+      "path": "SectionDTaxReportedGrp/          EmployerReversionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "         ExcsTxOtherThan50PctExplnTxt",
+      "path": "SectionDTaxReportedGrp/         ExcsTxOtherThan50PctExplnTxt",
+      "type": "string"
+    },
+    {
+      "name": "         ReversionQlfyPlanAstEmplrTxAmt",
+      "path": "SectionDTaxReportedGrp/         ReversionQlfyPlanAstEmplrTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExciseTaxPct",
+      "path": "SectionDTaxReportedGrp/ExciseTaxPct",
+      "type": "decimal"
+    },
+    {
+      "name": "ReversionDt",
+      "path": "SectionDTaxReportedGrp/ReversionDt",
+      "type": "date"
+    },
+    {
+      "name": "ReversionQlfyPlanAstEmplrTxAmt",
+      "path": "SectionDTaxReportedGrp/ReversionQlfyPlanAstEmplrTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmendmentEffectiveDt",
+      "path": "SectionETaxReportedGrp/AmendmentEffectiveDt",
+      "type": "date"
+    },
+    {
+      "name": "DaysNoncompliancePrdCnt",
+      "path": "SectionETaxReportedGrp/DaysNoncompliancePrdCnt",
+      "type": "int"
+    },
+    {
+      "name": "FailProvNtcRedFutAccrTaxDesc",
+      "path": "SectionETaxReportedGrp/FailProvNtcRedFutAccrTaxDesc",
+      "type": "string"
+    },
+    {
+      "name": "FailProvideNtcRedFutAccrTaxAmt",
+      "path": "SectionETaxReportedGrp/FailProvideNtcRedFutAccrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NotProvERISASect204hNoticeCnt",
+      "path": "SectionETaxReportedGrp/NotProvERISASect204hNoticeCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotERISASect204hNtcFailureCnt",
+      "path": "SectionETaxReportedGrp/TotERISASect204hNtcFailureCnt",
+      "type": "int"
+    },
+    {
+      "name": "ProhibitedTaxShelterTransCnt",
+      "path": "SectionFTaxesReportedGrp/ProhibitedTaxShelterTransCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotProhibitedTaxShelterTaxAmt",
+      "path": "SectionFTaxesReportedGrp/TotProhibitedTaxShelterTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SpecialConditionDesc",
+      "path": "SpecialConditionDesc",
+      "type": "string"
+    },
+    {
+      "name": "TaxDueAmt",
+      "path": "TaxDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSectionBTaxesAmt",
+      "path": "TotalSectionBTaxesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

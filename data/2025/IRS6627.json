@@ -1,0 +1,806 @@
+{
+  "form_id": "IRS6627",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "Rt",
+      "path": "AcetyleneC2H2Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "AcetyleneC2H2Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "AcetyleneC2H2Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AmmoniaNH3Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "AmmoniaNH3Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "AmmoniaNH3Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AntimonySbGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "AntimonySbGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "AntimonySbGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "AntimonyTrioxideSb2O3Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "AntimonyTrioxideSb2O3Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "AntimonyTrioxideSb2O3Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ArsenicAsGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "ArsenicAsGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "ArsenicAsGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ArsenicTrioxideAs2O3Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "ArsenicTrioxideAs2O3Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "ArsenicTrioxideAs2O3Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "BariumSulfideBaSGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "BariumSulfideBaSGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "BariumSulfideBaSGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "BenzeneC6H6Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "BenzeneC6H6Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "BenzeneC6H6Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "BromineBrGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "BromineBrGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "BromineBrGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ButadieneC4H6Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "ButadieneC4H6Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "ButadieneC4H6Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ButaneC4H10Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "ButaneC4H10Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "ButaneC4H10Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ButyleneC4H8Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "ButyleneC4H8Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "ButyleneC4H8Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "CadmiumCdGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "CadmiumCdGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "CadmiumCdGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ChlorineClGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "ChlorineClGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "ChlorineClGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ChromiteFeCr2O4Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "ChromiteFeCr2O4Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "ChromiteFeCr2O4Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ChromiumCrGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "ChromiumCrGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "ChromiumCrGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "CobaltCoGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "CobaltCoGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "CobaltCoGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "CupricOxideCuOGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "CupricOxideCuOGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "CupricOxideCuOGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "CupricSulfateCuSO4Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "CupricSulfateCuSO4Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "CupricSulfateCuSO4Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "CuprousOxideCu2OGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "CuprousOxideCu2OGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "CuprousOxideCu2OGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Election1990Ind",
+      "path": "Election1990Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Election1991Ind",
+      "path": "Election1991Ind",
+      "type": "bool"
+    },
+    {
+      "name": "Rt",
+      "path": "EthyleneC2H4Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "EthyleneC2H4Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "EthyleneC2H4Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "HydrochloricAcidHClGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "HydrochloricAcidHClGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "HydrochloricAcidHClGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "HydrogenFluorideHFGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "HydrogenFluorideHFGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "HydrogenFluorideHFGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ImpPtrlmProdSprfndTxAmt",
+      "path": "ImpPtrlmProdSprfndTx/ImpPtrlmProdSprfndTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ImpPtrlmProdSprfndTxBarrelQty",
+      "path": "ImpPtrlmProdSprfndTx/ImpPtrlmProdSprfndTxBarrelQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ImpPtrlmProdSprfndTxRt",
+      "path": "ImpPtrlmProdSprfndTx/ImpPtrlmProdSprfndTxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ImpPtrlmOilSpillTaxAmt",
+      "path": "ImportedPetroleumOilSpillTax/ImpPtrlmOilSpillTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ImpPtrlmOilSpillTaxBarrelQty",
+      "path": "ImportedPetroleumOilSpillTax/ImpPtrlmOilSpillTaxBarrelQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ImpPtrlmOilSpillTaxRt",
+      "path": "ImportedPetroleumOilSpillTax/ImpPtrlmOilSpillTaxRt",
+      "type": "decimal"
+    },
+    {
+      "name": "Rt",
+      "path": "LeadOxidePbOGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "LeadOxidePbOGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "LeadOxidePbOGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "MercuryHgGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "MercuryHgGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "MercuryHgGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "MethaneCH4Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "MethaneCH4Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "MethaneCH4Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NaphthaleneC10H8Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "NaphthaleneC10H8Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "NaphthaleneC10H8Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NickelNiGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "NickelNiGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "NickelNiGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "NitricAcidHNO3Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "NitricAcidHNO3Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "NitricAcidHNO3Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "ODCTaxOnImportedProductsGrp",
+      "path": "ODCTaxOnImportedProductsGrp",
+      "type": "group"
+    },
+    {
+      "name": "Rt",
+      "path": "PhosphorusPGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "PhosphorusPGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "PhosphorusPGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "PotassiumDichromateK2Cr2O7Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "PotassiumDichromateK2Cr2O7Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "PotassiumDichromateK2Cr2O7Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "PotassiumHydroxideKOHGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "PotassiumHydroxideKOHGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "PotassiumHydroxideKOHGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "PropyleneC3H6Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "PropyleneC3H6Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "PropyleneC3H6Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SodiumDichromateNaCr2O7Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "SodiumDichromateNaCr2O7Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "SodiumDichromateNaCr2O7Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SodiumHydroxideNaOHGrp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "SodiumHydroxideNaOHGrp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "SodiumHydroxideNaOHGrp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "StannicChlorideSnCl4Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "StannicChlorideSnCl4Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "StannicChlorideSnCl4Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "StannousChlorideSnCl2Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "StannousChlorideSnCl2Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "StannousChlorideSnCl2Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "SulfuricAcidH2SO4Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "SulfuricAcidH2SO4Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "SulfuricAcidH2SO4Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxImpChemicalSubstancesGrp",
+      "path": "TaxImpChemicalSubstancesGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxOnFloorStocksOfODCGrp",
+      "path": "TaxOnFloorStocksOfODCGrp",
+      "type": "group"
+    },
+    {
+      "name": "TaxOnImpProductsElectionInd",
+      "path": "TaxOnImpProductsElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxableCrudeOilARt",
+      "path": "TaxableCrudeOil/TaxableCrudeOilARt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxableCrudeOilBRt",
+      "path": "TaxableCrudeOil/TaxableCrudeOilBRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxableCrudeOilBarrelAQty",
+      "path": "TaxableCrudeOil/TaxableCrudeOilBarrelAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxableCrudeOilBarrelBQty",
+      "path": "TaxableCrudeOil/TaxableCrudeOilBarrelBQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxableCrudeOilTaxAAmt",
+      "path": "TaxableCrudeOil/TaxableCrudeOilTaxAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableCrudeOilTaxBAmt",
+      "path": "TaxableCrudeOil/TaxableCrudeOilTaxBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Rt",
+      "path": "TolueneC7H8Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "TolueneC7H8Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "TolueneC7H8Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "TotDomesticPtrlmOilSpillTxAmt",
+      "path": "TotDomesticPtrlmOilSpillTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDomesticPtrlmSprfndTxAmt",
+      "path": "TotDomesticPtrlmSprfndTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotImpChemicalSubstancesTaxAmt",
+      "path": "TotImpChemicalSubstancesTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotOzoneDepletingChemicalTxAmt",
+      "path": "TotOzoneDepletingChemicalTxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalChemicalTaxAmt",
+      "path": "TotalChemicalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalFloorStocksTaxAmt",
+      "path": "TotalFloorStocksTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalODCTaxOnImpProductsAmt",
+      "path": "TotalODCTaxOnImpProductsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxOnOzoneDepletingChemicalsGrp",
+      "path": "TxOnOzoneDepletingChemicalsGrp",
+      "type": "group"
+    },
+    {
+      "name": "USCrudeOilBfrTxAAmt",
+      "path": "USCrudeOilBfrTaxImposed/USCrudeOilBfrTxAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USCrudeOilBfrTxARt",
+      "path": "USCrudeOilBfrTaxImposed/USCrudeOilBfrTxARt",
+      "type": "decimal"
+    },
+    {
+      "name": "USCrudeOilBfrTxBAmt",
+      "path": "USCrudeOilBfrTaxImposed/USCrudeOilBfrTxBAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USCrudeOilBfrTxBRt",
+      "path": "USCrudeOilBfrTaxImposed/USCrudeOilBfrTxBRt",
+      "type": "decimal"
+    },
+    {
+      "name": "USCrudeOilBfrTxBarrelAQty",
+      "path": "USCrudeOilBfrTaxImposed/USCrudeOilBfrTxBarrelAQty",
+      "type": "unknown"
+    },
+    {
+      "name": "USCrudeOilBfrTxBarrelBQty",
+      "path": "USCrudeOilBfrTaxImposed/USCrudeOilBfrTxBarrelBQty",
+      "type": "unknown"
+    },
+    {
+      "name": "USRefineryCrudeOilBarrelQty",
+      "path": "USRefineryCrudeOilBarrelQty",
+      "type": "unknown"
+    },
+    {
+      "name": "USRefineryCrudeOilBarrelTxdQty",
+      "path": "USRefineryCrudeOilBarrelTxdQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "XyleneC8H10Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "XyleneC8H10Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "XyleneC8H10Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ZincChlorideZnCl2Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "ZincChlorideZnCl2Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "ZincChlorideZnCl2Grp/TonQty",
+      "type": "unknown"
+    },
+    {
+      "name": "Rt",
+      "path": "ZincSulfateZnSO4Grp/Rt",
+      "type": "decimal"
+    },
+    {
+      "name": "TaxAmt",
+      "path": "ZincSulfateZnSO4Grp/TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TonQty",
+      "path": "ZincSulfateZnSO4Grp/TonQty",
+      "type": "unknown"
+    }
+  ]
+}

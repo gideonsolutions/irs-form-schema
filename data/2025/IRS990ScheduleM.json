@@ -1,0 +1,506 @@
+{
+  "form_id": "IRS990ScheduleM",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "/ArtHistoricalTreasuresGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "/QualifiedContribHistStructGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "AnyPropertyThatMustBeHeldInd",
+      "path": "AnyPropertyThatMustBeHeldInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "ArchaeologicalArtifactsGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "ArchaeologicalArtifactsGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "ArchaeologicalArtifactsGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "ArchaeologicalArtifactsGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "ArtFractionalInterestGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "ArtFractionalInterestGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "ArtFractionalInterestGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "ArtFractionalInterestGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "ArtHistoricalTreasuresGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "ArtHistoricalTreasuresGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "ArtHistoricalTreasuresGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "BoatsAndPlanesGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "BoatsAndPlanesGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "BoatsAndPlanesGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "BoatsAndPlanesGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "BooksAndPublicationsGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "BooksAndPublicationsGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "BooksAndPublicationsGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "CarsAndOtherVehiclesGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "CarsAndOtherVehiclesGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "CarsAndOtherVehiclesGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "CarsAndOtherVehiclesGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "ClothingAndHouseholdGoodsGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "ClothingAndHouseholdGoodsGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "ClothingAndHouseholdGoodsGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "CollectiblesGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "CollectiblesGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "CollectiblesGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "CollectiblesGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "DrugsAndMedicalSuppliesGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "DrugsAndMedicalSuppliesGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "DrugsAndMedicalSuppliesGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "DrugsAndMedicalSuppliesGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "FoodInventoryGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "FoodInventoryGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "FoodInventoryGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "FoodInventoryGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "Form8283ReceivedCnt",
+      "path": "Form8283ReceivedCnt",
+      "type": "int"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "HistoricalArtifactsGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "HistoricalArtifactsGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "HistoricalArtifactsGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "HistoricalArtifactsGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "IntellectualPropertyGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "IntellectualPropertyGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "IntellectualPropertyGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "IntellectualPropertyGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherNonCashContriTableGrp",
+      "path": "OtherNonCashContriTableGrp",
+      "type": "group"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "QualifiedContribHistStructGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "QualifiedContribHistStructGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "QualifiedContribHistStructGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "QualifiedContribOtherGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "QualifiedContribOtherGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "QualifiedContribOtherGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "QualifiedContribOtherGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "RealEstateCommercialGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "RealEstateCommercialGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "RealEstateCommercialGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "RealEstateCommercialGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "RealEstateOtherGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "RealEstateOtherGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "RealEstateOtherGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "RealEstateOtherGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "RealEstateResidentialGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "RealEstateResidentialGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "RealEstateResidentialGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "RealEstateResidentialGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ReviewProcessUnusualNCGiftsInd",
+      "path": "ReviewProcessUnusualNCGiftsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "ScientificSpecimensGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "ScientificSpecimensGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "ScientificSpecimensGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "ScientificSpecimensGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "SecurPrtnrshpTrustIntrstsGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "SecurPrtnrshpTrustIntrstsGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "SecurPrtnrshpTrustIntrstsGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "SecurPrtnrshpTrustIntrstsGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "SecuritiesCloselyHeldStockGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "SecuritiesCloselyHeldStockGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "SecuritiesCloselyHeldStockGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "SecuritiesCloselyHeldStockGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "SecuritiesMiscellaneousGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "SecuritiesMiscellaneousGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "SecuritiesMiscellaneousGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "SecuritiesMiscellaneousGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "SecuritiesPubliclyTradedGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "SecuritiesPubliclyTradedGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "SecuritiesPubliclyTradedGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "SecuritiesPubliclyTradedGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "SupplementalInformationDetail",
+      "path": "SupplementalInformationDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "TaxidermyGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "TaxidermyGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "TaxidermyGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "TaxidermyGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPartiesUsedInd",
+      "path": "ThirdPartiesUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "ContributionCnt",
+      "path": "WorksOfArtGrp/ContributionCnt",
+      "type": "int"
+    },
+    {
+      "name": "MethodOfDeterminingRevenuesTxt",
+      "path": "WorksOfArtGrp/MethodOfDeterminingRevenuesTxt",
+      "type": "string"
+    },
+    {
+      "name": "NonCashCheckboxInd",
+      "path": "WorksOfArtGrp/NonCashCheckboxInd",
+      "type": "bool"
+    },
+    {
+      "name": "NoncashContributionsRptF990Amt",
+      "path": "WorksOfArtGrp/NoncashContributionsRptF990Amt",
+      "type": "usd"
+    }
+  ]
+}

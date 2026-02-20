@@ -1,0 +1,446 @@
+{
+  "form_id": "IRS1120FScheduleH",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AuditedFinancialStatementsInd",
+      "path": "AuditedFinancialStatementsInd",
+      "type": "bool"
+    },
+    {
+      "name": "AverageUSAssetsAmt",
+      "path": "AverageUSAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BadDebtExpenseAmt",
+      "path": "BadDebtExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BadDebtExpenseFuncAmt",
+      "path": "BadDebtExpenseFuncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BadDebtExpensePerBooksAmt",
+      "path": "BadDebtExpensePerBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DedExpnssNonECISbsdryAmt",
+      "path": "DedExpnssNonECISbsdryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DedExpnssNonECISbsdryFuncAmt",
+      "path": "DedExpnssNonECISbsdryFuncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DedExpnssOthNonECIHmCntryAmt",
+      "path": "DedExpnssOthNonECIHmCntryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DedExpnssOthNonECIHmCntryFAmt",
+      "path": "DedExpnssOthNonECIHmCntryFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DedExpnssOthNonECIOthCntryAmt",
+      "path": "DedExpnssOthNonECIOthCntryAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DedExpnssOthNonECIOthCntryFAmt",
+      "path": "DedExpnssOthNonECIOthCntryFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DedOnBooksAllcblSect18618Amt",
+      "path": "DedOnBooksAllcblSect18618Amt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleExpensesECIAmt",
+      "path": "DeductibleExpensesECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleExpensesECIFuncAmt",
+      "path": "DeductibleExpensesECIFuncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DeductibleExpensesECIUSDolAmt",
+      "path": "DeductibleExpensesECIUSDolAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ECIAmt",
+      "path": "DeductibleExpnssBksNotRltdGrp/ECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonECIAmt",
+      "path": "DeductibleExpnssBksNotRltdGrp/NonECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "DeductibleExpnssBksNotRltdGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ECIAmt",
+      "path": "DerivativeTransDedExpnsRltdGrp/ECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonECIAmt",
+      "path": "DerivativeTransDedExpnsRltdGrp/NonECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "DerivativeTransDedExpnsRltdGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExchangeFuncRt",
+      "path": "ExchangeFuncRt",
+      "type": "decimal"
+    },
+    {
+      "name": "ExchangeRt",
+      "path": "ExchangeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "FunctionalCurrencyDesc",
+      "path": "FunctionalCurrencyDesc",
+      "type": "string"
+    },
+    {
+      "name": "GAAPFuncInd",
+      "path": "GAAPFuncInd",
+      "type": "bool"
+    },
+    {
+      "name": "GAAPInd",
+      "path": "GAAPInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrossAssetRt",
+      "path": "GrossAssetRt",
+      "type": "decimal"
+    },
+    {
+      "name": "GrossECIAmt",
+      "path": "GrossECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrossIncomeRt",
+      "path": "GrossIncomeRt",
+      "type": "decimal"
+    },
+    {
+      "name": "HomeCountryGAAPFuncInd",
+      "path": "HomeCountryGAAPFuncInd",
+      "type": "bool"
+    },
+    {
+      "name": "HomeCountryGAAPInd",
+      "path": "HomeCountryGAAPInd",
+      "type": "bool"
+    },
+    {
+      "name": "HomeOfficeMgmtCostAcctRptInd",
+      "path": "HomeOfficeMgmtCostAcctRptInd",
+      "type": "bool"
+    },
+    {
+      "name": "IFRSFuncInd",
+      "path": "IFRSFuncInd",
+      "type": "bool"
+    },
+    {
+      "name": "IFRSInd",
+      "path": "IFRSInd",
+      "type": "bool"
+    },
+    {
+      "name": "InterbranchExpensesNotIncldAmt",
+      "path": "InterbranchExpensesNotIncldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterbranchIntExpensePerBksAmt",
+      "path": "InterbranchIntExpensePerBksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InterestExpenseFuncAmt",
+      "path": "InterestExpenseFuncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MethodDifferentPriorYearInd",
+      "path": "MethodDifferentPriorYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "NonAuditedFinancialStmtInd",
+      "path": "NonAuditedFinancialStmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "Other3rdPartyDedNotAllocAmt",
+      "path": "Other3rdPartyDedNotAllocAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherAccountingFuncInd",
+      "path": "OtherAccountingFuncInd",
+      "type": "bool"
+    },
+    {
+      "name": "@specifyAccountingMethodTxt",
+      "path": "OtherAccountingFuncInd/@specifyAccountingMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "ECIAmt",
+      "path": "OtherDeductionsExpensesRltdGrp/ECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonECIAmt",
+      "path": "OtherDeductionsExpensesRltdGrp/NonECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "OtherDeductionsExpensesRltdGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherInd",
+      "path": "OtherInd",
+      "type": "bool"
+    },
+    {
+      "name": "@specifyAccountingMethodTxt",
+      "path": "OtherInd/@specifyAccountingMethodTxt",
+      "type": "string"
+    },
+    {
+      "name": "OtherMethodsInd",
+      "path": "OtherMethodsInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherRatioBasedMethodsInd",
+      "path": "OtherRatioBasedMethodsInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherRecordsInd",
+      "path": "OtherRecordsInd",
+      "type": "bool"
+    },
+    {
+      "name": "PartIAdjUSTaxPrinciplesFuncAmt",
+      "path": "PartIAdjUSTaxPrinciplesFuncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartIAdjustmentsUSTaxPrinAmt",
+      "path": "PartIAdjustmentsUSTaxPrinAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartIVAdjustmentsUSTaxPrinAmt",
+      "path": "PartIVAdjustmentsUSTaxPrinAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PartIVTotalDeductibleExpnssAmt",
+      "path": "PartIVTotalDeductibleExpnssAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonnelRt",
+      "path": "PersonnelRt",
+      "type": "decimal"
+    },
+    {
+      "name": "PersonnelWithinUSCnt",
+      "path": "PersonnelWithinUSCnt",
+      "type": "int"
+    },
+    {
+      "name": "RecordedInterbranchAmountInd",
+      "path": "RecordedInterbranchAmountInd",
+      "type": "bool"
+    },
+    {
+      "name": "RemainingDedExpnssECIUSDolAmt",
+      "path": "RemainingDedExpnssECIUSDolAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RemainingDedExpnssSect18618Amt",
+      "path": "RemainingDedExpnssSect18618Amt",
+      "type": "usd"
+    },
+    {
+      "name": "RemainingDeductibleExpensesAmt",
+      "path": "RemainingDeductibleExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RemainingDeductibleExpnssFAmt",
+      "path": "RemainingDeductibleExpnssFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RmngDedExpnssECIOrNonECIAmt",
+      "path": "RmngDedExpnssECIOrNonECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RmngDedExpnssECIOrNonECIFAmt",
+      "path": "RmngDedExpnssECIOrNonECIFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumDeductibleExpensesAmt",
+      "path": "SumDeductibleExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ThirdPartyIntExpnsPerBksAmt",
+      "path": "ThirdPartyIntExpnsPerBksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotDedExpnssAllocApprtnECIAmt",
+      "path": "TotDedExpnssAllocApprtnECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDedExpnssECIOrNonECIAmt",
+      "path": "TotalDedExpnssECIOrNonECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDedExpnssECIOrNonECIFAmt",
+      "path": "TotalDedExpnssECIOrNonECIFAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDedOthNonUSLocAllocECIAmt",
+      "path": "TotalDedOthNonUSLocAllocECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductibleExpensesAmt",
+      "path": "TotalDeductibleExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDeductibleExpensesFuncAmt",
+      "path": "TotalDeductibleExpensesFuncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ECIAmt",
+      "path": "TotalDeductibleExpensesRltdGrp/ECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonECIAmt",
+      "path": "TotalDeductibleExpensesRltdGrp/NonECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "TotalDeductibleExpensesRltdGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ECIAmt",
+      "path": "TotalDeductibleExpnssAllocGrp/ECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonECIAmt",
+      "path": "TotalDeductibleExpnssAllocGrp/NonECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "TotalDeductibleExpnssAllocGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpensesOnHomeOfcBooksAmt",
+      "path": "TotalExpensesOnHomeOfcBooksAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpnssHomeOfcBooksFuncAmt",
+      "path": "TotalExpnssHomeOfcBooksFuncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExpnssPerBks1120FSchLAmt",
+      "path": "TotalExpnssPerBks1120FSchLAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalHomeOfficeDedAllocECIAmt",
+      "path": "TotalHomeOfficeDedAllocECIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIntAndBadDebtExpenseAmt",
+      "path": "TotalIntAndBadDebtExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalIntAndBadDebtExpnsFuncAmt",
+      "path": "TotalIntAndBadDebtExpnsFuncAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalInterestExpenseDedAmt",
+      "path": "TotalInterestExpenseDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USDollarsInd",
+      "path": "USDollarsInd",
+      "type": "bool"
+    },
+    {
+      "name": "WorldwideAssetsAmt",
+      "path": "WorldwideAssetsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WorldwideGrossIncomeAmt",
+      "path": "WorldwideGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WorldwidePersonnelCnt",
+      "path": "WorldwidePersonnelCnt",
+      "type": "int"
+    }
+  ]
+}

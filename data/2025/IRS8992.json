@@ -1,0 +1,81 @@
+{
+  "form_id": "IRS8992",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "DeemedTangibleIncomeReturnAmt",
+      "path": "DeemedTangibleIncomeReturnAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "GILTIReceivedAmt",
+      "path": "GILTIReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NetCFCTestedIncomeAmt",
+      "path": "NetCFCTestedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetDTIRAmt",
+      "path": "NetDTIRAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ShareholderBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ShareholderBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderPersonNm",
+      "path": "ShareholderPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SpecifiedInterestExpenseAmt",
+      "path": "SpecifiedInterestExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumProRataShrNetTestedIncmAmt",
+      "path": "SumProRataShrNetTestedIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SumProRataShrNetTestedLossAmt",
+      "path": "SumProRataShrNetTestedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrTestedIntExpnsAmt",
+      "path": "TotProRataShrTestedIntExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrTestedIntIncmAmt",
+      "path": "TotProRataShrTestedIntIncmAmt",
+      "type": "usd"
+    }
+  ]
+}

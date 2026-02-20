@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS8975",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdditionalInformationTxt",
+      "path": "AdditionalInformationTxt",
+      "type": "string"
+    },
+    {
+      "name": "AmendReportInd",
+      "path": "AmendReportInd",
+      "type": "bool"
+    },
+    {
+      "name": "EntityReportingRoleCd",
+      "path": "EntityReportingRoleCd",
+      "type": "enum"
+    },
+    {
+      "name": "Form8975ScheduleAAttachCnt",
+      "path": "Form8975ScheduleAAttachCnt",
+      "type": "int"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "MNEGroupName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "MNEGroupName/BusinessNameLine2Txt",
+      "type": "string"
+    }
+  ]
+}

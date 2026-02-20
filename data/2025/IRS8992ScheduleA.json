@@ -1,0 +1,91 @@
+{
+  "form_id": "IRS8992ScheduleA",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "EIN",
+      "path": "EIN",
+      "type": "ein"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ShareholderBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ShareholderBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "ShareholderPersonNm",
+      "path": "ShareholderPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "TotGILTIAllocTestedIncmCFCAmt",
+      "path": "TotGILTIAllocTestedIncmCFCAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrCFCTestedIncmAmt",
+      "path": "TotProRataShrCFCTestedIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrNetTestedLossAmt",
+      "path": "TotProRataShrNetTestedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrTestedIntExpnsAmt",
+      "path": "TotProRataShrTestedIntExpnsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrTestedIntIncmAmt",
+      "path": "TotProRataShrTestedIntIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotProRataShrTestedLossQBAIAmt",
+      "path": "TotProRataShrTestedLossQBAIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalGILTIAllocationRt",
+      "path": "TotalGILTIAllocationRt",
+      "type": "decimal"
+    },
+    {
+      "name": "TotalNetTestedIncomeAmt",
+      "path": "TotalNetTestedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalNetTestedLossAmt",
+      "path": "TotalNetTestedLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalProRataShareQBAIAmt",
+      "path": "TotalProRataShareQBAIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USShrCalcGILTIGrp",
+      "path": "USShrCalcGILTIGrp",
+      "type": "group"
+    }
+  ]
+}

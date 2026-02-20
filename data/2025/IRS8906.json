@@ -1,0 +1,36 @@
+{
+  "form_id": "IRS8906",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "@otherCreditAllowedType",
+      "path": "CreditAllowedForTheCurrentYear/@otherCreditAllowedType",
+      "type": "unknown"
+    },
+    {
+      "name": "@sec383Or384Indicator",
+      "path": "CreditAllowedForTheCurrentYear/@sec383Or384Indicator",
+      "type": "unknown"
+    },
+    {
+      "name": "DistilledSpiritsCreditAmt",
+      "path": "DistilledSpiritsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DistldSpiritsCasesTotalQty",
+      "path": "DistldSpiritsCasesTotalQty",
+      "type": "unknown"
+    },
+    {
+      "name": "SumOfTotTxFnCstNdDistSprtCrAmt",
+      "path": "SumOfTotTxFnCstNdDistSprtCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotCaseQtyMultByCostPerCaseAmt",
+      "path": "TotCaseQtyMultByCostPerCaseAmt",
+      "type": "usd"
+    }
+  ]
+}

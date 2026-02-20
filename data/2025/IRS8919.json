@@ -1,0 +1,56 @@
+{
+  "form_id": "IRS8919",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "NetWagesSubjectToSocSecTaxAmt",
+      "path": "NetWagesSubjectToSocSecTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PersonNm",
+      "path": "PersonNm",
+      "type": "string"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TotalWagesAndUnreportedTipsAmt",
+      "path": "TotalWagesAndUnreportedTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalWagesWithNoWithholdingAmt",
+      "path": "TotalWagesWithNoWithholdingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedMedicareTaxAmt",
+      "path": "UncollectedMedicareTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedSocSecMedTaxAmt",
+      "path": "UncollectedSocSecMedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UncollectedSocSecMedTaxPerFirm",
+      "path": "UncollectedSocSecMedTaxPerFirm",
+      "type": "unknown"
+    },
+    {
+      "name": "UncollectedSocSecTaxAmt",
+      "path": "UncollectedSocSecTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesSubjectToSSTAmt",
+      "path": "WagesSubjectToSSTAmt",
+      "type": "usd"
+    }
+  ]
+}

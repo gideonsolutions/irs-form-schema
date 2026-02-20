@@ -1,0 +1,226 @@
+{
+  "form_id": "IRS941ScheduleD",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AcquisitionAlternateProcInd",
+      "path": "AcquisitionAlternateProcGrp/AcquisitionAlternateProcInd",
+      "type": "bool"
+    },
+    {
+      "name": "PredecessorEmployerInd",
+      "path": "AcquisitionAlternateProcGrp/PredecessorEmployerInd",
+      "type": "bool"
+    },
+    {
+      "name": "SuccessorEmployerInd",
+      "path": "AcquisitionAlternateProcGrp/SuccessorEmployerInd",
+      "type": "bool"
+    },
+    {
+      "name": "AcquiredCorpInd",
+      "path": "AfterMergerConsolGrp/AcquiredCorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "AfterMergerConsolInd",
+      "path": "AfterMergerConsolGrp/AfterMergerConsolInd",
+      "type": "bool"
+    },
+    {
+      "name": "SurvivingCorpInd",
+      "path": "AfterMergerConsolGrp/SurvivingCorpInd",
+      "type": "bool"
+    },
+    {
+      "name": "ConsolidationAcquisitionDt",
+      "path": "ConsolidationAcquisitionDt",
+      "type": "date"
+    },
+    {
+      "name": "AdvanceEICPymtDiffAmt",
+      "path": "DiscrepancyAmtGrp/AdvanceEICPymtGrp/AdvanceEICPymtDiffAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdvanceEICPymtRptIRSAmt",
+      "path": "DiscrepancyAmtGrp/AdvanceEICPymtGrp/AdvanceEICPymtRptIRSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AdvanceEICPymtRptSSAAmt",
+      "path": "DiscrepancyAmtGrp/AdvanceEICPymtGrp/AdvanceEICPymtRptSSAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FedIncmTaxWthldDiffAmt",
+      "path": "DiscrepancyAmtGrp/FedIncmTaxWthldGrp/FedIncmTaxWthldDiffAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FedIncmTaxWthldRptIRSAmt",
+      "path": "DiscrepancyAmtGrp/FedIncmTaxWthldGrp/FedIncmTaxWthldRptIRSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FedIncmTaxWthldRptSSAAmt",
+      "path": "DiscrepancyAmtGrp/FedIncmTaxWthldGrp/FedIncmTaxWthldRptSSAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MdcrWagesDiffAmt",
+      "path": "DiscrepancyAmtGrp/MdcrWagesGrp/MdcrWagesDiffAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MdcrWagesRptIRSAmt",
+      "path": "DiscrepancyAmtGrp/MdcrWagesGrp/MdcrWagesRptIRSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MdcrWagesRptSSAAmt",
+      "path": "DiscrepancyAmtGrp/MdcrWagesGrp/MdcrWagesRptSSAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSTipsDiffAmt",
+      "path": "DiscrepancyAmtGrp/SSTipsGrp/SSTipsDiffAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSTipsRptIRSAmt",
+      "path": "DiscrepancyAmtGrp/SSTipsGrp/SSTipsRptIRSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSTipsRptSSAAmt",
+      "path": "DiscrepancyAmtGrp/SSTipsGrp/SSTipsRptSSAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSWagesDiffAmt",
+      "path": "DiscrepancyAmtGrp/SSWagesGrp/SSWagesDiffAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSWagesRptIRSAmt",
+      "path": "DiscrepancyAmtGrp/SSWagesGrp/SSWagesRptIRSAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSWagesRptSSAAmt",
+      "path": "DiscrepancyAmtGrp/SSWagesGrp/SSWagesRptSSAAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DiscrepancyTaxYr",
+      "path": "DiscrepancyTaxYr",
+      "type": "unknown"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OtherPartyGrp/BusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OtherPartyGrp/BusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "EIN",
+      "path": "OtherPartyGrp/EIN",
+      "type": "ein"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "OtherPartyGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "OtherPartyGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "OtherPartyGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "OtherPartyGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "OtherPartyGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "OtherPartyGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "OtherPartyGrp/ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "OtherPartyGrp/PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OtherPartyGrp/TradeName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OtherPartyGrp/TradeName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "OtherPartyGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "OtherPartyGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "OtherPartyGrp/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "OtherPartyGrp/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "OtherPartyGrp/USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "TrDiscrepancyAmtGrp",
+      "path": "TrDiscrepancyAmtGrp",
+      "type": "group"
+    }
+  ]
+}

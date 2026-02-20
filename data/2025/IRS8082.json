@@ -1,0 +1,141 @@
+{
+  "form_id": "IRS8082",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AARAdjImputedUnderpaymentInd",
+      "path": "AARAdjImputedUnderpaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdjustmentsDoNotResultIUInd",
+      "path": "AdjustmentsDoNotResultIUInd",
+      "type": "bool"
+    },
+    {
+      "name": "BBAAARInd",
+      "path": "BBAAARInd",
+      "type": "bool"
+    },
+    {
+      "name": "BBAPartnershipEntityInd",
+      "path": "BBAPartnershipEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "EstateEntityInd",
+      "path": "EstateEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "ImputedUnderpaymentModifInd",
+      "path": "ImputedUnderpaymentModifInd",
+      "type": "bool"
+    },
+    {
+      "name": "InconOrAdminAdjRequestItems",
+      "path": "InconOrAdminAdjRequestItems",
+      "type": "unknown"
+    },
+    {
+      "name": "ExplanationTxt",
+      "path": "InconOrAdminAdjRequestItems/ExplanationTxt",
+      "type": "string"
+    },
+    {
+      "name": "LineNumberDescOfInconItemTxt",
+      "path": "InconOrAdminAdjRequestItems/LineNumberDescOfInconItemTxt",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "NoticeOfInconsistentTrtmntInd",
+      "path": "NoticeOfInconsistentTrtmntInd",
+      "type": "bool"
+    },
+    {
+      "name": "PassThroughEntityEIN",
+      "path": "PassThroughEntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PassThroughEntityFrgnAddress",
+      "path": "PassThroughEntityFrgnAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PassThroughEntityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PassThroughEntityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "InCareOfName",
+      "path": "PassThroughEntityName/InCareOfName",
+      "type": "unknown"
+    },
+    {
+      "name": "PassThroughEntityUSAddress",
+      "path": "PassThroughEntityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "REMICEntityInd",
+      "path": "REMICEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "RvkPROrDesgIndivApptSccssrInd",
+      "path": "RvkPROrDesgIndivApptSccssrInd",
+      "type": "bool"
+    },
+    {
+      "name": "SCorporationEntityInd",
+      "path": "SCorporationEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section6227b2ElectonInd",
+      "path": "Section6227b2ElectonInd",
+      "type": "bool"
+    },
+    {
+      "name": "ServiceCenterWhereRetFiledCd",
+      "path": "ServiceCenterWhereRetFiledCd",
+      "type": "enum"
+    },
+    {
+      "name": "TaxYearOfPassThruEntityFromDt",
+      "path": "TaxYearOfPassThruEntityFromDt",
+      "type": "date"
+    },
+    {
+      "name": "TaxYearOfPassThruEntityToDt",
+      "path": "TaxYearOfPassThruEntityToDt",
+      "type": "date"
+    },
+    {
+      "name": "TrustEntityInd",
+      "path": "TrustEntityInd",
+      "type": "bool"
+    },
+    {
+      "name": "YourTaxYearFromDt",
+      "path": "YourTaxYearFromDt",
+      "type": "date"
+    },
+    {
+      "name": "YourTaxYearToDt",
+      "path": "YourTaxYearToDt",
+      "type": "date"
+    }
+  ]
+}

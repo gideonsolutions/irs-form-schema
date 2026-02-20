@@ -1,0 +1,141 @@
+{
+  "form_id": "IRS8615",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ChildCapitalGainInd",
+      "path": "ChildCapitalGainInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChildInvestmentIncomeAmt",
+      "path": "ChildInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildNetIncomeAmt",
+      "path": "ChildNetIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildNetIncomeTaxAmt",
+      "path": "ChildNetIncomeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildNetInvestmentIncomeAmt",
+      "path": "ChildNetInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildTaxableIncomeAmt",
+      "path": "ChildTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildUnearnedIncomeAdjustedAmt",
+      "path": "ChildUnearnedIncomeAdjustedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildUnearnedIncomeInd",
+      "path": "ChildUnearnedIncomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChildrenInvestmentAllcblTaxAmt",
+      "path": "ChildrenInvestmentAllcblTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildrenInvestmentPct",
+      "path": "ChildrenInvestmentPct",
+      "type": "decimal"
+    },
+    {
+      "name": "ChildrenTaxAmt",
+      "path": "ChildrenTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FamilyCapitalGainsTaxInd",
+      "path": "FamilyCapitalGainsTaxInd",
+      "type": "bool"
+    },
+    {
+      "name": "FamilyIncomeAmt",
+      "path": "FamilyIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FamilyTentativeTaxAmt",
+      "path": "FamilyTentativeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IndividualReturnFilingStatusCd",
+      "path": "IndividualReturnFilingStatusCd",
+      "type": "enum"
+    },
+    {
+      "name": "KiddieDeductionAmt",
+      "path": "KiddieDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "KiddieTaxAmt",
+      "path": "KiddieTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetChildrenInvestmentIncomeAmt",
+      "path": "NetChildrenInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherChildrenInvestmentIncmAmt",
+      "path": "OtherChildrenInvestmentIncmAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ParentCapitalGainsTaxInd",
+      "path": "ParentCapitalGainsTaxInd",
+      "type": "bool"
+    },
+    {
+      "name": "ParentNameControlTxt",
+      "path": "ParentNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "ParentNm",
+      "path": "ParentNm",
+      "type": "string"
+    },
+    {
+      "name": "ParentTaxableIncomeAmt",
+      "path": "ParentTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ParentTentativeTaxAmt",
+      "path": "ParentTentativeTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    },
+    {
+      "name": "TaxOnChildTaxableIncomeAmt",
+      "path": "TaxOnChildTaxableIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAllocableAndNetTaxAmt",
+      "path": "TotalAllocableAndNetTaxAmt",
+      "type": "usd"
+    }
+  ]
+}

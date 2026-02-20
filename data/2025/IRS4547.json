@@ -1,0 +1,331 @@
+{
+  "form_id": "IRS4547",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "EmailAddressTxt",
+      "path": "PaidPreparerInformationGrp/EmailAddressTxt",
+      "type": "string"
+    },
+    {
+      "name": "ForeignPhoneNum",
+      "path": "PaidPreparerInformationGrp/ForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PTIN",
+      "path": "PaidPreparerInformationGrp/PTIN",
+      "type": "unknown"
+    },
+    {
+      "name": "PhoneNum",
+      "path": "PaidPreparerInformationGrp/PhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "PreparerFirmEIN",
+      "path": "PaidPreparerInformationGrp/PreparerFirmEIN",
+      "type": "ein"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PaidPreparerInformationGrp/PreparerFirmName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PaidPreparerInformationGrp/PreparerFirmName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PaidPreparerInformationGrp/PreparerForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PaidPreparerInformationGrp/PreparerForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "PaidPreparerInformationGrp/PreparerForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "PaidPreparerInformationGrp/PreparerForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "PaidPreparerInformationGrp/PreparerForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "PreparerPersonNm",
+      "path": "PaidPreparerInformationGrp/PreparerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "PreparerSSN",
+      "path": "PaidPreparerInformationGrp/PreparerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "PaidPreparerInformationGrp/PreparerUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "PaidPreparerInformationGrp/PreparerUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "PaidPreparerInformationGrp/PreparerUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "PaidPreparerInformationGrp/PreparerUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "STIN",
+      "path": "PaidPreparerInformationGrp/STIN",
+      "type": "unknown"
+    },
+    {
+      "name": "SelfEmployedInd",
+      "path": "PaidPreparerInformationGrp/SelfEmployedInd",
+      "type": "bool"
+    },
+    {
+      "name": "SignatureDt",
+      "path": "PaidPreparerInformationGrp/SignatureDt",
+      "type": "date"
+    },
+    {
+      "name": "ResponsiblePrtyBirthDt",
+      "path": "ResponsiblePrtyBirthDt",
+      "type": "date"
+    },
+    {
+      "name": "ResponsiblePrtyCountyNm",
+      "path": "ResponsiblePrtyCountyNm",
+      "type": "string"
+    },
+    {
+      "name": "ResponsiblePrtyEmailAddressTxt",
+      "path": "ResponsiblePrtyEmailAddressTxt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ResponsiblePrtyForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ResponsiblePrtyForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ResponsiblePrtyForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "ResponsiblePrtyForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "ResponsiblePrtyForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "ResponsiblePrtyForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "ResponsiblePrtyForeignPhoneNum",
+      "path": "ResponsiblePrtyForeignPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "ResponsiblePrtyPersonFirstNm",
+      "path": "ResponsiblePrtyPersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "ResponsiblePrtyPersonLastNm",
+      "path": "ResponsiblePrtyPersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "ResponsiblePrtyPersonMiddleNm",
+      "path": "ResponsiblePrtyPersonMiddleNm",
+      "type": "string"
+    },
+    {
+      "name": "ResponsiblePrtyPhoneNum",
+      "path": "ResponsiblePrtyPhoneNum",
+      "type": "string"
+    },
+    {
+      "name": "ResponsiblePrtySSN",
+      "path": "ResponsiblePrtySSN",
+      "type": "tin"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "ResponsiblePrtyUSAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "ResponsiblePrtyUSAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "ResponsiblePrtyUSAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "ResponsiblePrtyUSAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "ResponsiblePrtyUSAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "SignatureDt",
+      "path": "SignatureDt",
+      "type": "date"
+    },
+    {
+      "name": "SignaturePIN",
+      "path": "SignaturePIN",
+      "type": "string"
+    },
+    {
+      "name": "TrumpAccountChildInfoGrp",
+      "path": "TrumpAccountChildInfoGrp",
+      "type": "group"
+    },
+    {
+      "name": "AuthorizedOpenAccountInd",
+      "path": "TrumpAccountChildInfoGrp/AuthorizedOpenAccountInd",
+      "type": "bool"
+    },
+    {
+      "name": "BirthDt",
+      "path": "TrumpAccountChildInfoGrp/BirthDt",
+      "type": "date"
+    },
+    {
+      "name": "ChildRelationshipCd",
+      "path": "TrumpAccountChildInfoGrp/ChildRelationshipCd",
+      "type": "enum"
+    },
+    {
+      "name": "CountyNm",
+      "path": "TrumpAccountChildInfoGrp/CountyNm",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TrumpAccountChildInfoGrp/ForeignAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TrumpAccountChildInfoGrp/ForeignAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TrumpAccountChildInfoGrp/ForeignAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "CountryCd",
+      "path": "TrumpAccountChildInfoGrp/ForeignAddress/CountryCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignPostalCd",
+      "path": "TrumpAccountChildInfoGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
+    },
+    {
+      "name": "ProvinceOrStateNm",
+      "path": "TrumpAccountChildInfoGrp/ForeignAddress/ProvinceOrStateNm",
+      "type": "string"
+    },
+    {
+      "name": "HomeAddressSameInd",
+      "path": "TrumpAccountChildInfoGrp/HomeAddressSameInd",
+      "type": "bool"
+    },
+    {
+      "name": "PersonFirstNm",
+      "path": "TrumpAccountChildInfoGrp/PersonFirstNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonLastNm",
+      "path": "TrumpAccountChildInfoGrp/PersonLastNm",
+      "type": "string"
+    },
+    {
+      "name": "PersonMiddleNm",
+      "path": "TrumpAccountChildInfoGrp/PersonMiddleNm",
+      "type": "string"
+    },
+    {
+      "name": "PilotProgramContributionInd",
+      "path": "TrumpAccountChildInfoGrp/PilotProgramContributionInd",
+      "type": "bool"
+    },
+    {
+      "name": "SSN",
+      "path": "TrumpAccountChildInfoGrp/SSN",
+      "type": "tin"
+    },
+    {
+      "name": "AddressLine1Txt",
+      "path": "TrumpAccountChildInfoGrp/USAddress/AddressLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "AddressLine2Txt",
+      "path": "TrumpAccountChildInfoGrp/USAddress/AddressLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "CityNm",
+      "path": "TrumpAccountChildInfoGrp/USAddress/CityNm",
+      "type": "string"
+    },
+    {
+      "name": "StateAbbreviationCd",
+      "path": "TrumpAccountChildInfoGrp/USAddress/StateAbbreviationCd",
+      "type": "enum"
+    },
+    {
+      "name": "ZIPCd",
+      "path": "TrumpAccountChildInfoGrp/USAddress/ZIPCd",
+      "type": "enum"
+    }
+  ]
+}

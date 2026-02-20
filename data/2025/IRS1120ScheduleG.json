@@ -1,0 +1,16 @@
+{
+  "form_id": "IRS1120ScheduleG",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "EntityInformation",
+      "path": "EntityInformation",
+      "type": "unknown"
+    },
+    {
+      "name": "IndividualInformation",
+      "path": "IndividualInformation",
+      "type": "unknown"
+    }
+  ]
+}

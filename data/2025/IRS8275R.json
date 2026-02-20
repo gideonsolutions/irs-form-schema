@@ -1,0 +1,101 @@
+{
+  "form_id": "IRS8275R",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "DisclosureGeneralInformation",
+      "path": "DisclosureGeneralInformation",
+      "type": "unknown"
+    },
+    {
+      "name": "DetailedExplanationDesc",
+      "path": "DisclosureGeneralInformation/DetailedExplanationDesc",
+      "type": "string"
+    },
+    {
+      "name": "EINMissingReasonCd",
+      "path": "EINMissingReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "ForeignEntityEIN",
+      "path": "ForeignEntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "ForeignEntityReferenceIdNum",
+      "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNum",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "ForeignEntityName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "ForeignEntityName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "MissingEINReasonCd",
+      "path": "MissingEINReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "PassThroughEntityBusName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "PassThroughEntityBusName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "PassThroughEntityEIN",
+      "path": "PassThroughEntityEIN",
+      "type": "ein"
+    },
+    {
+      "name": "PassThroughEntityFrgnAddress",
+      "path": "PassThroughEntityFrgnAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "PassThroughEntityIndivNm",
+      "path": "PassThroughEntityIndivNm",
+      "type": "string"
+    },
+    {
+      "name": "PassThroughEntitySSN",
+      "path": "PassThroughEntitySSN",
+      "type": "tin"
+    },
+    {
+      "name": "PassThroughEntityTaxYearFromDt",
+      "path": "PassThroughEntityTaxYearFromDt",
+      "type": "date"
+    },
+    {
+      "name": "PassThroughEntityTaxYearToDt",
+      "path": "PassThroughEntityTaxYearToDt",
+      "type": "date"
+    },
+    {
+      "name": "PassThroughEntityUSAddress",
+      "path": "PassThroughEntityUSAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ServiceCenterWhereRetFiledCd",
+      "path": "ServiceCenterWhereRetFiledCd",
+      "type": "enum"
+    },
+    {
+      "name": "@efileCd",
+      "path": "ServiceCenterWhereRetFiledCd/@efileCd",
+      "type": "enum"
+    }
+  ]
+}

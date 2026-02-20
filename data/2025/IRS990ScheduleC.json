@@ -1,0 +1,436 @@
+{
+  "form_id": "IRS990ScheduleC",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AggregateReportedDuesNtcAmt",
+      "path": "AggregateReportedDuesNtcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AgreeCarryoverPriorYearInd",
+      "path": "AgreeCarryoverPriorYearInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AvgGrassrootsLobbyingExpendGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus1Amt",
+      "path": "AvgGrassrootsLobbyingExpendGrp/CurrentYearMinus1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus2Amt",
+      "path": "AvgGrassrootsLobbyingExpendGrp/CurrentYearMinus2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus3Amt",
+      "path": "AvgGrassrootsLobbyingExpendGrp/CurrentYearMinus3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "AvgGrassrootsLobbyingExpendGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AvgGrassrootsNontaxableGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus1Amt",
+      "path": "AvgGrassrootsNontaxableGrp/CurrentYearMinus1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus2Amt",
+      "path": "AvgGrassrootsNontaxableGrp/CurrentYearMinus2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus3Amt",
+      "path": "AvgGrassrootsNontaxableGrp/CurrentYearMinus3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "AvgGrassrootsNontaxableGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AvgLobbyingNontaxableAmountGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus1Amt",
+      "path": "AvgLobbyingNontaxableAmountGrp/CurrentYearMinus1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus2Amt",
+      "path": "AvgLobbyingNontaxableAmountGrp/CurrentYearMinus2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus3Amt",
+      "path": "AvgLobbyingNontaxableAmountGrp/CurrentYearMinus3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "AvgLobbyingNontaxableAmountGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearAmt",
+      "path": "AvgTotalLobbyingExpendGrp/CurrentYearAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus1Amt",
+      "path": "AvgTotalLobbyingExpendGrp/CurrentYearMinus1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus2Amt",
+      "path": "AvgTotalLobbyingExpendGrp/CurrentYearMinus2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentYearMinus3Amt",
+      "path": "AvgTotalLobbyingExpendGrp/CurrentYearMinus3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalAmt",
+      "path": "AvgTotalLobbyingExpendGrp/TotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CarriedOverAmt",
+      "path": "CarriedOverAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CorrectionMadeInd",
+      "path": "CorrectionMadeInd",
+      "type": "bool"
+    },
+    {
+      "name": "DirectContactLegislatorsAmt",
+      "path": "DirectContactLegislatorsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "DirectContactLegislatorsInd",
+      "path": "DirectContactLegislatorsInd",
+      "type": "bool"
+    },
+    {
+      "name": "DuesAssessmentsAmt",
+      "path": "DuesAssessmentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Expended527ActivitiesAmt",
+      "path": "Expended527ActivitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form1120POLFiledInd",
+      "path": "Form1120POLFiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form4720Filed4912TaxInd",
+      "path": "Form4720Filed4912TaxInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form4720FiledInd",
+      "path": "Form4720FiledInd",
+      "type": "bool"
+    },
+    {
+      "name": "Form4720FiledSection4955TaxInd",
+      "path": "Form4720FiledSection4955TaxInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrantsOtherOrganizationsAmt",
+      "path": "GrantsOtherOrganizationsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GrantsOtherOrganizationsInd",
+      "path": "GrantsOtherOrganizationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "GrassrootsCeilingAmt",
+      "path": "GrassrootsCeilingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AffiliatedGroupTotalAmt",
+      "path": "GrassrootsNontaxableGrp/AffiliatedGroupTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingOrganizationsTotalAmt",
+      "path": "GrassrootsNontaxableGrp/FilingOrganizationsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InternalFundsContributedAmt",
+      "path": "InternalFundsContributedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "LimitedControlProvisionsAppInd",
+      "path": "LimitedControlProvisionsAppInd",
+      "type": "bool"
+    },
+    {
+      "name": "LobbyingCeilingAmt",
+      "path": "LobbyingCeilingAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AffiliatedGroupTotalAmt",
+      "path": "LobbyingNontaxableAmountGrp/AffiliatedGroupTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingOrganizationsTotalAmt",
+      "path": "LobbyingNontaxableAmountGrp/FilingOrganizationsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MailingsMembersAmt",
+      "path": "MailingsMembersAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MailingsMembersInd",
+      "path": "MailingsMembersInd",
+      "type": "bool"
+    },
+    {
+      "name": "Managers4912TaxAmt",
+      "path": "Managers4912TaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MediaAdvertisementsAmt",
+      "path": "MediaAdvertisementsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MediaAdvertisementsInd",
+      "path": "MediaAdvertisementsInd",
+      "type": "bool"
+    },
+    {
+      "name": "NonDedLbbyngPltclCyovAmt",
+      "path": "NonDedLbbyngPltclCyovAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonDeductibleLbbyngPltclCYAmt",
+      "path": "NonDeductibleLbbyngPltclCYAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NonDeductibleLbbyngPltclTotAmt",
+      "path": "NonDeductibleLbbyngPltclTotAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NotDescribedSection501c3Ind",
+      "path": "NotDescribedSection501c3Ind",
+      "type": "bool"
+    },
+    {
+      "name": "OnlyInHouseLobbyingInd",
+      "path": "OnlyInHouseLobbyingInd",
+      "type": "bool"
+    },
+    {
+      "name": "OrganizationBelongsAffltGrpInd",
+      "path": "OrganizationBelongsAffltGrpInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherActivitiesAmt",
+      "path": "OtherActivitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherActivitiesInd",
+      "path": "OtherActivitiesInd",
+      "type": "bool"
+    },
+    {
+      "name": "AffiliatedGroupTotalAmt",
+      "path": "OtherExemptPurposeExpendGrp/AffiliatedGroupTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingOrganizationsTotalAmt",
+      "path": "OtherExemptPurposeExpendGrp/FilingOrganizationsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PaidStaffOrManagementInd",
+      "path": "PaidStaffOrManagementInd",
+      "type": "bool"
+    },
+    {
+      "name": "PoliticalExpendituresAmt",
+      "path": "PoliticalExpendituresAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PublicationsOrBroadcastAmt",
+      "path": "PublicationsOrBroadcastAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PublicationsOrBroadcastInd",
+      "path": "PublicationsOrBroadcastInd",
+      "type": "bool"
+    },
+    {
+      "name": "RalliesDemonstrationsAmt",
+      "path": "RalliesDemonstrationsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RalliesDemonstrationsInd",
+      "path": "RalliesDemonstrationsInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section4955ManagersTaxAmt",
+      "path": "Section4955ManagersTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section4955OrganizationTaxAmt",
+      "path": "Section4955OrganizationTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section527PoliticalOrgGrp",
+      "path": "Section527PoliticalOrgGrp",
+      "type": "group"
+    },
+    {
+      "name": "SubstantiallyAllDuesNondedInd",
+      "path": "SubstantiallyAllDuesNondedInd",
+      "type": "bool"
+    },
+    {
+      "name": "SupplementalInformationDetail",
+      "path": "SupplementalInformationDetail",
+      "type": "unknown"
+    },
+    {
+      "name": "Tax4912Amt",
+      "path": "Tax4912Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableAmt",
+      "path": "TaxableAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AffiliatedGroupTotalAmt",
+      "path": "TotLbbyExpendMnsLbbyngNonTxGrp/AffiliatedGroupTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingOrganizationsTotalAmt",
+      "path": "TotLbbyExpendMnsLbbyngNonTxGrp/FilingOrganizationsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AffiliatedGroupTotalAmt",
+      "path": "TotLbbyngGrassrootMnsNonTxGrp/AffiliatedGroupTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingOrganizationsTotalAmt",
+      "path": "TotLbbyngGrassrootMnsNonTxGrp/FilingOrganizationsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AffiliatedGroupTotalAmt",
+      "path": "TotalDirectLobbyingGrp/AffiliatedGroupTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingOrganizationsTotalAmt",
+      "path": "TotalDirectLobbyingGrp/FilingOrganizationsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExemptFunctionExpendAmt",
+      "path": "TotalExemptFunctionExpendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AffiliatedGroupTotalAmt",
+      "path": "TotalExemptPurposeExpendGrp/AffiliatedGroupTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingOrganizationsTotalAmt",
+      "path": "TotalExemptPurposeExpendGrp/FilingOrganizationsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AffiliatedGroupTotalAmt",
+      "path": "TotalGrassrootsLobbyingGrp/AffiliatedGroupTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingOrganizationsTotalAmt",
+      "path": "TotalGrassrootsLobbyingGrp/FilingOrganizationsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AffiliatedGroupTotalAmt",
+      "path": "TotalLobbyingExpendGrp/AffiliatedGroupTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FilingOrganizationsTotalAmt",
+      "path": "TotalLobbyingExpendGrp/FilingOrganizationsTotalAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalLobbyingExpendituresAmt",
+      "path": "TotalLobbyingExpendituresAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VolunteerHoursCnt",
+      "path": "VolunteerHoursCnt",
+      "type": "int"
+    },
+    {
+      "name": "VolunteersInd",
+      "path": "VolunteersInd",
+      "type": "bool"
+    }
+  ]
+}

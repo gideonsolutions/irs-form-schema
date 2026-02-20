@@ -1,0 +1,76 @@
+{
+  "form_id": "IRS8911",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjustedRegularTaxAmt",
+      "path": "AdjustedRegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AltFuelVehRefuelPropCreditAmt",
+      "path": "AltFuelVehRefuelPropCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusInvstUseRefuelingPropCrAmt",
+      "path": "BusInvstUseRefuelingPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessInvstUsePartOfCrAmt",
+      "path": "BusinessInvstUsePartOfCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CertainAllowableCreditsAmt",
+      "path": "CertainAllowableCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ForeignTaxCreditAmt",
+      "path": "ForeignTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NetRegularTaxAmt",
+      "path": "NetRegularTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherSpecifiedCredits",
+      "path": "OtherSpecifiedCredits",
+      "type": "unknown"
+    },
+    {
+      "name": "PrsnlUseRefuelingPropCrAmt",
+      "path": "PrsnlUseRefuelingPropCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RegularTaxBeforeCreditsAmt",
+      "path": "RegularTaxBeforeCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TentativeMinimumTaxAmt",
+      "path": "TentativeMinimumTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotQlfyAltFuelVehRefuelPropCnt",
+      "path": "TotQlfyAltFuelVehRefuelPropCnt",
+      "type": "int"
+    },
+    {
+      "name": "TotalPersonalUsePartOfCrAmt",
+      "path": "TotalPersonalUsePartOfCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxCreditsAmt",
+      "path": "TotalTaxCreditsAmt",
+      "type": "usd"
+    }
+  ]
+}

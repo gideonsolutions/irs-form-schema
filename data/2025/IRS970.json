@@ -1,0 +1,161 @@
+{
+  "form_id": "IRS970",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ActCostGdsMostRctPrchsPrdcdInd",
+      "path": "ActCostGdsMostRctPrchsPrdcdInd",
+      "type": "bool"
+    },
+    {
+      "name": "ActlCostGdsPrchsPrdcdAcqOrdInd",
+      "path": "ActlCostGdsPrchsPrdcdAcqOrdInd",
+      "type": "bool"
+    },
+    {
+      "name": "AdjIncludedInIncomeOver3YrsInd",
+      "path": "AdjIncludedInIncomeOver3YrsInd",
+      "type": "bool"
+    },
+    {
+      "name": "ApplicantInformation",
+      "path": "ApplicantInformation",
+      "type": "unknown"
+    },
+    {
+      "name": "AvgCostOfGdsPrchsPrdcdDurYrInd",
+      "path": "AvgCostOfGdsPrchsPrdcdDurYrInd",
+      "type": "bool"
+    },
+    {
+      "name": "BegngInvntryValuedForFrstTYInd",
+      "path": "BegngInvntryValuedForFrstTYInd",
+      "type": "bool"
+    },
+    {
+      "name": "ClsInventoriesValuedForPrTYInd",
+      "path": "ClsInventoriesValuedForPrTYInd",
+      "type": "bool"
+    },
+    {
+      "name": "CnsntChgValuingInvntryMthdInd",
+      "path": "CnsntChgValuingInvntryMthdInd",
+      "type": "bool"
+    },
+    {
+      "name": "ConsumerPriceIndexDtlRptInd",
+      "path": "ConsumerPriceIndexDtlRptInd",
+      "type": "bool"
+    },
+    {
+      "name": "CreditStatementsOrRptsIssdInd",
+      "path": "CreditStatementsOrRptsIssdInd",
+      "type": "bool"
+    },
+    {
+      "name": "DolVlMthdAvgCostOfGdsPrchInd",
+      "path": "DolVlMthdAvgCostOfGdsPrchInd",
+      "type": "bool"
+    },
+    {
+      "name": "DolVlMthdCostOfGdsPrchsOrdInd",
+      "path": "DolVlMthdCostOfGdsPrchsOrdInd",
+      "type": "bool"
+    },
+    {
+      "name": "DollarValueOtherMethodUsedInd",
+      "path": "DollarValueOtherMethodUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "DollarVlMthdCostOfGdsPrchsInd",
+      "path": "DollarVlMthdCostOfGdsPrchsInd",
+      "type": "bool"
+    },
+    {
+      "name": "DoubleExtensionIPICMethodInd",
+      "path": "DoubleExtensionIPICMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "ElectsLIFOMethodForFrstTYEndDt",
+      "path": "ElectsLIFOMethodForFrstTYEndDt",
+      "type": "date"
+    },
+    {
+      "name": "GoodsAcqAtBelowMrktPrcsInd",
+      "path": "GoodsAcqAtBelowMrktPrcsInd",
+      "type": "bool"
+    },
+    {
+      "name": "InventoryNotTakenAtActlCostInd",
+      "path": "InventoryNotTakenAtActlCostInd",
+      "type": "bool"
+    },
+    {
+      "name": "ItemAGoodsTreatedAsAcquiredInd",
+      "path": "ItemAGoodsTreatedAsAcquiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "LIFOCmptMthdDolVlPoolingDesc",
+      "path": "LIFOCmptMthdDolVlPoolingDesc",
+      "type": "string"
+    },
+    {
+      "name": "LIFOInventoryMethodUsedBfrInd",
+      "path": "LIFOInventoryMethodUsedBfrInd",
+      "type": "bool"
+    },
+    {
+      "name": "LIFOMethodGoodsTxt",
+      "path": "LIFOMethodGoodsTxt",
+      "type": "string"
+    },
+    {
+      "name": "LIFOMthdCurrUsedForOthGoodsInd",
+      "path": "LIFOMthdCurrUsedForOthGoodsInd",
+      "type": "bool"
+    },
+    {
+      "name": "LIFOMthdGoodsForFirstTYTxt",
+      "path": "LIFOMthdGoodsForFirstTYTxt",
+      "type": "string"
+    },
+    {
+      "name": "LinkChainIPICMethodInd",
+      "path": "LinkChainIPICMethodInd",
+      "type": "bool"
+    },
+    {
+      "name": "MonthBLSPriceIndexRepDt",
+      "path": "MonthBLSPriceIndexRepDt",
+      "type": "date"
+    },
+    {
+      "name": "OtherMethodUsedInd",
+      "path": "OtherMethodUsedInd",
+      "type": "bool"
+    },
+    {
+      "name": "OtherTablePPIDetailedReportInd",
+      "path": "OtherTablePPIDetailedReportInd",
+      "type": "bool"
+    },
+    {
+      "name": "ProducerPriceIndexDtlRptInd",
+      "path": "ProducerPriceIndexDtlRptInd",
+      "type": "bool"
+    },
+    {
+      "name": "SectionAdjustmentAgreementInd",
+      "path": "SectionAdjustmentAgreementInd",
+      "type": "bool"
+    },
+    {
+      "name": "TenPercentMethodInd",
+      "path": "TenPercentMethodInd",
+      "type": "bool"
+    }
+  ]
+}

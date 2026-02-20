@@ -1,0 +1,46 @@
+{
+  "form_id": "IRS965",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "CorrectedInd",
+      "path": "CorrectedInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section9652f2ElectionInd",
+      "path": "Section9652f2ElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section965aInclusionRcvdAmt",
+      "path": "Section965aInclusionRcvdAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section965cDeductionAmt",
+      "path": "Section965cDeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Section965hElectionInd",
+      "path": "Section965hElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section965iElectionInd",
+      "path": "Section965iElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section965mElectionInd",
+      "path": "Section965mElectionInd",
+      "type": "bool"
+    },
+    {
+      "name": "Section965nElectionInd",
+      "path": "Section965nElectionInd",
+      "type": "bool"
+    }
+  ]
+}

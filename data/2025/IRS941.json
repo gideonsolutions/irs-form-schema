@@ -1,0 +1,186 @@
+{
+  "form_id": "IRS941",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "TaxOnWageTipsSubjAddnlMedcrAmt",
+      "path": "AddnlMedicareWageTipsAndTaxGrp/TaxOnWageTipsSubjAddnlMedcrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblWageTipsSubjAddnlMedcrAmt",
+      "path": "AddnlMedicareWageTipsAndTaxGrp/TxblWageTipsSubjAddnlMedcrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BalanceDueAmt",
+      "path": "BalanceDueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FinalWagesPaidDt",
+      "path": "BusinessClosedGrp/FinalWagesPaidDt",
+      "type": "date"
+    },
+    {
+      "name": "FutureFilingNotRequiredInd",
+      "path": "BusinessClosedGrp/FutureFilingNotRequiredInd",
+      "type": "bool"
+    },
+    {
+      "name": "CurrQtrTipGrpTermLifeInsAdjAmt",
+      "path": "CurrQtrTipGrpTermLifeInsAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentQtrFractionsCentsAmt",
+      "path": "CurrentQtrFractionsCentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CurrentQuarterSickPaymentAmt",
+      "path": "CurrentQuarterSickPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EmployeeCnt",
+      "path": "EmployeeCnt",
+      "type": "int"
+    },
+    {
+      "name": "FederalIncomeTaxWithheldAmt",
+      "path": "FederalIncomeTaxWithheldAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnMedicareWagesTipsAmt",
+      "path": "MedicareWageTipsAndTaxGrp/TaxOnMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableMedicareWagesTipsAmt",
+      "path": "MedicareWageTipsAndTaxGrp/TaxableMedicareWagesTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MonthlyScheduleDepositorInd",
+      "path": "MonthlyScheduleDepositorGrp/MonthlyScheduleDepositorInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxLiabilityMonth1Amt",
+      "path": "MonthlyScheduleDepositorGrp/TaxLiabilityMonth1Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityMonth2Amt",
+      "path": "MonthlyScheduleDepositorGrp/TaxLiabilityMonth2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLiabilityMonth3Amt",
+      "path": "MonthlyScheduleDepositorGrp/TaxLiabilityMonth3Amt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalQuarterTaxLiabilityAmt",
+      "path": "MonthlyScheduleDepositorGrp/TotalQuarterTaxLiabilityAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ApplyOverpaymentNextReturnInd",
+      "path": "OverpaymentGrp/ApplyOverpaymentNextReturnInd",
+      "type": "bool"
+    },
+    {
+      "name": "OverpaidAmt",
+      "path": "OverpaymentGrp/OverpaidAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundOverpaymentInd",
+      "path": "OverpaymentGrp/RefundOverpaymentInd",
+      "type": "bool"
+    },
+    {
+      "name": "PayrollTaxCreditAmt",
+      "path": "PayrollTaxCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SeasonalEmployerInd",
+      "path": "SeasonalEmployerInd",
+      "type": "bool"
+    },
+    {
+      "name": "SemiweeklyScheduleDepositorInd",
+      "path": "SemiweeklyScheduleDepositorInd",
+      "type": "bool"
+    },
+    {
+      "name": "TaxOnSocialSecurityTipsAmt",
+      "path": "SocialSecurityTipsAndTaxGrp/TaxOnSocialSecurityTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableSocSecTipsAmt",
+      "path": "SocialSecurityTipsAndTaxGrp/TaxableSocSecTipsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxAmt",
+      "path": "SocialSecurityWageAndTaxGrp/SocialSecurityTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SocialSecurityTaxCashWagesAmt",
+      "path": "SocialSecurityWageAndTaxGrp/SocialSecurityTaxCashWagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxOnUnreportedTips3121qAmt",
+      "path": "TaxOnUnreportedTips3121qAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalSSMdcrTaxAmt",
+      "path": "TotalSSMdcrTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAfterAdjustmentAmt",
+      "path": "TotalTaxAfterAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxAmt",
+      "path": "TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxBeforeAdjustmentAmt",
+      "path": "TotalTaxBeforeAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxDepositAmt",
+      "path": "TotalTaxDepositAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalTaxLessThanLimitAmtInd",
+      "path": "TotalTaxLessThanLimitAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "WagesAmt",
+      "path": "WagesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesNotSubjToSSMedcrTaxInd",
+      "path": "WagesNotSubjToSSMedcrTaxInd",
+      "type": "bool"
+    }
+  ]
+}

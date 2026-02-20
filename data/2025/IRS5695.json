@@ -1,0 +1,471 @@
+{
+  "form_id": "IRS5695",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjustedCreditLimitAmt",
+      "path": "EgyEffcntHmImprvCrGrp/AdjustedCreditLimitAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@adjustedCreditLimitCd",
+      "path": "EgyEffcntHmImprvCrGrp/AdjustedCreditLimitAmt/@adjustedCreditLimitCd",
+      "type": "enum"
+    },
+    {
+      "name": "CentralAirCondCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/CentralAirConditionerGrp/CentralAirCondCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CentralAirCondCostStdPctCrAmt",
+      "path": "EgyEffcntHmImprvCrGrp/CentralAirConditionerGrp/CentralAirCondCostStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MostExpnsCentralAirCondCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/CentralAirConditionerGrp/MostExpnsCentralAirCondCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MostExpnsCentralAirCondQMID",
+      "path": "EgyEffcntHmImprvCrGrp/CentralAirConditionerGrp/MostExpnsCentralAirCondQMID",
+      "type": "unknown"
+    },
+    {
+      "name": "OthCentralAirCondCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/CentralAirConditionerGrp/OthCentralAirCondCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EgyEffcntHmImprvCrAmt",
+      "path": "EgyEffcntHmImprvCrGrp/EgyEffcntHmImprvCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EgyEffcntImprvCreditSubtlAmt",
+      "path": "EgyEffcntHmImprvCrGrp/EgyEffcntImprvCreditSubtlAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EnabledPropertyTypeCd",
+      "path": "EgyEffcntHmImprvCrGrp/EnablingPropertyGrp/EnabledPropertyTypeCd",
+      "type": "enum"
+    },
+    {
+      "name": "PanelboardCktFeederCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/EnablingPropertyGrp/PanelboardCktFeederCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PanelboardCktFeederStdPctCrAmt",
+      "path": "EgyEffcntHmImprvCrGrp/EnablingPropertyGrp/PanelboardCktFeederStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QMID",
+      "path": "EgyEffcntHmImprvCrGrp/EnablingPropertyGrp/QMID",
+      "type": "unknown"
+    },
+    {
+      "name": "EnergyEffcntImprvAllwblCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/EnergyEffcntImprvAllwblCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MostExpnsExtrDoorCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExteriorDoorEgyStarRqrGrp/MostExpnsExtrDoorCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MostExpnsExtrDoorQMID",
+      "path": "EgyEffcntHmImprvCrGrp/ExteriorDoorEgyStarRqrGrp/MostExpnsExtrDoorQMID",
+      "type": "unknown"
+    },
+    {
+      "name": "MostExpnsExtrDoorsStdPctCrAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExteriorDoorEgyStarRqrGrp/MostExpnsExtrDoorsStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NextMostExpnsExtrDoorCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExteriorDoorEgyStarRqrGrp/OthExteriorDoorEgyStarRqrGrp/NextMostExpnsExtrDoorCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExteriorDoorEgyStarRqrGrp/OthExteriorDoorEgyStarRqrGrp/NextMostExpnsExtrDoorGrp/CostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QMID",
+      "path": "EgyEffcntHmImprvCrGrp/ExteriorDoorEgyStarRqrGrp/OthExteriorDoorEgyStarRqrGrp/NextMostExpnsExtrDoorGrp/QMID",
+      "type": "unknown"
+    },
+    {
+      "name": "OtherQlfyExtrDoorsCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExteriorDoorEgyStarRqrGrp/OthExteriorDoorEgyStarRqrGrp/OtherQlfyExtrDoorsCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherQlfyExtrDoorsStdPctCrAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExteriorDoorEgyStarRqrGrp/OthExteriorDoorEgyStarRqrGrp/OtherQlfyExtrDoorsStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherQlfyExtrDoorsCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExteriorDoorEgyStarRqrGrp/OthExteriorDoorEgyStarRqrGrp/TotalOtherQlfyExtrDoorsCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalExtrDoorsCreditAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExteriorDoorEgyStarRqrGrp/TotalExtrDoorsCreditAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExteriorWndwOrSkylightCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExtrWndwSkyltEgyStarRqrGrp/ExteriorWndwOrSkylightCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ExtrWndwSkylightStdPctCrAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExtrWndwSkyltEgyStarRqrGrp/ExtrWndwSkylightStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MostExpnsExtrWndwSkyltCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExtrWndwSkyltEgyStarRqrGrp/MostExpnsExtrWndwSkyltCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExtrWndwSkyltEgyStarRqrGrp/MostExpnsExtrWndwSkyltGrp/CostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QMID",
+      "path": "EgyEffcntHmImprvCrGrp/ExtrWndwSkyltEgyStarRqrGrp/MostExpnsExtrWndwSkyltGrp/QMID",
+      "type": "unknown"
+    },
+    {
+      "name": "OthQlfyExtrWndwSkyltCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/ExtrWndwSkyltEgyStarRqrGrp/OthQlfyExtrWndwSkyltCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FiveYearUseExpectationInd",
+      "path": "EgyEffcntHmImprvCrGrp/FiveYearUseExpectationInd",
+      "type": "bool"
+    },
+    {
+      "name": "MostExpnsFrncHotWtrBlrCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/FrncHotWtrBlrGrp/MostExpnsFrncHotWtrBlrCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MostExpnsFrncHotWtrBlrQMID",
+      "path": "EgyEffcntHmImprvCrGrp/FrncHotWtrBlrGrp/MostExpnsFrncHotWtrBlrQMID",
+      "type": "unknown"
+    },
+    {
+      "name": "NatGasPrpnOilHotWtrBlrCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/FrncHotWtrBlrGrp/NatGasPrpnOilHotWtrBlrCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NatGasPrpnOilHotWtrBlrPctAmt",
+      "path": "EgyEffcntHmImprvCrGrp/FrncHotWtrBlrGrp/NatGasPrpnOilHotWtrBlrPctAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthFrncHotWtrBlrCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/FrncHotWtrBlrGrp/OthFrncHotWtrBlrCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HomeAddress",
+      "path": "EgyEffcntHmImprvCrGrp/HomeAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "HomeLocatedInUSAInd",
+      "path": "EgyEffcntHmImprvCrGrp/HomeLocatedInUSAInd",
+      "type": "bool"
+    },
+    {
+      "name": "HtPumpWtrHeaterBmssCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/HtPumpWtrHeaterBmssCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HtPumpWtrHeaterBmssStdPctCrAmt",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/HtPumpWtrHeaterBmssStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/MostExpnsBmssStoveBlrGrp/CostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QMID",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/MostExpnsBmssStoveBlrGrp/QMID",
+      "type": "unknown"
+    },
+    {
+      "name": "CostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/MostExpnsElecGasHtPumpGrp/CostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QMID",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/MostExpnsElecGasHtPumpGrp/QMID",
+      "type": "unknown"
+    },
+    {
+      "name": "CostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/MostExpnsHtPumpWtrHtrGrp/CostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QMID",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/MostExpnsHtPumpWtrHtrGrp/QMID",
+      "type": "unknown"
+    },
+    {
+      "name": "OthBmssStoveBlrCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/OthBmssStoveBlrCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthElecGasHtPumpCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/OthElecGasHtPumpCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthElecGasHtPumpWtrHtCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/HtPumpWtrHeaterBmssStoveBlrGrp/OthElecGasHtPumpWtrHtCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ImprvRltdToConstMainHomeInd",
+      "path": "EgyEffcntHmImprvCrGrp/ImprvRltdToConstMainHomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "InsulationOrSysHtGnLossCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/InsulationOrSysHtGnLossCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "InsulationOrSysHtStdPctCrAmt",
+      "path": "EgyEffcntHmImprvCrGrp/InsulationOrSysHtStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "JointOccupancyInd",
+      "path": "EgyEffcntHmImprvCrGrp/JointOccupancyInd",
+      "type": "bool"
+    },
+    {
+      "name": "MainHomeEgyAuditCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/MainHomeEgyAuditCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MainHomeEgyAuditCostInd",
+      "path": "EgyEffcntHmImprvCrGrp/MainHomeEgyAuditCostInd",
+      "type": "bool"
+    },
+    {
+      "name": "MainHomeEgyAuditStdPctCrAmt",
+      "path": "EgyEffcntHmImprvCrGrp/MainHomeEgyAuditStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MarriedTPWMoreThanOneHomeCd",
+      "path": "EgyEffcntHmImprvCrGrp/MarriedTPWMoreThanOneHomeCd",
+      "type": "enum"
+    },
+    {
+      "name": "OriginalUserInd",
+      "path": "EgyEffcntHmImprvCrGrp/OriginalUserInd",
+      "type": "bool"
+    },
+    {
+      "name": "OriginallyPlacedInServiceInd",
+      "path": "EgyEffcntHmImprvCrGrp/OriginallyPlacedInServiceInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyEnergyPropCostsUSHomeInd",
+      "path": "EgyEffcntHmImprvCrGrp/QlfyEnergyPropCostsUSHomeInd",
+      "type": "bool"
+    },
+    {
+      "name": "QualifiedEnergyPropertyAddress",
+      "path": "EgyEffcntHmImprvCrGrp/QualifiedEnergyPropertyAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "TaxesLessCreditsAmt",
+      "path": "EgyEffcntHmImprvCrGrp/TaxesLessCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MostExpnsWaterHtCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/WaterHeaterGrp/MostExpnsWaterHtCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/WaterHeaterGrp/MostExpnsWaterHtrGrp/CostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QMID",
+      "path": "EgyEffcntHmImprvCrGrp/WaterHeaterGrp/MostExpnsWaterHtrGrp/QMID",
+      "type": "unknown"
+    },
+    {
+      "name": "NatGasPrpnOilWtrHtrCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/WaterHeaterGrp/NatGasPrpnOilWtrHtrCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NatGasPrpnOilWtrHtrStdPctCrAmt",
+      "path": "EgyEffcntHmImprvCrGrp/WaterHeaterGrp/NatGasPrpnOilWtrHtrStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OthNatGasPrpnOilWtrHtrCostAmt",
+      "path": "EgyEffcntHmImprvCrGrp/WaterHeaterGrp/OthNatGasPrpnOilWtrHtrCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "NameLine1Txt",
+      "path": "NameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "ResidentialCleanEnergyCrGrp",
+      "path": "ResidentialCleanEnergyCrGrp",
+      "type": "group"
+    },
+    {
+      "name": "CfwdRsdntlCleanEnergyCrAmt",
+      "path": "ResidentialCleanEnergyCrGrp/CfwdRsdntlCleanEnergyCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FuelCellPropAllwblCostAmt",
+      "path": "ResidentialCleanEnergyCrGrp/FuelCellPropAllwblCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FuelCellPropCostAmt",
+      "path": "ResidentialCleanEnergyCrGrp/FuelCellPropCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FuelCellPropKWCapAmt",
+      "path": "ResidentialCleanEnergyCrGrp/FuelCellPropKWCapAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FuelCellPropKWCapNum",
+      "path": "ResidentialCleanEnergyCrGrp/FuelCellPropKWCapNum",
+      "type": "string"
+    },
+    {
+      "name": "FuelCellPropStdPctCrAmt",
+      "path": "ResidentialCleanEnergyCrGrp/FuelCellPropStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "GeothrmlHtPumpPropCostAmt",
+      "path": "ResidentialCleanEnergyCrGrp/GeothrmlHtPumpPropCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "JointOccupancyInd",
+      "path": "ResidentialCleanEnergyCrGrp/JointOccupancyInd",
+      "type": "bool"
+    },
+    {
+      "name": "PYCfwdRsdntlCleanEnergyCrAmt",
+      "path": "ResidentialCleanEnergyCrGrp/PYCfwdRsdntlCleanEnergyCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyBatteryStorageTechCostsAmt",
+      "path": "ResidentialCleanEnergyCrGrp/QlfyBatteryStorageTechCostsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "QlfyBatteryStorageTechInd",
+      "path": "ResidentialCleanEnergyCrGrp/QlfyBatteryStorageTechInd",
+      "type": "bool"
+    },
+    {
+      "name": "QlfyFuelCellPropertyHmAddress",
+      "path": "ResidentialCleanEnergyCrGrp/QlfyFuelCellPropertyHmAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "QlfyFuelCellPropertyInUSInd",
+      "path": "ResidentialCleanEnergyCrGrp/QlfyFuelCellPropertyInUSInd",
+      "type": "bool"
+    },
+    {
+      "name": "ResidentialCleanEgyHomeAddress",
+      "path": "ResidentialCleanEnergyCrGrp/ResidentialCleanEgyHomeAddress",
+      "type": "unknown"
+    },
+    {
+      "name": "ResidentialCleanEnergyCrAmt",
+      "path": "ResidentialCleanEnergyCrGrp/ResidentialCleanEnergyCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallWindPropCostAmt",
+      "path": "ResidentialCleanEnergyCrGrp/SmallWindPropCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SolarElecPropCostAmt",
+      "path": "ResidentialCleanEnergyCrGrp/SolarElecPropCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SolarWaterHtPropCostAmt",
+      "path": "ResidentialCleanEnergyCrGrp/SolarWaterHtPropCostAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxLessCreditsAmt",
+      "path": "ResidentialCleanEnergyCrGrp/TaxLessCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEnergyCreditsAmt",
+      "path": "ResidentialCleanEnergyCrGrp/TotalEnergyCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalEnergyCreditsStdPctCrAmt",
+      "path": "ResidentialCleanEnergyCrGrp/TotalEnergyCreditsStdPctCrAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOfEnergyCreditsAmt",
+      "path": "ResidentialCleanEnergyCrGrp/TotalOfEnergyCreditsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SSN",
+      "path": "SSN",
+      "type": "tin"
+    }
+  ]
+}

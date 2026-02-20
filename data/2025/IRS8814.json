@@ -1,0 +1,126 @@
+{
+  "form_id": "IRS8814",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "ChildCapitalGainDistriAdjAmt",
+      "path": "ChildCapitalGainDistriAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildCapitalGainDistriAmt",
+      "path": "ChildCapitalGainDistriAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@nomineeDistributionAmt",
+      "path": "ChildCapitalGainDistriAmt/@nomineeDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@nomineeDistributionCd",
+      "path": "ChildCapitalGainDistriAmt/@nomineeDistributionCd",
+      "type": "enum"
+    },
+    {
+      "name": "ChildCapitalGainDistriPct",
+      "path": "ChildCapitalGainDistriPct",
+      "type": "decimal"
+    },
+    {
+      "name": "ChildInterestAndDivTaxBasisAmt",
+      "path": "ChildInterestAndDivTaxBasisAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildInterestAndDividendTaxAmt",
+      "path": "ChildInterestAndDividendTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildInvestmentIncomeAmt",
+      "path": "ChildInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildNameControlTxt",
+      "path": "ChildNameControlTxt",
+      "type": "string"
+    },
+    {
+      "name": "ChildNetAdjustedIncomeAmt",
+      "path": "ChildNetAdjustedIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildNetInvestmentIncomeAmt",
+      "path": "ChildNetInvestmentIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildNm",
+      "path": "ChildNm",
+      "type": "string"
+    },
+    {
+      "name": "ChildOrdinaryDividendAmt",
+      "path": "ChildOrdinaryDividendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@nomineeDistributionAmt",
+      "path": "ChildOrdinaryDividendAmt/@nomineeDistributionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "@nomineeDistributionCd",
+      "path": "ChildOrdinaryDividendAmt/@nomineeDistributionCd",
+      "type": "enum"
+    },
+    {
+      "name": "ChildQualifiedDividendAdjAmt",
+      "path": "ChildQualifiedDividendAdjAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildQualifiedDividendAmt",
+      "path": "ChildQualifiedDividendAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildQualifiedDividendPct",
+      "path": "ChildQualifiedDividendPct",
+      "type": "decimal"
+    },
+    {
+      "name": "ChildSSN",
+      "path": "ChildSSN",
+      "type": "tin"
+    },
+    {
+      "name": "ChildTaxBasisAdjustmentSumAmt",
+      "path": "ChildTaxBasisAdjustmentSumAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildTaxBasisUnderSpcfdAmtInd",
+      "path": "ChildTaxBasisUnderSpcfdAmtInd",
+      "type": "bool"
+    },
+    {
+      "name": "ChildTaxExemptInterestAmt",
+      "path": "ChildTaxExemptInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildTaxableInterestAmt",
+      "path": "ChildTaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MultipleForm8814Ind",
+      "path": "MultipleForm8814Ind",
+      "type": "bool"
+    }
+  ]
+}

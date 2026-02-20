@@ -1,0 +1,231 @@
+{
+  "form_id": "IRS8689",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "AdjustedTaxAmt",
+      "path": "AdjustedTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AlimonyReceivedAmt",
+      "path": "AlimonyReceivedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AmountOwedToUSVIAmt",
+      "path": "AmountOwedToUSVIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "AppliedToEsTaxAmt",
+      "path": "AppliedToEsTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusExpnsReservistsAndOthersAmt",
+      "path": "BusExpnsReservistsAndOthersAmt",
+      "type": "usd"
+    },
+    {
+      "name": "BusinessIncomeLossAmt",
+      "path": "BusinessIncomeLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "CapitalGainLossAmt",
+      "path": "CapitalGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "ChildNameControl",
+      "path": "ChildNameControl",
+      "type": "unknown"
+    },
+    {
+      "name": "EducatorExpensesAmt",
+      "path": "EducatorExpensesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "EstTaxAndCreditElectPymtAmt",
+      "path": "EstTaxAndCreditElectPymtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "FarmIncomeOrLossAmt",
+      "path": "FarmIncomeOrLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form1040AdjustedGrossIncomeAmt",
+      "path": "Form1040AdjustedGrossIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "Form1040TotalTaxAmt",
+      "path": "Form1040TotalTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "HealthSavingsAccountDedAmt",
+      "path": "HealthSavingsAccountDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRADeductionAmt",
+      "path": "IRADeductionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IRADistributionsAmt",
+      "path": "IRADistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "MovingExpenseAmt",
+      "path": "MovingExpenseAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OneHalfSelfEmploymentTaxAmt",
+      "path": "OneHalfSelfEmploymentTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OrdinaryDividendsAmt",
+      "path": "OrdinaryDividendsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OtherGainLossAmt",
+      "path": "OtherGainLossAmt",
+      "type": "usd"
+    },
+    {
+      "name": "OverpaidToUSVIAmt",
+      "path": "OverpaidToUSVIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PnltyOnErlyWthdrwOfSavingsAmt",
+      "path": "PnltyOnErlyWthdrwOfSavingsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PymtMadeWithExtensionAmt",
+      "path": "PymtMadeWithExtensionAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RefundAmt",
+      "path": "RefundAmt",
+      "type": "usd"
+    },
+    {
+      "name": "RntlRyltsPrtshpSCorpTREtcAmt",
+      "path": "RntlRyltsPrtshpSCorpTREtcAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmpldHealthInsDedAmt",
+      "path": "SelfEmpldHealthInsDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SelfEmpldSepSimpleQlfyPlansAmt",
+      "path": "SelfEmpldSepSimpleQlfyPlansAmt",
+      "type": "usd"
+    },
+    {
+      "name": "SmallerAllocTaxOrTotPaymentAmt",
+      "path": "SmallerAllocTaxOrTotPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "StudentLoanInterestDedAmt",
+      "path": "StudentLoanInterestDedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableInterestAmt",
+      "path": "TaxableInterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxableSocSecAmt",
+      "path": "TaxableSocSecAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalDedAttrblToUSVIIncomeAmt",
+      "path": "TotalDedAttrblToUSVIIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalOtherUSVIIncomeAmt",
+      "path": "TotalOtherUSVIIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalPaymentsAmt",
+      "path": "TotalPaymentsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TotalUSVIIncomeAmt",
+      "path": "TotalUSVIIncomeAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TxblPensionAndAnnuitiesAmt",
+      "path": "TxblPensionAndAnnuitiesAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USVIAGIDividedBy1040AGIPct",
+      "path": "USVIAGIDividedBy1040AGIPct",
+      "type": "decimal"
+    },
+    {
+      "name": "USVIPaymentAmt",
+      "path": "USVIPaymentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USVITaxRefCreditsOffsetAmt",
+      "path": "USVITaxRefCreditsOffsetAmt",
+      "type": "usd"
+    },
+    {
+      "name": "USVIWithholdingTaxAmt",
+      "path": "USVIWithholdingTaxAmt",
+      "type": "usd"
+    },
+    {
+      "name": "UnemploymentCompAmt",
+      "path": "UnemploymentCompAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VirginIslandsAGIAmt",
+      "path": "VirginIslandsAGIAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VirginIslandsTaxAdjustmentAmt",
+      "path": "VirginIslandsTaxAdjustmentAmt",
+      "type": "usd"
+    },
+    {
+      "name": "VirginIslandsTaxAllocatedAmt",
+      "path": "VirginIslandsTaxAllocatedAmt",
+      "type": "usd"
+    },
+    {
+      "name": "WagesSalariesAndTipsAmt",
+      "path": "WagesSalariesAndTipsAmt",
+      "type": "usd"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "form_id": "IRS8933ScheduleB",
+  "tax_year": 2025,
+  "fields": [
+    {
+      "name": "OtherPurposeDesc",
+      "path": "  OthCoProjOperatorPurposeGrp/OtherPurposeDesc",
+      "type": "string"
+    },
+    {
+      "name": " BinaryAttachment",
+      "path": " BinaryAttachment",
+      "type": "unknown"
+    },
+    {
+      "name": " OthCoProjOperatorPurposeGrp",
+      "path": " OthCoProjOperatorPurposeGrp",
+      "type": "group"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "AllOwnerOthNonQlfyCrbnOxdGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "StoredQty",
+      "path": "AllOwnerOthNonQlfyCrbnOxdGrp/StoredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "AllOwnerTotAllCrbnOxdSuprGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "StoredQty",
+      "path": "AllOwnerTotAllCrbnOxdSuprGrp/StoredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "AllOwnerTotQlfyCrbnOxdGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "StoredQty",
+      "path": "AllOwnerTotQlfyCrbnOxdGrp/StoredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "AttestationInd",
+      "path": "AttestationInd",
+      "type": "bool"
+    },
+    {
+      "name": "CarbonOxideInjectionBeginDt",
+      "path": "CarbonOxideInjectionBeginDt",
+      "type": "date"
+    },
+    {
+      "name": "FacilityEPAeGGRTIdNum",
+      "path": "FacilityEPAeGGRTIdNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityIRSIssdRegistrationNum",
+      "path": "FacilityIRSIssdRegistrationNum",
+      "type": "string"
+    },
+    {
+      "name": "FacilityNameAndLocationTxt",
+      "path": "FacilityNameAndLocationTxt",
+      "type": "string"
+    },
+    {
+      "name": "GeologicalDisposalSiteOwnerGrp",
+      "path": "GeologicalDisposalSiteOwnerGrp",
+      "type": "group"
+    },
+    {
+      "name": "GeologicalDisposalSiteOwnrGrp",
+      "path": "GeologicalDisposalSiteOwnrGrp",
+      "type": "group"
+    },
+    {
+      "name": "SupplierSectionGrp",
+      "path": "GeologicalDisposalSiteOwnrGrp/SupplierSectionGrp",
+      "type": "group"
+    },
+    {
+      "name": "BusinessNameLine1Txt",
+      "path": "OperatorBusinessName/BusinessNameLine1Txt",
+      "type": "string"
+    },
+    {
+      "name": "BusinessNameLine2Txt",
+      "path": "OperatorBusinessName/BusinessNameLine2Txt",
+      "type": "string"
+    },
+    {
+      "name": "OperatorEIN",
+      "path": "OperatorEIN",
+      "type": "ein"
+    },
+    {
+      "name": "OthNonQlfyCrbnOxdGrp",
+      "path": "OthNonQlfyCrbnOxdGrp",
+      "type": "group"
+    },
+    {
+      "name": "ProjectNm",
+      "path": "ProjectNm",
+      "type": "string"
+    },
+    {
+      "name": "QlfyCrbnOxdSupdGlgclDispGrp",
+      "path": "QlfyCrbnOxdSupdGlgclDispGrp",
+      "type": "group"
+    },
+    {
+      "name": "TotalSupplierSectionGrp",
+      "path": "TotalSupplierSectionGrp",
+      "type": "group"
+    },
+    {
+      "name": "SupplierName",
+      "path": "TotalSupplierSectionGrp/SupplierName",
+      "type": "unknown"
+    },
+    {
+      "name": "SupplierPersonNm",
+      "path": "TotalSupplierSectionGrp/SupplierPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "DeliveredQty",
+      "path": "TotalSupplierSectionGrp/TotSupplierMetricTonsGrp/DeliveredQty",
+      "type": "unknown"
+    },
+    {
+      "name": "StoredQty",
+      "path": "TotalSupplierSectionGrp/TotSupplierMetricTonsGrp/StoredQty",
+      "type": "unknown"
+    }
+  ]
+}
