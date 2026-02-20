@@ -20,7 +20,7 @@
     {
       "name": "PartnershipForeignAddress",
       "path": "Form3800PartnershipInfo/PartnershipForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -50,7 +50,7 @@
     {
       "name": "PartnershipUSAddress",
       "path": "Form3800PartnershipInfo/PartnershipUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -65,12 +65,12 @@
     {
       "name": "IRS1065BSchK1OtherDetail",
       "path": "IRS1065BSchK1OtherDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "IRS1065BSchK1OtherItemDetail",
       "path": "IRS1065BSchK1OtherDetail/IRS1065BSchK1OtherItemDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "LowIncomeHousingCreditAmt",
@@ -115,7 +115,7 @@
     {
       "name": "PartnerForeignAddress",
       "path": "PartnerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -150,7 +150,7 @@
     {
       "name": "PartnerUSAddress",
       "path": "PartnerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",

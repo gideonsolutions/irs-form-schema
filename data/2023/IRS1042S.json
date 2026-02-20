@@ -140,7 +140,7 @@
     {
       "name": "USAddress",
       "path": "IntermediaryOrFlowThruEntGrp/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -330,7 +330,7 @@
     {
       "name": "USAddress",
       "path": "RecipientGrp/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -455,7 +455,7 @@
     {
       "name": "USAddress",
       "path": "WithholdingAgentGrp/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",

@@ -5,7 +5,7 @@
     {
       "name": "DisclosureGeneralInformation",
       "path": "DisclosureGeneralInformation",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "DetailedExplanationDesc",
@@ -60,7 +60,7 @@
     {
       "name": "PassThroughEntityFrgnAddress",
       "path": "PassThroughEntityFrgnAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PassThroughEntityIndivNm",
@@ -85,7 +85,7 @@
     {
       "name": "PassThroughEntityUSAddress",
       "path": "PassThroughEntityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ServiceCenterWhereRetFiledCd",

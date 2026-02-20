@@ -20,17 +20,17 @@
     {
       "name": "LessNumOfMileRlrdTrckIsAsgnQty",
       "path": "LessNumOfMileRlrdTrckIsAsgnQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MilesOfRlrdTrackOwnorLsdQty",
       "path": "MilesOfRlrdTrackOwnorLsdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MlRlrdTrckAsgnByOwnrOrLsseeQty",
       "path": "MlRlrdTrckAsgnByOwnrOrLsseeQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "QlfyRlrdTrackMaintExpendAmt",
@@ -50,7 +50,7 @@
     {
       "name": "TotalRlrdTrackMilesQty",
       "path": "TotalRlrdTrackMilesQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

@@ -75,7 +75,7 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FormId",
@@ -83,9 +83,9 @@
       "type": "unknown"
     },
     {
-      "name": "GrossBenefitPaidAmt ",
-      "path": "GrossBenefitPaidAmt ",
-      "type": "unknown"
+      "name": "GrossBenefitPaidAmt",
+      "path": "GrossBenefitPaidAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeTypeCd",
@@ -95,7 +95,7 @@
     {
       "name": "NetBenefitPaidAmount",
       "path": "NetBenefitPaidAmount",
-      "type": "unknown"
+      "type": "usd"
     },
     {
       "name": "PayeeCd",
@@ -130,7 +130,7 @@
     {
       "name": "USAddress",
       "path": "USAddress",
-      "type": "unknown"
+      "type": "string"
     }
   ]
 }

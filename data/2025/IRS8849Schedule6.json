@@ -10,7 +10,7 @@
     {
       "name": "EmployerIdentificationNumber",
       "path": "EmployerIdentificationNumber",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "LatestClaimDt",

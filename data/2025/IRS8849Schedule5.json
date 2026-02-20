@@ -10,7 +10,7 @@
     {
       "name": "EmployerIdentificationNumber",
       "path": "EmployerIdentificationNumber",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FinalReturnInd",
@@ -110,12 +110,12 @@
     {
       "name": "RefClaimSecondTxSupportingInfo",
       "path": "RefClaimSecondTxSupportingInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "RefClaimSecondTxFuelInfo",
       "path": "RefClaimSecondTxSupportingInfo/RefClaimSecondTxFuelInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "Amt",

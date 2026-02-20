@@ -70,7 +70,7 @@
     {
       "name": "DependentDetail",
       "path": "DependentDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "DepositorAccountNum",

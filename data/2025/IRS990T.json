@@ -3,16 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "@accountingPeriodChangeApprvCd",
-      "path": "@accountingPeriodChangeApprvCd",
-      "type": "enum"
-    },
-    {
-      "name": "@accountingPeriodChangeCd",
-      "path": "@accountingPeriodChangeCd",
-      "type": "enum"
-    },
-    {
       "name": "AddressChangeInd",
       "path": "AddressChangeInd",
       "type": "bool"
@@ -60,7 +50,7 @@
     {
       "name": "ForeignAddress",
       "path": "BooksInCareOfDetail/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ForeignPhoneNum",
@@ -80,7 +70,7 @@
     {
       "name": "USAddress",
       "path": "BooksInCareOfDetail/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "CYGenBusinessCreditAllowedAmt",
@@ -576,6 +566,16 @@
       "name": "TotalUndistributedLTCapGainAmt",
       "path": "TotalUndistributedLTCapGainAmt",
       "type": "usd"
+    },
+    {
+      "name": "accountingPeriodChangeApprvCd",
+      "path": "accountingPeriodChangeApprvCd",
+      "type": "enum"
+    },
+    {
+      "name": "accountingPeriodChangeCd",
+      "path": "accountingPeriodChangeCd",
+      "type": "enum"
     }
   ]
 }

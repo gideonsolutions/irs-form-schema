@@ -10,7 +10,7 @@
     {
       "name": "KgProducedQty",
       "path": "ClnHydrgnPrdcd15ToLssThan25Grp/KgProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CalcQlfyClnHydrogenProducedAmt",
@@ -20,7 +20,7 @@
     {
       "name": "KgProducedQty",
       "path": "ClnHydrgnPrdcd25NotGrtr4Grp/KgProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CalcQlfyClnHydrogenProducedAmt",
@@ -30,7 +30,7 @@
     {
       "name": "KgProducedQty",
       "path": "ClnHydrgnPrdcd45ToLssThan15Grp/KgProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CalcQlfyClnHydrogenProducedAmt",
@@ -40,7 +40,7 @@
     {
       "name": "KgProducedQty",
       "path": "ClnHydrgnPrdcdLssThan45Grp/KgProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ClnHydrgnProdCrAmt",
@@ -100,7 +100,7 @@
     {
       "name": "FacilityUSAddress",
       "path": "FacilityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "IncrCrQlfyClnHydrgnFcltsAmt",

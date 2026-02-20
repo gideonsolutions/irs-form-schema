@@ -50,7 +50,7 @@
     {
       "name": "DistriAndDisposOfStockTyp",
       "path": "DistriAndDisposOfStockTyp",
-      "type": "unknown"
+      "type": "enum"
     },
     {
       "name": "DividendIncomeAndNetLTCGAmt",
@@ -120,7 +120,7 @@
     {
       "name": "OutstandingElectionTaxYr",
       "path": "ElectionStatus/OutstandingElectionTaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "UndistributedEarningsAmt",
@@ -280,7 +280,7 @@
     {
       "name": "PFICOrQEFUSAddress",
       "path": "PFICOrQEFUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PartnershipShareholderInd",
@@ -385,7 +385,7 @@
     {
       "name": "ShareholderTaxYr",
       "path": "ShareholderTaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "AddressLine1Txt",
@@ -445,7 +445,7 @@
     {
       "name": "TaxYr",
       "path": "TaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "TotTxWithoutProRataLessCashAmt",

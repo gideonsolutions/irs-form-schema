@@ -645,7 +645,7 @@
     {
       "name": "SupplementalInformationDetail",
       "path": "SupplementalInformationDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "TermEndowmentBalanceEOYPct",

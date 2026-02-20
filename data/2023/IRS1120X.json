@@ -3,16 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "@filedPursuantToSect30191002Cd",
-      "path": "@filedPursuantToSect30191002Cd",
-      "type": "enum"
-    },
-    {
-      "name": "@sect199ClosingBooksElectCd",
-      "path": "@sect199ClosingBooksElectCd",
-      "type": "enum"
-    },
-    {
       "name": "CarrybackClaimsInd",
       "path": "CarrybackClaimsInd",
       "type": "bool"
@@ -45,7 +35,7 @@
     {
       "name": "CreditElectionYr",
       "path": "CreditElectionYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "DifferenceCorrectAmt",
@@ -110,7 +100,7 @@
     {
       "name": "ForeignAddress",
       "path": "NameAndAddress/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PersonNm",
@@ -120,7 +110,7 @@
     {
       "name": "USAddress",
       "path": "NameAndAddress/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "OriginalReturnOverpaymentAmt",
@@ -153,9 +143,9 @@
       "type": "usd"
     },
     {
-      "name": "PhoneNum ",
-      "path": "PhoneNum ",
-      "type": "unknown"
+      "name": "PhoneNum",
+      "path": "PhoneNum",
+      "type": "string"
     },
     {
       "name": "Refund",
@@ -205,7 +195,7 @@
     {
       "name": "TaxYearEndMonthYr",
       "path": "TaxYearEndMonthYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "TaxableIncomeCorrectAmt",
@@ -286,6 +276,16 @@
       "name": "TxPaidForm7004OriginallyRptAmt",
       "path": "TxPaidForm7004OriginallyRptAmt",
       "type": "usd"
+    },
+    {
+      "name": "filedPursuantToSect30191002Cd",
+      "path": "filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "sect199ClosingBooksElectCd",
+      "path": "sect199ClosingBooksElectCd",
+      "type": "enum"
     }
   ]
 }

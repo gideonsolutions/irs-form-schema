@@ -300,7 +300,7 @@
     {
       "name": "TaxReturnFormNumberDsc",
       "path": "TaxReturnFormNumberDsc",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "TotalFairMarketValueAmt",

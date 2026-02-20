@@ -35,7 +35,7 @@
     {
       "name": "ForeignAddress",
       "path": "BeneficiaryInformationGrp/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "MissingSSNEINReasonCd",
@@ -55,7 +55,7 @@
     {
       "name": "USAddress",
       "path": "BeneficiaryInformationGrp/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ECTIExemptInd",
@@ -75,7 +75,7 @@
     {
       "name": "PartnershipForeignAddress",
       "path": "PartnershipForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PartnershipMissingEINReasonCd",
@@ -95,7 +95,7 @@
     {
       "name": "PartnershipUSAddress",
       "path": "PartnershipUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SameAsAboveCd",
@@ -125,7 +125,7 @@
     {
       "name": "PartnerForeignAddress",
       "path": "Sect1446WTForeignPartnerGrp/PartnerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -155,7 +155,7 @@
     {
       "name": "PartnerUSAddress",
       "path": "Sect1446WTForeignPartnerGrp/PartnerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",

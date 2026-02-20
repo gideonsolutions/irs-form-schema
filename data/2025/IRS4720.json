@@ -390,7 +390,7 @@
     {
       "name": "ForeignAddress",
       "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -455,7 +455,7 @@
     {
       "name": "USAddress",
       "path": "TxsMgrSelfDealerDnrRltdPrsnGrp/USAddress",
-      "type": "unknown"
+      "type": "string"
     }
   ]
 }

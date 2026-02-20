@@ -15,7 +15,7 @@
     {
       "name": "CorporationsQty",
       "path": "CorporationsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CurrentSubsequentTYElectInd",
@@ -53,14 +53,14 @@
       "type": "enum"
     },
     {
-      "name": "NotionalShippingIncome ",
-      "path": "NotionalShippingIncome ",
+      "name": "NotionalShippingIncome",
+      "path": "NotionalShippingIncome",
       "type": "unknown"
     },
     {
       "name": "AdjustedTonsQty",
       "path": "NotionalShippingIncome /AdjustedTonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AnnualNotionalShippingIncmAmt",
@@ -75,12 +75,12 @@
     {
       "name": "DaysOperatedQty",
       "path": "NotionalShippingIncome /DaysOperatedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DeadWeightTonsQty",
       "path": "NotionalShippingIncome /DeadWeightTonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DivOpertnGrsIncmByGrsIncmRt",
@@ -130,7 +130,7 @@
     {
       "name": "NetTonsQty",
       "path": "NotionalShippingIncome /NetTonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "OwnershipPct",
@@ -140,7 +140,7 @@
     {
       "name": "SmallerNetTonsOr25000Qty",
       "path": "NotionalShippingIncome /SmallerNetTonsOr25000Qty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "PriorTaxYearElectionInd",
@@ -215,7 +215,7 @@
     {
       "name": "VesselInformation",
       "path": "VesselInformation",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "FlagTxt",
@@ -275,7 +275,7 @@
     {
       "name": "VesselQty",
       "path": "VesselQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

@@ -160,7 +160,7 @@
     {
       "name": "FormScheduleNumber",
       "path": "FormScheduleNumber",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "HomeAdjBasisOrFairMarketAmt",
@@ -270,7 +270,7 @@
     {
       "name": "SocialSecurityNumber",
       "path": "SocialSecurityNumber",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "TotalAllowableExpensesAmt",

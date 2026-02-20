@@ -95,7 +95,7 @@
     {
       "name": "CorporationName",
       "path": "CorporationName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",

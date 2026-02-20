@@ -20,7 +20,7 @@
     {
       "name": "ApplicantInformation",
       "path": "ApplicantInformation",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "AvgCostOfGdsPrchsPrdcdDurYrInd",

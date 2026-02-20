@@ -10,7 +10,7 @@
     {
       "name": "OfficerTyp",
       "path": "OfficerTyp",
-      "type": "unknown"
+      "type": "enum"
     },
     {
       "name": "OfficerNm",

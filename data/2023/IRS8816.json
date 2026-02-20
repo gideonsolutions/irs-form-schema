@@ -30,7 +30,7 @@
     {
       "name": "AccidentYr",
       "path": "SpclLossDscntAndEstTxPymntsGrp/AccidentYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "AdditionsSection847Amt",

@@ -3,16 +3,6 @@
   "tax_year": 2024,
   "fields": [
     {
-      "name": "@accountingPeriodChangeApprvCd",
-      "path": "@accountingPeriodChangeApprvCd",
-      "type": "enum"
-    },
-    {
-      "name": "@accountingPeriodChangeCd",
-      "path": "@accountingPeriodChangeCd",
-      "type": "enum"
-    },
-    {
       "name": "ActivitiesNotPreviouslyRptInd",
       "path": "ActivitiesNotPreviouslyRptInd",
       "type": "bool"
@@ -420,7 +410,7 @@
     {
       "name": "BusinessName",
       "path": "OfficerDirectorTrusteeEmplGrp/BusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PersonNm",
@@ -475,7 +465,7 @@
     {
       "name": "OtherAssetsTotalDetail",
       "path": "OtherAssetsTotalDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "BOYAmt",
@@ -706,6 +696,16 @@
       "name": "WebsiteAddressTxt",
       "path": "WebsiteAddressTxt",
       "type": "string"
+    },
+    {
+      "name": "accountingPeriodChangeApprvCd",
+      "path": "accountingPeriodChangeApprvCd",
+      "type": "enum"
+    },
+    {
+      "name": "accountingPeriodChangeCd",
+      "path": "accountingPeriodChangeCd",
+      "type": "enum"
     }
   ]
 }

@@ -105,7 +105,7 @@
     {
       "name": "InjuredSpouseClaimTaxYr",
       "path": "InjuredSpouseClaimTaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "InjuredSpouseInd",

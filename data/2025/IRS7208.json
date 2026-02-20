@@ -70,7 +70,7 @@
     {
       "name": "TaxYr",
       "path": "TaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "TotTaxableStockRepurchasesAmt",

@@ -20,7 +20,7 @@
     {
       "name": "StockInformation",
       "path": "StockInformation",
-      "type": "unknown"
+      "type": "group"
     }
   ]
 }

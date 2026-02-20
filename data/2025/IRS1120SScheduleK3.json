@@ -570,7 +570,7 @@
     {
       "name": "ShareholderForeignAddress",
       "path": "ShareholderForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ShareholderLoanTransactionsInd",
@@ -600,7 +600,7 @@
     {
       "name": "ShareholderUSAddress",
       "path": "ShareholderUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SplitterArrangementsInd",

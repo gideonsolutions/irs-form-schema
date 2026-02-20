@@ -3,11 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "@shortPeriodReasonCd",
-      "path": "@shortPeriodReasonCd",
-      "type": "enum"
-    },
-    {
       "name": "AccountsPayableBOYAmt",
       "path": "AccountsPayableBOYAmt",
       "type": "usd"
@@ -895,7 +890,7 @@
     {
       "name": "REITStatusElectionYr",
       "path": "REITStatusElectionYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "REITTaxableIncomeAmt",
@@ -1251,6 +1246,11 @@
       "name": "VotingStockOwnedPct",
       "path": "VotingStockOwnedPct",
       "type": "decimal"
+    },
+    {
+      "name": "shortPeriodReasonCd",
+      "path": "shortPeriodReasonCd",
+      "type": "enum"
     }
   ]
 }

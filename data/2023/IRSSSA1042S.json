@@ -25,7 +25,7 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "NetSocSecBnftAmt",
@@ -80,7 +80,7 @@
     {
       "name": "USAddress",
       "path": "USAddress",
-      "type": "unknown"
+      "type": "string"
     }
   ]
 }

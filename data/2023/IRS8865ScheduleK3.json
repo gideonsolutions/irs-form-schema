@@ -245,7 +245,7 @@
     {
       "name": "PartnerForeignAddress",
       "path": "PartnerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PartnerLoanTransactionsInd",
@@ -275,7 +275,7 @@
     {
       "name": "PartnerUSAddress",
       "path": "PartnerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PartnershipEIN",
@@ -285,7 +285,7 @@
     {
       "name": "PartnershipForeignAddress",
       "path": "PartnershipForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -300,7 +300,7 @@
     {
       "name": "PartnershipUSAddress",
       "path": "PartnershipUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SchK2K3FDIIDedApprtnFctrsGrp",

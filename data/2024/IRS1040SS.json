@@ -58,9 +58,9 @@
       "type": "usd"
     },
     {
-      "name": "MAGIMoreThanThresholdInd ",
-      "path": "ACTCBonaFideResidentsGrp/MAGIMoreThanThresholdInd ",
-      "type": "unknown"
+      "name": "MAGIMoreThanThresholdInd",
+      "path": "ACTCBonaFideResidentsGrp/MAGIMoreThanThresholdInd",
+      "type": "bool"
     },
     {
       "name": "ModifiedAGIAmt",

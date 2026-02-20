@@ -50,7 +50,7 @@
     {
       "name": "HoursWorkedQty",
       "path": "DirectEmploymentPaymentGrp/HoursWorkedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DomesticServicesPaymentInd",
@@ -70,7 +70,7 @@
     {
       "name": "EmployeeForeignAddress",
       "path": "EmployeeForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmployeeNameControlTxt",
@@ -95,7 +95,7 @@
     {
       "name": "EmployeeUSAddress",
       "path": "EmployeeUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmployerEmailAddressTxt",
@@ -105,7 +105,7 @@
     {
       "name": "EmployerForeignAddress",
       "path": "EmployerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -130,7 +130,7 @@
     {
       "name": "EmployerUSAddress",
       "path": "EmployerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmplrSponsoredHealthCvrCostAmt",

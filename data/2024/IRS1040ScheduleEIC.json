@@ -5,12 +5,12 @@
     {
       "name": "QualifyingChildInformation",
       "path": "QualifyingChildInformation",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "ChildBirthYr",
       "path": "QualifyingChildInformation/ChildBirthYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "ChildIsAStudentUnder24Ind",

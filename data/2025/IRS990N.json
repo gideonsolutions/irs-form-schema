@@ -15,7 +15,7 @@
     {
       "name": "DoingBusinessAsName",
       "path": "DoingBusinessAsName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FinalReturnInd",

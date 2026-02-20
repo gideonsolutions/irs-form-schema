@@ -3,11 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "@fiscalYearTaxpayerCd",
-      "path": "@fiscalYearTaxpayerCd",
-      "type": "enum"
-    },
-    {
       "name": "ACNameplateCapNAInd",
       "path": "ACNameplateCapNAInd",
       "type": "bool"
@@ -20,7 +15,7 @@
     {
       "name": "              @aCNameplateCapOthEgyPropKWQty",
       "path": "ACNameplateCapOthEgyPropInd/              @aCNameplateCapOthEgyPropKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ACNameplateCapSolarEgyPropInd",
@@ -30,7 +25,7 @@
     {
       "name": "@aCNameplateCapSolarEgyKWQty",
       "path": "ACNameplateCapSolarEgyPropInd/@aCNameplateCapSolarEgyKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ACNameplateCapWindEgyPropInd",
@@ -40,7 +35,7 @@
     {
       "name": "              @aCNameplateCapWindEgyPropKWQty",
       "path": "ACNameplateCapWindEgyPropInd/              @aCNameplateCapWindEgyPropKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AdjustedCreditReductionAmt",
@@ -80,7 +75,7 @@
     {
       "name": "@dCSolarEnergyPropCapKWQty",
       "path": "DCSolarEnergyPropCapacityInd/@dCSolarEnergyPropCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DomesticContentBonusCreditAmt",
@@ -160,7 +155,7 @@
     {
       "name": "FacilityUSAddress",
       "path": "FacilityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FcltyConstrBeganBfrSpcfdDtInd",
@@ -180,12 +175,12 @@
     {
       "name": "KwHrsPrdcdAndSoldGthrmlQty",
       "path": "KwHrsPrdcdAndSoldGthrmlQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KwHrsPrdcdAndSoldHydropowerQty",
       "path": "KwHrsPrdcdAndSoldHydropowerQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KwHrsPrdcdAndSoldHydropwrCrAmt",
@@ -195,7 +190,7 @@
     {
       "name": "KwHrsPrdcdAndSoldLndfllGasQty",
       "path": "KwHrsPrdcdAndSoldLndfllGasQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KwHrsPrdcdAndSoldLndfllGsCrAmt",
@@ -210,7 +205,7 @@
     {
       "name": "KwHrsPrdcdAndSoldSolarQty",
       "path": "KwHrsPrdcdAndSoldSolarQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KwHrsPrdcdAndSoldTrashCrAmt",
@@ -220,7 +215,7 @@
     {
       "name": "KwHrsPrdcdAndSoldTrashQty",
       "path": "KwHrsPrdcdAndSoldTrashQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KwHrsPrdcdAndSoldWindCrAmt",
@@ -230,7 +225,7 @@
     {
       "name": "KwHrsPrdcdAndSoldWindQty",
       "path": "KwHrsPrdcdAndSoldWindQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KwHrsPrdcdSoldClsLoopBmssCrAmt",
@@ -240,7 +235,7 @@
     {
       "name": "KwHrsPrdcdSoldClsLoopBmssQty",
       "path": "KwHrsPrdcdSoldClsLoopBmssQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KwHrsPrdcdSoldMarineRnwblCrAmt",
@@ -250,7 +245,7 @@
     {
       "name": "KwHrsPrdcdSoldMarineRnwblQty",
       "path": "KwHrsPrdcdSoldMarineRnwblQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KwHrsPrdcdSoldOffshrWindCrAmt",
@@ -260,12 +255,12 @@
     {
       "name": "KwHrsPrdcdSoldOffshrWindQty",
       "path": "KwHrsPrdcdSoldOffshrWindQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KwHrsPrdcdSoldOpenLoopBmssQty",
       "path": "KwHrsPrdcdSoldOpenLoopBmssQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KwHrsPrdcdSoldOpenLopBmssCrAmt",
@@ -376,6 +371,11 @@
       "name": "WindFcltyConstrPhaseOutCrAmt",
       "path": "WindFcltyConstrPhaseOutCrAmt",
       "type": "usd"
+    },
+    {
+      "name": "fiscalYearTaxpayerCd",
+      "path": "fiscalYearTaxpayerCd",
+      "type": "enum"
     }
   ]
 }

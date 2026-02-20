@@ -3,21 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "IncomeLossPerIncomeStmtAmt",
-      "path": "               IncomeLossItems/IncomeLossEquityMethodFrgnCorp/IncomeLossPerIncomeStmtAmt",
-      "type": "usd"
-    },
-    {
-      "name": "PermanentDifferenceAmt",
-      "path": "               IncomeLossItems/IncomeLossEquityMethodFrgnCorp/PermanentDifferenceAmt",
-      "type": "usd"
-    },
-    {
-      "name": "IncomeLossPerIncomeStmtAmt",
-      "path": "               IncomeLossItems/ItemsRelatedReportableTransGrp/IncomeLossPerIncomeStmtAmt",
-      "type": "usd"
-    },
-    {
       "name": "AdjRecnclIncmStmtYrToTYAmt",
       "path": "AdjRecnclIncmStmtYrToTYAmt",
       "type": "usd"
@@ -143,9 +128,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/AmortizationImpairmentGoodwill/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/AmortizationImpairmentGoodwill/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -163,9 +148,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/AmortzAcquisReorgStartupCosts/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/AmortzAcquisReorgStartupCosts/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -183,9 +168,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/BadDebtExpnsAgencyBalWrttnOff/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/BadDebtExpnsAgencyBalWrttnOff/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -203,9 +188,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/CYAcquisReorgInvstBankingFees/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CYAcquisReorgInvstBankingFees/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -223,9 +208,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/CYAcquisReorgLegalAcctFees/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CYAcquisReorgLegalAcctFees/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -243,9 +228,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/CYAcquisReorgOtherCosts/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CYAcquisReorgOtherCosts/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -263,9 +248,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/CharitableContriIntangibleProp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CharitableContriIntangibleProp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -278,9 +263,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/CharitableContriLimitationCfwd/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CharitableContriLimitationCfwd/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -298,9 +283,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/CharitbleContriCashTngblProp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CharitbleContriCashTngblProp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -318,9 +303,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/CompWithSect162mLimitation/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CompWithSect162mLimitation/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "ConsolidatedEliminationsInd",
@@ -348,9 +333,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/CorpOwnedLifeInsurancePremiums/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/CorpOwnedLifeInsurancePremiums/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -368,9 +353,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/DeferredCompensation/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/DeferredCompensation/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -388,9 +373,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/DepletionGrp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/DepletionGrp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -408,9 +393,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/DepreciationGrp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/DepreciationGrp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -423,9 +408,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/DomesticProductionActyDedGrp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/DomesticProductionActyDedGrp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -443,9 +428,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/FinesAndPenalties/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/FinesAndPenalties/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -463,9 +448,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/ForeignCurrentIncomeTaxExpense/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ForeignCurrentIncomeTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "ExpensePerIncomeStmtAmt",
@@ -478,9 +463,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/ForeignDeferredIncmTaxExpense/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ForeignDeferredIncmTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -498,9 +483,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/ForeignWithholdingTaxes/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ForeignWithholdingTaxes/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "InterestExpenseForm8916AGrp",
@@ -523,9 +508,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/InterestExpenseForm8916AGrp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/InterestExpenseForm8916AGrp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "Is1120EliminationsInd",
@@ -553,9 +538,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/JudgmentsDamagesAwardsSmlrCost/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/JudgmentsDamagesAwardsSmlrCost/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -573,9 +558,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/MealsAndEntertainmentGrp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/MealsAndEntertainmentGrp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "MissingEINReasonCd",
@@ -603,9 +588,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/OtherAmortzImpairmentWriteOffs/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/OtherAmortzImpairmentWriteOffs/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -623,9 +608,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/OtherEquityBasedCompensation/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/OtherEquityBasedCompensation/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "OtherExpnsDedItemsDifferences",
@@ -648,9 +633,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/OtherExpnsDedItemsDifferences/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/OtherExpnsDedItemsDifferences/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -668,9 +653,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/OtherPostRetirementBenefits/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/OtherPostRetirementBenefits/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -688,9 +673,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/ParachutePayments/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ParachutePayments/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "ParentCorporationInd",
@@ -713,9 +698,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/PensionAndProfitSharing/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/PensionAndProfitSharing/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -733,9 +718,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/PurchaseVersusLease/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/PurchaseVersusLease/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -753,9 +738,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/ResearchAndDevelopmentCosts/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/ResearchAndDevelopmentCosts/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -798,9 +783,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/Section118Exclusion/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/Section118Exclusion/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -818,9 +803,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/StateLocalCurrIncomeTaxExpense/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/StateLocalCurrIncomeTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "ExpensePerIncomeStmtAmt",
@@ -833,9 +818,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/StateLocalDefrdIncmTaxExpense/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/StateLocalDefrdIncmTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "DeductionPerTaxReturnAmt",
@@ -853,9 +838,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/StockOptionExpense/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/StockOptionExpense/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -893,9 +878,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/TotalExpenseDeductionItems/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/TotalExpenseDeductionItems/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "ExpensePerIncomeStmtAmt",
@@ -923,9 +908,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "ExpenseDeductionItems/USDeferredIncomeTaxExpense/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "ExpenseDeductionItems/USDeferredIncomeTaxExpense/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "GAAPInd",
@@ -948,14 +933,14 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/AbandonmentLosses/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/AbandonmentLosses/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/CapLossLimitationAndCfwdUsed /TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/CapLossLimitationAndCfwdUsed /TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1003,9 +988,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/CostOfGoodsSoldGrp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/CostOfGoodsSoldGrp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerTaxReturnAmt",
@@ -1018,9 +1003,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/GainLossReportedOnForm4797/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GainLossReportedOnForm4797/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerTaxReturnAmt",
@@ -1033,9 +1018,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/GrossCapitalGainsFromSchD/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GrossCapitalGainsFromSchD/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerTaxReturnAmt",
@@ -1048,9 +1033,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/GrossCapitalLossesFromSchD/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GrossCapitalLossesFromSchD/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "GrossForeignDistriPrevTaxed",
@@ -1068,9 +1053,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/GrossForeignDistriPrevTaxed/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GrossForeignDistriPrevTaxed/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "GrossFrgnDividendsNotPrevTaxed",
@@ -1093,9 +1078,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/GrossFrgnDividendsNotPrevTaxed/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GrossFrgnDividendsNotPrevTaxed/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "GrossUpForeignTaxesDeemedPd",
@@ -1113,9 +1098,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/GrossUpForeignTaxesDeemedPd/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/GrossUpForeignTaxesDeemedPd/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1133,9 +1118,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/HedgingTransactions/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/HedgingTransactions/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1148,9 +1133,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/IncmStmtGainLossAstNotInvntry/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncmStmtGainLossAstNotInvntry/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossEquityMethodFrgnCorp",
@@ -1158,9 +1143,19 @@
       "type": "unknown"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/IncomeLossEquityMethodFrgnCorp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/IncomeLossEquityMethodFrgnCorp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossEquityMethodFrgnCorp/PermanentDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossEquityMethodFrgnCorp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossEquityMethodUSCorp",
@@ -1178,9 +1173,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/IncomeLossEquityMethodUSCorp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossEquityMethodUSCorp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossForeignPartnerships",
@@ -1203,9 +1198,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/IncomeLossForeignPartnerships/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossForeignPartnerships/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPassThroughEntities",
@@ -1228,9 +1223,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/IncomeLossPassThroughEntities/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossPassThroughEntities/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossUSPartnerships",
@@ -1253,9 +1248,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/IncomeLossUSPartnerships/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeLossUSPartnerships/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1273,9 +1268,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/IncomeRecognitionLTContracts/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/IncomeRecognitionLTContracts/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "InterestIncomeForm8916AGrp",
@@ -1298,9 +1293,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/InterestIncomeForm8916AGrp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/InterestIncomeForm8916AGrp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "Is1120EliminationsInd",
@@ -1318,6 +1313,11 @@
       "type": "group"
     },
     {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IncomeLossItems/ItemsRelatedReportableTransGrp/IncomeLossPerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
       "name": "IncomeLossPerTaxReturnAmt",
       "path": "IncomeLossItems/ItemsRelatedReportableTransGrp/IncomeLossPerTaxReturnAmt",
       "type": "usd"
@@ -1328,9 +1328,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/ItemsRelatedReportableTransGrp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/ItemsRelatedReportableTransGrp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1348,9 +1348,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/LifeInsSubgroupRecnclTotals/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/LifeInsSubgroupRecnclTotals/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1368,9 +1368,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/MarkToMarketIncomeLoss/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/MarkToMarketIncomeLoss/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "MinorityInterestIncludibleCorp",
@@ -1388,9 +1388,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/MinorityInterestIncludibleCorp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/MinorityInterestIncludibleCorp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "MissingEINReasonCd",
@@ -1418,9 +1418,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/MixedGroupsAllOthers/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/MixedGroupsAllOthers/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1438,9 +1438,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/OrigIssueDiscountOthImputedInt/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/OrigIssueDiscountOthImputedInt/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerTaxReturnAmt",
@@ -1453,9 +1453,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/OthGainLossAssetsNotInventory/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/OthGainLossAssetsNotInventory/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "OthIncmLossItemsDifferences",
@@ -1478,9 +1478,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/OthIncmLossItemsDifferences/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/OthIncmLossItemsDifferences/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerTaxReturnAmt",
@@ -1508,9 +1508,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/PCInsSubgroupRecnclTotals/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/PCInsSubgroupRecnclTotals/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "ParentCorporationInd",
@@ -1533,9 +1533,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/ReconciliationTotals/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/ReconciliationTotals/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1553,9 +1553,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/SalesVersusLease/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/SalesVersusLease/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerTaxReturnAmt",
@@ -1568,9 +1568,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/Section481aAdjustments/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/Section481aAdjustments/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "SubpartFQEFSimilarIncmInclsn",
@@ -1588,9 +1588,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/SubpartFQEFSimilarIncmInclsn/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/SubpartFQEFSimilarIncmInclsn/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -1628,9 +1628,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/TotalAccrualCashAdjustmentGrp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/TotalAccrualCashAdjustmentGrp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1648,9 +1648,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/TotalExpenseDeductionItems/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/TotalExpenseDeductionItems/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1668,9 +1668,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/TotalIncomeLossItems/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/TotalIncomeLossItems/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "USDivNotEliminatedTaxConsol",
@@ -1693,9 +1693,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/USDivNotEliminatedTaxConsol/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/USDivNotEliminatedTaxConsol/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeLossPerIncomeStmtAmt",
@@ -1713,9 +1713,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/UnearnedDeferredRevenueGrp/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/UnearnedDeferredRevenueGrp/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "WorthlessStockLosses",
@@ -1733,9 +1733,9 @@
       "type": "usd"
     },
     {
-      "name": "TemporaryDifferenceAmt ",
-      "path": "IncomeLossItems/WorthlessStockLosses/TemporaryDifferenceAmt ",
-      "type": "unknown"
+      "name": "TemporaryDifferenceAmt",
+      "path": "IncomeLossItems/WorthlessStockLosses/TemporaryDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "IncomeStatementBeginningDt",

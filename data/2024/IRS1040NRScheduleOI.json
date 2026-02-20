@@ -3,11 +3,6 @@
   "tax_year": 2024,
   "fields": [
     {
-      "name": "*",
-      "path": "*",
-      "type": "unknown"
-    },
-    {
       "name": "AltBasisCompensationSourceInd",
       "path": "AltBasisCompensationSourceInd",
       "type": "bool"
@@ -100,7 +95,7 @@
     {
       "name": "ReturnFiledYr",
       "path": "ReturnFiledYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "Section871dElectionInd",

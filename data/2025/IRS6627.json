@@ -15,7 +15,7 @@
     {
       "name": "TonQty",
       "path": "AcetyleneC2H2Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -30,7 +30,7 @@
     {
       "name": "TonQty",
       "path": "AmmoniaNH3Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -45,7 +45,7 @@
     {
       "name": "TonQty",
       "path": "AntimonySbGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -60,7 +60,7 @@
     {
       "name": "TonQty",
       "path": "AntimonyTrioxideSb2O3Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -75,7 +75,7 @@
     {
       "name": "TonQty",
       "path": "ArsenicAsGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -90,7 +90,7 @@
     {
       "name": "TonQty",
       "path": "ArsenicTrioxideAs2O3Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -105,7 +105,7 @@
     {
       "name": "TonQty",
       "path": "BariumSulfideBaSGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -120,7 +120,7 @@
     {
       "name": "TonQty",
       "path": "BenzeneC6H6Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -135,7 +135,7 @@
     {
       "name": "TonQty",
       "path": "BromineBrGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -150,7 +150,7 @@
     {
       "name": "TonQty",
       "path": "ButadieneC4H6Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -165,7 +165,7 @@
     {
       "name": "TonQty",
       "path": "ButaneC4H10Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -180,7 +180,7 @@
     {
       "name": "TonQty",
       "path": "ButyleneC4H8Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -195,7 +195,7 @@
     {
       "name": "TonQty",
       "path": "CadmiumCdGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -210,7 +210,7 @@
     {
       "name": "TonQty",
       "path": "ChlorineClGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -225,7 +225,7 @@
     {
       "name": "TonQty",
       "path": "ChromiteFeCr2O4Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -240,7 +240,7 @@
     {
       "name": "TonQty",
       "path": "ChromiumCrGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -255,7 +255,7 @@
     {
       "name": "TonQty",
       "path": "CobaltCoGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -270,7 +270,7 @@
     {
       "name": "TonQty",
       "path": "CupricOxideCuOGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -285,7 +285,7 @@
     {
       "name": "TonQty",
       "path": "CupricSulfateCuSO4Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -300,7 +300,7 @@
     {
       "name": "TonQty",
       "path": "CuprousOxideCu2OGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Election1990Ind",
@@ -325,7 +325,7 @@
     {
       "name": "TonQty",
       "path": "EthyleneC2H4Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -340,7 +340,7 @@
     {
       "name": "TonQty",
       "path": "HydrochloricAcidHClGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -355,7 +355,7 @@
     {
       "name": "TonQty",
       "path": "HydrogenFluorideHFGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ImpPtrlmProdSprfndTxAmt",
@@ -365,7 +365,7 @@
     {
       "name": "ImpPtrlmProdSprfndTxBarrelQty",
       "path": "ImpPtrlmProdSprfndTx/ImpPtrlmProdSprfndTxBarrelQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ImpPtrlmProdSprfndTxRt",
@@ -380,7 +380,7 @@
     {
       "name": "ImpPtrlmOilSpillTaxBarrelQty",
       "path": "ImportedPetroleumOilSpillTax/ImpPtrlmOilSpillTaxBarrelQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ImpPtrlmOilSpillTaxRt",
@@ -400,7 +400,7 @@
     {
       "name": "TonQty",
       "path": "LeadOxidePbOGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -415,7 +415,7 @@
     {
       "name": "TonQty",
       "path": "MercuryHgGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -430,7 +430,7 @@
     {
       "name": "TonQty",
       "path": "MethaneCH4Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -445,7 +445,7 @@
     {
       "name": "TonQty",
       "path": "NaphthaleneC10H8Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -460,7 +460,7 @@
     {
       "name": "TonQty",
       "path": "NickelNiGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -475,7 +475,7 @@
     {
       "name": "TonQty",
       "path": "NitricAcidHNO3Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ODCTaxOnImportedProductsGrp",
@@ -495,7 +495,7 @@
     {
       "name": "TonQty",
       "path": "PhosphorusPGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -510,7 +510,7 @@
     {
       "name": "TonQty",
       "path": "PotassiumDichromateK2Cr2O7Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -525,7 +525,7 @@
     {
       "name": "TonQty",
       "path": "PotassiumHydroxideKOHGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -540,7 +540,7 @@
     {
       "name": "TonQty",
       "path": "PropyleneC3H6Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -555,7 +555,7 @@
     {
       "name": "TonQty",
       "path": "SodiumDichromateNaCr2O7Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -570,7 +570,7 @@
     {
       "name": "TonQty",
       "path": "SodiumHydroxideNaOHGrp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -585,7 +585,7 @@
     {
       "name": "TonQty",
       "path": "StannicChlorideSnCl4Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -600,7 +600,7 @@
     {
       "name": "TonQty",
       "path": "StannousChlorideSnCl2Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -615,7 +615,7 @@
     {
       "name": "TonQty",
       "path": "SulfuricAcidH2SO4Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TaxImpChemicalSubstancesGrp",
@@ -645,12 +645,12 @@
     {
       "name": "TaxableCrudeOilBarrelAQty",
       "path": "TaxableCrudeOil/TaxableCrudeOilBarrelAQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TaxableCrudeOilBarrelBQty",
       "path": "TaxableCrudeOil/TaxableCrudeOilBarrelBQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TaxableCrudeOilTaxAAmt",
@@ -675,7 +675,7 @@
     {
       "name": "TonQty",
       "path": "TolueneC7H8Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotDomesticPtrlmOilSpillTxAmt",
@@ -740,22 +740,22 @@
     {
       "name": "USCrudeOilBfrTxBarrelAQty",
       "path": "USCrudeOilBfrTaxImposed/USCrudeOilBfrTxBarrelAQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "USCrudeOilBfrTxBarrelBQty",
       "path": "USCrudeOilBfrTaxImposed/USCrudeOilBfrTxBarrelBQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "USRefineryCrudeOilBarrelQty",
       "path": "USRefineryCrudeOilBarrelQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "USRefineryCrudeOilBarrelTxdQty",
       "path": "USRefineryCrudeOilBarrelTxdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -770,7 +770,7 @@
     {
       "name": "TonQty",
       "path": "XyleneC8H10Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -785,7 +785,7 @@
     {
       "name": "TonQty",
       "path": "ZincChlorideZnCl2Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -800,7 +800,7 @@
     {
       "name": "TonQty",
       "path": "ZincSulfateZnSO4Grp/TonQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

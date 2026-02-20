@@ -10,7 +10,7 @@
     {
       "name": "AllocNameplateEnergyCapKWQty",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/AllocNameplateEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EligibleProjectPartnerInd",
@@ -38,14 +38,14 @@
       "type": "string"
     },
     {
-      "name": "BusinessNameLine1Txt ",
-      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityOwnerBusinessName/BusinessNameLine1Txt ",
-      "type": "unknown"
+      "name": "BusinessNameLine1Txt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityOwnerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
     },
     {
-      "name": "BusinessNameLine2Txt ",
-      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityOwnerBusinessName/BusinessNameLine2Txt ",
-      "type": "unknown"
+      "name": "BusinessNameLine2Txt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityOwnerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
     },
     {
       "name": "FacilityOwnerEIN",
@@ -75,7 +75,7 @@
     {
       "name": "FacilityUSAddress",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "IRSAcceptanceLtrDt",
@@ -85,7 +85,7 @@
     {
       "name": "NameplateEnergyCapKWQty",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/NameplateEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AllocToBeneficiariesAmt",
@@ -95,7 +95,7 @@
     {
       "name": "CalcFcltyQlfyElecSoldKWHQty",
       "path": "CalcFcltyQlfyElecSoldKWHQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CalcNMCLAllocAcptncPct",
@@ -110,7 +110,7 @@
     {
       "name": "CalcTentCrNMCLAllocAcptnc2Qty",
       "path": "CalcTentCrNMCLAllocAcptnc2Qty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CalcTentCrQlfyElecSoldAmt",
@@ -125,17 +125,17 @@
     {
       "name": "FcltyQlfyElecSoldKWHQty",
       "path": "FcltyQlfyElecSoldKWHQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NMCLPortionAllocatedQty",
       "path": "NMCLPortionAllocatedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NameplateEnergyCapKWQty",
       "path": "NameplateEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "SmallerTentCrSoldOrAllocAmt",
@@ -193,14 +193,14 @@
       "type": "string"
     },
     {
-      "name": "BusinessNameLine1Txt ",
-      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityOwnerBusinessName/BusinessNameLine1Txt ",
-      "type": "unknown"
+      "name": "BusinessNameLine1Txt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityOwnerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
     },
     {
-      "name": "BusinessNameLine2Txt ",
-      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityOwnerBusinessName/BusinessNameLine2Txt ",
-      "type": "unknown"
+      "name": "BusinessNameLine2Txt",
+      "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityOwnerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
     },
     {
       "name": "FacilityOwnerEIN",
@@ -220,12 +220,12 @@
     {
       "name": "FacilityUSAddress",
       "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FcltyQlfyElecSoldKWHQty",
       "path": "ZeroEmissionNclrPowerProdCrGrp/FcltyQlfyElecSoldKWHQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "GroRcptsElecLessCalcElecAmt",

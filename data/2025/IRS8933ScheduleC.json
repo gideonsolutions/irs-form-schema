@@ -5,32 +5,32 @@
     {
       "name": "DeliveredQty",
       "path": "AllOwnerOthNonQlfyCrbnOxdGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "StoredQty",
       "path": "AllOwnerOthNonQlfyCrbnOxdGrp/StoredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DeliveredQty",
       "path": "AllOwnerTotAllCrbnOxdSuprGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "StoredQty",
       "path": "AllOwnerTotAllCrbnOxdSuprGrp/StoredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DeliveredQty",
       "path": "AllOwnerTotQlfyCrbnOxdGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "StoredQty",
       "path": "AllOwnerTotQlfyCrbnOxdGrp/StoredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AttestationInd",
@@ -115,7 +115,7 @@
     {
       "name": "CompanyName",
       "path": "OthCoProjOperatorPurposeGrp/CompanyName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "OtherPurposeDesc",
@@ -165,7 +165,7 @@
     {
       "name": "SupplierName",
       "path": "TotalSupplierSectionGrp/SupplierName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SupplierPersonNm",
@@ -175,12 +175,12 @@
     {
       "name": "DeliveredQty",
       "path": "TotalSupplierSectionGrp/TotSupplierMetricTonsGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "StoredQty",
       "path": "TotalSupplierSectionGrp/TotSupplierMetricTonsGrp/StoredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "WellsEPAClassVIInd",

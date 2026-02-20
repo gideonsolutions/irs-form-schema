@@ -3,21 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": " FacilityOwnerEIN",
-      "path": " FacilityOwnerEIN",
-      "type": "ein"
-    },
-    {
-      "name": " FacilityOwnerSSN",
-      "path": " FacilityOwnerSSN",
-      "type": "tin"
-    },
-    {
-      "name": " FacilityOwnerUSAddress",
-      "path": " FacilityOwnerUSAddress",
-      "type": "unknown"
-    },
-    {
       "name": "ContractExistsInd",
       "path": "ContractExistsInd",
       "type": "bool"
@@ -48,8 +33,23 @@
       "type": "string"
     },
     {
+      "name": "FacilityOwnerEIN",
+      "path": "FacilityOwnerEIN",
+      "type": "ein"
+    },
+    {
       "name": "FacilityOwnerPersonNm",
       "path": "FacilityOwnerPersonNm",
+      "type": "string"
+    },
+    {
+      "name": "FacilityOwnerSSN",
+      "path": "FacilityOwnerSSN",
+      "type": "tin"
+    },
+    {
+      "name": "FacilityOwnerUSAddress",
+      "path": "FacilityOwnerUSAddress",
       "type": "string"
     },
     {
@@ -65,22 +65,22 @@
     {
       "name": "MtrcTonsNonQlfyCrbnOxdRcvdQty",
       "path": "MtrcTonsNonQlfyCrbnOxdRcvdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsNonQlfyCrbnOxdStorQty",
       "path": "MtrcTonsNonQlfyCrbnOxdStorQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsQlfyCrbnOxdRcvdQty",
       "path": "MtrcTonsQlfyCrbnOxdRcvdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsQlfyCrbnOxdRcvdStorQty",
       "path": "MtrcTonsQlfyCrbnOxdRcvdStorQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "SupplierEIN",
@@ -110,12 +110,12 @@
     {
       "name": "TotMtrcTonsQlfyCrbnOxdRcvdQty",
       "path": "TotMtrcTonsQlfyCrbnOxdRcvdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotMtrcTonsQlfyCrbnOxdStorQty",
       "path": "TotMtrcTonsQlfyCrbnOxdStorQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

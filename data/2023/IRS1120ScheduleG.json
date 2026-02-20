@@ -5,12 +5,12 @@
     {
       "name": "EntityInformation",
       "path": "EntityInformation",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "IndividualInformation",
       "path": "IndividualInformation",
-      "type": "unknown"
+      "type": "group"
     }
   ]
 }

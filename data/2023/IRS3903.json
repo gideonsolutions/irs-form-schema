@@ -3,11 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "          EligibilityRequirementMetInd",
-      "path": "          EligibilityRequirementMetInd",
-      "type": "bool"
-    },
-    {
       "name": "EligibilityRequirementMetInd",
       "path": "EligibilityRequirementMetInd",
       "type": "bool"

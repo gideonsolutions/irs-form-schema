@@ -60,7 +60,7 @@
     {
       "name": "CapitalizedSection263AAmount",
       "path": "CapitalizedSection263AAmount",
-      "type": "unknown"
+      "type": "usd"
     },
     {
       "name": "DefrdIntExpensePriorYrDedAmt",

@@ -15,22 +15,22 @@
     {
       "name": "MtrcTonsCrbnOxdQty",
       "path": "AllocnCrbnOxdRcptr1stPYGrp/MtrcTonsCrbnOxdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsCrbnOxdRcptrQty",
       "path": "AllocnCrbnOxdRcptr1stPYGrp/MtrcTonsCrbnOxdRcptrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "PriorYr",
       "path": "AllocnCrbnOxdRcptr1stPYGrp/PriorYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "TotAllocMtrcTonsRcptrQty",
       "path": "AllocnCrbnOxdRcptr1stPYGrp/TotAllocMtrcTonsRcptrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AllocnCrbnOxdRcptr2ndPYGrp",
@@ -40,22 +40,22 @@
     {
       "name": "MtrcTonsCrbnOxdQty",
       "path": "AllocnCrbnOxdRcptr2ndPYGrp/MtrcTonsCrbnOxdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsCrbnOxdRcptrQty",
       "path": "AllocnCrbnOxdRcptr2ndPYGrp/MtrcTonsCrbnOxdRcptrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "PriorYr",
       "path": "AllocnCrbnOxdRcptr2ndPYGrp/PriorYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "TotAllocMtrcTonsRcptrQty",
       "path": "AllocnCrbnOxdRcptr2ndPYGrp/TotAllocMtrcTonsRcptrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AllocnCrbnOxdRcptr3rdPYGrp",
@@ -65,22 +65,22 @@
     {
       "name": "MtrcTonsCrbnOxdQty",
       "path": "AllocnCrbnOxdRcptr3rdPYGrp/MtrcTonsCrbnOxdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsCrbnOxdRcptrQty",
       "path": "AllocnCrbnOxdRcptr3rdPYGrp/MtrcTonsCrbnOxdRcptrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "PriorYr",
       "path": "AllocnCrbnOxdRcptr3rdPYGrp/PriorYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "TotAllocMtrcTonsRcptrQty",
       "path": "AllocnCrbnOxdRcptr3rdPYGrp/TotAllocMtrcTonsRcptrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CarbonOxideInjectionBeginDt",
@@ -125,7 +125,7 @@
     {
       "name": "FacilityOwnerBusinessName",
       "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FacilityOwnerEIN",
@@ -135,7 +135,7 @@
     {
       "name": "FacilityOwnerForeignAddress",
       "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FacilityOwnerPersonNm",
@@ -150,7 +150,7 @@
     {
       "name": "FacilityOwnerUSAddress",
       "path": "GeologicalDisposalSite1stPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "OperatingInterestPct",
@@ -160,7 +160,7 @@
     {
       "name": "TaxYr",
       "path": "GeologicalDisposalSite1stPYGrp/TaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "GeologicalDisposalSiteOwnerGrp",
@@ -170,7 +170,7 @@
     {
       "name": "FacilityOwnerBusinessName",
       "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FacilityOwnerEIN",
@@ -180,7 +180,7 @@
     {
       "name": "FacilityOwnerForeignAddress",
       "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FacilityOwnerPersonNm",
@@ -195,7 +195,7 @@
     {
       "name": "FacilityOwnerUSAddress",
       "path": "GeologicalDisposalSite2ndPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "OperatingInterestPct",
@@ -205,7 +205,7 @@
     {
       "name": "TaxYr",
       "path": "GeologicalDisposalSite2ndPYGrp/TaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "GeologicalDisposalSiteOwnerGrp",
@@ -215,7 +215,7 @@
     {
       "name": "FacilityOwnerBusinessName",
       "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FacilityOwnerEIN",
@@ -225,7 +225,7 @@
     {
       "name": "FacilityOwnerForeignAddress",
       "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FacilityOwnerPersonNm",
@@ -240,7 +240,7 @@
     {
       "name": "FacilityOwnerUSAddress",
       "path": "GeologicalDisposalSite3rdPYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "OperatingInterestPct",
@@ -250,7 +250,7 @@
     {
       "name": "TaxYr",
       "path": "GeologicalDisposalSite3rdPYGrp/TaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "GeologicalDisposalSiteOwnerGrp",
@@ -260,7 +260,7 @@
     {
       "name": "FacilityOwnerBusinessName",
       "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FacilityOwnerEIN",
@@ -270,7 +270,7 @@
     {
       "name": "FacilityOwnerForeignAddress",
       "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FacilityOwnerPersonNm",
@@ -285,7 +285,7 @@
     {
       "name": "FacilityOwnerUSAddress",
       "path": "GeologicalDisposalSiteCYGrp/GeologicalDisposalSiteOwnerGrp/FacilityOwnerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "OperatingInterestPct",
@@ -295,7 +295,7 @@
     {
       "name": "TaxYr",
       "path": "GeologicalDisposalSiteCYGrp/TaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "GeologicalDisposalSiteInd",
@@ -305,17 +305,17 @@
     {
       "name": "MtrcTonsCrbnOxdLkdMgrtQty",
       "path": "MtrcTonsCrbnOxdLkdMgrtQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsCrbnOxdLkdQty",
       "path": "MtrcTonsCrbnOxdLkdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsCrbnOxdNotRcptrQty",
       "path": "MtrcTonsCrbnOxdNotRcptrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -355,7 +355,7 @@
     {
       "name": "SubjectToRecaptureQty",
       "path": "SubjectToRecaptureQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotAllocnCrbnOxdRcptrGrp",
@@ -365,17 +365,17 @@
     {
       "name": "MtrcTonsCrbnOxdRcptrQty",
       "path": "TotAllocnCrbnOxdRcptrGrp/MtrcTonsCrbnOxdRcptrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotAllocMtrcTonsRcptrQty",
       "path": "TotAllocnCrbnOxdRcptrGrp/TotAllocMtrcTonsRcptrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotMtrcTonsCrbnOxdStorQty",
       "path": "TotMtrcTonsCrbnOxdStorQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

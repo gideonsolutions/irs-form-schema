@@ -50,7 +50,7 @@
     {
       "name": "ForeignAddress",
       "path": "BooksInCareOfDetail/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ForeignPhoneNum",
@@ -70,7 +70,7 @@
     {
       "name": "USAddress",
       "path": "BooksInCareOfDetail/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "CYGenBusinessCreditAllowedAmt",

@@ -70,7 +70,7 @@
     {
       "name": "HomeAddress",
       "path": "EgyEffcntHmImprvCrGrp/HomeAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "HomeLocatedInUSAInd",
@@ -195,7 +195,7 @@
     {
       "name": "QualifiedEnergyPropertyAddress",
       "path": "EgyEffcntHmImprvCrGrp/QualifiedEnergyPropertyAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "TaxesLessCreditsAmt",
@@ -275,7 +275,7 @@
     {
       "name": "QlfyFuelCellPropertyHmAddress",
       "path": "ResidentialCleanEnergyCrGrp/QlfyFuelCellPropertyHmAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "QlfyFuelCellPropertyInUSInd",
@@ -285,7 +285,7 @@
     {
       "name": "ResidentialCleanEgyHomeAddress",
       "path": "ResidentialCleanEnergyCrGrp/ResidentialCleanEgyHomeAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ResidentialCleanEnergyCrAmt",

@@ -3,54 +3,44 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "OtherPurposeDesc",
-      "path": "  OthCoProjOperatorPurposeGrp/OtherPurposeDesc",
-      "type": "string"
-    },
-    {
-      "name": " BinaryAttachment",
-      "path": " BinaryAttachment",
-      "type": "unknown"
-    },
-    {
-      "name": " OthCoProjOperatorPurposeGrp",
-      "path": " OthCoProjOperatorPurposeGrp",
-      "type": "group"
-    },
-    {
       "name": "DeliveredQty",
       "path": "AllOwnerOthNonQlfyCrbnOxdGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "StoredQty",
       "path": "AllOwnerOthNonQlfyCrbnOxdGrp/StoredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DeliveredQty",
       "path": "AllOwnerTotAllCrbnOxdSuprGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "StoredQty",
       "path": "AllOwnerTotAllCrbnOxdSuprGrp/StoredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DeliveredQty",
       "path": "AllOwnerTotQlfyCrbnOxdGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "StoredQty",
       "path": "AllOwnerTotQlfyCrbnOxdGrp/StoredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AttestationInd",
       "path": "AttestationInd",
       "type": "bool"
+    },
+    {
+      "name": "BinaryAttachment",
+      "path": "BinaryAttachment",
+      "type": "unknown"
     },
     {
       "name": "CarbonOxideInjectionBeginDt",
@@ -103,6 +93,16 @@
       "type": "ein"
     },
     {
+      "name": "OthCoProjOperatorPurposeGrp",
+      "path": "OthCoProjOperatorPurposeGrp",
+      "type": "group"
+    },
+    {
+      "name": "OtherPurposeDesc",
+      "path": "OthCoProjOperatorPurposeGrp/OtherPurposeDesc",
+      "type": "string"
+    },
+    {
       "name": "OthNonQlfyCrbnOxdGrp",
       "path": "OthNonQlfyCrbnOxdGrp",
       "type": "group"
@@ -125,7 +125,7 @@
     {
       "name": "SupplierName",
       "path": "TotalSupplierSectionGrp/SupplierName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SupplierPersonNm",
@@ -135,12 +135,12 @@
     {
       "name": "DeliveredQty",
       "path": "TotalSupplierSectionGrp/TotSupplierMetricTonsGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "StoredQty",
       "path": "TotalSupplierSectionGrp/TotSupplierMetricTonsGrp/StoredQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

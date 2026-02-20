@@ -85,7 +85,7 @@
     {
       "name": "USAddress",
       "path": "EntityReceivingPaymentGrp/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",

@@ -15,7 +15,7 @@
     {
       "name": "SupplementalInformationDetail",
       "path": "SupplementalInformationDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "ExceptionToRebateInd",
@@ -250,7 +250,7 @@
     {
       "name": "SubstantialCompletionYr",
       "path": "TaxExemptBondsProceedsGrp/SubstantialCompletionYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "TotalProceedsAmt",

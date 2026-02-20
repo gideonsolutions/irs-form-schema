@@ -20,7 +20,7 @@
     {
       "name": "SupplementalInformationDetail",
       "path": "SupplementalInformationDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "Total501c3OrgCnt",

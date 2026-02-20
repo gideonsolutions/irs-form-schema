@@ -55,7 +55,7 @@
     {
       "name": "VehicleModelYr",
       "path": "IRS8910TentativeCreditGrp /VehicleDescriptionGrp/VehicleModelYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "AltMotorVehTentativeCreditAmt",
@@ -80,7 +80,7 @@
     {
       "name": "VehicleModelYr",
       "path": "IRS8910TentativeCreditGrp/VehicleDescriptionGrp/VehicleModelYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "VehiclePlacedInServiceDt",

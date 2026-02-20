@@ -25,17 +25,17 @@
     {
       "name": "AvgEligClothesWashersPrdcdQty",
       "path": "AvgEligClothesWashersPrdcdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AvgNumEligRefrigeratorsTypAQty",
       "path": "AvgNumEligRefrigeratorsTypAQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AvgNumEligRefrigeratorsTypBQty",
       "path": "AvgNumEligRefrigeratorsTypBQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ClothesWasherTentativeCrAmt",
@@ -65,47 +65,47 @@
     {
       "name": "DshwshrPrdcdPr2YrsTypeAAvgQty",
       "path": "DshwshrPrdcdPr2YrsTypeAAvgQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DshwshrPrdcdPr2YrsTypeBAvgQty",
       "path": "DshwshrPrdcdPr2YrsTypeBAvgQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EligClothesWashersPrdcdQty",
       "path": "EligClothesWashersPrdcdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EligibleDishwashersTypeANetQty",
       "path": "EligibleDishwashersTypeANetQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EligibleDishwashersTypeAQty",
       "path": "EligibleDishwashersTypeAQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EligibleDishwashersTypeBNetQty",
       "path": "EligibleDishwashersTypeBNetQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EligibleDishwashersTypeBQty",
       "path": "EligibleDishwashersTypeBQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EligibleRefrigeratorTypeAQty",
       "path": "EligibleRefrigeratorTypeAQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EligibleRefrigeratorTypeBQty",
       "path": "EligibleRefrigeratorTypeBQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EnergyEffcntApplianceCrdtAmt",
@@ -125,7 +125,7 @@
     {
       "name": "NetEligClothesWashersPrdcdQty",
       "path": "NetEligClothesWashersPrdcdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NetSmallerOfLinesAmt",
@@ -215,12 +215,12 @@
     {
       "name": "TypeARefrigeratorsProducedQty",
       "path": "TypeARefrigeratorsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TypeBRefrigeratorsProducedQty",
       "path": "TypeBRefrigeratorsProducedQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

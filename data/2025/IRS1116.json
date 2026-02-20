@@ -3,11 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "*",
-      "path": "*",
-      "type": "unknown"
-    },
-    {
       "name": "AltBasisCompensationSourceInd",
       "path": "AltBasisCompensationSourceInd",
       "type": "bool"

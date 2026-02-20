@@ -35,7 +35,7 @@
     {
       "name": "DispositionOfAssetsDetail",
       "path": "DispositionOfAssetsDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "EmployeeOfSuccessor2Ind",
@@ -60,7 +60,7 @@
     {
       "name": "LiquidationOfAssetsDetail",
       "path": "LiquidationOfAssetsTableGrp/LiquidationOfAssetsDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "OwnerOfSuccessor2Ind",
@@ -90,7 +90,7 @@
     {
       "name": "SupplementalInformationDetail",
       "path": "SupplementalInformationDetail",
-      "type": "unknown"
+      "type": "group"
     }
   ]
 }

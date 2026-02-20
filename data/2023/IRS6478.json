@@ -40,7 +40,7 @@
     {
       "name": "Qlfy2ndBiofuelProdFuelGalsQty",
       "path": "Qlfy2ndBiofuelProdFuelGalsQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

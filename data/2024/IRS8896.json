@@ -20,7 +20,7 @@
     {
       "name": "LowSulphurDieselFuelPrdcdQty",
       "path": "LowSulphurDieselFuelPrdcdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "QualifiedCostLimitAmt",

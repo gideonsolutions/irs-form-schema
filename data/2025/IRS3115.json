@@ -15,7 +15,7 @@
     {
       "name": "AOOrGovtCounselCntctInfo",
       "path": "AOOrGovtCounselCntctInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "AOOrGovtCounselProvCopyInd",
@@ -80,7 +80,7 @@
     {
       "name": "BusinessName",
       "path": "BusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -155,7 +155,7 @@
     {
       "name": "ExaminingAgentContactInfo",
       "path": "ExaminingAgentContactInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "FedReturnBeforeAppealsInd",
@@ -1105,7 +1105,7 @@
     {
       "name": "ReturnsUnderExaminationInfo",
       "path": "ReturnsUnderExaminationInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "RulesRstrAutoChangeProcInd",

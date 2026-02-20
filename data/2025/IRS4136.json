@@ -70,7 +70,7 @@
     {
       "name": "BusUseOfUndyedDieselGalsQty",
       "path": "BusesUseUndyedDieselFuelGrp/BusUseOfUndyedDieselGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -85,7 +85,7 @@
     {
       "name": "BusUseOfUndyedKeroseneGalsQty",
       "path": "BusesUseUndyedKeroseneGrp/BusUseOfUndyedKeroseneGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -110,7 +110,7 @@
     {
       "name": "AviationGasolineGallonsQty",
       "path": "CommercialAviationUseGasGrp/AviationGasolineGallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditCardIssrRegistrationNum",
@@ -135,7 +135,7 @@
     {
       "name": "DslFuelSoldStLocalGovtGalsQty",
       "path": "DslFuelSoldStLocalGovtUseGrp/DslFuelSoldStLocalGovtGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EIN",
@@ -155,7 +155,7 @@
     {
       "name": "BlndrCrUseDslWtrEmulsionQty",
       "path": "EmulsionBlndCreditGrp/BlndrCrUseDslWtrEmulsionQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DieselWaterFuelEmulsionBlendingStatement",
@@ -190,7 +190,7 @@
     {
       "name": "ExportedDyedDieselFuelGalsQty",
       "path": "ExpDyedDieselGasTxdAt001Grp/ExportedDyedDieselFuelGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -205,7 +205,7 @@
     {
       "name": "ExpNontxUseDslWtrEmulsionQty",
       "path": "ExpNontxUseDslWtrEmulsionGrp/ExpNontxUseDslWtrEmulsionQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -220,7 +220,7 @@
     {
       "name": "ExportedDyedKeroseneGallonsQty",
       "path": "ExportedDyedKeroseneGrp/ExportedDyedKeroseneGallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -235,7 +235,7 @@
     {
       "name": "ExpNontxAviationGasGalsQty",
       "path": "ExportedNontaxAviationGasGrp/ExpNontxAviationGasGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -245,7 +245,7 @@
     {
       "name": "ExportedNontxUseGasGalsQty",
       "path": "ExportedNontaxableUseGasGrp/ExportedNontxUseGasGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ExportedNontxUseOfGasCrAmt",
@@ -265,7 +265,7 @@
     {
       "name": "ExpUndyedDieselFuelGalsQty",
       "path": "ExportedUndyedDieselFuelGrp/ExpUndyedDieselFuelGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -280,7 +280,7 @@
     {
       "name": "ExportedUndyedKeroseneGalsQty",
       "path": "ExportedUndyedKeroseneGrp/ExportedUndyedKeroseneGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KeroseneForAvnRegistrationNum",
@@ -310,7 +310,7 @@
     {
       "name": "KrsnFuelSoldStLocalGovtGalsQty",
       "path": "KrsnFuelSoldStLocalGovtUseGrp/KrsnFuelSoldStLocalGovtGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -325,7 +325,7 @@
     {
       "name": "SlsKrsnNnxmptUseInAvnGalsQty",
       "path": "KrsnNnxmptUseNonCmrclAvnGrp/SlsKrsnNnxmptUseInAvnGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "KrsnOthNontxTxd219ActlFlCstAmt",
@@ -360,7 +360,7 @@
     {
       "name": "KrsnAvnSoldStLocalGovtGalsQty",
       "path": "KrsnSoldStLocalGovtAvnUseGrp/KrsnAvnSoldStLocalGovtGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseFuelsCreditCardUsersStatement",
@@ -385,7 +385,7 @@
     {
       "name": "SlsKrsnUsedInAvnTxd219GalsQty",
       "path": "KrsnUseCmrclAvnTxdAt219Grp/SlsKrsnUsedInAvnTxd219GalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -400,7 +400,7 @@
     {
       "name": "SlsKrsnUsedInAvnTxd244GalsQty",
       "path": "KrsnUseCmrclAvnTxdAt244Grp/SlsKrsnUsedInAvnTxd244GalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -415,7 +415,7 @@
     {
       "name": "KeroseneUsedInAvnTxd219GalsQty",
       "path": "KrsnUsedInCmrclAvnTxdAt219Grp/KeroseneUsedInAvnTxd219GalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -430,7 +430,7 @@
     {
       "name": "KeroseneUsedInAvnTxd244GalsQty",
       "path": "KrsnUsedInCmrclAvnTxdAt244Grp/KeroseneUsedInAvnTxd244GalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -445,7 +445,7 @@
     {
       "name": "LUSTTxAvnFuelFrgnTradeGalsQty",
       "path": "LUSTTxAvnFuelFrgnTradeGrp/LUSTTxAvnFuelFrgnTradeGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -460,7 +460,7 @@
     {
       "name": "LUSTTxKrsnAvnFrgnTrdGalsQty",
       "path": "LUSTTxKrsnAvnFrgnTrdGrp/LUSTTxKrsnAvnFrgnTrdGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -475,7 +475,7 @@
     {
       "name": "LUSTTxSlsKrsnAvnFrgnTrdGalsQty",
       "path": "LUSTTxSlsKrsnAvnFrgnTrdGrp/LUSTTxSlsKrsnAvnFrgnTrdGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NonTxKrsnUsedInAvnTxd219CrAmt",
@@ -500,12 +500,12 @@
     {
       "name": "FarmingPurposesGasolineGalsQty",
       "path": "NontaxableUseOfGasolineGrp/FarmingPurposesGasolineGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "GallonsQty",
       "path": "NontaxableUseOfGasolineGrp/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -520,12 +520,12 @@
     {
       "name": "OffHwyBusUseGasolineGalsQty",
       "path": "NontaxableUseOfGasolineGrp/OffHwyBusUseGasolineGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "OtherNontaxableUseGasolineDtl",
       "path": "NontaxableUseOfGasolineGrp/OtherNontaxableUseGasolineDtl",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "NontaxableUseOfUndyedDiesel",
@@ -545,12 +545,12 @@
     {
       "name": "FarmPrpsUndyedDslFuelGalsQty",
       "path": "NontaxableUseUndyedDieselGrp/FarmPrpsUndyedDslFuelGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfUndyedDieselDtl",
       "path": "NontaxableUseUndyedDieselGrp/NontaxableUseOfUndyedDieselDtl",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "NontxCmprsdNatGasActlFlCstAmt",
@@ -735,12 +735,12 @@
     {
       "name": "FarmPrpsUndyedKeroseneGalsQty",
       "path": "NontxUseUndyedKeroseneGrp/FarmPrpsUndyedKeroseneGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseUndyedKeroseneDtl",
       "path": "NontxUseUndyedKeroseneGrp/NontaxableUseUndyedKeroseneDtl",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "NontxUseUndyedKrsnTxd044CrAmt",
@@ -770,7 +770,7 @@
     {
       "name": "OffHwyBusUseGasolineGalsQty",
       "path": "OffHwyBusUseGasolineGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "OthNontaxableAviationGasGrp",
@@ -780,7 +780,7 @@
     {
       "name": "OtherNontaxableUseGasolineDtl",
       "path": "OtherNontaxableUseGasolineDtl",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "PrincipalBusinessActivityCd",
@@ -825,7 +825,7 @@
     {
       "name": "SlsUndyedDieselUseBusGalsQty",
       "path": "SlsUndyedDieselUseBusesGrp/SlsUndyedDieselUseBusGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -835,7 +835,7 @@
     {
       "name": "SlsUndyedDslStLclGovtGalsQty",
       "path": "SlsUndyedDslStLclGovtGrp/SlsUndyedDslStLclGovtGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "SlsUndyedDslUseStLclGovtCrAmt",
@@ -860,12 +860,12 @@
     {
       "name": "SlsUndyedKrsnBlockPumpGalsQty",
       "path": "SlsUndyedKrsnGrp/SlsUndyedKrsnBlockPumpGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "SlsUndyedKrsnStLclGovtGalsQty",
       "path": "SlsUndyedKrsnGrp/SlsUndyedKrsnStLclGovtGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ActualFuelCostAmt",
@@ -880,7 +880,7 @@
     {
       "name": "SlsUndyedKrsnUseBusGalsQty",
       "path": "SlsUndyedKrsnUseBusesGrp/SlsUndyedKrsnUseBusGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotalFuelTaxCreditAmt",
@@ -900,7 +900,7 @@
     {
       "name": "TrainUseOfUndyedDieselGalsQty",
       "path": "TrainsUseUndyedDieselFuelGrp/TrainUseOfUndyedDieselGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "UndyedDieselRegistrationNum",

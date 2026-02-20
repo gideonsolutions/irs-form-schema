@@ -15,7 +15,7 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignPersonSubjectToWthldGrp//SeparateMailingAddress/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "CountryCd",
@@ -25,7 +25,7 @@
     {
       "name": "USAddress",
       "path": "ForeignPersonSubjectToWthldGrp//SeparateMailingAddress/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -115,7 +115,7 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignPersonSubjectToWthldGrp/SellerForeignAddressGrp/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -150,7 +150,7 @@
     {
       "name": "TransfereeForeignAddress",
       "path": "TransfereeForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -175,7 +175,7 @@
     {
       "name": "TransfereeUSAddress",
       "path": "TransfereeUSAddress",
-      "type": "unknown"
+      "type": "string"
     }
   ]
 }

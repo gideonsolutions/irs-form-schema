@@ -95,7 +95,7 @@
     {
       "name": "PassThroughEntityInfo",
       "path": "PassThroughEntityInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "SCorporationInd",

@@ -3,26 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "@changeAnnualAccountingPeriodCd",
-      "path": "@changeAnnualAccountingPeriodCd",
-      "type": "enum"
-    },
-    {
-      "name": "@filedPursuantToSect30191002Cd",
-      "path": "@filedPursuantToSect30191002Cd",
-      "type": "enum"
-    },
-    {
-      "name": "@section501dCd",
-      "path": "@section501dCd",
-      "type": "enum"
-    },
-    {
-      "name": "@shortPeriodReasonCd",
-      "path": "@shortPeriodReasonCd",
-      "type": "enum"
-    },
-    {
       "name": "AddressChangeInd",
       "path": "AddressChangeInd",
       "type": "bool"
@@ -400,6 +380,26 @@
     {
       "name": "@taxFromForm4255Cd",
       "path": "TotalTaxAmt/@taxFromForm4255Cd",
+      "type": "enum"
+    },
+    {
+      "name": "changeAnnualAccountingPeriodCd",
+      "path": "changeAnnualAccountingPeriodCd",
+      "type": "enum"
+    },
+    {
+      "name": "filedPursuantToSect30191002Cd",
+      "path": "filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "section501dCd",
+      "path": "section501dCd",
+      "type": "enum"
+    },
+    {
+      "name": "shortPeriodReasonCd",
+      "path": "shortPeriodReasonCd",
       "type": "enum"
     }
   ]

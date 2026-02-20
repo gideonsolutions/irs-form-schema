@@ -35,7 +35,7 @@
     {
       "name": "ForeignAddress",
       "path": "RentalAddressGrp/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PersonalUseDaysCnt",
@@ -50,7 +50,7 @@
     {
       "name": "USAddress",
       "path": "RentalAddressGrp/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "RentalIncomeExpensesGrp",

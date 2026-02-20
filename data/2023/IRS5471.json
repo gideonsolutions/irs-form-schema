@@ -3,16 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "@changeAnnualAccountingPeriodCd",
-      "path": "@changeAnnualAccountingPeriodCd",
-      "type": "enum"
-    },
-    {
-      "name": "@dormantForeignCorporationCd",
-      "path": "@dormantForeignCorporationCd",
-      "type": "enum"
-    },
-    {
       "name": "AltInformationRevProc201940Ind",
       "path": "AltInformationRevProc201940Ind",
       "type": "bool"
@@ -35,7 +25,7 @@
     {
       "name": "ForeignAddress",
       "path": "BranchOfficeInTheUS/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PersonNm",
@@ -45,7 +35,7 @@
     {
       "name": "USAddress",
       "path": "BranchOfficeInTheUS/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "CategoryOfFiler1aInd",
@@ -140,12 +130,12 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignCorporation/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "USAddress",
       "path": "ForeignCorporation/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ForeignEntityIdentificationGrp",
@@ -175,7 +165,7 @@
     {
       "name": "ForeignAddress",
       "path": "FrgnCorpStatutoryOrResidentAgt/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PersonNm",
@@ -185,7 +175,7 @@
     {
       "name": "USAddress",
       "path": "FrgnCorpStatutoryOrResidentAgt/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FunctionalCurrencyCd",
@@ -371,6 +361,16 @@
       "name": "VotingStockOwnedPct",
       "path": "VotingStockOwnedPct",
       "type": "decimal"
+    },
+    {
+      "name": "changeAnnualAccountingPeriodCd",
+      "path": "changeAnnualAccountingPeriodCd",
+      "type": "enum"
+    },
+    {
+      "name": "dormantForeignCorporationCd",
+      "path": "dormantForeignCorporationCd",
+      "type": "enum"
     }
   ]
 }

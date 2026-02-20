@@ -20,7 +20,7 @@
     {
       "name": "DecrAmtFrgnTaxesPdAccruedDtl",
       "path": "DecrAmtFrgnTaxesPdAccruedDtl",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "ForeignBranchIncomeInd",
@@ -60,7 +60,7 @@
     {
       "name": "IncrAmtFrgnTaxesAccruedDtl",
       "path": "IncrAmtFrgnTaxesAccruedDtl",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "SanctionedCountryCd",

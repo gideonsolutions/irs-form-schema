@@ -100,7 +100,7 @@
     {
       "name": "PersonsYouPaidAFeeInfo",
       "path": "PersonsYouPaidAFeeInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "AddressLine1Txt",
@@ -175,7 +175,7 @@
     {
       "name": "ReportableTransactionInfo",
       "path": "ReportableTransactionInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "ReportableTransactionDesc",
@@ -185,7 +185,7 @@
     {
       "name": "@bookTaxDifferenceIndicator",
       "path": "ReportableTransactionInfo/ReportableTransactionDesc/@bookTaxDifferenceIndicator",
-      "type": "unknown"
+      "type": "bool"
     },
     {
       "name": "SameOrSimilarTransactionCnt",
@@ -205,7 +205,7 @@
     {
       "name": "TaxReturnFormNumberDsc",
       "path": "TaxReturnFormNumberDsc",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "TaxYearDt",
@@ -233,8 +233,8 @@
       "type": "bool"
     },
     {
-      "name": "*",
-      "path": "TypeOfEntityInformation/*",
+      "name": "",
+      "path": "TypeOfEntityInformation/",
       "type": "unknown"
     },
     {

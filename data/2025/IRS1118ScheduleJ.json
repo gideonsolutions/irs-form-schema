@@ -3,11 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "@uSLossAllocUnderNotice89Cd",
-      "path": "@uSLossAllocUnderNotice89Cd",
-      "type": "enum"
-    },
-    {
       "name": "AdjIncmLossAndLmtIncmAmt",
       "path": "AdjSepLmtForeignBranchIncome/AdjIncmLossAndLmtIncmAmt",
       "type": "usd"
@@ -961,6 +956,11 @@
       "name": "RchrctrztnSepLmtOtherIncmGrp",
       "path": "RchrctrztnSepLmtOtherIncmGrp",
       "type": "group"
+    },
+    {
+      "name": "uSLossAllocUnderNotice89Cd",
+      "path": "uSLossAllocUnderNotice89Cd",
+      "type": "enum"
     }
   ]
 }

@@ -15,7 +15,7 @@
     {
       "name": "CalendarYr",
       "path": "CalendarYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "CanadaRegdRetireIncomeFundInd",
@@ -95,12 +95,12 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "USAddress",
       "path": "USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "USTaxDeferralElectPreviousInd",
@@ -110,7 +110,7 @@
     {
       "name": "USTaxDeferralElectionFirstYr",
       "path": "USTaxDeferralElectionFirstYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "USTaxDeferralNewElectionInd",

@@ -830,7 +830,7 @@
     {
       "name": "RICStatusElectionYr",
       "path": "RICStatusElectionYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "RICTaxableIncomeAmt",

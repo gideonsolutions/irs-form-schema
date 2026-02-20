@@ -3,11 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "@claimFrgnEarnIncWaiverCd",
-      "path": "@claimFrgnEarnIncWaiverCd",
-      "type": "enum"
-    },
-    {
       "name": "BonaFideResidentInd",
       "path": "BonaFideResidentInd",
       "type": "bool"
@@ -20,7 +15,7 @@
     {
       "name": "EmployerForeignAddress",
       "path": "EmployerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmployerForeignEntityInd",
@@ -40,7 +35,7 @@
     {
       "name": "EmployerUSAddress",
       "path": "EmployerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmployerUnitedStatesCompanyInd",
@@ -50,12 +45,12 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ForeignEarnIncExclRevokeTaxYr",
       "path": "ForeignEarnIncExclRevokeTaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "ForeignEarnIncExclRevokedInd",
@@ -85,7 +80,7 @@
     {
       "name": "LastFrgnEarnIncExclClaimedYr",
       "path": "LastFrgnEarnIncExclClaimedYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "NameLine1Txt",
@@ -196,6 +191,11 @@
       "name": "TotalForeignEarnedIncomeAmt",
       "path": "TotalForeignEarnedIncomeAmt",
       "type": "usd"
+    },
+    {
+      "name": "claimFrgnEarnIncWaiverCd",
+      "path": "claimFrgnEarnIncWaiverCd",
+      "type": "enum"
     }
   ]
 }

@@ -15,7 +15,7 @@
     {
       "name": "CalendarYr",
       "path": "CalendarYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "CorporationInd",
@@ -633,9 +633,9 @@
       "type": "bool"
     },
     {
-      "name": "SpecifiedIndivOrPersonInfo ",
-      "path": "SpecifiedIndivOrPersonInfo ",
-      "type": "unknown"
+      "name": "SpecifiedIndivOrPersonInfo",
+      "path": "SpecifiedIndivOrPersonInfo",
+      "type": "group"
     },
     {
       "name": "BusinessNameLine1Txt",

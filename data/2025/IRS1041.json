@@ -3,11 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "@section642iCd",
-      "path": "@section642iCd",
-      "type": "enum"
-    },
-    {
       "name": "AccountingIncomeAmt",
       "path": "AccountingIncomeAmt",
       "type": "usd"
@@ -81,11 +76,6 @@
       "name": "CapitalGainLossAmt",
       "path": "CapitalGainLossAmt",
       "type": "usd"
-    },
-    {
-      "name": "CapitalGainLossAmt * -1",
-      "path": "CapitalGainLossAmt * -1",
-      "type": "unknown"
     },
     {
       "name": "CapitalGainNetAmt",
@@ -430,7 +420,7 @@
     {
       "name": "Amount",
       "path": "OtherCreditsFormAndAmt/Amount",
-      "type": "unknown"
+      "type": "usd"
     },
     {
       "name": "Description",
@@ -781,6 +771,11 @@
       "name": "VirtualCurAcquiredDurTYInd",
       "path": "VirtualCurAcquiredDurTYInd",
       "type": "bool"
+    },
+    {
+      "name": "section642iCd",
+      "path": "section642iCd",
+      "type": "enum"
     }
   ]
 }

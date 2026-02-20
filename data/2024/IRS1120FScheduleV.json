@@ -3,21 +3,6 @@
   "tax_year": 2024,
   "fields": [
     {
-      "name": "BusinessNameLine1Txt",
-      "path": " VesselAircraftInformation/OperatorBusinessName/BusinessNameLine1Txt",
-      "type": "string"
-    },
-    {
-      "name": "BusinessNameLine1Txt",
-      "path": " VesselAircraftInformation/RegisteredOwnerName/BusinessNameLine1Txt",
-      "type": "string"
-    },
-    {
-      "name": "VesselOrAircraftIDNum",
-      "path": " VesselAircraftInformation/VesselOrAircraftIDNum",
-      "type": "string"
-    },
-    {
       "name": "GrossTransIncmMnsTrtyAmt",
       "path": "GrossTransIncmMnsTrtyAmt",
       "type": "usd"
@@ -35,7 +20,7 @@
     {
       "name": "VesselAircraftInformation",
       "path": "VesselAircraftInformation",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "          RegisteredOwnerEIN",

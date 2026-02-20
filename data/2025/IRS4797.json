@@ -273,19 +273,9 @@
       "type": "usd"
     },
     {
-      "name": "Sect179DedDepreciationPYAmt ",
-      "path": "Sect179DedDepreciationPYAmt ",
-      "type": "unknown"
-    },
-    {
       "name": "Sect179RcmptDepreciationAmt",
       "path": "Sect179RcmptDepreciationAmt",
       "type": "usd"
-    },
-    {
-      "name": "Sect179RcmptDepreciationAmt ",
-      "path": "Sect179RcmptDepreciationAmt ",
-      "type": "unknown"
     },
     {
       "name": "Sect280DedDepreciationPYAmt",
@@ -306,11 +296,6 @@
       "name": "Section179RecaptureAmt",
       "path": "Section179RecaptureAmt",
       "type": "usd"
-    },
-    {
-      "name": "Section179RecaptureAmt ",
-      "path": "Section179RecaptureAmt ",
-      "type": "unknown"
     },
     {
       "name": "TotalGainLossAmt",

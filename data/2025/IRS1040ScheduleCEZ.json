@@ -10,7 +10,7 @@
     {
       "name": "BusinessForeignAddress",
       "path": "BusinessForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -35,7 +35,7 @@
     {
       "name": "BusinessUSAddress",
       "path": "BusinessUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",

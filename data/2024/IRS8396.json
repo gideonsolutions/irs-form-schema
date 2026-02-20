@@ -95,7 +95,7 @@
     {
       "name": "QlfyMortgageCertUSAddress",
       "path": "QlfyMortgageCertUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "TaxLiabLmtFromCrLmtWrkshtAmt",

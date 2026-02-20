@@ -10,7 +10,7 @@
     {
       "name": "EmployerIdentificationNumber",
       "path": "EmployerIdentificationNumber",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "MissingEINReason",
@@ -100,12 +100,12 @@
     {
       "name": "RefClaimSecondTxSupportingInfo",
       "path": "RefClaimSecondTxSupportingInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "RefClaimSecondTxFuelInfo",
       "path": "RefClaimSecondTxSupportingInfo/RefClaimSecondTxFuelInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "TotalRefundAmt",

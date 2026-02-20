@@ -54,25 +54,29 @@ An `_index.json` file lists all forms with their field counts.
 
 ## Type classification
 
+Both abbreviated and full-word suffixes are recognized:
+
 | Suffix | Type | Description |
 |--------|------|-------------|
-| `Amt` | `usd` | Dollar amount |
-| `Ind` | `bool` | Checkbox / indicator |
-| `Cd` | `enum` | Code / enumeration |
+| `Amt`, `Amount` | `usd` | Dollar amount |
+| `Ind`, `Indicator` | `bool` | Checkbox / indicator |
+| `Cd`, `Typ` | `enum` | Code / enumeration |
 | `Txt` | `string` | Free text |
-| `Nm` | `string` | Name |
-| `Desc` | `string` | Description |
-| `Cnt` | `int` | Count |
-| `Num` | `string` | Numeric identifier |
+| `Nm`, `Name` | `string` | Name |
+| `Desc`, `Dsc` | `string` | Description |
+| `Address` | `string` | Mailing / foreign address |
+| `Num`, `Number` | `string` | Numeric identifier |
+| `PIN` | `string` | Personal Identification Number |
+| `Cnt`, `Qty` | `int` | Count / quantity |
 | `Dt` | `date` | Date |
+| `Yr` | `year` | Tax or calendar year |
 | `SSN` | `tin` | Social Security Number |
 | `EIN` | `ein` | Employer Identification Number |
-| `PIN` | `string` | Personal Identification Number |
 | `Pct` | `decimal` | Percentage |
 | `Rt` | `decimal` | Rate |
-| `Grp` | `group` | Nested element group |
+| `Grp`, `Dtl`, `Detail`, `Info`, `Information` | `group` | Nested element group |
 
-Fields with no recognized suffix are classified as `unknown`.
+Fields with no recognized suffix are classified as `unknown` (~2% of all fields). These are typically domain-specific terms like `Property`, `Partnerships`, or `Losses` where the ending is part of the tax vocabulary rather than a type indicator.
 
 ## Repo structure
 
@@ -83,9 +87,9 @@ irs-form-schema/
 │   ├── extract.py         # Parse XSL files → extract field references per form
 │   └── scrape.py          # Main entry point: download, extract, classify, write
 ├── data/
-│   ├── 2023/              # TY2023 — 387 forms
-│   ├── 2024/              # TY2024 — 398 forms
-│   └── 2025/              # TY2025 — 411 forms
+│   ├── 2023/              # TY2023 — 389 forms
+│   ├── 2024/              # TY2024 — 402 forms
+│   └── 2025/              # TY2025 — 415 forms
 │       └── _index.json    # Summary of all forms (per year)
 ├── requirements.txt
 ├── LICENSE

@@ -5,7 +5,7 @@
     {
       "name": "@creditIndicator",
       "path": "CarrybackCredit/@creditIndicator",
-      "type": "unknown"
+      "type": "bool"
     },
     {
       "name": "CrForEmplrSSAndMedcrTxsAmt",

@@ -15,7 +15,7 @@
     {
       "name": "EmployerIdentificationNumber",
       "path": "EmployerIdentificationNumber",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "MissingEINReason",
@@ -45,7 +45,7 @@
     {
       "name": "GallonsQty",
       "path": "SalesKeroseneUseAviationFuel/OtherNontaxableUsesTaxedAt219/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -65,7 +65,7 @@
     {
       "name": "GallonsQty",
       "path": "SalesKeroseneUseAviationFuel/OtherNontaxableUsesTaxedAt244/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -85,7 +85,7 @@
     {
       "name": "GallonsQty",
       "path": "SalesOfAviationGasoline/FuelUseNonprofitEducationalOrg/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -100,7 +100,7 @@
     {
       "name": "GallonsQty",
       "path": "SalesOfAviationGasoline/FuelUsedByStateLocalGovt/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -120,7 +120,7 @@
     {
       "name": "GallonsQty",
       "path": "SalesOfGasoline/FuelUseNonprofitEducationalOrg/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -135,7 +135,7 @@
     {
       "name": "GallonsQty",
       "path": "SalesOfGasoline/FuelUsedByStateLocalGovt/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -155,7 +155,7 @@
     {
       "name": "GallonsQty",
       "path": "SalesUndyedDieselFuel/FuelUsedByStateLocalGovt/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -175,7 +175,7 @@
     {
       "name": "GallonsQty",
       "path": "SalesUndyedKeroseneFuel/FuelUsedByStateLocalGovt/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",

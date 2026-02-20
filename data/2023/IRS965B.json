@@ -13,9 +13,9 @@
       "type": "group"
     },
     {
-      "name": "Net965TaxLiabInstalElectGrp ",
-      "path": "Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp ",
-      "type": "unknown"
+      "name": "Net965TaxLiabInstalElectGrp",
+      "path": "Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp | $FormData/Net965TaxLiabInstalElectGrp",
+      "type": "group"
     },
     {
       "name": "NetSection965TaxLiabPaidAmt",

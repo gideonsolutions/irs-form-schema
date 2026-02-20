@@ -3,51 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "@filedPursuantToSect30191002Cd",
-      "path": "@filedPursuantToSect30191002Cd",
-      "type": "enum"
-    },
-    {
-      "name": "@section1291InterestAmt",
-      "path": "@section1291InterestAmt",
-      "type": "usd"
-    },
-    {
-      "name": "@section1291InterestCd",
-      "path": "@section1291InterestCd",
-      "type": "enum"
-    },
-    {
-      "name": "@section1294InterestAmt",
-      "path": "@section1294InterestAmt",
-      "type": "usd"
-    },
-    {
-      "name": "@section1294InterestCd",
-      "path": "@section1294InterestCd",
-      "type": "enum"
-    },
-    {
-      "name": "@section501dCd",
-      "path": "@section501dCd",
-      "type": "enum"
-    },
-    {
-      "name": "@shortPeriodReasonCd",
-      "path": "@shortPeriodReasonCd",
-      "type": "enum"
-    },
-    {
-      "name": "@subchapterTCoopIndicator",
-      "path": "@subchapterTCoopIndicator",
-      "type": "unknown"
-    },
-    {
-      "name": "@suprtStmtToCnsldtReturnInd",
-      "path": "@suprtStmtToCnsldtReturnInd",
-      "type": "bool"
-    },
-    {
       "name": "AddressChangeInd",
       "path": "AddressChangeInd",
       "type": "bool"
@@ -381,6 +336,51 @@
       "name": "TotalTaxAmt",
       "path": "TotalTaxAmt",
       "type": "usd"
+    },
+    {
+      "name": "filedPursuantToSect30191002Cd",
+      "path": "filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "section1291InterestAmt",
+      "path": "section1291InterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "section1291InterestCd",
+      "path": "section1291InterestCd",
+      "type": "enum"
+    },
+    {
+      "name": "section1294InterestAmt",
+      "path": "section1294InterestAmt",
+      "type": "usd"
+    },
+    {
+      "name": "section1294InterestCd",
+      "path": "section1294InterestCd",
+      "type": "enum"
+    },
+    {
+      "name": "section501dCd",
+      "path": "section501dCd",
+      "type": "enum"
+    },
+    {
+      "name": "shortPeriodReasonCd",
+      "path": "shortPeriodReasonCd",
+      "type": "enum"
+    },
+    {
+      "name": "subchapterTCoopIndicator",
+      "path": "subchapterTCoopIndicator",
+      "type": "bool"
+    },
+    {
+      "name": "suprtStmtToCnsldtReturnInd",
+      "path": "suprtStmtToCnsldtReturnInd",
+      "type": "bool"
     }
   ]
 }

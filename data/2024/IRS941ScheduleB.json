@@ -5,7 +5,7 @@
     {
       "name": "TaxLiabilityQtrMonthlyDetail",
       "path": "TaxLiabilityQtrMonthlyDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "TotalQuarterTaxLiabilityAmt",

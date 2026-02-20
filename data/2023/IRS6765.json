@@ -65,7 +65,7 @@
     {
       "name": "@reducedCreditIndicator",
       "path": "AlternateIncrementalCredit/@reducedCreditIndicator",
-      "type": "unknown"
+      "type": "bool"
     },
     {
       "name": "CYGeneralBusCrCarryfowardAmt",
@@ -165,7 +165,7 @@
     {
       "name": "@reducedCreditIndicator",
       "path": "RegularCredit/@reducedCreditIndicator",
-      "type": "unknown"
+      "type": "bool"
     },
     {
       "name": "RegularCreditAmt",

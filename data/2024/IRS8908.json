@@ -30,7 +30,7 @@
     {
       "name": "TotQlfyEgyStarNotMetCertQty",
       "path": "TotQlfyEgyStarNotMetCertQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotQlfyEgyStarNotMetNotCertAmt",
@@ -40,7 +40,7 @@
     {
       "name": "TotQlfyEgyStarNotMetNotCertQty",
       "path": "TotQlfyEgyStarNotMetNotCertQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotQlfyEgyStarProgCertAmt",
@@ -50,7 +50,7 @@
     {
       "name": "TotQlfyEgyStarProgCertQty",
       "path": "TotQlfyEgyStarProgCertQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotQlfyEgyStarProgNotCertAmt",
@@ -60,7 +60,7 @@
     {
       "name": "TotQlfyEgyStarProgNotCertQty",
       "path": "TotQlfyEgyStarProgNotCertQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotalCreditAmt",
@@ -70,7 +70,7 @@
     {
       "name": "TotalHomesMeetingStandardQty",
       "path": "TotalHomesMeetingStandardQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotalHomesStandardAmt",
@@ -85,7 +85,7 @@
     {
       "name": "TotalMfrHmMeetingStdQty",
       "path": "TotalMfrHmMeetingStdQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

@@ -90,12 +90,12 @@
     {
       "name": "LocationOfBooksForeignAddress",
       "path": "LocationOfBooksForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "LocationOfBooksUSAddress",
       "path": "LocationOfBooksUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "NameChange",

@@ -30,7 +30,7 @@
     {
       "name": "EmployeeForeignAddress",
       "path": "EmployeeForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmployeeNm",
@@ -45,7 +45,7 @@
     {
       "name": "EmployeeUSAddress",
       "path": "EmployeeUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -65,7 +65,7 @@
     {
       "name": "EmployerForeignAddress",
       "path": "EmployerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -85,7 +85,7 @@
     {
       "name": "EmployerUSAddress",
       "path": "EmployerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",

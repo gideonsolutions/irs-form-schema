@@ -3,11 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "@section6114TreatyIndicator",
-      "path": "@section6114TreatyIndicator",
-      "type": "unknown"
-    },
-    {
       "name": "AddressChangeInd",
       "path": "AddressChangeInd",
       "type": "bool"
@@ -150,7 +145,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/BiodieselOrRenewableDslMixCr/SustainableAviationFuel/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -180,7 +175,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/CommercialAviationTaxedAt219/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -200,7 +195,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/CommercialAviationTaxedAt244/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -220,7 +215,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/LUSTTaxAviationUseForeignTrade/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -240,7 +235,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt219/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -265,7 +260,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/KeroseneUsedInAviationClaims/OtherNontaxableUsesTaxedAt244/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -305,7 +300,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxCNG/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -345,7 +340,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLNG/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -385,7 +380,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedGasFromBiomass/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -425,7 +420,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedHydrogen/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -465,7 +460,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquefiedPetroleumGas/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -505,7 +500,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromBiomass/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -545,7 +540,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxLiquidFuelFromCoal/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -585,7 +580,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAlternativeFuel/NontxPSeriesFuelCredit/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -620,7 +615,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/CommercialAviation/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -640,7 +635,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/LUSTTaxAviationUseForeignTrade/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -665,7 +660,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/NontaxableAviationGasExported/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -685,7 +680,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfAviationGas/OtherNontaxableUseAviation/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -725,7 +720,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfGasoline/Gasoline/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -755,7 +750,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfGasoline/GasolineExported/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -775,7 +770,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/AllwblNontxUseUndyedDslFuel/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -815,7 +810,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/ExportedFuel/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -835,7 +830,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxFuelUseFarmingPurposes/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -855,7 +850,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxFuelUseIntrctyAndLclBuses/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -875,7 +870,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd044/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -900,7 +895,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseOfUndyedKerosene/NontxUndyedKrsnNotAvnTxd219/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -930,7 +925,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/AllwblNontxUseUndyedDslFuel/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -970,7 +965,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/ExportedFuel/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -990,7 +985,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontaxUndyedDslFuelUseInTrains/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1010,7 +1005,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontxFuelUseFarmingPurposes/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1030,7 +1025,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/NontaxableUseUndyedDieselFuel/NontxFuelUseIntrctyAndLclBuses/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1205,7 +1200,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/CommercialAviationTaxedAt219/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1225,7 +1220,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/CommercialAviationTaxedAt244/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1245,7 +1240,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/LUSTTaxAviationUseForeignTrade/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1265,7 +1260,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrKeroseneSoldAvn/NonexemptFuelUseCommercialAvn/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1335,7 +1330,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUseNonprofitEducationalOrg/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1355,7 +1350,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrOfAviationGas/FuelUsedByStateLocalGovt/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1385,7 +1380,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUseNonprofitEducationalOrg/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1405,7 +1400,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrOfGas/FuelUsedByStateLocalGovt/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1440,7 +1435,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/FuelUseIntercityLocalBuses/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1460,7 +1455,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrOfUndyedDsl/FuelUsedByStateLocalGovt/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1500,7 +1495,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelSalesFromBlockedPump/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1520,7 +1515,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelUseIntercityLocalBuses/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1540,7 +1535,7 @@
     {
       "name": "GallonsQty",
       "path": "IRS720ScheduleC/SalesByRegdVndrUndyedKerosene/FuelUsedByStateLocalGovt/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -1565,42 +1560,42 @@
     {
       "name": "GallonsAviationGasolineDlvrQty",
       "path": "IRS720ScheduleT/GallonsAviationGasolineDlvrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "GallonsAviationGasolineRcvdQty",
       "path": "IRS720ScheduleT/GallonsAviationGasolineRcvdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "GallonsDieselDeliveredQty",
       "path": "IRS720ScheduleT/GallonsDieselDeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "GallonsDieselReceivedQty",
       "path": "IRS720ScheduleT/GallonsDieselReceivedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "GallonsGasolineDeliveredQty",
       "path": "IRS720ScheduleT/GallonsGasolineDeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "GallonsGasolineReceivedQty",
       "path": "IRS720ScheduleT/GallonsGasolineReceivedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "GallonsKeroseneDeliveredQty",
       "path": "IRS720ScheduleT/GallonsKeroseneDeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "GallonsKeroseneReceivedQty",
       "path": "IRS720ScheduleT/GallonsKeroseneReceivedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NoTaxToReportCd",
@@ -1635,7 +1630,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum104/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1655,7 +1650,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum105/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1675,7 +1670,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum107/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1725,7 +1720,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum111/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1745,7 +1740,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum112/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1780,7 +1775,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum118/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1800,7 +1795,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum119/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1820,7 +1815,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum120/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1840,7 +1835,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum121/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1860,7 +1855,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum122/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1880,7 +1875,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum123/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1900,7 +1895,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum124/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1920,7 +1915,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum13/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -1945,7 +1940,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum14/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -2155,7 +2150,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum35/IRSNum35a/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -2165,7 +2160,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum35/IRSNum35b/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -2195,7 +2190,7 @@
     {
       "name": "TonQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum36/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -2235,7 +2230,7 @@
     {
       "name": "TonQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum38/TonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -2305,7 +2300,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/IRSNum60a/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -2315,7 +2310,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/IRSNum60b/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -2325,7 +2320,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum60/IRSNum60c/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -2345,7 +2340,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum62/IRSNum62a/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -2355,7 +2350,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum62/IRSNum62b/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -2370,7 +2365,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum69/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -2390,7 +2385,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum77/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -2415,7 +2410,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartI/PartIIRSNum79/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -2510,7 +2505,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum117/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -2530,7 +2525,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum125/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -2730,7 +2725,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum51/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -2750,7 +2745,7 @@
     {
       "name": "GallonsQty",
       "path": "QrtlyFederalExciseTaxPartII/PartIIIRSNum64/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSNum",
@@ -2796,6 +2791,11 @@
       "name": "TotalTaxAmt",
       "path": "TotalTaxAmt",
       "type": "usd"
+    },
+    {
+      "name": "section6114TreatyIndicator",
+      "path": "section6114TreatyIndicator",
+      "type": "bool"
     }
   ]
 }

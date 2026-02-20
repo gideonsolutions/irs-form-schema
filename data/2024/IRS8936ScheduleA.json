@@ -140,7 +140,7 @@
     {
       "name": "VehicleModelYr",
       "path": "VehicleDescriptionGrp/VehicleModelYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "VehicleIncrementalCostAmt",

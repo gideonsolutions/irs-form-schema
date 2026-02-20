@@ -3,11 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "PermanentDifferenceAmt",
-      "path": "               ExpenseDeductionItems/ForeignDeferredIncmTaxExpense/PermanentDifferenceAmt",
-      "type": "usd"
-    },
-    {
       "name": "AdjRecnclIncmStmtYrToTYAmt",
       "path": "AdjRecnclIncmStmtYrToTYAmt",
       "type": "usd"
@@ -510,6 +505,11 @@
     {
       "name": "ExpensePerIncomeStmtAmt",
       "path": "ExpenseDeductionItems/ForeignDeferredIncmTaxExpense/ExpensePerIncomeStmtAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PermanentDifferenceAmt",
+      "path": "ExpenseDeductionItems/ForeignDeferredIncmTaxExpense/PermanentDifferenceAmt",
       "type": "usd"
     },
     {

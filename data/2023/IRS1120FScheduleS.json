@@ -45,7 +45,7 @@
     {
       "name": "ClassStockInformationDsc",
       "path": "ClassStockInformationDsc",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "StockClassDesc",

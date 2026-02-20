@@ -10,7 +10,7 @@
     {
       "name": "AllocationToBeneficiaryDetail",
       "path": "AllocationToBeneficiaryDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "DistributableNetIncomeAmt",
@@ -85,7 +85,7 @@
     {
       "name": "ThrowbackYr",
       "path": "OrdinaryIncmAccumDistriGrp/ThrowbackYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "TotalAccumDistriAllocatedAmt",
@@ -170,7 +170,7 @@
     {
       "name": "ThrowbackYr",
       "path": "UndistriNetIncomeTaxesGrp/ThrowbackYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "TotalNetGainAmt",

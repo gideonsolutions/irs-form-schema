@@ -5,32 +5,32 @@
     {
       "name": "DeliveredQty",
       "path": "AllTotCrbnOxdDlvrUtlzSuprGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "UtilizedQty",
       "path": "AllTotCrbnOxdDlvrUtlzSuprGrp/UtilizedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DeliveredQty",
       "path": "AllTotNonQlfyOxdDlvrUtlzGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "UtilizedQty",
       "path": "AllTotNonQlfyOxdDlvrUtlzGrp/UtilizedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DeliveredQty",
       "path": "AllTotQlfyCrbnOxdDlvrUtlzGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "UtilizedQty",
       "path": "AllTotQlfyCrbnOxdDlvrUtlzGrp/UtilizedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ApprovalLetterDt",
@@ -115,12 +115,12 @@
     {
       "name": "MtrcTonsQlfyCrbnOxdRcvdQty",
       "path": "MtrcTonsQlfyCrbnOxdRcvdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NonQlfyCrbnOxdMtrcTonsUtlzQty",
       "path": "NonQlfyCrbnOxdMtrcTonsUtlzQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "OtherPurposeDesc",
@@ -165,7 +165,7 @@
     {
       "name": "OwnerOrLesseeForeignAddress",
       "path": "OwnerOrLesseeForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "OwnerOrLesseePersonNm",
@@ -180,12 +180,12 @@
     {
       "name": "OwnerOrLesseeUSAddress",
       "path": "OwnerOrLesseeUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "QlfyCrbnOxdMtrcTonsUtlzQty",
       "path": "QlfyCrbnOxdMtrcTonsUtlzQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "QlfyCrbnOxdUtlzFcltyGrp",
@@ -195,7 +195,7 @@
     {
       "name": "RegisteredOwnerOrOperatorName",
       "path": "RegisteredOwnerOrOperatorName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SubmissionDt",
@@ -205,7 +205,7 @@
     {
       "name": "SupplierBusinessName",
       "path": "SupplierBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SupplierEIN",
@@ -220,7 +220,7 @@
     {
       "name": "SupplierName",
       "path": "SupplierName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SupplierVerificationInd",
@@ -250,7 +250,7 @@
     {
       "name": "SupplierName",
       "path": "TotSupplierSectionDlvrUtlzGrp/SupplierName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SupplierPersonNm",
@@ -260,22 +260,22 @@
     {
       "name": "DeliveredQty",
       "path": "TotSupplierSectionDlvrUtlzGrp/TotSupplierMetricTonsDlvrUtlzGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "UtilizedQty",
       "path": "TotSupplierSectionDlvrUtlzGrp/TotSupplierMetricTonsDlvrUtlzGrp/UtilizedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DeliveredQty",
       "path": "TotSupplierSectionDlvrUtlzGrp/TotSuprMetricTonsDlvrUtlzGrp/DeliveredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "UtilizedQty",
       "path": "TotSupplierSectionDlvrUtlzGrp/TotSuprMetricTonsDlvrUtlzGrp/UtilizedQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

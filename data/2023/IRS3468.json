@@ -50,7 +50,7 @@
     {
       "name": "AfterLmtFuelCellPropKwCapQty",
       "path": "AfterLmtFuelCellPropKwCapQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "BasisOfHeatAndPowerPropAmt",
@@ -75,7 +75,7 @@
     {
       "name": "BetweenLmtFuelCellPropKwCapQty",
       "path": "BetweenLmtFuelCellPropKwCapQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "BssGthrmlPropHtPumpSysAmt",
@@ -240,7 +240,7 @@
     {
       "name": "DuringLmtFuelCellPropKwCapQty",
       "path": "DuringLmtFuelCellPropKwCapQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EIN",
@@ -260,7 +260,7 @@
     {
       "name": "LessorBusinessName",
       "path": "LessorBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -390,7 +390,7 @@
     {
       "name": "QlfyMicroturbinePropKwCapQty",
       "path": "QlfyMicroturbinePropKwCapQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "QlfyRehbltExpendIncurredAmt",

@@ -3,19 +3,9 @@
   "tax_year": 2024,
   "fields": [
     {
-      "name": "@organization501cTypeTxt",
-      "path": "                  Organization501cInd/@organization501cTypeTxt",
-      "type": "string"
-    },
-    {
-      "name": "AddressNotApplicableCd",
-      "path": "                 ContributorInformationGrp/AddressNotApplicableCd",
-      "type": "enum"
-    },
-    {
       "name": "CharitableContributionsDetail",
       "path": "CharitableContributionsDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "ContributorNum",
@@ -286,6 +276,11 @@
       "name": "Organization501cInd",
       "path": "Organization501cInd",
       "type": "bool"
+    },
+    {
+      "name": "@organization501cTypeTxt",
+      "path": "Organization501cInd/@organization501cTypeTxt",
+      "type": "string"
     },
     {
       "name": "Organization527Ind",

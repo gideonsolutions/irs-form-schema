@@ -5,22 +5,12 @@
     {
       "name": "CapitalAssetDetail",
       "path": "/IRS1120PCScheduleG/CapitalAssetDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "EINMissingReason",
       "path": "/IRS1120PCScheduleG/CapitalAssetDetail/EINMissingReason",
       "type": "unknown"
-    },
-    {
-      "name": "@filedPursuantToSect30191002Cd",
-      "path": "@filedPursuantToSect30191002Cd",
-      "type": "enum"
-    },
-    {
-      "name": "@suprtStmtConsolidatedReturnCd",
-      "path": "@suprtStmtConsolidatedReturnCd",
-      "type": "enum"
     },
     {
       "name": "AddressChangeInd",
@@ -1110,7 +1100,7 @@
     {
       "name": "CapitalAssetDetail",
       "path": "IRS1120PCScheduleG/CapitalAssetDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "DividendsAndSimilarDistriPdAmt",
@@ -2005,6 +1995,16 @@
     {
       "name": "ZIPCd",
       "path": "USAddress/ZIPCd",
+      "type": "enum"
+    },
+    {
+      "name": "filedPursuantToSect30191002Cd",
+      "path": "filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "suprtStmtConsolidatedReturnCd",
+      "path": "suprtStmtConsolidatedReturnCd",
       "type": "enum"
     }
   ]

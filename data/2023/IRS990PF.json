@@ -3,21 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "ContributingManagerNm",
-      "path": "              SupplementaryInformationGrp/ContributingManagerNm",
-      "type": "string"
-    },
-    {
-      "name": "@accountingPeriodChangeApprvCd",
-      "path": "@accountingPeriodChangeApprvCd",
-      "type": "enum"
-    },
-    {
-      "name": "@accountingPeriodChangeCd",
-      "path": "@accountingPeriodChangeCd",
-      "type": "enum"
-    },
-    {
       "name": "AddressChangeInd",
       "path": "AddressChangeInd",
       "type": "bool"
@@ -315,7 +300,7 @@
     {
       "name": "ProgramServiceRevenueDtl",
       "path": "AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "ExclusionAmt",
@@ -1600,7 +1585,7 @@
     {
       "name": "BusinessName",
       "path": "OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp/BusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PersonNm",
@@ -2130,22 +2115,22 @@
     {
       "name": "UndistrIncmSect4942a2AppYr1Yr",
       "path": "StatementsRegardingActy4720Grp/UndistrIncmSect4942a2AppYr1Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "UndistrIncmSect4942a2AppYr2Yr",
       "path": "StatementsRegardingActy4720Grp/UndistrIncmSect4942a2AppYr2Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "UndistrIncmSect4942a2AppYr3Yr",
       "path": "StatementsRegardingActy4720Grp/UndistrIncmSect4942a2AppYr3Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "UndistrIncmSect4942a2AppYr4Yr",
       "path": "StatementsRegardingActy4720Grp/UndistrIncmSect4942a2AppYr4Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "UndistrIncmSect4942a2NotAppInd",
@@ -2155,22 +2140,22 @@
     {
       "name": "UndistributedIncomePY1Yr",
       "path": "StatementsRegardingActy4720Grp/UndistributedIncomePY1Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "UndistributedIncomePY2Yr",
       "path": "StatementsRegardingActy4720Grp/UndistributedIncomePY2Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "UndistributedIncomePY3Yr",
       "path": "StatementsRegardingActy4720Grp/UndistributedIncomePY3Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "UndistributedIncomePY4Yr",
       "path": "StatementsRegardingActy4720Grp/UndistributedIncomePY4Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "UndistributedIncomePYInd",
@@ -2540,7 +2525,7 @@
     {
       "name": "              RecipientBusinessName",
       "path": "SupplementaryInformationGrp/GrantOrContriApprvForFutGrp/              RecipientBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "GrantOrContributionPdDurYrGrp",
@@ -2550,7 +2535,7 @@
     {
       "name": "              RecipientBusinessName",
       "path": "SupplementaryInformationGrp/GrantOrContributionPdDurYrGrp/              RecipientBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "OnlyContriToPreselectedInd",
@@ -2595,7 +2580,7 @@
     {
       "name": "RelationshipScheduleDetail",
       "path": "TrnsfrTransRlnNonchrtblEOGrp/RelationshipScheduleDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -2625,7 +2610,7 @@
     {
       "name": "TransferScheduleDetail",
       "path": "TrnsfrTransRlnNonchrtblEOGrp/TransferScheduleDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "InvolvedAmt",
@@ -2745,17 +2730,17 @@
     {
       "name": "PriorYear1Yr",
       "path": "UndistributedIncomeGrp/PriorYear1Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "PriorYear2Yr",
       "path": "UndistributedIncomeGrp/PriorYear2Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "PriorYear3Yr",
       "path": "UndistributedIncomeGrp/PriorYear3Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "PriorYearDeficiencyOrTaxAmt",
@@ -2811,6 +2796,16 @@
       "name": "UndistributedIncomePYAmt",
       "path": "UndistributedIncomeGrp/UndistributedIncomePYAmt",
       "type": "usd"
+    },
+    {
+      "name": "accountingPeriodChangeApprvCd",
+      "path": "accountingPeriodChangeApprvCd",
+      "type": "enum"
+    },
+    {
+      "name": "accountingPeriodChangeCd",
+      "path": "accountingPeriodChangeCd",
+      "type": "enum"
     }
   ]
 }

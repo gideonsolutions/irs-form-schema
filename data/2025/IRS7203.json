@@ -148,8 +148,8 @@
       "type": "group"
     },
     {
-      "name": "*",
-      "path": "ShareholderDebtBasisGrp/*",
+      "name": "",
+      "path": "ShareholderDebtBasisGrp/",
       "type": "unknown"
     },
     {

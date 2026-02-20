@@ -25,12 +25,12 @@
     {
       "name": "AnnlzdCarbonOxdEmissionsQty",
       "path": "AnnlzdCarbonOxdEmissionsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AnnlzdCarbonOxdEmsnCptrQty",
       "path": "AnnlzdCarbonOxdEmsnCptrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AnnlzdCrbnOxdFrstYrEmsnRqrInd",
@@ -70,7 +70,7 @@
     {
       "name": "CarbonCaptureCapacityQty",
       "path": "CarbonCaptureCapacityQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CarbonCaptureEquipOwnerInd",
@@ -90,27 +90,27 @@
     {
       "name": "CarbonDioxideCptrEquipQty",
       "path": "CarbonDioxideCptrEquipQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CarbonDioxideQty",
       "path": "CarbonDioxideQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CarbonMonoxideCptrEquipQty",
       "path": "CarbonMonoxideCptrEquipQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CarbonMonoxideQty",
       "path": "CarbonMonoxideQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CarbonOxideEmissionsQty",
       "path": "CarbonOxideEmissionsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ClaimingCreditAuthorityTxt",
@@ -240,7 +240,7 @@
     {
       "name": "FacilityUSAddress",
       "path": "FacilityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "GasObtndCrbnDxdWellOrSprngInd",
@@ -280,7 +280,7 @@
     {
       "name": "MetricTonsCapturedQty",
       "path": "LargestCOSCElectClmGrp/MetricTonsCapturedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NewCarbonCptrEquipInvstAmt",
@@ -325,32 +325,32 @@
     {
       "name": "MetricTonsCapturedQty",
       "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCapturedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrAnotherClmCrQty",
       "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCptrAnotherClmCrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrAnotherPersonQty",
       "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCptrAnotherPersonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrTaxpayerQty",
       "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCptrTaxpayerQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrTotMnsClmCrQty",
       "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCptrTotMnsClmCrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrTotQty",
       "path": "QlfyCrbnOxdDACNotUsedDispGrp/MetricTonsCptrTotQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditRateOrApplicableDolAmt",
@@ -375,37 +375,37 @@
     {
       "name": "MetricTonsCapturedQty",
       "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCapturedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrAnotherClmCrQty",
       "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCptrAnotherClmCrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrAnotherPersonQty",
       "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCptrAnotherPersonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrTaxpayerQty",
       "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCptrTaxpayerQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrTotMnsClmCrQty",
       "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCptrTotMnsClmCrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrTotQty",
       "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsCptrTotQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsDisplacementFctrQty",
       "path": "QlfyCrbnOxdDACPhysclUtlzGrp/MetricTonsDisplacementFctrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditRateOrApplicableDolAmt",
@@ -425,32 +425,32 @@
     {
       "name": "MetricTonsCapturedQty",
       "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCapturedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrAnotherClmCrQty",
       "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCptrAnotherClmCrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrAnotherPersonQty",
       "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCptrAnotherPersonQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrTaxpayerQty",
       "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCptrTaxpayerQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrTotMnsClmCrQty",
       "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCptrTotMnsClmCrQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MetricTonsCptrTotQty",
       "path": "QlfyCrbnOxdDACUsedInjectantGrp/MetricTonsCptrTotQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "QlfyCrbnOxdTrtryInjctStorInd",
@@ -505,7 +505,7 @@
     {
       "name": "TotMtrcTonsCrbnOxdCptrEquipQty",
       "path": "TotMtrcTonsCrbnOxdCptrEquipQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotalAmt",
@@ -520,7 +520,7 @@
     {
       "name": "TotalMetricTonsCrbnOxdCptrQty",
       "path": "TotalMetricTonsCrbnOxdCptrQty",
-      "type": "unknown"
+      "type": "int"
     }
   ]
 }

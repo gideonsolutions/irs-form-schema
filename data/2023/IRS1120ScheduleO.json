@@ -220,7 +220,7 @@
     {
       "name": "MemberApportionmentDetail",
       "path": "MemberApportionmentGrp/MemberApportionmentDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "TotalAccumulatedEarningsCrAmt",

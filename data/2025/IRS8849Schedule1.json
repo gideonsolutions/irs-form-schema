@@ -15,7 +15,7 @@
     {
       "name": "EmployerIdentificationNumber",
       "path": "EmployerIdentificationNumber",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "Amt",
@@ -30,7 +30,7 @@
     {
       "name": "GallonsQty",
       "path": "ExpDyedFuelsGasBlendstocks/ExportedDyedDieselFuel/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -50,7 +50,7 @@
     {
       "name": "GallonsQty",
       "path": "ExpDyedFuelsGasBlendstocks/ExportedDyedKerosene/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -70,7 +70,7 @@
     {
       "name": "GallonsQty",
       "path": "KeroseneUsedInAviation/CommercialAviationTaxedAt219/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -90,7 +90,7 @@
     {
       "name": "GallonsQty",
       "path": "KeroseneUsedInAviation/CommercialAviationTaxedAt244/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -110,7 +110,7 @@
     {
       "name": "GallonsQty",
       "path": "KeroseneUsedInAviation/LUSTTaxAviationUseForeignTrade/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -130,7 +130,7 @@
     {
       "name": "GallonsQty",
       "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt219/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -155,7 +155,7 @@
     {
       "name": "GallonsQty",
       "path": "KeroseneUsedInAviation/OtherNontaxableUsesTaxedAt244/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -435,7 +435,7 @@
     {
       "name": "GallonsQty",
       "path": "NontaxableUseOfAviationGas/CommercialAviation/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -455,7 +455,7 @@
     {
       "name": "GallonsQty",
       "path": "NontaxableUseOfAviationGas/LUSTTaxAviationUseForeignTrade/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -475,7 +475,7 @@
     {
       "name": "GallonsQty",
       "path": "NontaxableUseOfAviationGas/NontaxableAviationGasExported/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -520,7 +520,7 @@
     {
       "name": "GallonsQty",
       "path": "NontaxableUseUndyedDieselFuel/ExportedFuel/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -540,7 +540,7 @@
     {
       "name": "GallonsQty",
       "path": "NontaxableUseUndyedDieselFuel/NontaxUndyedDslFuelUseInTrains/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -555,7 +555,7 @@
     {
       "name": "GallonsQty",
       "path": "NontaxableUseUndyedDieselFuel/NontxFuelUseFarmingPurposes/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -575,7 +575,7 @@
     {
       "name": "GallonsQty",
       "path": "NontaxableUseUndyedDieselFuel/NontxFuelUseIntrctyAndLclBuses/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -600,7 +600,7 @@
     {
       "name": "GallonsQty",
       "path": "NontxDieselWaterFuelEmulsion/ExportedFuel/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -655,7 +655,7 @@
     {
       "name": "GallonsQty",
       "path": "NontxUseUndyedKeroseneNotAvn/ExportedFuel/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -675,7 +675,7 @@
     {
       "name": "GallonsQty",
       "path": "NontxUseUndyedKeroseneNotAvn/NontxFuelUseFarmingPurposes/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -695,7 +695,7 @@
     {
       "name": "GallonsQty",
       "path": "NontxUseUndyedKeroseneNotAvn/NontxFuelUseIntrctyAndLclBuses/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -715,7 +715,7 @@
     {
       "name": "GallonsQty",
       "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd044/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",
@@ -740,7 +740,7 @@
     {
       "name": "GallonsQty",
       "path": "NontxUseUndyedKeroseneNotAvn/NontxUndyedKrsnNotAvnTxd219/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NontaxableUseOfFuelTypeCd",

@@ -3,21 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "ContributingManagerNm",
-      "path": "              SupplementaryInformationGrp/ContributingManagerNm",
-      "type": "string"
-    },
-    {
-      "name": "@accountingPeriodChangeApprvCd",
-      "path": "@accountingPeriodChangeApprvCd",
-      "type": "enum"
-    },
-    {
-      "name": "@accountingPeriodChangeCd",
-      "path": "@accountingPeriodChangeCd",
-      "type": "enum"
-    },
-    {
       "name": "AddressChangeInd",
       "path": "AddressChangeInd",
       "type": "bool"
@@ -315,7 +300,7 @@
     {
       "name": "ProgramServiceRevenueDtl",
       "path": "AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "             RelatedOrExemptFunctionIncmAmt",
@@ -1615,7 +1600,7 @@
     {
       "name": "BusinessName",
       "path": "OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp/BusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PersonNm",
@@ -2520,7 +2505,7 @@
     {
       "name": "              RecipientBusinessName",
       "path": "SupplementaryInformationGrp/GrantOrContriApprvForFutGrp/              RecipientBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "GrantOrContributionPdDurYrGrp",
@@ -2530,7 +2515,7 @@
     {
       "name": "              RecipientBusinessName",
       "path": "SupplementaryInformationGrp/GrantOrContributionPdDurYrGrp/              RecipientBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ShareholderManagerNm",
@@ -2570,7 +2555,7 @@
     {
       "name": "RelationshipScheduleDetail",
       "path": "TrnsfrTransRlnNonchrtblEOGrp/RelationshipScheduleDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -2600,7 +2585,7 @@
     {
       "name": "TransferScheduleDetail",
       "path": "TrnsfrTransRlnNonchrtblEOGrp/TransferScheduleDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "InvolvedAmt",
@@ -2720,17 +2705,17 @@
     {
       "name": "PriorYear1Yr",
       "path": "UndistributedIncomeGrp/PriorYear1Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "PriorYear2Yr",
       "path": "UndistributedIncomeGrp/PriorYear2Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "PriorYear3Yr",
       "path": "UndistributedIncomeGrp/PriorYear3Yr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "PriorYearDeficiencyOrTaxAmt",
@@ -2786,6 +2771,16 @@
       "name": "UndistributedIncomePYAmt",
       "path": "UndistributedIncomeGrp/UndistributedIncomePYAmt",
       "type": "usd"
+    },
+    {
+      "name": "accountingPeriodChangeApprvCd",
+      "path": "accountingPeriodChangeApprvCd",
+      "type": "enum"
+    },
+    {
+      "name": "accountingPeriodChangeCd",
+      "path": "accountingPeriodChangeCd",
+      "type": "enum"
     }
   ]
 }

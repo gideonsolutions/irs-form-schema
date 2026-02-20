@@ -275,7 +275,7 @@
     {
       "name": "OtherExpenseDetail",
       "path": "OtherExpenseDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "OtherIncomeAmt",

@@ -3,11 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": " TaxReturnAGIAmt",
-      "path": " TaxReturnAGIAmt",
-      "type": "usd"
-    },
-    {
       "name": "AddPrimRothIRAToCYContriAmt",
       "path": "AddPrimRothIRAToCYContriAmt",
       "type": "usd"
@@ -85,6 +80,11 @@
     {
       "name": "SpsTaxableDistributionsAmt",
       "path": "SpsTaxableDistributionsAmt",
+      "type": "usd"
+    },
+    {
+      "name": "TaxReturnAGIAmt",
+      "path": "TaxReturnAGIAmt",
       "type": "usd"
     },
     {

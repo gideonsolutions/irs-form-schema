@@ -3,16 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "@backupElectionCd",
-      "path": "@backupElectionCd",
-      "type": "enum"
-    },
-    {
-      "name": "@filedPursuantToSect30191002Cd",
-      "path": "@filedPursuantToSect30191002Cd",
-      "type": "enum"
-    },
-    {
       "name": "AdoptingInd",
       "path": "AdoptingInd",
       "type": "bool"
@@ -66,6 +56,16 @@
       "name": "TelephoneNum",
       "path": "TelephoneNum",
       "type": "string"
+    },
+    {
+      "name": "backupElectionCd",
+      "path": "backupElectionCd",
+      "type": "enum"
+    },
+    {
+      "name": "filedPursuantToSect30191002Cd",
+      "path": "filedPursuantToSect30191002Cd",
+      "type": "enum"
     }
   ]
 }

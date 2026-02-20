@@ -5,7 +5,7 @@
     {
       "name": "AcquisitionInfo",
       "path": "AcquisitionInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "AcquisitionDt",
@@ -60,7 +60,7 @@
     {
       "name": "InCareOfName",
       "path": "AcquisitionInfo/AcquisitionsName/InCareOfName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -115,7 +115,7 @@
     {
       "name": "ChangeInPropInterestInfo",
       "path": "ChangeInPropInterestInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "BasisInInterestAmt",
@@ -150,7 +150,7 @@
     {
       "name": "DispositionInfo",
       "path": "DispositionInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "BasisInInterestDisposedAmt",
@@ -210,7 +210,7 @@
     {
       "name": "InCareOfName",
       "path": "DispositionInfo/DispositionsName/InCareOfName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",

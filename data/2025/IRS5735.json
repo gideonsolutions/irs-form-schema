@@ -10,7 +10,7 @@
     {
       "name": "CalendarYr",
       "path": "CalendarYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "FifteenPctDeprecTngblPropAmt",

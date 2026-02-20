@@ -3,11 +3,6 @@
   "tax_year": 2024,
   "fields": [
     {
-      "name": "@sect1377a2Indicator",
-      "path": "@sect1377a2Indicator",
-      "type": "unknown"
-    },
-    {
       "name": "AmendedK1Ind",
       "path": "AmendedK1Ind",
       "type": "bool"
@@ -243,9 +238,9 @@
       "type": "ein"
     },
     {
-      "name": "PartnerForeignAddress ",
-      "path": "PartnerForeignAddress ",
-      "type": "unknown"
+      "name": "PartnerForeignAddress",
+      "path": "PartnerForeignAddress",
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -313,9 +308,9 @@
       "type": "usd"
     },
     {
-      "name": "PartnerUSAddress ",
-      "path": "PartnerUSAddress ",
-      "type": "unknown"
+      "name": "PartnerUSAddress",
+      "path": "PartnerUSAddress",
+      "type": "string"
     },
     {
       "name": "CapitalAccountBOYAmt",
@@ -461,6 +456,11 @@
       "name": "UnrecapturedSection1250GainAmt",
       "path": "UnrecapturedSection1250GainAmt",
       "type": "usd"
+    },
+    {
+      "name": "sect1377a2Indicator",
+      "path": "sect1377a2Indicator",
+      "type": "bool"
     }
   ]
 }

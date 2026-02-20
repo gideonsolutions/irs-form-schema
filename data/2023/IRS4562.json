@@ -3,16 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "@extnsUnderAnnouncementCd",
-      "path": "@extnsUnderAnnouncementCd",
-      "type": "enum"
-    },
-    {
-      "name": "@section179ExpnsDedSummaryCd",
-      "path": "@section179ExpnsDedSummaryCd",
-      "type": "enum"
-    },
-    {
       "name": "AlternativeDepreciationSystem",
       "path": "AlternativeDepreciationSystem",
       "type": "unknown"
@@ -45,7 +35,7 @@
     {
       "name": "AmortizationInfo",
       "path": "AmortizationInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "AmortizationInfoTable",
@@ -316,6 +306,16 @@
       "name": "VehicleAvailableOffDutyHrsInd",
       "path": "VehicleUsage/VehicleAvailableOffDutyHrsInd",
       "type": "bool"
+    },
+    {
+      "name": "extnsUnderAnnouncementCd",
+      "path": "extnsUnderAnnouncementCd",
+      "type": "enum"
+    },
+    {
+      "name": "section179ExpnsDedSummaryCd",
+      "path": "section179ExpnsDedSummaryCd",
+      "type": "enum"
     }
   ]
 }

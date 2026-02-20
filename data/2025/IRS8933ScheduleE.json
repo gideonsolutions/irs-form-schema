@@ -8,11 +8,6 @@
       "type": "bool"
     },
     {
-      "name": "AttestCrCImntNotSbcntrctInd ",
-      "path": "AttestCrCImntNotSbcntrctInd ",
-      "type": "unknown"
-    },
-    {
       "name": "COSCAllwClmCrClmntAmt",
       "path": "COSCAllwClmCrClmntAmt",
       "type": "usd"
@@ -25,7 +20,7 @@
     {
       "name": "ClaimantBusinessName",
       "path": "ClaimantBusinessName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ClaimantEIN",
@@ -35,7 +30,7 @@
     {
       "name": "ClaimantForeignAddress",
       "path": "ClaimantForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ClaimantPersonNm",
@@ -50,7 +45,7 @@
     {
       "name": "ClaimantUSAddress",
       "path": "ClaimantUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "CrbnOxdDACAftrSpcfdDtUsedInd",
@@ -140,7 +135,7 @@
     {
       "name": "FacilityOwnerForeignAddress",
       "path": "FacilityOwnerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FacilityOwnerPersonNm",
@@ -155,7 +150,7 @@
     {
       "name": "FacilityOwnerUSAddress",
       "path": "FacilityOwnerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FacilityPlacedInServiceDt",
@@ -170,7 +165,7 @@
     {
       "name": "FacilityUSAddress",
       "path": "FacilityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "LocationAddressInUS",
@@ -180,22 +175,22 @@
     {
       "name": "MtrcTonsCrClmntFcltyLCAQty",
       "path": "MtrcTonsCrClmntFcltyLCAQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsCrClmntNotUsedUtlzQty",
       "path": "MtrcTonsCrClmntNotUsedUtlzQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsCrClmntUsedQty",
       "path": "MtrcTonsCrClmntUsedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "MtrcTonsNotAllwClmCrClmntQty",
       "path": "MtrcTonsNotAllwClmCrClmntQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "SpcfdCrRt10InfltnOldEquipInd",
@@ -240,7 +235,7 @@
     {
       "name": "TotMtrcTonsClmCrClmntQty",
       "path": "TotMtrcTonsClmCrClmntQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "UtilizedtQlfyCrbnOxd45Qf5Ind",

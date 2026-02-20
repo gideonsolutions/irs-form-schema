@@ -30,7 +30,7 @@
     {
       "name": "FormScheduleNumber",
       "path": "FormScheduleNumber",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "GiftsByCashOrCheckAmt",

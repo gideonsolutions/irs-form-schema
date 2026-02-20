@@ -5,7 +5,7 @@
     {
       "name": "CharitableContributionsDetail",
       "path": "CharitableContributionsDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "ContributorNum",

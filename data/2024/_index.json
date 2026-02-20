@@ -27,7 +27,7 @@
       "file": "IRS1040NRScheduleNEC.json"
     },
     "IRS1040NRScheduleOI": {
-      "field_count": 30,
+      "field_count": 29,
       "file": "IRS1040NRScheduleOI.json"
     },
     "IRS1040NRScheduleP": {
@@ -115,7 +115,7 @@
       "file": "IRS1040X.json"
     },
     "IRS1041": {
-      "field_count": 150,
+      "field_count": 149,
       "file": "IRS1041.json"
     },
     "IRS1041ScheduleD": {
@@ -183,7 +183,7 @@
       "file": "IRS1065ScheduleK3.json"
     },
     "IRS1065ScheduleM3": {
-      "field_count": 304,
+      "field_count": 303,
       "file": "IRS1065ScheduleM3.json"
     },
     "IRS1099B": {
@@ -227,7 +227,7 @@
       "file": "IRS1099R.json"
     },
     "IRS1116": {
-      "field_count": 53,
+      "field_count": 52,
       "file": "IRS1116.json"
     },
     "IRS1116ScheduleB": {
@@ -271,7 +271,7 @@
       "file": "IRS1120EliminationsOrAdj.json"
     },
     "IRS1120F": {
-      "field_count": 395,
+      "field_count": 394,
       "file": "IRS1120F.json"
     },
     "IRS1120FScheduleH": {
@@ -299,7 +299,7 @@
       "file": "IRS1120FScheduleS.json"
     },
     "IRS1120FScheduleV": {
-      "field_count": 37,
+      "field_count": 34,
       "file": "IRS1120FScheduleV.json"
     },
     "IRS1120H": {
@@ -459,7 +459,7 @@
       "file": "IRS2220.json"
     },
     "IRS2290": {
-      "field_count": 27,
+      "field_count": 26,
       "file": "IRS2290.json"
     },
     "IRS2290Schedule1": {
@@ -495,11 +495,11 @@
       "file": "IRS3468.json"
     },
     "IRS3800": {
-      "field_count": 170,
+      "field_count": 169,
       "file": "IRS3800.json"
     },
     "IRS3903": {
-      "field_count": 9,
+      "field_count": 8,
       "file": "IRS3903.json"
     },
     "IRS4136": {
@@ -539,7 +539,7 @@
       "file": "IRS4626ScheduleA.json"
     },
     "IRS4684": {
-      "field_count": 109,
+      "field_count": 103,
       "file": "IRS4684.json"
     },
     "IRS4720": {
@@ -547,7 +547,7 @@
       "file": "IRS4720.json"
     },
     "IRS4797": {
-      "field_count": 68,
+      "field_count": 65,
       "file": "IRS4797.json"
     },
     "IRS4835": {
@@ -899,7 +899,7 @@
       "file": "IRS8816.json"
     },
     "IRS8820": {
-      "field_count": 12,
+      "field_count": 11,
       "file": "IRS8820.json"
     },
     "IRS8824": {
@@ -951,7 +951,7 @@
       "file": "IRS8838P.json"
     },
     "IRS8839": {
-      "field_count": 23,
+      "field_count": 22,
       "file": "IRS8839.json"
     },
     "IRS8840": {
@@ -1475,7 +1475,7 @@
       "file": "IRS990N.json"
     },
     "IRS990PF": {
-      "field_count": 564,
+      "field_count": 563,
       "file": "IRS990PF.json"
     },
     "IRS990ScheduleA": {
@@ -1483,7 +1483,7 @@
       "file": "IRS990ScheduleA.json"
     },
     "IRS990ScheduleB": {
-      "field_count": 63,
+      "field_count": 62,
       "file": "IRS990ScheduleB.json"
     },
     "IRS990ScheduleC": {
@@ -1547,7 +1547,7 @@
       "file": "IRS990T.json"
     },
     "IRS990TScheduleA": {
-      "field_count": 101,
+      "field_count": 100,
       "file": "IRS990TScheduleA.json"
     },
     "IRSESPayment": {

@@ -15,7 +15,7 @@
     {
       "name": "ForeignAddress",
       "path": "AfterExptrtMailAddrPhoneGrp/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "CountryCd",
@@ -30,7 +30,7 @@
     {
       "name": "USAddress",
       "path": "AfterExptrtMailAddrPhoneGrp/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "USTelephoneNum",
@@ -40,7 +40,7 @@
     {
       "name": "EligDeferredCompItemsDistriDtl",
       "path": "AnnualExptrtStmtBfrSpcfdYrGrp/EligDeferredCompItemsDistriDtl",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "EligDeferredCompItemsDistriInd",
@@ -50,7 +50,7 @@
     {
       "name": "NongrantorTrustDistriDtl",
       "path": "AnnualExptrtStmtBfrSpcfdYrGrp/NongrantorTrustDistriDtl",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "NongrantorTrustDistriInd",
@@ -175,7 +175,7 @@
     {
       "name": "ForeignResidenceAddress",
       "path": "ForeignResidenceAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -320,7 +320,7 @@
     {
       "name": "TotalAssetsDetail",
       "path": "InitialExptrtStmtBalSheetGrp/TotalAssetsDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "TotalLiabilityAmt",

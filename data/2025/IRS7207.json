@@ -55,7 +55,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "BatteryCellGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditAmt",
@@ -65,7 +65,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "BatteryModNotUseBatteryCellGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditAmt",
@@ -75,7 +75,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "BatteryModUseBatteryCellGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "BerylliumConvertedCostsAmt",
@@ -100,7 +100,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "BladeGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditAmt",
@@ -110,7 +110,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "CentralInverterGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CeriumConvertedCostsAmt",
@@ -160,7 +160,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "CommercialInverterGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditAmt",
@@ -170,7 +170,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "DistributedWindInverterGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DysprosiumConvertedCostsAmt",
@@ -238,24 +238,19 @@
       "type": "string"
     },
     {
-      "name": "BusinessNameLine1Txt ",
-      "path": "FacilityOwnerBusinessName/BusinessNameLine1Txt ",
-      "type": "unknown"
+      "name": "BusinessNameLine1Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine1Txt",
+      "type": "string"
     },
     {
-      "name": "BusinessNameLine2Txt ",
-      "path": "FacilityOwnerBusinessName/BusinessNameLine2Txt ",
-      "type": "unknown"
+      "name": "BusinessNameLine2Txt",
+      "path": "FacilityOwnerBusinessName/BusinessNameLine2Txt",
+      "type": "string"
     },
     {
       "name": "FacilityOwnerEIN",
       "path": "FacilityOwnerEIN",
       "type": "ein"
-    },
-    {
-      "name": "FacilityOwnerEIN ",
-      "path": "FacilityOwnerEIN ",
-      "type": "unknown"
     },
     {
       "name": "FacilityOwnerPersonNm",
@@ -268,11 +263,6 @@
       "type": "tin"
     },
     {
-      "name": "FacilityOwnerSSN ",
-      "path": "FacilityOwnerSSN ",
-      "type": "unknown"
-    },
-    {
       "name": "FacilityPlacedInServiceDt",
       "path": "FacilityPlacedInServiceDt",
       "type": "date"
@@ -280,7 +270,7 @@
     {
       "name": "FacilityUSAddress",
       "path": "FacilityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FluorsparConvertedCostsAmt",
@@ -405,7 +395,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "MicroinverterGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditAmt",
@@ -415,7 +405,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "NacelleGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NeodymiumCnvrtNeodymiumOxdAmt",
@@ -460,7 +450,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "OffshoreWindFndtnFloatPltfGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditAmt",
@@ -470,7 +460,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "OffshoreWindFndtnFxdPltfGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "OffshoreWindVesselsGrp",
@@ -490,7 +480,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "PhotovoltaicCellGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditAmt",
@@ -500,7 +490,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "PhotovoltaicWaferGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "PlatinumPurifiedCostsAmt",
@@ -515,7 +505,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "PolymericBacksheetGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "PraseodymiumPurifiedCostsAmt",
@@ -535,7 +525,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "ResidentialInverterGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "RhodiumPurifiedCostsAmt",
@@ -580,7 +570,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "SolarGradePolysiliconGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditAmt",
@@ -590,7 +580,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "SolarModuleGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditAmt",
@@ -600,7 +590,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "StructuralFastenerGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TantalumPurifiedCostsAmt",
@@ -650,7 +640,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "TorqueTubeGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TotalCostsAmt",
@@ -670,7 +660,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "TowerGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "TungstenConvertedCostsAmt",
@@ -685,7 +675,7 @@
     {
       "name": "UnitsProducedQty",
       "path": "UtilityInverterGrp/UnitsProducedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "VanadiumConvertedCostsAmt",

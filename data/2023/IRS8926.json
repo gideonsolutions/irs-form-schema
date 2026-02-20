@@ -140,7 +140,7 @@
     {
       "name": "RelatedPersonInformation",
       "path": "RelatedPersonInformation",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "SETYTotRevNAdjBAstLsIndbtAmt",

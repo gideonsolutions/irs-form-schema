@@ -340,7 +340,7 @@
     {
       "name": "SupplementalInformationDetail",
       "path": "SupplementalInformationDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "Tax4912Amt",

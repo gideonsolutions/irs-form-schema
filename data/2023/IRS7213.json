@@ -3,21 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "CalcFcltyQlfyElecSoldKWHQty",
-      "path": " AdvncNuclearPwrFcltyProdCrGrp/CalcFcltyQlfyElecSoldKWHQty",
-      "type": "unknown"
-    },
-    {
-      "name": "CalcTentCrNMCLAllocAcptnc2Qty",
-      "path": " AdvncNuclearPwrFcltyProdCrGrp/CalcTentCrNMCLAllocAcptnc2Qty",
-      "type": "unknown"
-    },
-    {
-      "name": "CalcTentCrQlfyElecSoldAmt",
-      "path": " AdvncNuclearPwrFcltyProdCrGrp/CalcTentCrQlfyElecSoldAmt",
-      "type": "usd"
-    },
-    {
       "name": "AdvncNuclearPwrFcltyProdCrAmt",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/AdvncNuclearPwrFcltyProdCrAmt",
       "type": "usd"
@@ -25,12 +10,17 @@
     {
       "name": "AllocNameplateEnergyCapKWQty",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/AllocNameplateEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AllocToBeneficiariesAmt",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/AllocToBeneficiariesAmt",
       "type": "usd"
+    },
+    {
+      "name": "CalcFcltyQlfyElecSoldKWHQty",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/CalcFcltyQlfyElecSoldKWHQty",
+      "type": "int"
     },
     {
       "name": "CalcNMCLAllocAcptncPct",
@@ -40,6 +30,16 @@
     {
       "name": "CalcTentCrNMCLAllocAcptnc2Amt",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/CalcTentCrNMCLAllocAcptnc2Amt",
+      "type": "usd"
+    },
+    {
+      "name": "CalcTentCrNMCLAllocAcptnc2Qty",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/CalcTentCrNMCLAllocAcptnc2Qty",
+      "type": "int"
+    },
+    {
+      "name": "CalcTentCrQlfyElecSoldAmt",
+      "path": "AdvncNuclearPwrFcltyProdCrGrp/CalcTentCrQlfyElecSoldAmt",
       "type": "usd"
     },
     {
@@ -80,12 +80,12 @@
     {
       "name": "FacilityUSAddress",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/FacilityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FcltyQlfyElecSoldKWHQty",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/FcltyQlfyElecSoldKWHQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "IRSAcceptanceLtrDt",
@@ -95,12 +95,12 @@
     {
       "name": "NMCLPortionAllocatedQty",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/NMCLPortionAllocatedQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NameplateEnergyCapKWQty",
       "path": "AdvncNuclearPwrFcltyProdCrGrp/NameplateEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "SmallerTentCrSoldOrAllocAmt",
@@ -125,7 +125,7 @@
     {
       "name": "AllocNameplateEnergyCapKWQty",
       "path": "ZeroEmissionNclrPowerProdCrGrp/AllocNameplateEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AllocToBeneficiariesAmt",
@@ -160,12 +160,12 @@
     {
       "name": "FacilityUSAddress",
       "path": "ZeroEmissionNclrPowerProdCrGrp/FacilityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FcltyQlfyElecSoldKWHQty",
       "path": "ZeroEmissionNclrPowerProdCrGrp/FcltyQlfyElecSoldKWHQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "GrossRcptsElecProdSoldAmt",
@@ -185,7 +185,7 @@
     {
       "name": "NameplateEnergyCapKWQty",
       "path": "ZeroEmissionNclrPowerProdCrGrp/NameplateEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "QualifiedFacilitiesIncrCrAmt",

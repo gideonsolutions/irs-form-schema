@@ -50,7 +50,7 @@
     {
       "name": "PlanSponsorForeignAddress",
       "path": "PlanSponsorForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PlanSponsorPersonNm",
@@ -60,7 +60,7 @@
     {
       "name": "PlanSponsorUSAddress",
       "path": "PlanSponsorUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PlanYearEndDt",
@@ -265,7 +265,7 @@
     {
       "name": "ExcessFringeBenefitsPaidYr",
       "path": "SectionB1TaxReportedGrp/ExcessFringeBenefitsPaidYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "ExcessFringeBenefitsTaxAmt",

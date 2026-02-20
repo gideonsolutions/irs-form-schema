@@ -25,12 +25,12 @@
     {
       "name": "BuildingForeignAddress",
       "path": "BuildingForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BuildingUSAddress",
       "path": "BuildingUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "CUSIPNum",

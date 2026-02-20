@@ -3,11 +3,6 @@
   "tax_year": 2024,
   "fields": [
     {
-      "name": "*",
-      "path": "*",
-      "type": "unknown"
-    },
-    {
       "name": "AdjustedExcessNetRegularTaxAmt",
       "path": "AdjustedExcessNetRegularTaxAmt",
       "type": "usd"
@@ -668,8 +663,8 @@
       "type": "group"
     },
     {
-      "name": "*",
-      "path": "GBCBreakdownCYAggrgtAmtGrp/*",
+      "name": "",
+      "path": "GBCBreakdownCYAggrgtAmtGrp/",
       "type": "unknown"
     },
     {

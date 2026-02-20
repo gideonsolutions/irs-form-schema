@@ -15,7 +15,7 @@
     {
       "name": "GallonsQty",
       "path": "AlternativeFuelCredit/CompressedGasFromBiomass/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -35,7 +35,7 @@
     {
       "name": "GallonsQty",
       "path": "AlternativeFuelCredit/CompressedNaturalGas/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -55,7 +55,7 @@
     {
       "name": "GallonsQty",
       "path": "AlternativeFuelCredit/LiquefiedGasFromBiomass/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -75,7 +75,7 @@
     {
       "name": "GallonsQty",
       "path": "AlternativeFuelCredit/LiquefiedNaturalGas/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -95,7 +95,7 @@
     {
       "name": "GallonsQty",
       "path": "AlternativeFuelCredit/LiquefiedPetroleumGas/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -115,7 +115,7 @@
     {
       "name": "GallonsQty",
       "path": "AlternativeFuelCredit/LiquidFuelFromBiomass/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -135,7 +135,7 @@
     {
       "name": "GallonsQty",
       "path": "AlternativeFuelCredit/LiquidFuelFromCoal/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -155,7 +155,7 @@
     {
       "name": "GallonsQty",
       "path": "AlternativeFuelCredit/PSeriesFuels/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -180,7 +180,7 @@
     {
       "name": "GallonsQty",
       "path": "BiodieselOrRnwblDslMixtureCr/AgriBiodieselMixtures/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -200,7 +200,7 @@
     {
       "name": "GallonsQty",
       "path": "BiodieselOrRnwblDslMixtureCr/BiodieselMixtures/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -220,7 +220,7 @@
     {
       "name": "GallonsQty",
       "path": "BiodieselOrRnwblDslMixtureCr/RenewableDieselMixtures/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -240,7 +240,7 @@
     {
       "name": "GallonsQty",
       "path": "BiodieselOrRnwblDslMixtureCr/SustainableAviationFuel/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",
@@ -265,7 +265,7 @@
     {
       "name": "EmployerIdentificationNumber",
       "path": "EmployerIdentificationNumber",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "MissingEINReason",

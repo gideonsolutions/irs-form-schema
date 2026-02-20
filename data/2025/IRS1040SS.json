@@ -63,11 +63,6 @@
       "type": "bool"
     },
     {
-      "name": "MAGIMoreThanThresholdInd ",
-      "path": "ACTCBonaFideResidentsGrp/MAGIMoreThanThresholdInd ",
-      "type": "unknown"
-    },
-    {
       "name": "ModifiedAGIAmt",
       "path": "ACTCBonaFideResidentsGrp/ModifiedAGIAmt",
       "type": "usd"

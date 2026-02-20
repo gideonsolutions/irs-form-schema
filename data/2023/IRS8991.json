@@ -435,7 +435,7 @@
     {
       "name": "Form3115FiledTaxYr",
       "path": "CapOrExpnsCostsInventoryGrp/Form3115FiledTaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "ItemShortDesc",

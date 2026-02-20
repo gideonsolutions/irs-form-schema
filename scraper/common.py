@@ -11,20 +11,33 @@ IRS_SCHEMA_BASE_URL = "https://www.irs.gov/pub/irs-schema"
 
 SUFFIX_TYPE_MAP = {
     "Amt": "usd",
+    "Amount": "usd",
+    "Address": "string",
     "Ind": "bool",
+    "Indicator": "bool",
     "Cd": "enum",
     "Txt": "string",
     "Nm": "string",
+    "Name": "string",
     "Desc": "string",
+    "Dsc": "string",
     "Cnt": "int",
+    "Qty": "int",
     "Num": "string",
+    "Number": "string",
     "Dt": "date",
     "SSN": "tin",
     "EIN": "ein",
     "PIN": "string",
     "Pct": "decimal",
     "Rt": "decimal",
+    "Yr": "year",
+    "Typ": "enum",
     "Grp": "group",
+    "Dtl": "group",
+    "Detail": "group",
+    "Information": "group",
+    "Info": "group",
 }
 
 

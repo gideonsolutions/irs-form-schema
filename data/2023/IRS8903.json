@@ -3,11 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "@filedPursuantToSect30191002Cd",
-      "path": "@filedPursuantToSect30191002Cd",
-      "type": "enum"
-    },
-    {
       "name": "AllocatedCostOfGoodsSoldAmt",
       "path": "AllActivitiesGrp/AllocatedCostOfGoodsSoldAmt",
       "type": "usd"
@@ -186,6 +181,11 @@
       "name": "W2WagesAmt",
       "path": "W2WagesAmt",
       "type": "usd"
+    },
+    {
+      "name": "filedPursuantToSect30191002Cd",
+      "path": "filedPursuantToSect30191002Cd",
+      "type": "enum"
     }
   ]
 }

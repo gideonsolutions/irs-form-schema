@@ -150,7 +150,7 @@
     {
       "name": "RelatedPartyForeignAddress",
       "path": "RelatedPartyForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -170,7 +170,7 @@
     {
       "name": "RelatedPartyUSAddress",
       "path": "RelatedPartyUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SecondDisposAfterDeathSellrInd",
@@ -188,9 +188,9 @@
       "type": "bool"
     },
     {
-      "name": "SellingPriceIncludingMortgAmt ",
-      "path": "SellingPriceIncludingMortgAmt ",
-      "type": "unknown"
+      "name": "SellingPriceIncludingMortgAmt",
+      "path": "SellingPriceIncludingMortgAmt",
+      "type": "usd"
     },
     {
       "name": "SellingPriceLessMortgIndbtAmt",

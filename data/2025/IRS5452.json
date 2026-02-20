@@ -20,7 +20,7 @@
     {
       "name": "ApplicableYr",
       "path": "ApplicableYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "BeginningYearBalanceAmt",
@@ -30,7 +30,7 @@
     {
       "name": "CalendarYr",
       "path": "CalendarYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "CorporateDistributions",

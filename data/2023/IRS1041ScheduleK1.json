@@ -55,7 +55,7 @@
     {
       "name": "ForeignAddress",
       "path": "BeneficiaryDetail/ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "Form1042SCd",
@@ -80,7 +80,7 @@
     {
       "name": "USAddress",
       "path": "BeneficiaryDetail/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "Collectibles28PercentGainAmt",

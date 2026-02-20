@@ -10,7 +10,7 @@
     {
       "name": "BondInformation",
       "path": "BondInformation",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "BondNotOnForm1097BTCGrp",

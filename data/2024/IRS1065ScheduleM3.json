@@ -3,16 +3,6 @@
   "tax_year": 2024,
   "fields": [
     {
-      "name": "IncomeLossPerIncomeStmtAmt",
-      "path": "     IRS1065SSchM3IncomeLossItems/MarkToMarketIncomeLoss/IncomeLossPerIncomeStmtAmt",
-      "type": "usd"
-    },
-    {
-      "name": " PartnershipPrepareIncmStmtInd",
-      "path": " PartnershipPrepareIncmStmtInd",
-      "type": "bool"
-    },
-    {
       "name": "AdjToRecnclIncmStmtYrToTyAmt",
       "path": "AdjToRecnclIncmStmtYrToTyAmt",
       "type": "usd"
@@ -395,6 +385,11 @@
     {
       "name": "TemporaryDifferenceAmt",
       "path": "IRS1065SSchM3IncomeLossItems/ItemsRelatedReportableTransGrp/TemporaryDifferenceAmt",
+      "type": "usd"
+    },
+    {
+      "name": "IncomeLossPerIncomeStmtAmt",
+      "path": "IRS1065SSchM3IncomeLossItems/MarkToMarketIncomeLoss/IncomeLossPerIncomeStmtAmt",
       "type": "usd"
     },
     {
@@ -1493,9 +1488,9 @@
       "type": "usd"
     },
     {
-      "name": "TotalReceiptsForTaxYearInd ",
-      "path": "TotalReceiptsForTaxYearInd ",
-      "type": "unknown"
+      "name": "TotalReceiptsForTaxYearInd",
+      "path": "TotalReceiptsForTaxYearInd",
+      "type": "bool"
     },
     {
       "name": "@totalReceiptsAmt",

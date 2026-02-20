@@ -135,7 +135,7 @@
     {
       "name": "PartnerForeignAddress",
       "path": "PartnerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PartnerLoanTransactionsInd",
@@ -165,7 +165,7 @@
     {
       "name": "PartnerUSAddress",
       "path": "PartnerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "SchK2K3FDIIDedApprtnFctrsGrp",

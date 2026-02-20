@@ -5,7 +5,7 @@
     {
       "name": "@form8884Indicator",
       "path": "CfwdWorkOpptCrTYBeginAfter2006/@form8884Indicator",
-      "type": "unknown"
+      "type": "bool"
     },
     {
       "name": "CreditAllocationAmt",

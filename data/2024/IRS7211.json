@@ -35,7 +35,7 @@
     {
       "name": "CalendarYr",
       "path": "CleanElectricityProdGrp/CalendarYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "InflationAdjustedCreditRtAmt",
@@ -45,7 +45,7 @@
     {
       "name": "KilowattHrsQty",
       "path": "CleanElectricityProdGrp/KilowattHrsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CreditBeforeReductionAmt",
@@ -130,7 +130,7 @@
     {
       "name": "FacilityUSAddress",
       "path": "FacilityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FcltyConstrBeganBfrSpcfdDtInd",

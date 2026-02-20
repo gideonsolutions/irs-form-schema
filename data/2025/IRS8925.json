@@ -5,17 +5,17 @@
     {
       "name": "EmployeesWithoutValidCnsntQty",
       "path": "EmployeesWithoutValidCnsntQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EndOfYearEmployeesInsuredQty",
       "path": "EndOfYearEmployeesInsuredQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EndOfYearEmployeesQty",
       "path": "EndOfYearEmployeesQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "FilerEIN",

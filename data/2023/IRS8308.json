@@ -33,11 +33,6 @@
       "type": "tin"
     },
     {
-      "name": "@summaryDormantFDEIndicator",
-      "path": "@summaryDormantFDEIndicator",
-      "type": "unknown"
-    },
-    {
       "name": "CapitalPrtshpIntTrnsfrInd",
       "path": "CapitalPrtshpIntTrnsfrInd",
       "type": "bool"
@@ -83,9 +78,9 @@
       "type": "enum"
     },
     {
-      "name": "ForeignPostalCd ",
-      "path": "ForeignAddress/ForeignPostalCd ",
-      "type": "unknown"
+      "name": "ForeignPostalCd",
+      "path": "ForeignAddress/ForeignPostalCd",
+      "type": "enum"
     },
     {
       "name": "ProvinceOrStateNm",
@@ -203,9 +198,9 @@
       "type": "enum"
     },
     {
-      "name": "ForeignPostalCd ",
-      "path": "TransfereeBeneficialOwnerGrp/ForeignAddress/ForeignPostalCd ",
-      "type": "unknown"
+      "name": "ForeignPostalCd",
+      "path": "TransfereeBeneficialOwnerGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
     },
     {
       "name": "ProvinceOrStateNm",
@@ -278,9 +273,9 @@
       "type": "enum"
     },
     {
-      "name": "ForeignPostalCd ",
-      "path": "TransfereeGrp/ForeignAddress/ForeignPostalCd ",
-      "type": "unknown"
+      "name": "ForeignPostalCd",
+      "path": "TransfereeGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
     },
     {
       "name": "ProvinceOrStateNm",
@@ -353,9 +348,9 @@
       "type": "enum"
     },
     {
-      "name": "ForeignPostalCd ",
-      "path": "TransferorBeneficialOwnerGrp/ForeignAddress/ForeignPostalCd ",
-      "type": "unknown"
+      "name": "ForeignPostalCd",
+      "path": "TransferorBeneficialOwnerGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
     },
     {
       "name": "ProvinceOrStateNm",
@@ -428,9 +423,9 @@
       "type": "enum"
     },
     {
-      "name": "ForeignPostalCd ",
-      "path": "TransferorGrp/ForeignAddress/ForeignPostalCd ",
-      "type": "unknown"
+      "name": "ForeignPostalCd",
+      "path": "TransferorGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
     },
     {
       "name": "ProvinceOrStateNm",
@@ -491,6 +486,11 @@
       "name": "ZIPCd",
       "path": "USAddress/ZIPCd",
       "type": "enum"
+    },
+    {
+      "name": "summaryDormantFDEIndicator",
+      "path": "summaryDormantFDEIndicator",
+      "type": "bool"
     }
   ]
 }

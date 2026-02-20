@@ -15,7 +15,7 @@
     {
       "name": "AffiliatedGroupInfo",
       "path": "AffiliatedGroupInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "BalanceDueAmt",

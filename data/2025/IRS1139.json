@@ -230,7 +230,7 @@
     {
       "name": "FirstCarrybackYr",
       "path": "FirstCarrybackYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "ForeignTaxCrReleaseInd",

@@ -3,29 +3,14 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "@changeAnnualAccountingPeriodCd",
-      "path": "@changeAnnualAccountingPeriodCd",
-      "type": "enum"
-    },
-    {
-      "name": "@filedPursuantToSect30191002Cd",
-      "path": "@filedPursuantToSect30191002Cd",
-      "type": "enum"
-    },
-    {
-      "name": "@shortPeriodReasonCd",
-      "path": "@shortPeriodReasonCd",
-      "type": "enum"
-    },
-    {
       "name": "AgentForeignAddress",
       "path": "AgentForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
-      "name": "CountryCd = ''",
-      "path": "AgentForeignAddress/AddressLine1Txt = '' and $FormData/AgentForeignAddress/AddressLine2Txt = '' and                  $FormData/AgentForeignAddress/CityNm = '' and $FormData/AgentForeignAddress/ProvinceOrStateNm = '' and                  $FormData/AgentForeignAddress/ForeignPostalCd = '' and $FormData/AgentForeignAddress/CountryCd = ''",
-      "type": "unknown"
+      "name": "AddressLine1Txt",
+      "path": "AgentForeignAddress/AddressLine1Txt",
+      "type": "string"
     },
     {
       "name": "AgentPersonNm",
@@ -131,11 +116,6 @@
       "name": "@beneficiaryTrustCd",
       "path": "EstimatedTaxPaymentsAmt/@beneficiaryTrustCd",
       "type": "enum"
-    },
-    {
-      "name": "@beneficiaryTrustCd ",
-      "path": "EstimatedTaxPaymentsAmt/@beneficiaryTrustCd ",
-      "type": "unknown"
     },
     {
       "name": "FIRPTASaleOrDispositionInd",
@@ -1610,22 +1590,22 @@
     {
       "name": "LocationOfBooksForeignAddress",
       "path": "LocationOfBooksForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
-      "name": "CountryCd = ''",
-      "path": "LocationOfBooksForeignAddress/AddressLine1Txt = '' and $FormData/LocationOfBooksForeignAddress/AddressLine2Txt = '' and                                                           $FormData/LocationOfBooksForeignAddress/CityNm = '' and $FormData/LocationOfBooksForeignAddress/ProvinceOrStateNm = '' and                                                           $FormData/LocationOfBooksForeignAddress/ForeignPostalCd = '' and $FormData/LocationOfBooksForeignAddress/CountryCd = ''",
-      "type": "unknown"
+      "name": "AddressLine1Txt",
+      "path": "LocationOfBooksForeignAddress/AddressLine1Txt",
+      "type": "string"
     },
     {
       "name": "LocationOfBooksUSAddress",
       "path": "LocationOfBooksUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
-      "name": "ZIPCd = ''",
-      "path": "LocationOfBooksUSAddress/AddressLine1Txt = '' and $FormData/LocationOfBooksUSAddress/AddressLine2Txt = '' and                    $FormData/LocationOfBooksUSAddress/CityNm = '' and $FormData/LocationOfBooksUSAddress/State = '' and                    $FormData/LocationOfBooksUSAddress/ZIPCd = ''",
-      "type": "unknown"
+      "name": "AddressLine1Txt",
+      "path": "LocationOfBooksUSAddress/AddressLine1Txt",
+      "type": "string"
     },
     {
       "name": "CityNm",
@@ -1970,12 +1950,12 @@
     {
       "name": "USAgentAddress",
       "path": "USAgentAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
-      "name": "ZIPCd = ''",
-      "path": "USAgentAddress/AddressLine1Txt = '' and $FormData/USAgentAddress/AddressLine2Txt = '' and                  $FormData/USAgentAddress/CityNm = '' and $FormData/USAgentAddress/State = '' and $FormData/USAgentAddress/ZIPCd = ''",
-      "type": "unknown"
+      "name": "AddressLine1Txt",
+      "path": "USAgentAddress/AddressLine1Txt",
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -2006,6 +1986,21 @@
       "name": "VotingStockOwnedPct",
       "path": "VotingStockOwnedPct",
       "type": "decimal"
+    },
+    {
+      "name": "changeAnnualAccountingPeriodCd",
+      "path": "changeAnnualAccountingPeriodCd",
+      "type": "enum"
+    },
+    {
+      "name": "filedPursuantToSect30191002Cd",
+      "path": "filedPursuantToSect30191002Cd",
+      "type": "enum"
+    },
+    {
+      "name": "shortPeriodReasonCd",
+      "path": "shortPeriodReasonCd",
+      "type": "enum"
     }
   ]
 }

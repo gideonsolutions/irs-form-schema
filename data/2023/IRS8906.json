@@ -10,7 +10,7 @@
     {
       "name": "@sec383Or384Indicator",
       "path": "CreditAllowedForTheCurrentYear/@sec383Or384Indicator",
-      "type": "unknown"
+      "type": "bool"
     },
     {
       "name": "DistilledSpiritsCreditAmt",
@@ -20,7 +20,7 @@
     {
       "name": "DistldSpiritsCasesTotalQty",
       "path": "DistldSpiritsCasesTotalQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "SumOfTotTxFnCstNdDistSprtCrAmt",

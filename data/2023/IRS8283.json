@@ -205,7 +205,7 @@
     {
       "name": "DonorLineDetail",
       "path": "InformationOnDonatedProperty/DonorLineDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "IntellectualPropertyInd",
@@ -240,7 +240,7 @@
     {
       "name": "PropertyInformation",
       "path": "PropertyInformation",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "QualifiedConservationContriInd",

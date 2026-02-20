@@ -3,11 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "DirectAdvertisingCostAmt",
-      "path": "             AdvertisingIncmPeriodicalGrp/DirectAdvertisingCostAmt",
-      "type": "usd"
-    },
-    {
       "name": "AdditionalSection263ACostsAmt",
       "path": "AdditionalSection263ACostsAmt",
       "type": "usd"

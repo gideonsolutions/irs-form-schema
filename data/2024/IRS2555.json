@@ -3,16 +3,6 @@
   "tax_year": 2024,
   "fields": [
     {
-      "name": "@claimFrgnEarnIncWaiverCd",
-      "path": "@claimFrgnEarnIncWaiverCd",
-      "type": "enum"
-    },
-    {
-      "name": "@claimWaiverReliefCd",
-      "path": "@claimWaiverReliefCd",
-      "type": "enum"
-    },
-    {
       "name": "CitizenCountryNm",
       "path": "CitizenCountryNm",
       "type": "string"
@@ -45,7 +35,7 @@
     {
       "name": "EmployerForeignAddress",
       "path": "EmployerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmployerForeignEntityInd",
@@ -80,7 +70,7 @@
     {
       "name": "EmployerUSAddress",
       "path": "EmployerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmployerUnitedStatesCompanyInd",
@@ -110,7 +100,7 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ForeignAffiliateEmployerInd",
@@ -235,7 +225,7 @@
     {
       "name": "LastFrgnEarnIncExclClaimedYr",
       "path": "LastFrgnEarnIncExclClaimedYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "MaintainedHouseInUSInd",
@@ -496,6 +486,16 @@
       "name": "VisaTypeDesc",
       "path": "VisaTypeDesc",
       "type": "string"
+    },
+    {
+      "name": "claimFrgnEarnIncWaiverCd",
+      "path": "claimFrgnEarnIncWaiverCd",
+      "type": "enum"
+    },
+    {
+      "name": "claimWaiverReliefCd",
+      "path": "claimWaiverReliefCd",
+      "type": "enum"
     }
   ]
 }

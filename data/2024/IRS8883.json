@@ -210,7 +210,7 @@
     {
       "name": "IncreaseOrDecreaseReasonsDsc",
       "path": "IncreaseOrDecreaseReasonsDsc",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "MissingEINReasonCd",

@@ -50,7 +50,7 @@
     {
       "name": "TaxYr",
       "path": "AccumulationDistriTaxPYGrp/TaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "AverageAdjustedTaxAmt",
@@ -100,7 +100,7 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ForeignTrustInd",
@@ -205,7 +205,7 @@
     {
       "name": "USAddress",
       "path": "USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "UndistributedNetIncomeAmt",

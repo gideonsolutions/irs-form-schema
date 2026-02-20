@@ -3,11 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "@gainInMultiAssetExchStmtInd",
-      "path": "@gainInMultiAssetExchStmtInd",
-      "type": "bool"
-    },
-    {
       "name": "AdjBssOfLikeKindPropGvnUpAmt",
       "path": "AdjBssOfLikeKindPropGvnUpAmt",
       "type": "usd"
@@ -140,7 +135,7 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "GainLossOnOtherPropGvnUpAmt",
@@ -155,12 +150,12 @@
     {
       "name": "LikeKindPropertyGivenUpDsc",
       "path": "LikeKindPropertyGivenUpDsc",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "LikeKindPropertyReceivedDsc",
       "path": "LikeKindPropertyReceivedDsc",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "MissingEINReasonCd",
@@ -235,7 +230,7 @@
     {
       "name": "USAddress",
       "path": "USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "WrittenNoticeOfPropertyRcvdDt",
@@ -245,6 +240,11 @@
     {
       "name": "YouSoldPropertyReceivedInd",
       "path": "YouSoldPropertyReceivedInd",
+      "type": "bool"
+    },
+    {
+      "name": "gainInMultiAssetExchStmtInd",
+      "path": "gainInMultiAssetExchStmtInd",
       "type": "bool"
     }
   ]

@@ -115,47 +115,47 @@
     {
       "name": "DaysFromDueDateToPaymentDtQty",
       "path": "PaymentPenaltyComputationTxt/DaysFromDueDateToPaymentDtQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "LateDays1stDateRangeQty",
       "path": "PaymentPenaltyComputationTxt/LateDays1stDateRangeQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "LateDays2ndDateRangeQty",
       "path": "PaymentPenaltyComputationTxt/LateDays2ndDateRangeQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "LateDays3rdDateRangeQty",
       "path": "PaymentPenaltyComputationTxt/LateDays3rdDateRangeQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "LateDays4thDateRangeQty",
       "path": "PaymentPenaltyComputationTxt/LateDays4thDateRangeQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "LateDays5thDateRangeQty",
       "path": "PaymentPenaltyComputationTxt/LateDays5thDateRangeQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "LateDays6thDateRangeQty",
       "path": "PaymentPenaltyComputationTxt/LateDays6thDateRangeQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "LateDays7thDateRangeQty",
       "path": "PaymentPenaltyComputationTxt/LateDays7thDateRangeQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "LateDays8thDateRangeQty",
       "path": "PaymentPenaltyComputationTxt/LateDays8thDateRangeQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "PaymentDt",

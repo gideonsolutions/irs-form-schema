@@ -23,8 +23,8 @@
       "type": "usd"
     },
     {
-      "name": "*",
-      "path": "IncomeTaxRt10UndTrtyRuleGrp/*",
+      "name": "",
+      "path": "IncomeTaxRt10UndTrtyRuleGrp/",
       "type": "unknown"
     },
     {
@@ -35,21 +35,21 @@
     {
       "name": "OtherIncomeTyp",
       "path": "IncomeTaxRt10UndTrtyRuleGrp/OtherIncomeTyp",
-      "type": "unknown"
+      "type": "enum"
     },
     {
-      "name": "*",
-      "path": "IncomeTaxRt15UndTrtyRuleGrp/*",
+      "name": "",
+      "path": "IncomeTaxRt15UndTrtyRuleGrp/",
       "type": "unknown"
     },
     {
       "name": "OtherIncomeTyp",
       "path": "IncomeTaxRt15UndTrtyRuleGrp/OtherIncomeTyp",
-      "type": "unknown"
+      "type": "enum"
     },
     {
-      "name": "*",
-      "path": "IncomeTaxRt30UndTrtyRuleGrp/*",
+      "name": "",
+      "path": "IncomeTaxRt30UndTrtyRuleGrp/",
       "type": "unknown"
     },
     {
@@ -65,17 +65,17 @@
     {
       "name": "OtherIncomeTyp",
       "path": "IncomeTaxRt30UndTrtyRuleGrp/OtherIncomeTyp",
-      "type": "unknown"
+      "type": "enum"
     },
     {
-      "name": "*",
-      "path": "IncomeTaxRtOth2UndTrtyRuleGrp/*",
+      "name": "",
+      "path": "IncomeTaxRtOth2UndTrtyRuleGrp/",
       "type": "unknown"
     },
     {
       "name": "OtherIncomeTyp",
       "path": "IncomeTaxRtOth2UndTrtyRuleGrp/OtherIncomeTyp",
-      "type": "unknown"
+      "type": "enum"
     },
     {
       "name": "TaxRt",
@@ -83,8 +83,8 @@
       "type": "decimal"
     },
     {
-      "name": "*",
-      "path": "IncomeTaxRtOthUndTrtyRuleGrp/*",
+      "name": "",
+      "path": "IncomeTaxRtOthUndTrtyRuleGrp/",
       "type": "unknown"
     },
     {
@@ -100,7 +100,7 @@
     {
       "name": "OtherIncomeTyp",
       "path": "IncomeTaxRtOthUndTrtyRuleGrp/OtherIncomeTyp",
-      "type": "unknown"
+      "type": "enum"
     },
     {
       "name": "TaxRt",

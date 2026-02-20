@@ -663,9 +663,9 @@
       "type": "usd"
     },
     {
-      "name": "PermanentDifferenceAmt ",
-      "path": "TotalInterestIncomeGrp/PermanentDifferenceAmt ",
-      "type": "unknown"
+      "name": "PermanentDifferenceAmt",
+      "path": "TotalInterestIncomeGrp/PermanentDifferenceAmt",
+      "type": "usd"
     },
     {
       "name": "TemporaryDifferenceAmt",

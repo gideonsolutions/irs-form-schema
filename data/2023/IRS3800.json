@@ -3,11 +3,6 @@
   "tax_year": 2023,
   "fields": [
     {
-      "name": "*",
-      "path": "*",
-      "type": "unknown"
-    },
-    {
       "name": "AdjustedExcessNetRegularTaxAmt",
       "path": "AdjustedExcessNetRegularTaxAmt",
       "type": "usd"
@@ -663,8 +658,8 @@
       "type": "group"
     },
     {
-      "name": "*",
-      "path": "GBCBreakdownCYAggrgtAmtGrp/*",
+      "name": "",
+      "path": "GBCBreakdownCYAggrgtAmtGrp/",
       "type": "unknown"
     },
     {

@@ -10,7 +10,7 @@
     {
       "name": "AgriBiodieselGallonsQty",
       "path": "AgriBiodieselGallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AgriBiodieselIncludedAmt",
@@ -20,7 +20,7 @@
     {
       "name": "AgriBiodieselIncludedGalsQty",
       "path": "AgriBiodieselIncludedGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AllocatedToBeneficiariesAmt",
@@ -35,7 +35,7 @@
     {
       "name": "BiodieselGallonsQty",
       "path": "BiodieselGallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "BiodieselMixAmt",
@@ -45,7 +45,7 @@
     {
       "name": "BiodieselMixtureGallonsQty",
       "path": "BiodieselMixtureGallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "BiodieselRnwblAvnFuelCrAmt",
@@ -70,7 +70,7 @@
     {
       "name": "QualifiedAgriBioDieselProdQty",
       "path": "QualifiedAgriBioDieselProdQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "RenewableDieselAmt",
@@ -80,7 +80,7 @@
     {
       "name": "RenewableDieselGallonsQty",
       "path": "RenewableDieselGallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "RenewableDieselInclMixtureAmt",
@@ -90,7 +90,7 @@
     {
       "name": "RenewableDieselMixtureGalsQty",
       "path": "RenewableDieselMixtureGalsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "SumAgriRnwblBiodieselAvnAmt",
@@ -105,7 +105,7 @@
     {
       "name": "GallonsQty",
       "path": "SustainableAvnFuelMxtrCrGrp/GallonsQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Rt",

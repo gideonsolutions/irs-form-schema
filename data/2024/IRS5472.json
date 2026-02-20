@@ -95,7 +95,7 @@
     {
       "name": "Direct25PctFrgnShareholderInfo",
       "path": "Direct25PctFrgnShareholderInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "CtznOrgIncorporationCountryCd",
@@ -870,7 +870,7 @@
     {
       "name": "UltimateIndr25PctFrgnShrInfo",
       "path": "UltimateIndr25PctFrgnShrInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "CtznOrgIncorporationCountryCd",

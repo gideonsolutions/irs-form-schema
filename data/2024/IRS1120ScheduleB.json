@@ -33,9 +33,9 @@
       "type": "bool"
     },
     {
-      "name": "CorpSectTakeContriNonShrInd ",
-      "path": "CorpSectTakeContriNonShrInd ",
-      "type": "unknown"
+      "name": "CorpSectTakeContriNonShrInd",
+      "path": "CorpSectTakeContriNonShrInd",
+      "type": "bool"
     },
     {
       "name": "CorpSellIntIntngblAstToPrsnInd",

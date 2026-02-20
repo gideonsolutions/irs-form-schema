@@ -20,7 +20,7 @@
     {
       "name": "EmployeeOtherForeignAddress",
       "path": "EmployeeOtherForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmployeeSSN",
@@ -30,7 +30,7 @@
     {
       "name": "EmployeeUSAddress",
       "path": "EmployeeUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmployerEIN",
@@ -55,12 +55,12 @@
     {
       "name": "EmployerOtherForeignAddress",
       "path": "EmployerOtherForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EmployerUSAddress",
       "path": "EmployerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "MedicareTaxWithheldAmt",

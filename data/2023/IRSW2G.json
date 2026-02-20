@@ -5,7 +5,7 @@
     {
       "name": "CalendarYr",
       "path": "CalendarYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "CorrectedW2GInd",
@@ -65,7 +65,7 @@
     {
       "name": "PayerForeignAddress",
       "path": "PayerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -110,7 +110,7 @@
     {
       "name": "PayerUSAddress",
       "path": "PayerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -180,7 +180,7 @@
     {
       "name": "RecipientUSAddress",
       "path": "RecipientUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",

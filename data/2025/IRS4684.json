@@ -3,69 +3,14 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "NetBusinessPropertyLossAmt",
-      "path": "                               BusinessProperties                               /NetBusinessPropertyLossAmt",
-      "type": "usd"
-    },
-    {
-      "name": "@seeAttachedStatementCd",
-      "path": "               BusinessProperties               /NetBusinessPropertyLossAmt/@seeAttachedStatementCd",
-      "type": "enum"
-    },
-    {
-      "name": "               PersonalUseProperties",
-      "path": "               PersonalUseProperties",
-      "type": "unknown"
-    },
-    {
-      "name": "FairMarketValueBeforeTheftAmt",
-      "path": "             PersonalUseProperties /FairMarketValueBeforeTheftAmt",
-      "type": "usd"
-    },
-    {
-      "name": "PropertyMinusInsuranceValueAmt",
-      "path": "             PersonalUseProperties/PropertyMinusInsuranceValueAmt",
-      "type": "usd"
-    },
-    {
-      "name": "             ShortTermTheftProperty",
-      "path": "             ShortTermTheftProperty",
-      "type": "unknown"
-    },
-    {
-      "name": "LongTermPropIncomePlusGainAmt",
-      "path": "          LongTermPropIncomePlusGainGrp/LongTermPropIncomePlusGainAmt",
-      "type": "usd"
-    },
-    {
-      "name": "         LongTermTheftProperty",
-      "path": "         LongTermTheftProperty",
-      "type": "unknown"
-    },
-    {
-      "name": "NetBusinessPropertyLossAmt",
-      "path": " BusinessProperties               /NetBusinessPropertyLossAmt",
-      "type": "usd"
-    },
-    {
-      "name": "@revenueProcedure200920Cd",
-      "path": "@revenueProcedure200920Cd",
-      "type": "enum"
-    },
-    {
-      "name": "@revenueProcedure201036Cd",
-      "path": "@revenueProcedure201036Cd",
-      "type": "enum"
-    },
-    {
       "name": "BusinessProperties",
       "path": "BusinessProperties",
       "type": "unknown"
     },
     {
-      "name": "BusinessProperties ",
-      "path": "BusinessProperties ",
-      "type": "unknown"
+      "name": "NetBusinessPropertyLossAmt",
+      "path": "BusinessProperties                               /NetBusinessPropertyLossAmt",
+      "type": "usd"
     },
     {
       "name": "CostOrAdjustedBasisAmt",
@@ -235,7 +180,7 @@
     {
       "name": "USAddress",
       "path": "FedDclrDsstrLossElectGrp/USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FedDclrDsstrLossPrElectRvkGrp",
@@ -256,6 +201,11 @@
       "name": "             PassiveActivityLossLiteralCd",
       "path": "LongTermPropIncomePlusGainGrp/             PassiveActivityLossLiteralCd",
       "type": "enum"
+    },
+    {
+      "name": "LongTermPropIncomePlusGainAmt",
+      "path": "LongTermPropIncomePlusGainGrp/LongTermPropIncomePlusGainAmt",
+      "type": "usd"
     },
     {
       "name": "LongTermPropIncomeProdTotAmt",
@@ -423,6 +373,11 @@
       "type": "usd"
     },
     {
+      "name": "FairMarketValueBeforeTheftAmt",
+      "path": "PersonalUseProperties /FairMarketValueBeforeTheftAmt",
+      "type": "usd"
+    },
+    {
       "name": "               InsuranceOrOthReimbursementAmt",
       "path": "PersonalUseProperties/               InsuranceOrOthReimbursementAmt",
       "type": "usd"
@@ -465,6 +420,11 @@
     {
       "name": "NetFairMarketValueAmt",
       "path": "PersonalUseProperties/NetFairMarketValueAmt",
+      "type": "usd"
+    },
+    {
+      "name": "PropertyMinusInsuranceValueAmt",
+      "path": "PersonalUseProperties/PropertyMinusInsuranceValueAmt",
       "type": "usd"
     },
     {
@@ -546,6 +506,16 @@
       "name": "TotalTheftGainLessTotalLossAmt",
       "path": "TotalTheftGainLessTotalLossAmt",
       "type": "usd"
+    },
+    {
+      "name": "revenueProcedure200920Cd",
+      "path": "revenueProcedure200920Cd",
+      "type": "enum"
+    },
+    {
+      "name": "revenueProcedure201036Cd",
+      "path": "revenueProcedure201036Cd",
+      "type": "enum"
     }
   ]
 }

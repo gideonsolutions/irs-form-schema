@@ -115,7 +115,7 @@
     {
       "name": "DiscrepancyTaxYr",
       "path": "DiscrepancyTaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "ForeignPhoneNum",

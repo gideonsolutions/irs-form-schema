@@ -75,7 +75,7 @@
     {
       "name": "VehicleModelYr",
       "path": "QlfyPlugInElecDriveMtrVehCrGrp /VehicleDescriptionGrp/VehicleModelYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "BusinessInvestmentUseAmt",

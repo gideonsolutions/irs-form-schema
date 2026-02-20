@@ -30,12 +30,12 @@
     {
       "name": "ForeignEntityReferenceIdNumber",
       "path": "ForeignEntityIdentificationGrp/ForeignEntityReferenceIdNumber",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ForeignResidenceAddress",
       "path": "ForeignResidenceAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "IRCProvisionsTxt",
@@ -60,7 +60,7 @@
     {
       "name": "PayorForeignAddress",
       "path": "PayorForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -75,7 +75,7 @@
     {
       "name": "PayorUSAddress",
       "path": "PayorUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ProvisionsOfLimitationTxt",
@@ -110,7 +110,7 @@
     {
       "name": "USAddress",
       "path": "USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "USCitizenOrOtherInd",

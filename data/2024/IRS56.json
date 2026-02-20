@@ -25,7 +25,7 @@
     {
       "name": "CourtAddress",
       "path": "CourtAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -105,7 +105,7 @@
     {
       "name": "FiduciaryBusinessFrgnAddress",
       "path": "FiduciaryBusinessFrgnAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -135,7 +135,7 @@
     {
       "name": "FiduciaryBusinessUSAddress",
       "path": "FiduciaryBusinessUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -150,7 +150,7 @@
     {
       "name": "FiduciaryForeignAddress",
       "path": "FiduciaryForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -200,7 +200,7 @@
     {
       "name": "FiduciaryUSAddress",
       "path": "FiduciaryUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",

@@ -850,7 +850,7 @@
     {
       "name": "ForeignAddress",
       "path": "ForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ForeignCountryCd",
@@ -930,7 +930,7 @@
     {
       "name": "FormationYr",
       "path": "FormationYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "FormerOfcrEmployeesListedInd",
@@ -1890,7 +1890,7 @@
     {
       "name": "OtherOrganizationDsc",
       "path": "OtherOrganizationDsc",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "OtherRevenueMiscGrp",
@@ -2830,7 +2830,7 @@
     {
       "name": "USAddress",
       "path": "USAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "UnrelatedBusIncmOverLimitInd",

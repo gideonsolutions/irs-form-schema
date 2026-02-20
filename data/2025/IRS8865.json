@@ -3,11 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "@changeAnnualAccountingPeriodCd",
-      "path": "@changeAnnualAccountingPeriodCd",
-      "type": "enum"
-    },
-    {
       "name": "AllSlsGeneralPropGrossRcptsAmt",
       "path": "AllSlsGeneralPropGrossRcptsAmt",
       "type": "usd"
@@ -230,7 +225,7 @@
     {
       "name": "FrgnPartnershipAgentUSAddress",
       "path": "FrgnPartnershipAgentUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FrgnPrtnrTrnsfrIntDistriCnt",
@@ -240,7 +235,7 @@
     {
       "name": "FrgnPrtshpAgentForeignAddress",
       "path": "FrgnPrtshpAgentForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "FrgnPrtshpInterestSepUnitInd",
@@ -620,7 +615,7 @@
     {
       "name": "@otherIncomeTyp",
       "path": "IRS8865ScheduleK/OtherIncomeLossAmt/@otherIncomeTyp",
-      "type": "unknown"
+      "type": "enum"
     },
     {
       "name": "OtherRentalCreditsAmt",
@@ -1215,7 +1210,7 @@
     {
       "name": "Amount",
       "path": "IRS8865ScheduleM2/OtherDecreases/Amount",
-      "type": "unknown"
+      "type": "usd"
     },
     {
       "name": "Description",
@@ -1225,7 +1220,7 @@
     {
       "name": "Amount",
       "path": "IRS8865ScheduleM2/OtherIncreases/Amount",
-      "type": "unknown"
+      "type": "usd"
     },
     {
       "name": "Description",
@@ -1265,12 +1260,12 @@
     {
       "name": "LocationOfBooksForeignAddress",
       "path": "LocationOfBooksForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "LocationOfBooksUSAddress",
       "path": "LocationOfBooksUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "MissingEINReason",
@@ -1305,7 +1300,7 @@
     {
       "name": "ParentFilerForeignAddress",
       "path": "ParentFilerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "ParentFilerMissingEINReasonCd",
@@ -1325,12 +1320,12 @@
     {
       "name": "ParentFilerUSAddress",
       "path": "ParentFilerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PersonsWithBooksForeignAddress",
       "path": "PersonsWithBooksForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -1345,7 +1340,7 @@
     {
       "name": "PersonsWithBooksUSAddress",
       "path": "PersonsWithBooksUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PrincipalBusinessActivityCd",
@@ -1415,7 +1410,7 @@
     {
       "name": "USAgentAddress",
       "path": "USAgentAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "USAgentEIN",
@@ -1441,6 +1436,11 @@
       "name": "USAgentSSN",
       "path": "USAgentSSN",
       "type": "tin"
+    },
+    {
+      "name": "changeAnnualAccountingPeriodCd",
+      "path": "changeAnnualAccountingPeriodCd",
+      "type": "enum"
     }
   ]
 }

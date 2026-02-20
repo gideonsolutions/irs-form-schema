@@ -46,7 +46,13 @@ def _extract_select_paths(tree: etree._ElementTree, var_name: str) -> list[str]:
             raw = re.sub(r"\[.*?\]", "", raw)
             # Strip any trailing /text() or /count() etc.
             raw = re.sub(r"/(text|count|number|string)\(\)$", "", raw)
-            if raw and not raw.startswith("$"):
+            # Strip trailing arithmetic/comparison expressions (e.g. " * -1", " = ''")
+            raw = re.sub(r"\s*[*+=<>!].*$", "", raw)
+            # Strip leading/trailing whitespace
+            raw = raw.strip()
+            # Strip @ prefix (XPath attribute selectors)
+            raw = raw.lstrip("@")
+            if raw and not raw.startswith("$") and raw != "child::*":
                 paths.add(raw)
 
     return sorted(paths)

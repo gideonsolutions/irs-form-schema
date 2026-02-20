@@ -115,12 +115,12 @@
     {
       "name": "DependentDetail",
       "path": "DependentDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "ElectOvpmtAppliedToEsTaxYr",
       "path": "ElectOvpmtAppliedToEsTaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "Form2439Ind",

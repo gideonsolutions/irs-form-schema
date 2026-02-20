@@ -15,7 +15,7 @@
     {
       "name": "CorporationForeignAddress",
       "path": "CorporationForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -30,7 +30,7 @@
     {
       "name": "CorporationUSAddress",
       "path": "CorporationUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "EIN",

@@ -130,7 +130,7 @@
     {
       "name": "OtherExpenseDetail",
       "path": "PropertyRealEstAndRoyaltyGroup/OtherExpenseDetail",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "PropertyDesc",

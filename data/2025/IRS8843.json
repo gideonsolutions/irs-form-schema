@@ -78,8 +78,8 @@
       "type": "date"
     },
     {
-      "name": "child::*",
-      "path": "ExmptIndivOrMedicalGenInfoGrp/USImmigrationStatusGrp/child::*",
+      "name": "child::",
+      "path": "ExmptIndivOrMedicalGenInfoGrp/USImmigrationStatusGrp/child::",
       "type": "unknown"
     },
     {

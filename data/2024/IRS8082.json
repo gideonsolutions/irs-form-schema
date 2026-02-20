@@ -75,7 +75,7 @@
     {
       "name": "PassThroughEntityFrgnAddress",
       "path": "PassThroughEntityFrgnAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -90,12 +90,12 @@
     {
       "name": "InCareOfName",
       "path": "PassThroughEntityName/InCareOfName",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PassThroughEntityUSAddress",
       "path": "PassThroughEntityUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "REMICEntityInd",

@@ -110,7 +110,7 @@
     {
       "name": "RefundClaimantUSAddress",
       "path": "RefundClaimantUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -135,7 +135,7 @@
     {
       "name": "RefundDueTaxYr",
       "path": "RefundDueTaxYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "SurvivingSpouseInd",

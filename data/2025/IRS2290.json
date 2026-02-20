@@ -3,11 +3,6 @@
   "tax_year": 2025,
   "fields": [
     {
-      "name": "@AmendedMonthNum",
-      "path": "@AmendedMonthNum",
-      "type": "string"
-    },
-    {
       "name": "AdditionalTaxAmt",
       "path": "AdditionalTaxAmt",
       "type": "usd"
@@ -88,14 +83,14 @@
       "type": "bool"
     },
     {
-      "name": "NotSubjectToTaxInd ",
-      "path": "NotSubjectToTaxInd ",
-      "type": "unknown"
+      "name": "NotSubjectToTaxInd",
+      "path": "NotSubjectToTaxInd",
+      "type": "bool"
     },
     {
       "name": "SuspendedVINReferenceTyp",
       "path": "SuspendedVINReferenceTyp",
-      "type": "unknown"
+      "type": "enum"
     },
     {
       "name": "TaxCreditsAmt",
@@ -130,7 +125,7 @@
     {
       "name": "TrnsfrSuspendedVINReferenceTyp",
       "path": "TrnsfrSuspendedVINReferenceTyp",
-      "type": "unknown"
+      "type": "enum"
     },
     {
       "name": "VINCorrectionInd",

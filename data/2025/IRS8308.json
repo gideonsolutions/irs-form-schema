@@ -48,9 +48,9 @@
       "type": "enum"
     },
     {
-      "name": "ForeignPostalCd ",
-      "path": "ForeignAddress/ForeignPostalCd ",
-      "type": "unknown"
+      "name": "ForeignPostalCd",
+      "path": "ForeignAddress/ForeignPostalCd",
+      "type": "enum"
     },
     {
       "name": "ProvinceOrStateNm",
@@ -173,9 +173,9 @@
       "type": "enum"
     },
     {
-      "name": "ForeignPostalCd ",
-      "path": "TransfereeGrp/ForeignAddress/ForeignPostalCd ",
-      "type": "unknown"
+      "name": "ForeignPostalCd",
+      "path": "TransfereeGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
     },
     {
       "name": "ProvinceOrStateNm",
@@ -258,9 +258,9 @@
       "type": "enum"
     },
     {
-      "name": "ForeignPostalCd ",
-      "path": "TransferorGrp/ForeignAddress/ForeignPostalCd ",
-      "type": "unknown"
+      "name": "ForeignPostalCd",
+      "path": "TransferorGrp/ForeignAddress/ForeignPostalCd",
+      "type": "enum"
     },
     {
       "name": "ProvinceOrStateNm",

@@ -10,7 +10,7 @@
     {
       "name": "CurrentYearCreditInfo",
       "path": "CurrentYearCreditInfo",
-      "type": "unknown"
+      "type": "group"
     },
     {
       "name": "NewMarketsCreditAmt",

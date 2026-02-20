@@ -3,11 +3,6 @@
   "tax_year": 2024,
   "fields": [
     {
-      "name": "  @historicStructureCertOnFile",
-      "path": "             CertifiedHistoricStructures/  @historicStructureCertOnFile",
-      "type": "unknown"
-    },
-    {
       "name": "ACLess1MWEPESect48a12BAmt",
       "path": "ACLess1MWEPESect48a12BAmt",
       "type": "usd"
@@ -15,12 +10,12 @@
     {
       "name": "ACNameplateCapKWQty",
       "path": "ACNameplateCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ACNameplateCapWindEgyPropKWQty",
       "path": "ACNameplateCapWindEgyPropKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "AdjustedBasisOfBuildingAmt",
@@ -113,6 +108,11 @@
       "type": "usd"
     },
     {
+      "name": "  @historicStructureCertOnFile",
+      "path": "CertifiedHistoricStructures/  @historicStructureCertOnFile",
+      "type": "unknown"
+    },
+    {
       "name": "CalcClnHydrgn45Vb2APropBssAmt",
       "path": "ClnHydrgnProdFcltsEgyPropCrGrp/CalcClnHydrgn45Vb2APropBssAmt",
       "type": "usd"
@@ -180,7 +180,7 @@
     {
       "name": "DCNameplateCapKWQty",
       "path": "DCNameplateCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "DCSmallWindEnergyPropCapInd",
@@ -235,7 +235,7 @@
     {
       "name": "EnergyStorageCapacityKWHQty",
       "path": "EnergyStorageCapacityKWHQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "EnergyStorageInd",
@@ -245,7 +245,7 @@
     {
       "name": "AllocLmtEnergyCapKWQty",
       "path": "EnergyStorageTechPropCrGrp/AllocLmtEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CalcDomContentBonusCreditAmt",
@@ -620,7 +620,7 @@
     {
       "name": "NameplateCapKWQty",
       "path": "NameplateCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "NetOutLess1MWOrThermalEgyCd",
@@ -665,7 +665,7 @@
     {
       "name": "PowerCapacityRatingKWQty",
       "path": "PowerCapacityRatingKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "Pre1936BuildingCreditAmt",
@@ -720,7 +720,7 @@
     {
       "name": "AllocLmtEnergyCapKWQty",
       "path": "QlfyCleanElectricityFcltyGrp/AllocLmtEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ApplcblCalcDomCntntBonusCrAmt",
@@ -855,7 +855,7 @@
     {
       "name": "AllocLmtEnergyCapKWQty",
       "path": "QlfyInvstCreditFacilityPropGrp/AllocLmtEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CalcDomContentBonusCreditAmt",
@@ -940,7 +940,7 @@
     {
       "name": "AllocLmtEnergyCapKWQty",
       "path": "QlfySmallWindEnergyPropCrGrp/AllocLmtEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CalcDomContentBonusCreditAmt",
@@ -1060,12 +1060,12 @@
     {
       "name": "ApplicableFuelCellPropKWCapQty",
       "path": "QualifiedFuelCellPropCrGrp/ApplicableFuelCellPropKWCapQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "ApplicablePropKWCapAfterQty",
       "path": "QualifiedFuelCellPropCrGrp/ApplicablePropKWCapAfterQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "BasisQlfyFuelCellPropAcqAmt",
@@ -1140,7 +1140,7 @@
     {
       "name": "ApplicableMcrtrbnPropKWCapQty",
       "path": "QualifiedMicroturbinePropCrGrp/ApplicableMcrtrbnPropKWCapQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CalcEnergyComBonusCrOtherAmt",
@@ -1250,7 +1250,7 @@
     {
       "name": "AllocLmtEnergyCapKWQty",
       "path": "SolarEnergyPropCrGrp/AllocLmtEnergyCapKWQty",
-      "type": "unknown"
+      "type": "int"
     },
     {
       "name": "CalcDomContentBonusCreditAmt",

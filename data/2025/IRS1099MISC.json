@@ -10,7 +10,7 @@
     {
       "name": "CalendarYr",
       "path": "CalendarYr",
-      "type": "unknown"
+      "type": "year"
     },
     {
       "name": "CorrectedInd",
@@ -115,7 +115,7 @@
     {
       "name": "PayerForeignAddress",
       "path": "PayerForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "BusinessNameLine1Txt",
@@ -135,7 +135,7 @@
     {
       "name": "PayerUSAddress",
       "path": "PayerUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "PhoneNum",
@@ -155,7 +155,7 @@
     {
       "name": "RecipientForeignAddress",
       "path": "RecipientForeignAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
@@ -185,7 +185,7 @@
     {
       "name": "RecipientUSAddress",
       "path": "RecipientUSAddress",
-      "type": "unknown"
+      "type": "string"
     },
     {
       "name": "AddressLine1Txt",
